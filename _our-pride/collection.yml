@@ -2,8 +2,7 @@ collections:
   our-pride:
     output: true
     order:
-      - Newsworthy Alumni.md
-      - Accolades.md
+      - Media Highlights.md
       - CCA Achievements/.keep
       - CCA Achievements/CCA Achievements.md
       - CCA Achievements/Environmental Commitment.md
@@ -12,4 +11,5 @@ collections:
       - CCA Achievements/Competitions.md
       - CCA Achievements/Achievements.md
       - CCA Achievements/Do your part for the environment.md
-      - Media Highlights.md
+      - Accolades.md
+      - Newsworthy Alumni.md
