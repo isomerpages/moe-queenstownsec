@@ -2,4 +2,5 @@ collections:
   our-pride:
     output: true
     order:
+      - CCA Achievements/.keep
       - Media Highlights.md
