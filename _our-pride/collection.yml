@@ -2,6 +2,7 @@ collections:
   our-pride:
     output: true
     order:
+      - CCA Achievements/Do your part for the environment.md
       - CCA Achievements/Achievements.md
       - CCA Achievements/Competitions.md
       - CCA Achievements/Learning Journeys.md
