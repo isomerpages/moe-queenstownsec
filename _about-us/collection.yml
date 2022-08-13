@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Quest Family/.keep
-      - Our Pride/.keep
       - Discover Quest/.keep
+      - Our Pride/.keep
+      - Quest Family/.keep
