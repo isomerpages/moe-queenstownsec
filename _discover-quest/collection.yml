@@ -2,7 +2,7 @@ collections:
   discover-quest:
     output: true
     order:
-      - School Crest, Creed & Song.md
-      - Our Heritage.md
-      - Vision, Mission & Values.md
       - Principal's Message.md
+      - Vision, Mission & Values.md
+      - Our Heritage.md
+      - School Crest, Creed & Song.md
