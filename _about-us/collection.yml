@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Discover Quest/School Crest, Creed & Song.md
-      - Discover Quest/Our Heritage.md
-      - Discover Quest/Vision, Mission & Values.md
-      - Discover Quest/Principal's Message.md
       - Discover Quest/.keep
+      - Discover Quest/Principal's Message.md
+      - Discover Quest/Vision, Mission & Values.md
+      - Discover Quest/Our Heritage.md
+      - Discover Quest/School Crest, Creed & Song.md
       - Our Pride/.keep
       - Quest Family/.keep
