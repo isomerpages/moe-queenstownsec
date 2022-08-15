@@ -7,14 +7,14 @@ Vision, Mission & Values
 ========================
 <center>
 
-<u>**Our Vision:**</u>
+<u>**Our Vision:**</u> <br>
 
 
-_**Leaders for Tomorrow,**_
+_**Leaders for Tomorrow,**_ <br>
 
-_**Anchored in Values,**_
+_**Anchored in Values,**_ <br>
 
-_**Committed to Serve.**_
+_**Committed to Serve.**_ <br>
 	
 	
 </center>
@@ -29,12 +29,12 @@ _**Committed to Serve.**_
 
 <center>
 
-**<u>Our Mission:</u>**
+**<u>Our Mission:</u>** <br> 
 
 
-_**To nurture all Queenstownians to R<sup>2</sup>ISE as future-ready leaders,**_
+_**To nurture all Queenstownians to R<sup>2</sup>ISE as future-ready leaders,**_ <br>
 
-_**actively contributing to society.**_
+_**actively contributing to society.**_ <br>
 	
 	
 </center>
@@ -52,17 +52,17 @@ Instilling in them a sense of empathy  and the motivation to be of service to t
 
 <center>
 
-**<u>Our Core Values:</u>**
+**<u>Our Core Values:</u>** <br>
 
 
-**R<sup>2</sup>ISE**
+**R<sup>2</sup>ISE** <br>
 
-_**R**esilience, **R**espect, **I**ntegrity, **S**ervice, **E**xcellence_
+_**R**esilience, **R**espect, **I**ntegrity, **S**ervice, **E**xcellence_ <br>
 	
 </center>
 
 
-**_R_**esilience**:** We have the determination to persevere and prevail in the face of challenges.
+**_R_**esilience**:** We have the determination to persevere and prevail in the face of challenges. 
 
 _**R**_ espect: We have the belief of our own self-worth and the intrinsic worth of all people.
 
@@ -75,21 +75,21 @@ _**E**_ xcellence: We will strive for the best in all that we do.
 <center>
 
 
-**<u>Our Motto</u>**
+**<u>Our Motto</u>** <br>
 
 
-_Dare To Serve_ 
+_Dare To Serve_  <br>
 
-“Berani Berkhidmat”
+“Berani Berkhidmat” <br>
 
 **<u>Our Philosophy:</u>**
 
 
-We believe in the unique worth of the individual,
+We believe in the unique worth of the individual, <br>
 
-the enhancement of his well-being and
+the enhancement of his well-being and <br>
 
-symbiotic relation between him and society.
+symbiotic relation between him and society. <br>
 	
 	
 </center>
