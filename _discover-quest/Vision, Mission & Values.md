@@ -38,3 +38,36 @@ _**actively contributing to society.**_
 	
 	
 </center>
+
+We are committed to cater to the needs of our students:
+
+*   Inculcating the school’s core values of Resilience, Respect, Integrity, Service and Excellence in them (R2ISE)
+
+*   Developing them to be future-ready leaders
+
+*   Equipping them with 21st century skill sets and mind sets so that they are able to face the demands of the rapidly changing world
+
+Instilling in them a sense of empathy  and the motivation to be of service to the community
+
+
+<center>
+
+**<u>Our Core Values:</u>**
+
+
+**R<sup>2</sup>ISE**
+
+_**R**esilience, **R**espect, **I**ntegrity, **S**ervice, **E**xcellence_
+	
+</center>
+
+
+**_R_**esilience**:** We have the determination to persevere and prevail in the face of challenges.
+
+_**R**_ espect: We have the belief of our own self-worth and the intrinsic worth of all people.
+
+_**I**_ ntegrity: We have the courage to stand for what is right.
+
+_**S**_ ervice: We have the responsibility to serve our community, demonstrating respect and empathy.
+
+_**E**_ xcellence: We will strive for the best in all that we do.
