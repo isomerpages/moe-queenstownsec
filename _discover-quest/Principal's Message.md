@@ -6,7 +6,9 @@ description: ""
 Principal’s Message
 ===================
 
-![](/images/Discover%20Quest/Principal.jpg)
+
+<img src="/images/Discover%20Quest/Principal.jpg"  
+     style="width:75%">
 
 
 **<u><font size=5>Principal’s address 2022</font>**
