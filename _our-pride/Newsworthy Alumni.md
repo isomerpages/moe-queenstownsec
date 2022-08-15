@@ -23,3 +23,9 @@ Newsworthy Alumni
 QTSS is proud to share that our alumnus, Mr Ronald Goh, Managing Director of Electronics and Engineering (E&E), has been featured in an interview with The CEO Magazine. His company was involved in the installation of light and sound systems for many large-scale projects, including Esplanade Theatres on the Bay, Marina Bay Sands Theatres, GV Max Dolby Atmos Cinema at VivoCity Shopping Centre and Changi Airport.
 
 To know more, read the full interview [here](https://www.theceomagazine.com/executive-interviews/it-electronics/ronald-goh/).
+
+
+_\*photo was_ taken _from CEO Magazine: https://www.theceomagazine.com/executive-interviews/it-electronics/ronald-goh/_
+
+
+[_Our Archive_](https://www.queenstownsec.moe.edu.sg/archive/)
