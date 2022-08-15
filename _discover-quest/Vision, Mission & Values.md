@@ -52,14 +52,17 @@ Instilling in them a sense of empathy  and the motivation to be of service to t
 
 <center>
 
-**<u>Our Core Values:</u>** <br>
+<u>Our Core Values:</u> <br>
 
 
-**R<sup>2</sup>ISE** <br>
+R<sup>2</sup>ISE <br>
+	
+</center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 _**R**esilience, **R**espect, **I**ntegrity, **S**ervice, **E**xcellence_ <br>
 	
-</center>
+
 
 
 **_R_**esilience**:** We have the determination to persevere and prevail in the face of challenges. 
