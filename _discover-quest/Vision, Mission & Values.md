@@ -10,11 +10,11 @@ Vision, Mission & Values
 <u>Our Vision:</u> <br>
 
 
-_Leaders for Tomorrow,_ <br>
+Leaders for Tomorrow, <br>
 
-_Anchored in Values,_ <br>
+Anchored in Values, <br>
 
-_Committed to Serve._ <br>
+Committed to Serve. <br>
 	
 	
 </center>
@@ -32,9 +32,9 @@ _Committed to Serve._ <br>
 <u>Our Mission:</u> <br> 
 
 
-_To nurture all Queenstownians to R<sup>2</sup>ISE as future-ready leaders,_ <br>
+To nurture all Queenstownians to R<sup>2</sup>ISE as future-ready leaders, <br>
 
-_actively contributing to society._ <br>
+actively contributing to society. <br>
 	
 	
 </center>
@@ -58,9 +58,8 @@ Instilling in them a sense of empathy  and the motivation to be of service to t
 R<sup>2</sup>ISE <br>
 	
 </center>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-_**R**esilience, **R**espect, **I**ntegrity, **S**ervice, **E**xcellence_ <br>
+**R**esilience, **R**espect, **I**ntegrity, **S**ervice, **E**xcellence_ <br>
 	
 
 
@@ -81,7 +80,7 @@ _**E**_ xcellence: We will strive for the best in all that we do.
 <u>Our Motto</u> <br>
 
 
-_Dare To Serve_  <br>
+Dare To Serve  <br>
 
 “Berani Berkhidmat” <br>
 
