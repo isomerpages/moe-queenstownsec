@@ -8,7 +8,7 @@ Principal’s Message
 
 
 <img src="/images/Discover%20Quest/Principal.jpg"  
-     style="width:75%">
+     style="width:55%">
 
 
 **<u><font size=5>Principal’s address 2022</font></u>**
