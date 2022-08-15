@@ -71,3 +71,25 @@ _**I**_ ntegrity: We have the courage to stand for what is right.
 _**S**_ ervice: We have the responsibility to serve our community, demonstrating respect and empathy.
 
 _**E**_ xcellence: We will strive for the best in all that we do.
+
+<center>
+
+
+**<u>Our Motto</u>**
+
+
+_Dare To Serve_ 
+
+“Berani Berkhidmat”
+
+**<u>Our Philosophy:</u>**
+
+
+We believe in the unique worth of the individual,
+
+the enhancement of his well-being and
+
+symbiotic relation between him and society.
+	
+	
+</center>
