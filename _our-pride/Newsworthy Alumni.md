@@ -28,4 +28,4 @@ To know more, read the full interview [here](https://www.theceomagazine.com/exe
 _\*photo was_ taken _from CEO Magazine: https://www.theceomagazine.com/executive-interviews/it-electronics/ronald-goh/_
 
 
-[_Our Archive_](https://www.queenstownsec.moe.edu.sg/archive/)
+[_Our Archive_](https://staging.d33coz43hxnqna.amplifyapp.com/archive/)
