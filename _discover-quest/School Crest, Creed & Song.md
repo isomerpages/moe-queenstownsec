@@ -6,7 +6,10 @@ description: ""
 ![](/images/Discover%20Quest/Master_Banner_1.png)
 
 
-![](/images/QTSS_Logo2-247x300.png)
+
+<img src="/images/QTSS_Logo2-247x300.png"  
+     style="width:45%">
+
 
 
 The School Crest consists of a shield with the school colors, sky Blue and maroon. The sky blue reflects the limitless opportunities to strive for and the maroon signifies the spirit of fraternity.
