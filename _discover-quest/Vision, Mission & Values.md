@@ -27,6 +27,7 @@ _**Committed to Serve.**_
 
 **_Committed to Serve –_** <u>Serve</u> refer to the desire to actively contribute to the society. In alignment with our school motto of ‘Dare to Serve’, we want our students to be committed to make a positive and lasting contributions to the society upholding the Singapore Spirit.
 
+<center>
 
 **<u>Our Mission:</u>**
 
@@ -34,3 +35,6 @@ _**Committed to Serve.**_
 _**To nurture all Queenstownians to R<sup>2</sup>ISE as future-ready leaders,**_
 
 _**actively contributing to society.**_
+	
+	
+</center>
