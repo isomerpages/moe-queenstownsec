@@ -8,7 +8,7 @@ description: ""
 
 
 <img src="/images/QTSS_Logo2-247x300.png"  
-     style="width:45%">
+     style="width:43%">
 
 
 
