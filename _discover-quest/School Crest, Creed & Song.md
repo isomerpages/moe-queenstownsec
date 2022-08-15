@@ -18,21 +18,23 @@ The open book symbolizes learning and knowledge, and the wheel symbolizes the te
 
 Below the shield is a banner with the school motto “Berani Berkhidmat” written on it. The motto, which means “Dare To Serve”, is most appropriate at a time when our young independent Singapore requires men and women of courage to serve her and we are confident all Queenstownians will equal to the challenge that lies ahead.
 
-* * *
+------------------------
+
 <center>
 
-**Pupils’ Creed** <br>
+Pupils’ Creed <br>
 
 We, Queenstownians, dare to serve,  <br>
 With self-respect,  <br>
 Working hand in hand,  <br>
 Together we build,  <br>
 Honest in performance,  <br>
-Taking pride in all tasks.<br>
+Taking pride in all tasks.<br><br>
 
-* * *
+-----------------------
 
-**School Song** <br>
+<br>
+School Song <br>
 
 In Queenstown Secondary our minds are trained   <br>
 Our hands acquire the skill  <br>
@@ -44,7 +46,7 @@ The school that leads the way  <br>
 In every field we do our best  <br>
 To learn, to work, to play<br>
 <br>
-**(Chorus)**<br>
+(Chorus)<br>
 <br>
 Berani Berkhidmat, dare to serve  <br>
 Dare to do to be!  <br>
