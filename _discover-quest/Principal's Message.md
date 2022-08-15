@@ -11,9 +11,9 @@ Principal’s Message
      style="width:75%">
 
 
-**<u><font size=5>Principal’s address 2022</font>**
+**<u><font size=5>Principal’s address 2022</font></u>**
 
-**<font size=5>Welcome to Queenstown Secondary School!</font></u>**
+**<u><font size=5>Welcome to Queenstown Secondary School!</font></u>**
 
 It is with great joy that I join Queenstown Secondary School, a school with a long history and rich heritage; taking over the mantle from Mdm Rasidah Bte Rahim where I seek to continue her impactful work. Under her leadership, our school has broadened the definition of success for our students, known affectionately as Queenstownians. I was fortunate to join our school earlier as the Principal-Designate where I had the opportunity to interact with staff, students, alumni, parents, and members of the School Advisory Committee. Through these interactions, it became clear to me that our school is a well-loved school, blessed with a strong core of dedicated key personnel, teaching, as well as non-teaching staff, many of whom have been long serving stewards.
 
