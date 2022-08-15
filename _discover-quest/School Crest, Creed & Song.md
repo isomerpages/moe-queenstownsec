@@ -31,7 +31,11 @@ Together we build,  <br>
 Honest in performance,  <br>
 Taking pride in all tasks.<br><br>
 
+</center>
+	
 -----------------------
+
+<center>
 
 <br>
 School Song <br>
