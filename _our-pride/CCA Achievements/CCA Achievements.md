@@ -9,7 +9,7 @@ CCA Achievements
 
 ![](/images/Our%20Pride/CCA%20Achievements.jpg)
 
-<ul class="jekyllcodex\_accordion">
+<ul class="jekyllcodex_accordion">
 
   <li>
 
