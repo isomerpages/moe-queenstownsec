@@ -21,38 +21,38 @@ Below the shield is a banner with the school motto “Berani Berkhidmat” writt
 * * *
 <center>
 
-**Pupils’ Creed**
+**Pupils’ Creed** <br>
 
-We, Queenstownians, dare to serve,  
-With self-respect,  
-Working hand in hand,  
-Together we build,  
-Honest in performance,  
-Taking pride in all tasks.
+We, Queenstownians, dare to serve,  <br>
+With self-respect,  <br>
+Working hand in hand,  <br>
+Together we build,  <br>
+Honest in performance,  <br>
+Taking pride in all tasks.<br>
 
 * * *
 
-**School Song**
+**School Song** <br>
 
-In Queenstown Secondary our minds are trained  
-Our hands acquire the skill  
-Whatever the task we’re here to serve  
-We have the heart, the will
+In Queenstown Secondary our minds are trained   <br>
+Our hands acquire the skill  <br>
+Whatever the task we’re here to serve  <br>
+We have the heart, the will<br>
 
-Queenstown Secondary the pioneer  
-The school that leads the way  
-In every field we do our best  
-To learn, to work, to play
-
-**(Chorus)**
-
-Berani Berkhidmat, dare to serve  
-Dare to do to be!  
-Dare to serve – yes! with our hearts  
-To keep our country free  
-Berani Berkhidmat, dare to serve  
-Dare to do to be!  
-We dare to serve – yes! with our hearts  
-To keep our country free
+Queenstown Secondary the pioneer  <br>
+The school that leads the way  <br>
+In every field we do our best  <br>
+To learn, to work, to play<br>
+<br>
+**(Chorus)**<br>
+<br>
+Berani Berkhidmat, dare to serve  <br>
+Dare to do to be!  <br>
+Dare to serve – yes! with our hearts  <br>
+To keep our country free  <br>
+Berani Berkhidmat, dare to serve  <br>
+Dare to do to be!  <br>
+We dare to serve – yes! with our hearts  <br>
+To keep our country free<br>
 	
 </center>
