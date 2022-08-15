@@ -14,7 +14,7 @@ Newsworthy Alumni
 ### Interview with The CEO Magazine
 
 
-<img src="/images/Our%20Pride/Alumni%202.png" style="width:180px;height:200px;margin-right:10px;" align = "left">
+<img src="/images/Our%20Pride/Alumni%202.png" style="width:180px;height:180px;margin-right:10px;" align = "left">
 
 
 
