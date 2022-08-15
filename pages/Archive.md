@@ -19,4 +19,5 @@ Queenstown alumnus Mr Liew Mun Leong, Chairman of Changi Airport Group, shared w
 
 Check out his pearls of wisdom here! [https://www.straitstimes.com/singapore/i-always-hire-people-who-are-better-than-me](https://www.straitstimes.com/singapore/i-always-hire-people-who-are-better-than-me)
 
-_\*photo was taken from The Straits Times: [https://www.straitstimes.com/singapore/i-always-hire-people-who-are-better-than-me](https://www.straitstimes.com/singapore/i-always-hire-people-who-are-better-than-me)_
+_\*photo was taken from The Straits Times: 
+[https://www.straitstimes.com/singapore/i-always-hire-people-who-are-better-than-me](https://www.straitstimes.com/singapore/i-always-hire-people-who-are-better-than-me)_
