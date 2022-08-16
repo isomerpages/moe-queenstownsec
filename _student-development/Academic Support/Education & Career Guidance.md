@@ -4,6 +4,9 @@ permalink: /student-development/academic-supports/education-career-guidance/
 description: ""
 third_nav_title: Academic Support
 ---
+
+![](/images/Departments/pagebanner1%20(1).jpg)
+
 Education & Career Guidance
 ===========================
 
