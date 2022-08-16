@@ -2,5 +2,6 @@ collections:
   student-development:
     output: true
     order:
+      - Basic Needs/Basic Needs.md
       - Basic Needs/.keep
       - About.md
