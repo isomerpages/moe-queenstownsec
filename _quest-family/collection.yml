@@ -2,4 +2,5 @@ collections:
   quest-family:
     output: true
     order:
+      - Teaching Staff.md
       - School Management Committee.md
