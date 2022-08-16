@@ -4,6 +4,8 @@ permalink: /student-development/social-emotional-development/counselling-service
 description: ""
 third_nav_title: Social Emotional Development
 ---
+![](/images/Departments/pagebanner1%20(1).jpg)
+
 Counselling Services
 ====================
 
