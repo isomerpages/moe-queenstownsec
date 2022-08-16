@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - School Home Collaboration/Parenting Workshop for all Parents.md
       - School Home Collaboration/Parent Support Group.md
       - School Home Collaboration/School Home Collaboration.md
       - School Home Collaboration/.keep
