@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Mathematics.md
       - Infocomm Technology.md
       - Humanities.md
       - Student Management.md
