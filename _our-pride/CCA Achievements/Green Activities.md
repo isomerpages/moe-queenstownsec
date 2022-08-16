@@ -20,8 +20,9 @@ Assembly Talk By Earth Society
 
 Structure Illuminate is a platform joint organised by Ngee Ann Polytechnic and Building and Construction Authority for students to spur creativity in their everyday lives. The design ideas for this competition are to be architecturally suitable to serve a few set criteria. The challenge is to design a structure to enhance the effects of daylighting in interiors in the most sustainable way while also taking into consideration the aesthetics of their design solution.
 
-![](/images/Our%20Pride/Green%20Committee/Green%20Activities%202.jpg)
 
+<img src="/images/Our%20Pride/Green%20Committee/Green%20Activities%202.jpg"  
+     style="width:75%">
 
 Np Bca Design Challenge
 
@@ -32,8 +33,8 @@ Earth Hour started as a symbolic lights out event in Sydney in 2007 and is now t
 Our teachers did a presentation to our students during the class contact time to spread the meaning behind conserving energy and Earth Hour. Lights and fans were switched off during the first period to observe Earth Hour. The activity also serves to let the students experience life without electricity. Some of our teachers made use of the opportunity to conduct lessons outdoor.
 
 
-![](/images/Our%20Pride/Green%20Committee/Green%20Activities%203.png)
-
+<img src="/images/Our%20Pride/Green%20Committee/Green%20Activities%203.png"  
+     style="width:80%">
 
 Earth Hour
 
@@ -50,8 +51,9 @@ Eating less meat significantly reduces carbon footprint and reduces our use of n
 The students and staff are encouraged to reduce their meat consumption on 31 st August 2016 so  
 as to contribute towards environment conservation.
 
-![](/images/Our%20Pride/Green%20Committee/Green%20Activities%204.png)
 
+<img src="/images/Our%20Pride/Green%20Committee/Green%20Activities%204.png"  
+     style="width:85%">
 
 **Assembly talk on Green Buildings and Climate Change**
 
