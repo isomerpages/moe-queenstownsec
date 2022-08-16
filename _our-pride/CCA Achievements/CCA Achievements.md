@@ -19,17 +19,13 @@ CCA Achievements
 
     <div>
 
-      <p><b>PERFORMING ARTS – SINGAPORE YOUTH FESTIVAL ART PRESENTATION
+<b>PERFORMING ARTS – SINGAPORE YOUTH FESTIVAL ART PRESENTATION
 
-(Bi –Annual Competition)</b></p>
-			
-<p>
-			
+(Bi –Annual Competition)</b>
+						
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 522px" class="tg"><colgroup><col style="width: 151px"><col style="width: 371px"></colgroup><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Performing Arts</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Award 2021</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Chinese Dance</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Certificate  of Accomplishment</td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Choir<br><br> </td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Certificate of Participation<br><br>(No performance due to COVID-19)</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Drama</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Certificate of Participation</td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Malay Dance</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">3rd Certificate of Distinction</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Band</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">4th Certificate of Distinction</td></tr></tbody></table>
-				
-</p>
-		
 
+<br>
 		
 <b>UNIFORM GROUP 2022 RESULTS (based on 2021 submission)</b>
 		
