@@ -2,10 +2,10 @@ collections:
   student-development:
     output: true
     order:
-      - School Home Collaboration/Parenting Workshop for all Parents.md
-      - School Home Collaboration/Parent Support Group.md
-      - School Home Collaboration/School Home Collaboration.md
       - School Home Collaboration/.keep
+      - School Home Collaboration/School Home Collaboration.md
+      - School Home Collaboration/Parent Support Group.md
+      - School Home Collaboration/Parenting Workshop for all Parents.md
       - Social Emotional Development/.keep
       - Social Emotional Development/Social Emotional Development.md
       - Social Emotional Development/Special Education Needs (SEN).md
