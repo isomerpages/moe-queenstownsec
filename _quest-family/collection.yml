@@ -2,5 +2,6 @@ collections:
   quest-family:
     output: true
     order:
+      - School Counsellor and Allied Educator (AED).md
       - Teaching Staff.md
       - School Management Committee.md
