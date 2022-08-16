@@ -2,7 +2,7 @@ collections:
   student-development:
     output: true
     order:
-      - Basic Needs/FAS.md
-      - Basic Needs/Basic Needs.md
       - Basic Needs/.keep
+      - Basic Needs/Basic Needs.md
+      - Basic Needs/FAS.md
       - About.md
