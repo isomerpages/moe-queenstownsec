@@ -40,3 +40,7 @@ The Queenstown Secondary School Green Committee aims to raise awareness about en
 <img src="/images/Our%20Pride/Achievements.png" style="width:180px;height:220px;margin-right:15px;" align = "left">
 </a></p
 	
+<p><a href="https://staging.d33coz43hxnqna.amplifyapp.com/green-committee/do-your-part-for-the-environment/">
+<img src="/images/Our%20Pride/Do%20your%20part%20for%20the%20environment.png" style="width:130px;height:250px;margin-right:15px;" align = "left">
+</a></p	
+	
