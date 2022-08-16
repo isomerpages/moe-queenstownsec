@@ -28,6 +28,6 @@ Singapore Citizens in financial need may apply for MOE Financial Assistance Sche
 
 _\*PCHI: Total monthly gross household income divided by number of household members_
 
-If you meet the criteria stated and would like to receive financial assistance, please complete the attached [MOE FAS Application Form](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2022/04/MOE-FAS-Application-Form.pdf) and submit it together with the supporting documents to the General Office.
+If you meet the criteria stated and would like to receive financial assistance, please complete the attached [MOE FAS Application Form](/files/MOE-FAS-Application-Form.pdf) and submit it together with the supporting documents to the General Office.
 
 For further assistance or clarifications, please contact the General Office at 6474 1055
