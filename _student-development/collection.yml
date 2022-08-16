@@ -2,11 +2,11 @@ collections:
   student-development:
     output: true
     order:
-      - Social Emotional Development/Counselling Services.md
-      - Social Emotional Development/Sexuality Education.md
-      - Social Emotional Development/Special Education Needs (SEN).md
-      - Social Emotional Development/Social Emotional Development.md
       - Social Emotional Development/.keep
+      - Social Emotional Development/Social Emotional Development.md
+      - Social Emotional Development/Special Education Needs (SEN).md
+      - Social Emotional Development/Sexuality Education.md
+      - Social Emotional Development/Counselling Services.md
       - Academic Support/.keep
       - Academic Support/Academic Supports.md
       - Academic Support/Education & Career Guidance.md
