@@ -26,5 +26,11 @@ The Queenstown Secondary School Green Committee aims to raise awareness about en
 <img src="/images/Our%20Pride/Green%20Activities.png" style="width:120px;height:210px;margin-right:15px;" align = "left">
 </a></p>
 
+<p><a href="https://staging.d33coz43hxnqna.amplifyapp.com/green-committee/learning-journeys-2015/">
+<img src="/images/Our%20Pride/Learning%20Journeys.png" style="width:160px;height:210px;margin-right:15px;" align = "left">
+</a></p
 
-
+<p><a href="https://staging.d33coz43hxnqna.amplifyapp.com/green-committee/competitions-in-2015/">
+<img src="/images/Our%20Pride/Competitions.png" style="width:160px;height:201px;margin-right:15px;" align = "left">
+</a></p	
+	
