@@ -37,15 +37,15 @@ Our teachers did a presentation to our students during the class contact time to
 
 Earth Hour
 
-### Green Activities in 2016
+**Green Activities in 2016**
 
-**Weekly newspaper recycling**  
+**<u>Weekly newspaper recycling</u>**  
 Newspapers from each class are collected every Tuesday during morning form  
 teacher contact time. The newspapers are then sent for recycling. The objective  
 of this weekly activity is to remind students to recycle as well as increase the  
 recycling rate of our school.
 
-**“No Meat Day” on 31 st August 2016**  
+**<u>“No Meat Day” on 31 st August 2016</u>**  
 Eating less meat significantly reduces carbon footprint and reduces our use of natural resources.  
 The students and staff are encouraged to reduce their meat consumption on 31 st August 2016 so  
 as to contribute towards environment conservation.
@@ -61,33 +61,43 @@ A presenter from BCA Build It Green Club gave an assembly talk to our students o
 ![](/images/Our%20Pride/Green%20Committee/Green%20Activities%205.jpg)
 
 
-### Green Activities in 2015
+**Green Activities in 2015**
 
 *   Weekly newspaper recycling (Every Tuesday during morning contact time)
 *   “No plastic day” on 24th April 2015
 
 
-![](/images/Our%20Pride/Green%20Committee/Green%20Activities%206.png)
+
+<img src="/images/Our%20Pride/Green%20Committee/Green%20Activities%206.png"  
+     style="width:75%">
 
 
 **48 Hours Inter-Class recycling challenge**
 
-![](/images/Our%20Pride/Green%20Committee/Green%20Activities%207.png)
+
+<img src="/images/Our%20Pride/Green%20Committee/Green%20Activities%207.png"  
+     style="width:75%">
+
 
 **Assembly talk on environment conservation**
 
-![](/images/Our%20Pride/Green%20Committee/Green%20Activities%208.jpg)
+<img src="/images/Our%20Pride/Green%20Committee/Green%20Activities%208.jpg"  
+     style="width:75%">
 
 
 **Terrarium Workshop with elderly from C3a Programme**
 
-![](/images/Our%20Pride/Green%20Committee/Green%20Activities%209.png)
+
+<img src="/images/Our%20Pride/Green%20Committee/Green%20Activities%209.png"  
+     style="width:75%">
 
 
 **Class 1G Terrarium Workshop**
 
 
-![](/images/Our%20Pride/Green%20Committee/Green%20Activities%2010.png)
+
+<img src="/images/Our%20Pride/Green%20Committee/Green%20Activities%2010.png"  
+     style="width:75%">
 
 
 **Natures Care Programme in collaboration with Lee Kong Chian Gardens School and Credit Suisse.**
