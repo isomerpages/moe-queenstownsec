@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Academic Support/Education & Career Guidance.md
       - Academic Support/Academic Supports.md
       - Academic Support/.keep
       - Basic Needs/.keep
