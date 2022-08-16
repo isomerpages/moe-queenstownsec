@@ -48,4 +48,4 @@ Students requiring more intense intervention will be referred to MOE Guidance Sp
 
 2) A list of helplines for a variety of issues (e.g. suicidal thoughts, family conflicts, BGR etc.)
 
-[https://www.ncss.gov.sg/NCSS/media/NCSS-Documents-and-Forms/NCSS%20Internal%20Documents/LIST-OF-HELPLINES.pdf](https://www.ncss.gov.sg/NCSS/media/NCSS-Documents-and-Forms/NCSS%20Internal%20Documents/LIST-OF-HELPLINES.pdf)
+[https://www.ncss.gov.sg/NCSS/media/NCSS-Documents-and-Forms/NCSS%20Internal%20Documents/LIST-OF-HELPLINES.pdf](https://www.ncss.gov.sg/NCSS/media/NCSS-Documents-and-Forms/NCSS%20Internal%20Documents/LIST-OF-HELPLINES.pdf) (BROKEN LINK HERE)
