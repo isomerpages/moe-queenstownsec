@@ -154,9 +154,9 @@ CCA Achievements
 
 <li>
 
-    <input type="checkbox" id="accordion1">
+    <input type="checkbox" id="accordion5">
 
-    <label for="accordion1">Title</label>
+    <label for="accordion5">CCA Results 2017</label>
 
     <div>
 
@@ -171,6 +171,3 @@ CCA Achievements
   </div>
 
 </li>
-
-			
-			
