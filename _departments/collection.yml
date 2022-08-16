@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Infocomm Technology.md
       - Humanities.md
       - Student Management.md
       - English Language and Literature.md
