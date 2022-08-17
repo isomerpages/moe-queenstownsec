@@ -16,16 +16,16 @@ Wondering what you can do as PSGs during FHBL? [Click Here](/files/PSG_Kit_HBL_
 
 ---------------
 
-### **PSG Activities in 2018**
+**PSG Activities in 2018**
 
 **Lo Hei Session with our School Community and Corporate Partners**
 
 INSERT MODAL IMAGES HERE
 
-### **Inaugural PSG Exco Appointment Ceremony**
+**Inaugural PSG Exco Appointment Ceremony**
 
 INSERT MODAL IMAGES HERE
 
-### **“Rites of Passage” Ceremony for our Secondary One Students**
+**“Rites of Passage” Ceremony for our Secondary One Students**
 
 INSERT MODAL IMAGES
