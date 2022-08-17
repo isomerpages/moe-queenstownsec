@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Exam Matters.md
       - Student Voice.md
       - School Timetable.md
       - Student Handbook.md
