@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - PLD Initiatives/Info on DMA Option A.md
       - PLD Initiatives/PLD Initiatives.md
       - PLD Initiatives/.keep
       - Parent Engagement Session.md
