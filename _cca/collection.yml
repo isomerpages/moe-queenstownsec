@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs & Societies/Design and Innovation.md
       - Clubs & Societies/Infocomm Technology (Computing).md
       - Clubs & Societies/Club & Societies.md
       - Clubs & Societies/.keep
