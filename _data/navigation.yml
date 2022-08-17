@@ -1,8 +1,15 @@
 logo: /images/cropped-QTSS_Logo_V2_400x100.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Discover Quest
-    collection: discover-quest
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
+  - title: CCA
+    collection: cca
+  - title: Programmes
+    collection: programmes
+  - title: Students
+    collection: students
+  - title: Parents
+    collection: parents
+  - title: School Links
+    collection: school-links
