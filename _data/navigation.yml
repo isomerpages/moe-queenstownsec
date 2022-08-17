@@ -10,28 +10,28 @@ links:
       - title: Quest Family
         url: /about-us/quest-family/school-management-committee/
   - title: Departments
-    url: /permalink
+    url: /aesthetics-technology/
     sublinks:
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
+      - title: Aesthetics & Technology
+        url: /aesthetics-technology/
+      - title: English Language & Literature
+        url: /english/
+      - title: Student Management
+        url: /discipline/
+      - title: Humanities
+        url: /humanities/
+      - title: Infocomm Technology
+        url: /it-mrl/
+      - title: Mathematics
+        url: /mathematics/
+      - title: Mother Tongue
+        url: /mother-tongue/
+      - title: PE
+        url: /pe/
+      - title: Science
+        url: /science/
+      - title: Student Development
+        url: /p/student-development/about/
   - title: CCA
     collection: cca
   - title: Programmes
