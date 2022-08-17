@@ -2,12 +2,12 @@ collections:
   cca:
     output: true
     order:
-      - Clubs & Societies/Digital Media.md
-      - Clubs & Societies/Strategy Games.md
-      - Clubs & Societies/Design and Innovation.md
-      - Clubs & Societies/Infocomm Technology (Computing).md
-      - Clubs & Societies/Club & Societies.md
       - Clubs & Societies/.keep
+      - Clubs & Societies/Club & Societies.md
+      - Clubs & Societies/Infocomm Technology (Computing).md
+      - Clubs & Societies/Design and Innovation.md
+      - Clubs & Societies/Strategy Games.md
+      - Clubs & Societies/Digital Media.md
       - Performing Arts/.keep
       - Performing Arts/Performing Arts.md
       - Performing Arts/Chinese Dance.md
