@@ -13,7 +13,7 @@ Humanities Department
 
 **Mission**: To develop our students to be critical in thinking and be rooted to our country and heritage
 
-**Aims & Objectives**
+**Aims &amp; Objectives**
 ---------------------
 
 1.  To develop in our students’ thinking and processing skills which are essential for lifelong and independent learning ;
@@ -26,19 +26,19 @@ Humanities Department
 
 1.  To develop our students into citizens who have empathy towards others and will participate responsibly and sensibly in a multi-ethnic, multi-cultural and multi-religious society.
 
-**Key Programmes & Activities for 2021:**
+**Key Programmes &amp; Activities for 2021:**
 -----------------------------------------
 
 **Local Field Studies and Learning Journeys :**
 
-*   Examples include Geography Coastal Studies to Labrador Park 
+*   Examples include Geography Coastal Studies to Labrador Park&nbsp;
 
 **Competitions**
 
-*   NLB Prove It! Competition 
+*   NLB Prove It! Competition&nbsp;
 *   NLB Historical Scene Investigation Competition
-*   NUS Geography Challenge Competition 
-*   Tourism Innovation Competition 
+*   NUS Geography Challenge Competition&nbsp;
+*   Tourism Innovation Competition&nbsp;
 
 **Special Programmes**
 ----------------------
@@ -56,7 +56,7 @@ Examples include
 
 Examples include
 
-*   Hong Kong  (ALP, Geog, CCE)
+*   Hong Kong &nbsp;(ALP, Geog, CCE)
 
 ### **Competitions / Enrichment Programmes**
 
@@ -65,3 +65,6 @@ Examples include
 *   NUS Geography Challenge
 *   Queenstown Heritage Trail
 *   NLB Research Competition
+
+
+
