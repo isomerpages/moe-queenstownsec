@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Parents Gateway (PG)/Parents Gateway (PG) Mobile App.md
       - Parents Gateway (PG)/.keep
       - Class Mentors List 2022.md
       - PLD Initiatives/Info on DMA Option A.md
