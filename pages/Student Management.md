@@ -79,7 +79,7 @@ As the ultimate goal is for students to develop self-discipline and good charact
 **Key Programmes & Activities for 2022**
 ----------------------------------------
 
-**Dare****2****DREAM (Daring, Resilient, Empathetic, Active, Motivated)**
+**Dare<sup>2</sup>DREAM (Daring, Resilient, Empathetic, Active, Motivated)**
 
 An after-school and school holiday engagement programme providing students with:
 
@@ -88,7 +88,7 @@ An after-school and school holiday engagement programme providing students with:
 *   enrichment activities in the area of sports, the arts, and/or other interests; and
 *   mentors who will provide guidance in developing students’ personal strengths.
 
-**Dare****2****SHINE (Self, Heart, Identity, Inclusiveness, Exploration)**
+**Dare<sup>2</sup>SHINE (Self, Heart, Identity, Inclusiveness, Exploration)**
 
 An after-school and school holiday engagement programme providing students with:
 
