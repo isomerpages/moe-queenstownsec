@@ -22,13 +22,13 @@ Operations Managers: Mr Mohammed Zahid Mohamed Noor & Mr Steven Liew
 
 **GEAR-UP Team**
 
-Sec 1 Dare2DREAM Teacher-Mentors: Ms Siti Nur Aisyah Shawall, Mdm Nur Shiqah Binte Hashim, Ms Ng Li Khoon Nancy
+Sec 1 Dare<sup>2</sup>DREAM Teacher-Mentors: Ms Siti Nur Aisyah Shawall, Mdm Nur Shiqah Binte Hashim, Ms Ng Li Khoon Nancy
 
-Sec 2 Dare2DREAM Teacher-Mentors: Mdm Sundaram Kousalya, Ms Noryanti Md Aris
+Sec 2 Dare<sup>2</sup>DREAM Teacher-Mentors: Mdm Sundaram Kousalya, Ms Noryanti Md Aris
 
-Sec 3 Dare2DREAM Teacher-Mentors: Ms Shermine Chan Pei Wen, Mr Saratkumar Ganasekaran, Mr Thomas Tan Wei Boon
+Sec 3 Dare<sup>2</sup>DREAM Teacher-Mentors: Ms Shermine Chan Pei Wen, Mr Saratkumar Ganasekaran, Mr Thomas Tan Wei Boon
 
-Dare2SHINE Programme Coordinator: Ms Hemalatha Rrajendran
+Dare<sup>2</sup>SHINE Programme Coordinator: Ms Hemalatha Rrajendran
 
 **Student Management Philosophy**
 ---------------------------------
