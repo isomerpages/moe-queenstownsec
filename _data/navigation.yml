@@ -11,7 +11,27 @@ links:
         url: /about-us/quest-family/school-management-committee/
   - title: Departments
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
   - title: CCA
     collection: cca
   - title: Programmes
