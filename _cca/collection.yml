@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA Schedule & Venues.md
       - Clubs & Societies/.keep
       - Clubs & Societies/Club & Societies.md
       - Clubs & Societies/Infocomm Technology (Computing).md
