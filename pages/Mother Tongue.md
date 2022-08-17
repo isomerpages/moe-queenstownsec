@@ -48,7 +48,7 @@ CL:
 
 4.“Xin Kong Xia” National Schools Xinyao Singing and Songwriting Competition, Sec 3 Exp/NA (9 students / talent), participation certs for “Lyrics Writing Category”; Top 3 for Singing Category (Chorus), but the final results are yet to be announced
 
-**Author-in-Residence Programme**
+**<u>Author-in-Residence Programme</u>**
 
 Author-in-Residence Programme is one of the signature programmes of the Mother Tongue Languages (MTL) Department. The objectives of the programme are to enhance students’ confidence in Chinese literary writing and to promote an appreciation of Chinese Literature among students.
 
