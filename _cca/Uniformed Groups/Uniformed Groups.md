@@ -7,18 +7,29 @@ third_nav_title: Uniformed Groups
 ![](/images/CCA/Banner_UG-v3.png)
 
 
-<figure>
-	<a href="https://staging.d33coz43hxnqna.amplifyapp.com/cca/uniform-groups/girl-guides/" target = "_blank"> <img src="/images/CCA/Girl%20Guides.jpg"
-    style="width:70%"></a>
-<figcaption>
-	<strong> Girl Guides</strong>
-	</figcaption>
-</figure>
+<p><a href="link">
+<img src="image" style="width:183px;height:240px;margin-left:15px;" align = "right">
+</a></p>
 
-<figure>
-	<a href="https://staging.d33coz43hxnqna.amplifyapp.com/cca/uniform-groups/ncc-land/" target = "_blank"> <img src="/images/CCA/NCC%20Land.jpg"
-    style="width:70%"></a>
-<figcaption>
-	<strong> National Cadet Corps (Land)</strong>
-	</figcaption>
-</figure>
+<p><a href="link">
+<img src="image" style="width:183px;height:240px;margin-left:15px;" align = "right">
+</a></p>
+
+<p><a href="link">
+<img src="image" style="width:183px;height:240px;margin-left:15px;" align = "right">
+</a></p>
+
+
+<p><a href="link">
+<img src="image" style="width:183px;height:240px;margin-left:15px;" align = "right">
+</a></p>
+
+
+<p><a href="link">
+<img src="image" style="width:183px;height:240px;margin-left:15px;" align = "right">
+</a></p>
+
+
+
+
+
