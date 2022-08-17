@@ -2,13 +2,13 @@ collections:
   cca:
     output: true
     order:
-      - Sports/Wushu.md
-      - Sports/Volleyball.md
-      - Sports/Table Tennis.md
-      - Sports/Football.md
-      - Sports/Basketball.md
-      - Sports/Sports and Games.md
       - Sports/.keep
+      - Sports/Sports and Games.md
+      - Sports/Basketball.md
+      - Sports/Football.md
+      - Sports/Table Tennis.md
+      - Sports/Volleyball.md
+      - Sports/Wushu.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/Girl Guides.md
