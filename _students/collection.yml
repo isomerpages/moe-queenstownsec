@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - QTSS School Magazine.md
       - SLS Helpline.md
       - Exam Timetable.md
       - Exam Matters.md
