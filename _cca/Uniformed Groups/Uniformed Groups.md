@@ -15,7 +15,7 @@ third_nav_title: Uniformed Groups
 <img src="/images/CCA/NCC.png" style="width:390px;height:270px;margin-right:20px;" align = "left">
 </a></p>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <p><a href="https://staging.d33coz43hxnqna.amplifyapp.com/cca/uniform-groups/npcc/">
 <img src="/images/CCA/NPCC.png" style="width:390px;height:270px;margin-right:20px;" align = "left">
@@ -26,7 +26,7 @@ third_nav_title: Uniformed Groups
 <img src="/images/CCA/RCY.png" style="width:390px;height:270px;margin-right:20px;" align = "left">
 </a></p>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <p><a href="https://staging.d33coz43hxnqna.amplifyapp.com/cca/uniform-groups/sea-scouts/">
 <img src="/images/CCA/Scouts.png" style="width:390px;height:270px;margin-right:20px;" align = "left">
