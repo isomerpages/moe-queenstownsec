@@ -22,8 +22,8 @@ third_nav_title: Uniformed Groups
 </a></p>
 
 
-<p><a href="link">
-<img src="image" style="width:183px;height:240px;margin-left:15px;" align = "right">
+<p><a href="https://staging.d33coz43hxnqna.amplifyapp.com/cca/uniform-groups/red-cross/">
+<img src="/images/CCA/RCY.png" style="width:250px;height:200px;margin-right:20px;" align = "left">
 </a></p>
 
 
