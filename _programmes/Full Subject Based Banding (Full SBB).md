@@ -9,7 +9,8 @@ Full Subject-Based Banding (Full SBB)
 Remaking Secondary School Pathways
 </center>
 
-![](/images/Programmes/full%20sbb.png)
+<img src="/images/Programmes/full%20sbb.png"  
+     style="width:75%">
 
 
 Source: https://www.schoolbag.sg/story/what-was-our-experience-in-taking-up-subject-based-banding
