@@ -15,7 +15,7 @@ third_nav_title: Uniformed Groups
 <img src="/images/CCA/NCC.png" style="width:250px;height:200px;margin-right:20px;" align = "left">
 </a></p>
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 <p><a href="https://staging.d33coz43hxnqna.amplifyapp.com/cca/uniform-groups/npcc/">
 <img src="/images/CCA/NPCC.png" style="width:250px;height:200px;margin-right:20px;" align = "left">
