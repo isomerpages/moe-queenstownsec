@@ -57,7 +57,7 @@ Music  <br>
 Physical Education
 </CENTER>
 
-Our school’s participation as a Full SBB pilot school will leverage existing strengths. Queenstown has been an [SBB prototype school](https://www.schoolbag.sg/story/providing-greater-flexibility-with-subject-based-banding) since 2014, and we have put in place sound and effective processes to help us cater to different learner needs in the classroom. As part of our total curriculum framework, we also offer strong socio-emotional support structures as well as service and leadership programmes to ensure the holistic development and well-being of each student.
+Our school’s participation as a Full SBB pilot school will leverage existing strengths. Queenstown has been an [SBB prototype school](https://www.schoolbag.sg/story/providing-greater-flexibility-with-subject-based-banding) **<font size=5>(BROKEN LINK!!!)</font>** since 2014, and we have put in place sound and effective processes to help us cater to different learner needs in the classroom. As part of our total curriculum framework, we also offer strong socio-emotional support structures as well as service and leadership programmes to ensure the holistic development and well-being of each student.
 
 Currently, many of our SBB students continue on to take out-of-stream subjects at the upper secondary level. With the strong foundation established by taking SBB subjects, many do well in their national examinations and progress to the post-secondary education pathway of their choice. They even go on to win awards such as the Lee Kuan Yew Award for Outstanding Normal Course students.
 
