@@ -2,12 +2,12 @@ collections:
   students:
     output: true
     order:
-      - Student Links.md
-      - QTSS School Magazine.md
-      - SLS Helpline.md
-      - Exam Timetable.md
-      - Exam Matters.md
-      - Student Voice.md
-      - School Timetable.md
-      - Student Handbook.md
       - School Rules.md
+      - Student Handbook.md
+      - School Timetable.md
+      - Student Voice.md
+      - Exam Matters.md
+      - Exam Timetable.md
+      - SLS Helpline.md
+      - QTSS School Magazine.md
+      - Student Links.md
