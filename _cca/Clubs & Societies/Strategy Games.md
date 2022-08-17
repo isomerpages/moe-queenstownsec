@@ -45,6 +45,6 @@ As a club which emphasises planning and strategizing, Thinkers’ Club continue 
 **Training schedule and venue**
 -------------------------------
 
-*   *   [CCA Schedule and Venue List](/files/CCA-Schedule-and-Venue-List-1.pdf) \[PDF\]
-    *   [Weekly Summary Schedule](/files/CCA-Weekly-Summary-Schedule.pdf) \[PDF\]
-    *   [CCA Classroom Allocation](/files/CCA-Classroom-Allocation.pdf) \[PDF\]
+   *   [CCA Schedule and Venue List](/files/CCA-Schedule-and-Venue-List-1.pdf) \[PDF\]
+   *   [Weekly Summary Schedule](/files/CCA-Weekly-Summary-Schedule.pdf) \[PDF\]
+   *   [CCA Classroom Allocation](/files/CCA-Classroom-Allocation.pdf) \[PDF\]
