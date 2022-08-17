@@ -1,8 +1,14 @@
 logo: /images/cropped-QTSS_Logo_V2_400x100.png
 links:
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
+  - title: About US
+    url: /about-us/discover-quest/principals-message/
+    sublinks:
+      - title: Discover Quest
+        url: /about-us/discover-quest/principals-message/
+      - title: Our Pride
+        url: /media-highlights/
+      - title: Quest Family
+        url: /about-us/quest-family/school-management-committee/
   - title: CCA
     collection: cca
   - title: Programmes
