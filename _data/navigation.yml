@@ -9,6 +9,9 @@ links:
         url: /media-highlights/
       - title: Quest Family
         url: /about-us/quest-family/school-management-committee/
+  - title: Departments
+    url: /permalink
+    sublinks: []
   - title: CCA
     collection: cca
   - title: Programmes
