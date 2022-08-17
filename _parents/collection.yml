@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - PLD Initiatives/PLD Initiatives.md
       - PLD Initiatives/.keep
       - Parent Engagement Session.md
