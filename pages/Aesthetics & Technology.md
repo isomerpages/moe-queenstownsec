@@ -3,13 +3,12 @@ title: Aesthetics & Technology
 permalink: /aesthetics-technology/
 description: ""
 ---
-
 Aesthetics & Technology
 =======================
 
 **Vision:**
 
-Passion = I2R
+Passion = I<sup>2</sup>R
 
 Passion = Innovative, Independent and Resilient Learners
 
