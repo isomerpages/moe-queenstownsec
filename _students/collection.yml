@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Student Voice.md
       - School Timetable.md
       - Student Handbook.md
       - School Rules.md
