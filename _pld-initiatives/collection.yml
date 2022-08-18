@@ -2,5 +2,5 @@ collections:
   pld-initiatives:
     output: true
     order:
-      - Info on DMA Option A.md
       - PLD Initiatives.md
+      - Info on DMA Option A.md
