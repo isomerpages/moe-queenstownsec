@@ -1,0 +1,4 @@
+collections:
+  parents-gateway:
+    output: true
+    order: []
