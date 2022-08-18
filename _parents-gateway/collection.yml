@@ -1,4 +1,5 @@
 collections:
   parents-gateway:
     output: true
-    order: []
+    order:
+      - Parents Gateway (PG) Mobile App.md
