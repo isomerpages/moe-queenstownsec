@@ -1,0 +1,4 @@
+collections:
+  pld-initiatives:
+    output: true
+    order: []
