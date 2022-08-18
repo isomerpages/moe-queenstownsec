@@ -2,6 +2,7 @@ collections:
   direct-school-admission:
     output: true
     order:
+      - Malay Dance.md
       - Applied Learning Programme.md
       - Community Youth Leadership Programme.md
       - DSA.md
