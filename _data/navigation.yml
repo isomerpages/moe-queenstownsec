@@ -39,27 +39,47 @@ links:
   - title: Students
     url: /quick-links/student-links/school-rules/
     sublinks:
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
+      - title: School Rules
+        url: /quick-links/student-links/school-rules/
+      - title: Student Handbook
+        url: /quick-links/student-links/student-handbook-2/
+      - title: School Timetable
+        url: /quick-links/student-links/school-timetable/
+      - title: Student Voice
+        url: /student-voices/
+      - title: Exam Matters
+        url: /quick-links/student-links/exam-matters/
+      - title: Exam Timetable
+        url: /quick-links/student-links/exam-timetable/
+      - title: SLS Helpline
+        url: /student-learning-space/
+      - title: QTSS School Magazine
+        url: /parent-links/qtss-newsletters/
+      - title: Student Links
+        url: /quick-links/student-links/
   - title: Parents
     url: /parent-engagement-session/
-    sublinks: []
+    sublinks:
+      - title: Parent Engagement Session
+        url: /parent-engagement-session/
+      - title: PLD Initiatives
+        url: /parent-links/pld-initiatives/
+      - title: Class Mentors List 2022
+        url: /parent-links/class-mentors-list-2022/
+      - title: Parents Gateway Mobile App
+        url: /student-development/school-home-collaboration/parents-gateway-pg-mobile-app/
+      - title: Parent Support Group
+        url: /student-development/school-home-collaboration/parent-support-group/
+      - title: School Booklist
+        url: /parent-links/school-booklist/
+      - title: School Rules
+        url: /quick-links/student-links/school-rules/
+      - title: School Uniforms
+        url: /parent-links/school-uniforms/
+      - title: Schoolbag.sg
+        url: https://schoolbag.sg/
+      - title: Parent Links
+        url: /parent-links/
   - title: School Links
     url: /quick-links/teacher-links/
     sublinks: []
