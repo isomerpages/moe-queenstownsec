@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parents Gateway (PG)/.keep
-      - Parents Gateway (PG)/Parents Gateway (PG) Mobile App.md
       - Parents Gateway (PG)/Travel Declaration via Parents Gateway (PG).md
       - Class Mentors List 2022.md
       - PLD Initiatives/.keep
