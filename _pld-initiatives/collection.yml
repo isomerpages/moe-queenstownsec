@@ -1,4 +1,5 @@
 collections:
   pld-initiatives:
     output: true
-    order: []
+    order:
+      - PLD Initiatives.md
