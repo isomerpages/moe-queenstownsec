@@ -2,5 +2,4 @@ collections:
   students:
     output: true
     order:
-      - QTSS School Magazine.md
       - Student Links.md
