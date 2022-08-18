@@ -36,3 +36,30 @@ links:
     collection: cca
   - title: Programmes
     collection: programmes
+  - title: Students
+    url: /quick-links/student-links/school-rules/
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+  - title: Parents
+    url: /parent-engagement-session/
+    sublinks: []
+  - title: School Links
+    url: /quick-links/teacher-links/
+    sublinks: []
