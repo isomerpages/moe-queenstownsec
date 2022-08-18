@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Student Voice.md
       - Exam Matters.md
       - Exam Timetable.md
       - SLS Helpline.md
