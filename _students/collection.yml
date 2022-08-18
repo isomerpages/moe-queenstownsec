@@ -2,6 +2,5 @@ collections:
   students:
     output: true
     order:
-      - SLS Helpline.md
       - QTSS School Magazine.md
       - Student Links.md
