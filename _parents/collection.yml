@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Parents Gateway (PG)/.keep
       - Class Mentors List 2022.md
       - PLD Initiatives/.keep
       - PLD Initiatives/PLD Initiatives.md
