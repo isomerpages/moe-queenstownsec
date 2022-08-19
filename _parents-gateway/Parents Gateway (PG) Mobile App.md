@@ -25,16 +25,16 @@ SETTING UP THE PARENTS GATEWAY MOBILE APP
     2.  Download and install the app onto your phone.
     3.  Enable ‘Allow Notifications’ to receive push notifications.
 
-<p><a href="link">
-<img src="/images/principal.jpg"  
-     style="width:75%">
+<p><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708">
+<img src="/images/Parents/App%20Store.png"  
+     style="width:35%">
 </a></p>
 
 
 
-<p><a href="link">
-<img src="/images/principal.jpg"  
-     style="width:75%">
+<p><a href="https://play.google.com/store/apps/details?id=com.moe.pgp">
+<img src="/images/Parents/Google%20Play.png"  
+     style="width:35%">
 </a></p>
 
 
