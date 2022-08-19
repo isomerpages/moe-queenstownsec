@@ -28,13 +28,13 @@ School Booklist
 
 #### Secondary 4
 
-*   [Sec 4 Exp](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2021/11/QTSS-2022-S4E-Rev.pdf)
-*   [Sec 4 NA](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2021/11/QTSS-2022-S4NA.pdf)
-*   [Sec 4 NT](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2021/11/QTSS-2022-S4NT.pdf)
+*   [Sec 4 Exp](/files/Booklist/QTSS-2022-S4E-Rev.pdf)
+*   [Sec 4 NA](/files/Booklist/QTSS-2022-S4NA.pdf)
+*   [Sec 4 NT](/files/Booklist/QTSS-2022-S4NT.pdf)
 
 #### Secondary 5
 
-*   [Sec 5 NA](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2021/12/QTSS-2022-S5NA.pdf)
+*   [Sec 5 NA](/files/Booklist/QTSS-2022-S5NA.pdf)
 
 -------------------
 
