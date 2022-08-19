@@ -38,7 +38,7 @@ School Booklist
 
 -------------------
 
-[Click here](https://www.queenstownsec.moe.edu.sg/parent-links/school-uniforms/) for school uniform supplier information.
+[Click here](https://staging.d33coz43hxnqna.amplifyapp.com/parent-links/school-uniforms/) for school uniform supplier information.
 
 If you have any other queries, please email to qtss@moe.edu.sg.
 
