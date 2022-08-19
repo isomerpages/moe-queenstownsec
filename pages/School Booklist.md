@@ -10,21 +10,21 @@ School Booklist
 
 #### Secondary 1
 
-*   [Sec 1 Exp](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2021/12/QTSS-2022-S1-EXP.pdf)
-*   [Sec 1 NA](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2021/12/QTSS-2022-S1-NA.pdf)
-*   [Sec 1 NT](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2021/12/QTSS-2022-S1-NT.pdf)
+*   [Sec 1 Exp](/files/Booklist/QTSS-2022-S1-EXP.pdf)
+*   [Sec 1 NA](/files/Booklist/QTSS-2022-S1-NA.pdf)
+*   [Sec 1 NT](/files/Booklist/QTSS-2022-S1-NT.pdf)
 
 #### Secondary 2
 
-*   [Sec 2 Exp](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2021/11/QTSS-2022-S2E.pdf)
-*   [Sec 2 NA](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2021/11/QTSS-2022-S2NA.pdf)
-*   [Sec 2 NT](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2021/11/QTSS-2022-S2NT.pdf)
+*   [Sec 2 Exp](/files/Booklist/QTSS-2022-S2E.pdf)
+*   [Sec 2 NA](/files/Booklist/QTSS-2022-S2NA.pdf)
+*   [Sec 2 NT](/files/Booklist/QTSS-2022-S2NT.pdf)
 
 #### Secondary 3
 
-*   [Sec 3 Exp](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2021/11/QTSS-2022-S3E-Rev-1.pdf)
-*   [Sec 3 NA](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2021/11/QTSS-2022-S3NA.pdf)
-*   [Sec 3 NT](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2021/11/QTSS-2022-S3NT.pdf)
+*   [Sec 3 Exp](/files/Booklist/QTSS-2022-S3E-Rev-1.pdf)
+*   [Sec 3 NA](/files/Booklist/QTSS-2022-S3NA.pdf)
+*   [Sec 3 NT](/files/Booklist/QTSS-2022-S3NT.pdf)
 
 #### Secondary 4
 
