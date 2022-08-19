@@ -8,11 +8,11 @@ Exam Timetable
 
 ### Term 3 Sec 1 to 3 WA Information
 
-*   [Click here](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2022/08/Letter_T3-SBA-info_Sec-1-2022_A.pdf) to view Sec 1 WA information
-*   [Click here](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2022/08/Letter_T3-SBA-info_Sec-2-2022_A.pdf) to view Sec 2 WA information
-*   [Click here](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2022/08/Letter_T3-SBA-info_Sec-3Exp-2022_A.pdf) to view Sec 3EXP WA information
-*   [Click here](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2022/08/Letter_T3-SBA-info_Sec-3NA-2022_A.pdf) to view Sec 3NA WA information
-*   [Click here](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2022/08/Letter_T3-SBA-info_Sec-3NT-2022_A.pdf) to view Sec 3NT WA information
+*   [Click here](/files/Exam%20Timetable/Letter_T3-SBA-info_Sec-1-2022_A.pdf) to view Sec 1 WA information
+*   [Click here](/files/Exam%20Timetable/Letter_T3-SBA-info_Sec-2-2022_A.pdf) to view Sec 2 WA information
+*   [Click here](/files/Exam%20Timetable/Letter_T3-SBA-info_Sec-3Exp-2022_A.pdf) to view Sec 3EXP WA information
+*   [Click here](/files/Exam%20Timetable/Letter_T3-SBA-info_Sec-3NA-2022_A.pdf) to view Sec 3NA WA information
+*   [Click here](/files/Exam%20Timetable/Letter_T3-SBA-info_Sec-3NT-2022_A.pdf) to view Sec 3NT WA information
 
 ### 2022 Preliminary Examination
 
