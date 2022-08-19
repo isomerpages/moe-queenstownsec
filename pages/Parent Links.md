@@ -23,5 +23,5 @@ Parent Kit from MOE
 ### Other Links
 
 *   [MOE Website](https://www.moe.gov.sg/)
-*   [School Bag](https://schoolbag.sg/)
+*   [School Bag](https://www.schoolbag.edu.sg/)
 *   [Parents Gateway (PG) Mobile App](https://staging.d33coz43hxnqna.amplifyapp.com/student-development/school-home-collaboration/parents-gateway-pg-mobile-app/)
