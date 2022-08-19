@@ -13,7 +13,7 @@ Contact Us
 
 **Fax:** 65 6474 1295
 
-**Email:** qtss@moe.edu.sg
+**Email:**  <a href="mailto:qtss@moe.edu.sg">qtss@moe.edu.sg</a>
 
 **Weekdays:** 7:00-18:00
 
