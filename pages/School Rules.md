@@ -118,7 +118,7 @@ Students may bring mobile phones to school for the purpose of communication.  S
 3.  All food and drinks must be consumed in the canteen.Students are not allowed to bring any food and drinks out of the canteen, except for valid reasons i.e. Makan-In-Class.
 4.  Students are expected to wipe down the tables after they have finished eating, dispose their leftover food and waste into the trash bins, and return the utensils to the respective stall receptacles.
 
-**Snack Break**
+**<u>Snack Break</u>**
 
 Students are to take note of the following:
 
@@ -128,7 +128,7 @@ Students are to take note of the following:
 4.  Clean table after eating
 5.  Dispose leftover food/ waste properly in the big bins outsidethe classroom.
 
-**PE Rules & Code of Conduct**
+**<u>PE Rules & Code of Conduct</u>**
 
 1.  Students are expected to actively participate in all PE lessons. Students who are unable to attend PE lesson must produce a medical certificate or parent letter to the PE teacher prior to or on the day of the lesson.
 2.  Student who are unwell or do not have a medical certificate must report for the lesson in their PE attire. This will include students with parent letters.
@@ -138,20 +138,20 @@ Students are to take note of the following:
 6.  For morning PE lessons, students are to change back into their school uniform by recess time. If PE lesson is held after recess, students are expected to change into their PE attire at the start of their PE lesson. They are allowed to be in PE attire after their lesson until lunch or school dismissal.
 7.  Students are to handle all PE equipment with care. They will be held responsible for any damaged or lost equipment
 
-**School Youth Protection Policy**
+**<u>School Youth Protection Policy</u>**
 
 1.  Items, events, circumstances that pertain to bullying, child / youth safety and protection or related issues, will take reference from the **School Youth Protection Policy**.
 
-**Information Technology / Media Resource Usage Policy**
+**<u>Information Technology / Media Resource Usage Policy</u>**
 
 1.  Items, events, circumstances that pertain to terms of acceptable and responsible usage of information technology and media resource will take reference from the **School Information Technology & Media Resource Usage Policy**.
 
-**Personal Data Protection Act**
+**<u>Personal Data Protection Act</u>**
 
 1.  Photographs or video images of students, parents or guardians may be taken during school activities and events such as classroom lessons, CCA, school camps, or school concerts. The school may use and publish such photographs or video recordings in school publications, the school’s website, social media channels, or other communication channels.  **Request for the exemption for these photographs or videos to be published must be made in writing to the school before the start of the academic year.**
 2.  The school may disclose students’ personal information such as their name, class, NRIC, Date of birth etc to approved school vendors for the purpose of conducting external enrichment & activities. **Request for the exemption from these disclosure must be made in writing to the school before the start of the academic year.**
 
-**Offences**
+**<u>Offences</u>**
 
 The following are offences that would result in disciplinary action.
 
