@@ -29,4 +29,4 @@ Exam Timetable
 *   [Click here](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2022/03/MYE2022_Sec4NA.pdf) to view Sec 4NA Mid-Year-Exam Timetable.
 *   [Click here](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2022/03/MYE2022_Sec4NT.pdf) to view Sec 4NT Mid-Year-Exam Timetable.
 
-[Click here](https://www.queenstownsec.moe.edu.sg/quick_links/student-links/exam-matters/) to view our scheme of assessment.
+[Click here](https://staging.d33coz43hxnqna.amplifyapp.com/quick-links/student-links/exam-matters/) to view our scheme of assessment.
