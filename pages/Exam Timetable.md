@@ -16,7 +16,7 @@ Exam Timetable
 
 ### 2022 Preliminary Examination
 
-*   [Click here](https://www.queenstownsec.moe.edu.sg/wp-content/uploads/2022/06/GCE-O-Level-Prelim-Exam-2022-Timetable-Sec-4E5N_.pdf) to view GCE O Level Prelim Exam Timetable (4EXP/5NA)
+*   [Click here](/files/Exam%20Timetable/GCE-O-Level-Prelim-Exam-2022-Timetable-Sec-4E5N_.pdf) to view GCE O Level Prelim Exam Timetable (4EXP/5NA)
 *   [Click here](/files/Exam%20Timetable/GCE-N-Level-Prelim-Exam-2022-Timetable-Sec-4NA_.pdf) to view GCE N Level Prelim Exam Timetable (4NA)
 *   [Click here](/files/Exam%20Timetable/GCE-N-Level-Prelim-Exam-2022-Timetable-Sec-4NT_.pdf) to view GCE N Level Prelim Exam Timetable (4NT)
 
