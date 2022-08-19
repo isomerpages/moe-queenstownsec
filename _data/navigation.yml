@@ -82,4 +82,18 @@ links:
         url: /parent-links/
   - title: School Links
     url: /quick-links/teacher-links/
-    sublinks: []
+    sublinks:
+      - title: Teacher Links
+        url: /quick-links/teacher-links/
+      - title: Direct School Admission
+        url: /admission/
+      - title: Contact Us
+        url: /about-us/contact-page/
+      - title: Environment Commitments
+        url: /green-committee/
+      - title: School Calenar
+        url: /quick-links/student-links/calendar/
+      - title: School Rules
+        url: /quick-links/student-links/school-rules/
+      - title: School Timetable
+        url: /quick-links/student-links/school-timetable/
