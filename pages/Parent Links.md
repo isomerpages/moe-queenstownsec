@@ -24,4 +24,4 @@ Parent Kit from MOE
 
 *   [MOE Website](https://www.moe.gov.sg/)
 *   [School Bag](https://schoolbag.sg/)
-*   [Parents Gateway (PG) Mobile App](https://www.queenstownsec.moe.edu.sg/parent-links/parents-gateway-pg-mobile-app/)
+*   [Parents Gateway (PG) Mobile App](https://staging.d33coz43hxnqna.amplifyapp.com/student-development/school-home-collaboration/parents-gateway-pg-mobile-app/)
