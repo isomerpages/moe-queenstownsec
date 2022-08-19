@@ -10,7 +10,7 @@ School Rules
 
 The school expects every Queenstownian to maintain high standards of personal conduct by behaving in an exemplary manner.
 
-**General**
+**<u>General</u>**
 
 1.  Students are to be polite, respectful and maintain proper decorum at all times.
 2.  Students are to participate actively in all school activities and functions.
@@ -26,7 +26,7 @@ The school expects every Queenstownian to maintain high standards of personal co
 12.  Gambling, betting or playing of any card games of any form are prohibited in school.
 13.  **All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.**
 
-**Respect for Nation and School**
+**<u>Respect for Nation and School</u>**
 
 1.  All students are to observe the flag raising and lowering ceremonies with dignity and respect.
 2.  **Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students must recite the Pledge with the right fist placed over the heart.**
@@ -35,7 +35,7 @@ The school expects every Queenstownian to maintain high standards of personal co
 5.  All students are expected to uphold the reputation of the school and nation at all times – e.g. there must be no defamation (in any form) of the school or any staff of the school or any of the leaders of the nation.
 6.  Students are to greet all staff and visitors when they meet them.
 
-**Attendance and Punctuality**
+**<u>Attendance and Punctuality</u>**
 
 1.  Students must be present for morning assembly at the assembly venue no later than 7.30am (8.15am on Thursdays). Students are considered late if they are not at the assembly venue.
 2.  Students who are late for school are expected to report to school 15 minutes before reporting time on the next 3 consecutive school days. Students who do not report early on the assigned days, without a valid reason, will serve detention.
@@ -54,7 +54,7 @@ The school expects every Queenstownian to maintain high standards of personal co
 6.  Class/CCA/Event T-shirts designs must be approved by the school’s Corporate Communications team.
 7.  Undershirts worn by students should be either white or of neutral skin-tones.
 8.  Students with PE lessons on a school day are to attend the flag-raising ceremony in full school uniform. They are to change to PE attire before the start of the PE lesson.
-9.  [Click here](https://www.queenstownsec.moe.edu.sg/parent-links/school-uniforms/) for School uniforms vendors details.
+9.  [Click here](https://staging.d33coz43hxnqna.amplifyapp.com/parent-links/school-uniforms/) for School uniforms vendors details.
 
 **Footwear**
 
@@ -83,7 +83,7 @@ The school expects every Queenstownian to maintain high standards of personal co
 2.  There should be no modification to the school skirt. The bottom of the skirt must be no more than 3 fingers spacing above knees.
 3.  Girls are allowed to wear one small pair of round ear studs. It must be in black, navy blue, gold or silver in colour. The ear studs and sticks must be worn only at the bottom of the ear lobes.
 
-**Use of Electronic Devices (EDs)**
+**<u>Use of Electronic Devices (EDs)</u>**
 
 1.  Students must take full responsibility for the safe-keeping of their EDs. The school will not be held responsible for the damage or loss of their EDs.
 2.  Student are not allowed to take any photograph, video or audio recording of any school staff or student without seeking their permission.
@@ -101,7 +101,7 @@ Students may bring mobile phones to school for the purpose of communication.  S
 
 1.  Students are to use the approved PLDs for the purpose of learning. Students need to ensure that their PLDs are fully charged before arriving in school.
 
-**Classroom Conduct**
+**<u>Classroom Conduct</u>**
 
 1.  Students must stand up to greet teachers before the lesson and thank them at the end of the lesson.
 2.  Students must be attentive and diligent in class. Sleeping during lesson is strictly not allowed.
@@ -111,7 +111,7 @@ Students may bring mobile phones to school for the purpose of communication.  S
 6.  Students are expected to keep the classroom tidy, presentable and clean at all times. Only plain water can be brought to the classroom. All other drinks should only be consumed in the canteen.
 7.  All students are not allowed to stay inside their classrooms during recesses and after 30 minutes after the last period of the day, unless accompanied by teacher.
 
-**Use of School Canteen**
+**<u>Use of School Canteen</u>**
 
 1.  Students can only visit the canteen before morning assembly, during recess, lunch and after school. They are not allowed to patronise the canteen stalls during curriculum time.
 2.  Students are expected to queue up orderly when buying food at the canteen stalls.
