@@ -26,11 +26,12 @@ Students who are successfully admitted to the school via DSA are expected to hon
 
 
 
-![](/images/School%20Links/MD1.jpg)
+<img src="/images/School%20Links/MD1.jpg"  
+     style="width:85%">
 
 
 <img src="/images/School%20Links/MD2.jpg"  
-     style="width:75%">
+     style="width:65%">
 		 
 **Our activities**
 
