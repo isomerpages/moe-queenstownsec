@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Media Highlights.md
-      - CCA Achievements/CCA Achievements Replacement.md
       - CCA Achievements/.keep
       - CCA Achievements/CCA Achievements.md
       - CCA Achievements/Environmental Commitment.md
