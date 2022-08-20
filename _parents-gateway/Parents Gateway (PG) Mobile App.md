@@ -27,14 +27,14 @@ SETTING UP THE PARENTS GATEWAY MOBILE APP
 
 <p><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708">
 <img src="/images/Parents/App%20Store.png"  
-     style="width:35%">
+     style="width:25%">
 </a></p>
 
 
 
 <p><a href="https://play.google.com/store/apps/details?id=com.moe.pgp">
 <img src="/images/Parents/Google%20Play.png"  
-     style="width:35%">
+     style="width:25%">
 </a></p>
 
 
