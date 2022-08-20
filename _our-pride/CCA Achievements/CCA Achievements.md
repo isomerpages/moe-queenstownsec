@@ -91,8 +91,8 @@ CCA Achievements
 </li>
 	
 <li>
-    <input id="accordion1" type="checkbox">
-    <label for="accordion1">Title</label>
+    <input id="accordion3" type="checkbox">
+    <label for="accordion3">Title</label>
     <div>
       <p>Text</p>
       <p>
