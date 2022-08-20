@@ -137,7 +137,7 @@ CCA Achievements
 </li>
 	
 	
-   <li>
+ <li>
 
     <input type="checkbox" id="accordion4">
 
