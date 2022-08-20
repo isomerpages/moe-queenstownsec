@@ -136,12 +136,17 @@ CCA Achievements
 
 </li>
 	
+
 	
+	
+	
+	
+<ul class="jekyllcodex_accordion">
  <li>
 
-    <input type="checkbox" id="accordion4">
+    <input type="checkbox" id="accordion1">
 
-    <label for="accordion4">Title</label>
+    <label for="accordion1">Title</label>
 
     <div>
 
@@ -168,9 +173,9 @@ CCA Achievements
 	
    <li>
 
-    <input type="checkbox" id="accordion5">
+    <input type="checkbox" id="accordion2">
 
-    <label for="accordion5">Title</label>
+    <label for="accordion2">Title</label>
 
     <div>
 
