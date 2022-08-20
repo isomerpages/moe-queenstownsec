@@ -104,4 +104,4 @@ B div 2018
      style="width:75%">
 
 <img src="/images/School%20Links/VB6.jpg"  
-     style="width:65%">
+     style="width:75%">
