@@ -57,3 +57,17 @@ Sec 3: Food Sustainability
 
 
 **Our students carrying out their water investigation**
+
+
+![](/images/School%20Links/ALP%204.jpg)
+
+
+**_ALP Field Studies to Hong Kong (Pre-covid)_** 
+
+These three themes, which are aligned with the Singapore Green Plan 2030, are critical for Singapore’s continued development. We leverage current and relevant learning content to design engaging packages that help our students apply their knowledge of Geography and Science to solve a real-world issue. 
+
+We welcome students who are passionate about **environmental advocacy** to apply for the DSA Exercise. Interested students should be keen to adopt an interdisciplinary approach in solving geographical issues. 
+
+Successful applicants will have the privilege of participating in the school’s DSA Talent Development Programme which will include progressive exposure to issues related to the environment and sustainability. They will take on the role of **ALP Ambassadors**, undertaking projects that advocate for environmental sustainability at the upper secondary level. In the process, students will also acquire effective communication and presentation skills as they build their confidence to advocate for a good cause in their area of passion.  
+
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
