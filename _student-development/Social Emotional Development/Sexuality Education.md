@@ -43,8 +43,8 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emo
 
 <center>
 	
-**Secondary 1** <br>
-**CCE 2022 Theme: Making Choices**
+Secondary 1 <br>
+CCE 2022 Theme: Making Choices
 
 </center>
 
@@ -54,8 +54,8 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emo
 
 <center>
 	
-**Secondary 2**<br>
-	**CCE 2021 Theme: Making Choices**
+Secondary 2<br>
+	CCE 2021 Theme: Making Choices
 	
 </center>
 
@@ -64,8 +64,8 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emo
 
 <center>
 	
-**Secondary 3**<br>
-**Sense and Sexuality (2nd Edition)**
+Secondary 3<br>
+Sense and Sexuality (2nd Edition)
 	
 </center>
 
@@ -75,8 +75,8 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emo
 
 <center>
 	
-**Secondary 4**<br>
-**Sense and Sexuality (2nd Edition)**	
+Secondary 4<br>
+Sense and Sexuality (2nd Edition)	
 
 </center>
 
@@ -85,8 +85,8 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emo
 
 <center>
 	
-**Secondary 5** <br>
-**Sense and Sexuality (2nd Edition)**	
+Secondary 5 <br>
+Sense and Sexuality (2nd Edition)	
 	
 </center>
 
