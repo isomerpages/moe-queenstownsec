@@ -71,28 +71,37 @@ NSG Championship B Division Boys – Qualified for semi-finals
 NSG Championship B Division Girls – 1st
 
 
-![](/images/School%20Links/VB1.jpg)
+
+<img src="/images/School%20Links/VB1.jpg"  
+     style="width:75%">
+
+
 
 B div 2021
 
-
-![](/images/School%20Links/VB2.jpg)
-
-C div 2019
-
-![](/images/School%20Links/VB3.jpg)
+<img src="/images/School%20Links/VB2.jpg"  
+     style="width:85%">
 
 
 C div 2019
 
 
-![](/images/School%20Links/VB4.jpg)
+<img src="/images/School%20Links/VB3.jpg"  
+     style="width:85%">
 
+C div 2019
+
+
+
+<img src="/images/School%20Links/VB4.jpg"  
+     style="width:85%">
 
 B div 2018
 
 
 
-![](/images/School%20Links/VB5.jpg)
+<img src="/images/School%20Links/VB5.jpg"  
+     style="width:75%">
 
-![](/images/School%20Links/VB6.jpg)
+<img src="/images/School%20Links/VB6.jpg"  
+     style="width:65%">
