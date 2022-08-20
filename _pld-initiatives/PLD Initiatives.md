@@ -19,7 +19,7 @@ ICT DIGITAL ITERACY PROGRAMME@QTSS
 
 <center> 
 
-**For 2022 Sec 1**
+For 2022 Sec 1
 
 </center>
 
@@ -29,7 +29,7 @@ ICT DIGITAL ITERACY PROGRAMME@QTSS
 
 <center> 
 
-**For 2021 Sec 1 to Sec 3**
+For 2021 Sec 1 to Sec 3
 
 </center>
 
