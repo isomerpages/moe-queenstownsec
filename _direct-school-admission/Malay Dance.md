@@ -31,3 +31,67 @@ Students who are successfully admitted to the school via DSA are expected to hon
 
 <img src="/images/School%20Links/MD2.jpg"  
      style="width:75%">
+		 
+**Our activities**
+
+**2018**
+
+<u>School Performance</u>
+
+CNY concert 2018
+
+Communal Lunch 2018
+
+Speech Day 2018
+
+<u>External Performance</u>
+
+Henderson Community National Day Dinner 2018
+
+Muara Festival 2018 @ Esplanade Outdoor Theatre
+
+<br> 
+
+**2019**
+
+<u>School Performance</u>
+
+CNY concert 2019
+
+QTSS Communal Lunch 2019
+
+<u>External Performance</u>
+
+Performance for Lion Club of Singapore Nanyang Dinner @ HomeTeams Bukit Batok
+
+SYF 2019 Youth Day Celebration @ Esplanade Outdoor Theatre
+
+MESRA Berzapin Series Workshop
+
+<br>
+
+**2020**
+
+<u>School Performance</u>
+
+CNY concert 2020
+
+<br>
+
+**2021**
+
+<u>School Performance</u>
+
+CNY concert 2021
+
+**Our Achievements**
+
+<u>Singapore Youth Festival Competition</u>
+
+2017 – Certificate of Distinction
+
+2019 – Certificate of Distinction
+
+2021 – Certificate of Distinction
+
+MESRA Berzapin Competition 2019 – 1st Runner-up
