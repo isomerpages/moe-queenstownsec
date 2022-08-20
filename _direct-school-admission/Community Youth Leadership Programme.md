@@ -42,3 +42,7 @@ Successful applicants through the school’s DSA-CYL programme will have the pri
 
 1\.  Mentorship<br>
     &nbsp;  &nbsp; &nbsp;  1.  Mentorship by Teachers in the CYL Committee
+		
+		
+		
+![](/images/School%20Links/Learning%20for%20Life.jpg)
