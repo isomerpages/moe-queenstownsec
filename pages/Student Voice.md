@@ -16,8 +16,8 @@ Student Voice
 
 
 	
-<img src="/images/Students/Student%20Voices%20Banner.png"  
-     style="width:65%" align = "center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/Students/Student%20Voices%20Banner.png"  
+     style="width:65%">
 
 	
 <p><a href="https://forms.office.com/pages/responsepage.aspx?id=hnxLG73YSEGBuO4nD50nQWnm6Bo8iIpFg2QjOlERFxVUQTBIWUU1NVJUWERZNTVENlFRSVk5MTRURy4u">
