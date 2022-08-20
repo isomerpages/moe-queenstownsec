@@ -125,7 +125,7 @@ CCA Achievements
 	
 </p>		
 	
-	</div>
+</div>
 
 </li>
 
