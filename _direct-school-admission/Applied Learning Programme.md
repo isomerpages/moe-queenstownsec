@@ -13,15 +13,16 @@ Applied Learning Programme
 **Science for Sustainable Development**
 
 
-![](/images/School%20Links/ALP%201.jpg)
+<img src="/images/School%20Links/ALP%201.jpg"  
+     style="width:75%">
 
 
 
 **_Sec 1 students doing water filtration_** **_investigation_**
 
 
-
-![](/images/School%20Links/ALP%202.jpg)
+<img src="/images/School%20Links/ALP%202.jpg"  
+     style="width:75%">
 
 
 **_Our ALP ambassadors sharing our ALP programme_**  
@@ -39,27 +40,17 @@ Sec 3: Food Sustainability
 
 
 
-<img src="/images/School%20Links/ALP%203.png" style="width:260px;height:400px;margin-right:15px;" align = "left">
+<img src="/images/School%20Links/ALP%203.png"  
+     style="width:45%">
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 
 **Our students carrying out their water investigation**
 
 
-![](/images/School%20Links/ALP%204.jpg)
+
+<img src="/images/School%20Links/ALP%204.jpg"  
+     style="width:75%">
 
 
 **_ALP Field Studies to Hong Kong (Pre-covid)_** 
