@@ -6,7 +6,7 @@ description: ""
 Learning for Life Programme
 ===========================
 
-[Click here](https://www.queenstownsec.moe.edu.sg/admission/) for DSA application info.
+[Click here](https://staging.d33coz43hxnqna.amplifyapp.com/admission/) for DSA application info.
 
 ### INSERT VIDEO HERE (NEEDS TO BE CONVERTED TO YOUTUBE
 
@@ -30,4 +30,3 @@ Through the various NYAA components of Outdoor Appreciation, Healthy Living, and
 A basic CYL Curriculum is also implemented to all our students to equip them with the 7 habits of highly effective teens, The Leadership Challenge Practices, and Design Thinking, among other skillsets, to carry out meaningful projects to benefit the community. Identified students are further exposed to the opportunity to lead their peers in planning for meaningful projects for a cause and even extend their sphere of influence to benefit other countries in our region.
 
 Through our LLP – Community and Youth Leadership, our students are prepared for life’s challenges. Their good habits and essential life skills make them self-sufficient and effective. The school values and quotients make them good persons who care enough to transcend beyond their own needs, good citizens who have the courage and dare to serve and change the world for the better.
-
