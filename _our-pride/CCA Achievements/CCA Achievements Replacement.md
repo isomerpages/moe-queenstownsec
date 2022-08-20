@@ -136,14 +136,10 @@ CCA Achievements
 
 </li>
 	
-</ul>
+
 	
 	
-<br><br><br>	
-	
-	
-	
-<ul class="jekyllcodex_accordion">
+
  <li>
 
     <input type="checkbox" id="accordion4">
