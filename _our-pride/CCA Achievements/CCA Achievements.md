@@ -149,5 +149,3 @@ CCA Achievements
 
 </li>
 
-
-</b></b></ul>
