@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Annual & Prize Giving Celebration 8th August ...
           description: ""
-          url: ""
+          url: https://www.queenstownsec.moe.edu.sg/lp_announcement/annual-prize-giving-celebration-8th-august-2022%e2%80%8b-live-feed/
         - title: Sem 2 Announcement
           description: ""
           url: /lp-announcement/sem-2-announcement/
@@ -29,11 +29,10 @@ sections:
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Full Home-Based Learning (FHBL) 19 – 28 May 2021
+      button: CLICK
       alt: Image alt text
+      url: /quick-links/student-links/instruction-for-home-based-learning-hbl/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
