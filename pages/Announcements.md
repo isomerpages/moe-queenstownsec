@@ -44,7 +44,7 @@ Announcements
     Dear parents and students, The mid-year-exam timetable and scheme of assessment have been published on the school website. Please click here for more details.   Last updated on 16 MAR 2022
     
 
-    ### [Enrichment Programme (24 – 27 May 2022)](https://www.queenstownsec.moe.edu.sg/lp_announcement/enrichment-programme-24-27-may-2022/)
+    ### [Enrichment Programme (24 – 27 May 2022)](https://staging.d33coz43hxnqna.amplifyapp.com/lp-announcement/enrichment-programme-24-27-may-2022/)
     
     2022-05-24
     
