@@ -18,7 +18,6 @@ INSERT ONEMAP HERE
 
 **Email:**  <a href="mailto:qtss@moe.edu.sg">qtss@moe.edu.sg</a>
 
-For website feedback, contact <a href="mailto:administrator@qtss.edu.sg">administrator@qtss.edu.sg</a>
 
 
 **Office Hours:** School starts at 7:30am (Except on Thursdays which starts at 8:15am)
@@ -27,3 +26,6 @@ For website feedback, contact <a href="mailto:administrator@qtss.edu.sg">adminis
 
 
 **Buses:** 33 , 51 , 64 , 111 , 120 , 139 , 145 , 186 , 970
+
+
+For website feedback, contact <a href="mailto:administrator@qtss.edu.sg">administrator@qtss.edu.sg</a>
