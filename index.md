@@ -9,21 +9,15 @@ sections:
   - hero:
       background: /images/QTSS Homepage GIF.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Annual & Prize Giving Celebration 8th August ...
+          description: ""
+          url: ""
+        - title: Sem 2 Announcement
+          description: ""
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Enrichment Programme (24 – 27 May 2022)
+          description: ""
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
@@ -40,4 +34,10 @@ sections:
       title: Infopic Title
       subtitle: Infopic Subtitle
       button: Button Text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
