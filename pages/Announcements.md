@@ -37,7 +37,7 @@ Announcements
     
 
     
-    ### [2022 Mid-Year-Exam Timetable](https://www.queenstownsec.moe.edu.sg/lp_announcement/exam-timetable-and-schemes-of-assessment/)
+    ### [2022 Mid-Year-Exam Timetable](https://staging.d33coz43hxnqna.amplifyapp.com/lp-announcement/exam-timetable-and-schemes-of-assessment/)
     
     2020-09-11
     
