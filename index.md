@@ -14,10 +14,10 @@ sections:
           url: ""
         - title: Sem 2 Announcement
           description: ""
-          url: https://gmail.com
+          url: /lp-announcement/sem-2-announcement/
         - title: Enrichment Programme (24 – 27 May 2022)
           description: ""
-          url: /privacy/
+          url: /lp-announcement/enrichment-programme-24-27-may-2022/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
