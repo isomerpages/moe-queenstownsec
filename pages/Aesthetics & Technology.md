@@ -37,10 +37,10 @@ Aesthetic & Technology Department believes in nurturing innovative independent, 
 
 
 <img src="/images/Departments/AT%204.jpg"  
-     style="width:75%">
+     style="width:55%">
 
 <img src="/images/Departments/AT%205.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 <img src="/images/Departments/AT%206.jpg"  
      style="width:200%">
