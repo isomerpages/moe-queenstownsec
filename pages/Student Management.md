@@ -107,4 +107,6 @@ A collaboration with the Queenstown Neighbourhood Police Centre, where selected 
 
 ![](/images/Departments/Stud%20Mag%204.jpg)
 
-![](/images/Departments/Stud%20Mag%205.png)
+
+<img src="/images/Departments/Stud%20Mag%205.png"  
+     style="width:70%">
