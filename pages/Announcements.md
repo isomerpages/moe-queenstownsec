@@ -29,7 +29,7 @@ Announcements
     
 
     
-    ### [Sec 3 MOE-OBS (30-31 May 2022) – 2D1N Residential Camp](https://www.queenstownsec.moe.edu.sg/lp_announcement/moe-obs-challenge/)
+    ### [Sec 3 MOE-OBS (30-31 May 2022) – 2D1N Residential Camp](https://staging.d33coz43hxnqna.amplifyapp.com/lp-announcement/moe-obs-challenge/)
     
     2021-04-09
     
