@@ -39,11 +39,14 @@ All in all, preparing our students to be future-ready leaders forms the cornerst
 
 Showcasing moments of Mathematics Quiz, Computational Thinking Workshop for Secondary 1 and POA Outreach for Secondary 2
 
+<img src="/images/Departments/Math%201.jpg"  
+     style="width:65%">
 
-![](/images/Departments/Math%201.jpg)
-
-![](/images/Departments/Math%202.jpg)
-
-![](/images/Departments/Math%203.jpg)
-
-![](/images/Departments/Math%204.jpg)
+<img src="/images/Departments/Math%202.jpg"  
+     style="width:65%">
+		 
+<img src="/images/Departments/Math%203.jpg"  
+     style="width:65%">
+		 
+<img src="/images/Departments/Math%204.jpg"  
+     style="width:65%">
