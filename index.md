@@ -39,10 +39,4 @@ sections:
       button: CLICK
       url: /admission/
       image: /images/School Links/DSA_Pic3.png
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
