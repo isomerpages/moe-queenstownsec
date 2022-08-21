@@ -20,7 +20,6 @@ Announcements
     
     Dear Parents/Guardians, Please click the following to view: Class timetable for Sem 2 Class mentors List for Sem 2 CCA schedule and venues for Sem 2 Thank you.  
     
-*   [![](https://www.queenstownsec.moe.edu.sg/announcements/?order=DESC&post_year=&post_category=0)](https://www.queenstownsec.moe.edu.sg/lp_announcement/direct-school-admission-2022/)
     
     ### [Direct School Admission 2022](https://www.queenstownsec.moe.edu.sg/lp_announcement/direct-school-admission-2022/)  
     
@@ -28,7 +27,7 @@ Announcements
     
     Are you keen to develop your area of interest or strength in Queenstown Secondary School. Wait no more, Direct School Admission 2022 will be opening soon!! Click HERE for more information
     
-*   [![](https://www.queenstownsec.moe.edu.sg/announcements/?order=DESC&post_year=&post_category=0)](https://www.queenstownsec.moe.edu.sg/lp_announcement/moe-obs-challenge/)
+
     
     ### [Sec 3 MOE-OBS (30-31 May 2022) – 2D1N Residential Camp](https://www.queenstownsec.moe.edu.sg/lp_announcement/moe-obs-challenge/)
     
@@ -36,7 +35,7 @@ Announcements
     
     Click here for soft copy of the first Letter to Parents on 2022 MOE Challenge Programme. Click here for the updated Letter to Parents (2D1N Residential Camp)  \[Updated on 9 May 2022\] Briefing slides for parents. Click here to download.  \[Updated on 9 May 2022\] MOE-OBS Briefing slides for Students. Click here to download.  \[Updated \[…\]
     
-*   [![](https://www.queenstownsec.moe.edu.sg/announcements/?order=DESC&post_year=&post_category=0)](https://www.queenstownsec.moe.edu.sg/lp_announcement/exam-timetable-and-schemes-of-assessment/)
+
     
     ### [2022 Mid-Year-Exam Timetable](https://www.queenstownsec.moe.edu.sg/lp_announcement/exam-timetable-and-schemes-of-assessment/)
     
@@ -44,8 +43,7 @@ Announcements
     
     Dear parents and students, The mid-year-exam timetable and scheme of assessment have been published on the school website. Please click here for more details.   Last updated on 16 MAR 2022
     
-*   [![](https://www.queenstownsec.moe.edu.sg/announcements/?order=DESC&post_year=&post_category=0)](https://www.queenstownsec.moe.edu.sg/lp_announcement/enrichment-programme-24-27-may-2022/)
-    
+
     ### [Enrichment Programme (24 – 27 May 2022)](https://www.queenstownsec.moe.edu.sg/lp_announcement/enrichment-programme-24-27-may-2022/)
     
     2022-05-24
