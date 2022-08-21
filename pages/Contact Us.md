@@ -18,8 +18,6 @@ INSERT ONEMAP HERE
 
 **Email:**  <a href="mailto:qtss@moe.edu.sg">qtss@moe.edu.sg</a>
 
-**Weekdays:** 7:00-18:00
-
 For website feedback, contact <a href="mailto:administrator@qtss.edu.sg">administrator@qtss.edu.sg</a>
 
 
