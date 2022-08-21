@@ -21,7 +21,7 @@ To strive for innovation and excellence in Science education to prepare our stud
 
 
 <img src="/images/Departments/Science%201.png"  
-     style="width:65%">
+     style="width:45%">
 		 
 The revised Science Curriculum Framework (Figure 1) encapsulates the thrust of science education in Singapore to provide students with a strong foundation in Science for life, learning, citizenry and work.
 
