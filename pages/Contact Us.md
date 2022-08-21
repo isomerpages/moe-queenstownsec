@@ -6,7 +6,7 @@ description: ""
 Contact Us
 ==========
 
-INSERT ONEMAP HERE
+## **INSERT ONEMAP HERE**
 
 
 **Address:** Queenstown Secondary School  
