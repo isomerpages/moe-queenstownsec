@@ -56,7 +56,10 @@ Through SEL, our students acquire skills, knowledge and dispositions to manage s
 SEL is a critical part of our students’ learning to prepare them to live and work as adults in the 21st Century. SEL is taught within the Character and Citizenship Education (CCE) curriculum in school.
 
 
-![](/images/Departments/CCE.png)
+
+<img src="/images/Departments/CCE.png"  
+     style="width:70%">
+
 
 
 <u>SEL and the School Culture of Care</u>
