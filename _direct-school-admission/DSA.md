@@ -5,6 +5,8 @@ description: ""
 ---
 Direct School Admission
 =======================
+![](/images/School%20Links/DSA_Pic3.png)
+
 
 **Direct School Admission 2022**
 --------------------------------
