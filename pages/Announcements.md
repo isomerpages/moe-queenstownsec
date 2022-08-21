@@ -21,7 +21,7 @@ Announcements
     Dear Parents/Guardians, Please click the following to view: Class timetable for Sem 2 Class mentors List for Sem 2 CCA schedule and venues for Sem 2 Thank you.  
     
     
-    ### [Direct School Admission 2022](https://www.queenstownsec.moe.edu.sg/lp_announcement/direct-school-admission-2022/)  
+    ### [Direct School Admission 2022](https://staging.d33coz43hxnqna.amplifyapp.com/lp-announcement/direct-school-admission-2022/)  
     
     2022-04-20
     
