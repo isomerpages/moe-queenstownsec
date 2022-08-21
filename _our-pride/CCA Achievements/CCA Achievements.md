@@ -120,7 +120,7 @@ CCA Achievements
 
     <input type="checkbox" id="accordion4">
 
-    <label for="accordion4">Title</label>
+    <label for="accordion4">CCA 2018 Results</label>
 
     <div>
 
@@ -149,7 +149,7 @@ CCA Achievements
 
     <input type="checkbox" id="accordion5">
 
-    <label for="accordion5">Title</label>
+    <label for="accordion5">CCA 2017 Results</label>
 
     <div>
 
