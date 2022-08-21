@@ -27,6 +27,7 @@ sections:
       button: CLICK
       alt: Image alt text
       url: /quick-links/student-links/instruction-for-home-based-learning-hbl/
+      image: /images/QTSS_Logo2-247x300.png
   - infopic:
       title: Full SBB Pilot in Queenstown Secondary School in 2020
       button: CLICK
