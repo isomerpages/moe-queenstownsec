@@ -21,3 +21,11 @@ INSERT ONEMAP HERE
 **Weekdays:** 7:00-18:00
 
 For website feedback, contact <a href="mailto:administrator@qtss.edu.sg">administrator@qtss.edu.sg</a>
+
+
+**Office Hours:** School starts at 7:30am (Except on Thursdays which starts at 8:15am)
+
+**Nearest MRT Station:** Queenstown MRT, Redhill MRT
+
+
+**Buses:** 33 , 51 , 64 , 111 , 120 , 139 , 145 , 186 , 970
