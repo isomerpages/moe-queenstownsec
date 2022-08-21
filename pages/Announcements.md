@@ -13,9 +13,8 @@ Announcements
     
     Dear Parents/Guardians, Click HERE to watch the Live Feed of QTSS Annual & Prize Giving Celebration​ starting at 0840hrs on 8th August 2022. Passcode: 357583 Thank you.
     
-*   [![](https://www.queenstownsec.moe.edu.sg/announcements/?order=DESC&post_year=&post_category=0)](https://www.queenstownsec.moe.edu.sg/lp_announcement/sem-2-announcement/)
     
-    ### [Sem 2 Announcement](https://www.queenstownsec.moe.edu.sg/lp_announcement/sem-2-announcement/)
+    ### [Sem 2 Announcement](https://staging.d33coz43hxnqna.amplifyapp.com/lp-announcement/sem-2-announcement/)
     
     2022-06-25
     
