@@ -58,7 +58,7 @@ SEL is a critical part of our students’ learning to prepare them to live and w
 
 
 <img src="/images/Departments/CCE.png"  
-     style="width:70%">
+     style="width:65%">
 
 
 
