@@ -7,7 +7,7 @@ Announcements
 =============
 
 
-*   ### [Annual & Prize Giving Celebration 8th August 2022​ Live Feed](https://www.queenstownsec.moe.edu.sg/lp_announcement/annual-prize-giving-celebration-8th-august-2022%e2%80%8b-live-feed/)
+*   ### [Annual & Prize Giving Celebration 8th August 2022​ Live Feed](https://www.queenstownsec.moe.edu.sg/lp_announcement/annual-prize-giving-celebration-8th-august-2022%e2%80%8b-live-feed/) (*BROKEN LINK*)
     
     2022-08-08
     
