@@ -50,4 +50,8 @@ Special Programs
 **Whole School**: Reading Programme
 
 
-![](/images/Departments/English.png)
+
+
+<img src="/images/Departments/English.png"  
+     style="width:65%">
+
