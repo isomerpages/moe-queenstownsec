@@ -6,6 +6,9 @@ description: ""
 Contact Us
 ==========
 
+INSERT ONEMAP HERE
+
+
 **Address:** Queenstown Secondary School  
 1 Strathmore Road Singapore 148800
 
