@@ -778,6 +778,8 @@ Uniform Group 2018 Results
 </tbody>
 </table>				
 
+<br>			
+			
 Sports 2018 Results			
 			
 <table style="undefined;table-layout: fixed; width: 703px">
@@ -901,6 +903,9 @@ Performing Arts – Singapore Youth Festival 2017 Art Presentation
 </tbody>
 </table>				
 
+<br>			
+			
+			
 Uniform Group 2017 Results			
 
 <table style="undefined;table-layout: fixed; width: 703px">
@@ -944,6 +949,8 @@ Uniform Group 2017 Results
   </tr>
 </tbody>
 </table>			
+
+<br>			
 			
 Sports 2017 Results			
 
