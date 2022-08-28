@@ -723,13 +723,118 @@ CCA Achievements
 
       <b>Uniform Group 2018 Results</b>
 			
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 523px" class="tg"><colgroup><col style="width: 121px"><col style="width: 201px"><col style="width: 201px"></colgroup><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Unit</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Best Unit Competition</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Award</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">NCC</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">NCC Best Unit Competition</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Gold</td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Scouts (Sea)</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Frank Coopers Sands Award</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">8th Consecutive  Gold</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Girl Guides</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Puan Noor Aishah Honour Award</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Silver</td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">NPCC</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">NPCC Unit Overall Proficiency Award</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Gold</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Red Cross</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">RCY Unit Excellence Award</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">3rd Consecutive Gold</td></tr></tbody></table>			
+<table style="undefined;table-layout: fixed; width: 703px">
+<colgroup>
+<col style="width: 151px">
+<col style="width: 301px">
+<col style="width: 251px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Unit</th>
+    <th>Best Unit Competition</th>
+    <th>Award</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>NCC</td>
+    <td>NCC Best Unit Competition</td>
+    <td>Gold</td>
+  </tr>
+  <tr>
+    <td>Scouts (Sea)</td>
+    <td>Frank Coopers Sands Award</td>
+    <td>8th Consecutive  Gold</td>
+  </tr>
+  <tr>
+    <td>Girl Guides</td>
+    <td>Puan Noor Aishah Honour Award</td>
+    <td>Silver</td>
+  </tr>
+  <tr>
+    <td>NPCC</td>
+    <td>NPCC Unit Overall Proficiency Award</td>
+    <td>Gold</td>
+  </tr>
+  <tr>
+    <td>Red Cross</td>
+    <td>RCY Unit Excellence Award</td>
+    <td>3rd Consecutive Gold</td>
+  </tr>
+</tbody>
+</table>		
 
 <br>			
 			
 <b>Sports 2018 Results</b>			
 			
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 523px" class="tg"><colgroup><col style="width: 121px"><col style="width: 201px"><col style="width: 201px"></colgroup><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Sports</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Competition</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Position</span></th></tr></thead><tbody><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Basketball</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">South Zone Inter-Schools Basketball Championship ‘B’ Division</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">South Zone – Participated</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Football</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">South Zone Inter-Schools Football Championship ‘C’ Division</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">South Zone –<br><br>Quarter-Finals<br>(Main Competition)</td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"></td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">South Zone Inter-Schools Football Championship ‘B’ Division</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">South Zone – 3rd<br><br>(School Zonal League)</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Delta League Championship U15<span style="font-weight:bold">  </span>(Dec 2017) – Organised by Singapore Police Force &amp; National Crime Prevention Council)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Participated</td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"> Volleyball</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">South Zone Inter-Schools Volleyball Championship ‘B’ Division (Girls)</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">South Zone: 4th Position<br><br>Qualified for Nationals</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Wushu</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">National School Games ‘B’ Boys &amp; Girls &amp; ‘C’ Girls</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">In Progress</td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Cross Country</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">National School Games ‘B’ Girls</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">National 30th  out of 51 schools</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">National School Games ‘B’ Boys</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">National 30th out of 42 schools</td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Fencing</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">National School Games<br><br>‘C’ Boys Epee – Thadeus Chia Juay Che<br>&amp; Jaden Tay Hao Yi</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Round 2, Group of 32</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Swimming</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">National School Games ‘C’ Boys 50m Freestyle &amp; 50m Backstroke -Lucas Pestana</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">In Progress</td></tr></tbody></table>	
+<table style="undefined;table-layout: fixed; width: 703px">
+<colgroup>
+<col style="width: 151px">
+<col style="width: 301px">
+<col style="width: 251px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Sports</th>
+    <th>Competition</th>
+    <th>Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Basketball</td>
+    <td>South Zone Inter-Schools Basketball Championship ‘B’ Division</td>
+    <td>South Zone – Participated</td>
+  </tr>
+  <tr>
+    <td>Football</td>
+    <td>South Zone Inter-Schools Football Championship ‘C’ Division</td>
+    <td>South Zone –<br><br>Quarter-Finals<br>(Main Competition)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>South Zone Inter-Schools Football Championship ‘B’ Division</td>
+    <td>South Zone – 3rd<br><br>(School Zonal League)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Delta League Championship U15  (Dec 2017) – Organised by Singapore Police Force &amp; National Crime Prevention Council)</td>
+    <td>Participated</td>
+  </tr>
+  <tr>
+    <td> Volleyball</td>
+    <td>South Zone Inter-Schools Volleyball Championship ‘B’ Division (Girls)</td>
+    <td>South Zone: 4th Position<br><br>Qualified for Nationals</td>
+  </tr>
+  <tr>
+    <td>Wushu</td>
+    <td>National School Games ‘B’ Boys &amp; Girls &amp; ‘C’ Girls</td>
+    <td>In Progress</td>
+  </tr>
+  <tr>
+    <td>Cross Country</td>
+    <td>National School Games ‘B’ Girls</td>
+    <td>National 30th  out of 51 schools</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>National School Games ‘B’ Boys</td>
+    <td>National 30th out of 42 schools</td>
+  </tr>
+  <tr>
+    <td>Fencing</td>
+    <td>National School Games<br><br>‘C’ Boys Epee – Thadeus Chia Juay Che<br>&amp; Jaden Tay Hao Yi</td>
+    <td>Round 2, Group of 32</td>
+  </tr>
+  <tr>
+    <td>Swimming</td>
+    <td>National School Games ‘C’ Boys 50m Freestyle &amp; 50m Backstroke -Lucas Pestana</td>
+    <td>In Progress</td>
+  </tr>
+</tbody>
+</table>	
 
 
 </p>
