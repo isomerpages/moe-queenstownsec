@@ -568,7 +568,52 @@ UNIFORM GROUP 2019 RESULTS (based on 2018 submission)
   </tr>
 </tbody>
 </table>
+
+<br>			
 			
+CLUBS 2019 RESULTS
+			
+<table style="undefined;table-layout: fixed; width: 703px">
+<colgroup>
+<col style="width: 151px">
+<col style="width: 301px">
+<col style="width: 251px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Unit</th>
+    <th>Best Unit Competition</th>
+    <th>Award</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Thinker’s Club</td>
+    <td>Inter-School National Scrabble Championship 2019 ‘B’ &amp; ‘C’ Division (Team)</td>
+    <td>Participated</td>
+  </tr>
+  <tr>
+    <td>Thinker’s Club</td>
+    <td>Secondary Schools Scrabble<br>– 9th SUPER Zonal Scrabble Competition 2019</td>
+    <td>– Champion for ‘C’ Div (South Zone)<br>– 1st Runners-up for ‘B’ Div (South Zone)<br>– ‘C’ Div Best Player (South Zone) – Wong Jun Zhuo Torance, 2C</td>
+  </tr>
+  <tr>
+    <td>Maker’s Club</td>
+    <td>Singapore Polytechnic Toy Design Competition</td>
+    <td>1 team participated &amp; attained the commendation award</td>
+  </tr>
+  <tr>
+    <td>Maker’s Club</td>
+    <td>Singapore Polytechnic National Earthquake Competition 2019</td>
+    <td>1 team participated &amp; attained the Certificate of Participation</td>
+  </tr>
+  <tr>
+    <td>Maker’s Club</td>
+    <td>2019 Singapore International 3D Printing Competitions<br>NTU</td>
+    <td>4 teams participated &amp; attained the Certificate of Participation</td>
+  </tr>
+</tbody>
+</table>			
 			
 			
 </p>
