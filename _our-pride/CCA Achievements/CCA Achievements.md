@@ -486,7 +486,8 @@ CCA Achievements
     <div>
 
  <p>
-PERFORMING ARTS – SINGAPORE YOUTH FESTIVAL ART PRESENTATION (Bi –Annual Competition)
+
+<b>PERFORMING ARTS – SINGAPORE YOUTH FESTIVAL ART PRESENTATION (Bi –Annual Competition)</b>
 
 <table style="undefined;table-layout: fixed; width: 702px">
 <colgroup>
@@ -525,7 +526,7 @@ PERFORMING ARTS – SINGAPORE YOUTH FESTIVAL ART PRESENTATION (Bi –Annual Com
 
 <br>			
 			
-UNIFORM GROUP 2019 RESULTS (based on 2018 submission)			
+<b>UNIFORM GROUP 2019 RESULTS (based on 2018 submission)</b>			
 			
 <table style="undefined;table-layout: fixed; width: 703px">
 <colgroup>
@@ -571,7 +572,7 @@ UNIFORM GROUP 2019 RESULTS (based on 2018 submission)
 
 <br>			
 			
-CLUBS 2019 RESULTS
+<b>CLUBS 2019 RESULTS</b>
 			
 <table style="undefined;table-layout: fixed; width: 703px">
 <colgroup>
@@ -617,7 +618,7 @@ CLUBS 2019 RESULTS
 			
 <br>
 			
-SPORTS 2019 RESULTS
+<b>SPORTS 2019 RESULTS</b>
 			
 <table style="undefined;table-layout: fixed; width: 705px">
 <colgroup>
@@ -734,7 +735,8 @@ SPORTS 2019 RESULTS
     <div>
 
       <p>
-Uniform Group 2018 Results
+
+<b>Uniform Group 2018 Results</b>
 				
 <table style="undefined;table-layout: fixed; width: 703px">
 <colgroup>
@@ -780,7 +782,7 @@ Uniform Group 2018 Results
 
 <br>			
 			
-Sports 2018 Results			
+<b>Sports 2018 Results</b>			
 			
 <table style="undefined;table-layout: fixed; width: 703px">
 <colgroup>
@@ -866,7 +868,7 @@ Sports 2018 Results
 
       <p>
 				
-Performing Arts – Singapore Youth Festival 2017 Art Presentation				
+<b>Performing Arts – Singapore Youth Festival 2017 Art Presentation</b>				
 
 <table style="undefined;table-layout: fixed; width: 702px">
 <colgroup>
@@ -906,7 +908,7 @@ Performing Arts – Singapore Youth Festival 2017 Art Presentation
 <br>			
 			
 			
-Uniform Group 2017 Results			
+<b>Uniform Group 2017 Results</b>			
 
 <table style="undefined;table-layout: fixed; width: 703px">
 <colgroup>
@@ -952,7 +954,7 @@ Uniform Group 2017 Results
 
 <br>			
 			
-Sports 2017 Results			
+<b>Sports 2017 Results</b>			
 
 <table style="undefined;table-layout: fixed; width: 703px">
 <colgroup>
@@ -1037,7 +1039,7 @@ Sports 2017 Results
 
 <br>			
 
-Clubs 2017 Results			
+<b>Clubs 2017 Results</b>			
 
 <table style="undefined;table-layout: fixed; width: 703px">
 <colgroup>
