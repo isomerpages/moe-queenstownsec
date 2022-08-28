@@ -102,25 +102,131 @@ CCA Achievements
     <td>6th Consective Gold</td>
   </tr>
 </tbody>
-</table>	
-
-<br>
+</table>
 		
-<b>UNIFORM GROUP 2022 RESULTS (based on 2021 submission)</b>
 
-<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 523px"><colgroup><col style="width: 121px"><col style="width: 201px"><col style="width: 201px"></colgroup><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Uniform Group</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Best Unit Competition</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Award</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">NCC</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Unit Recognition (From 2019)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">3rd Consecutive Distinction</td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Scouts (Sea)<br><br> </td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Frank Coopers Sands Award</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">10th Consecutive Gold – 2020<br><br>(No competition from 2021 to 2022)</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Girl Guides</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Puan Noor Aishah Honour Award</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Silver</td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">NPCC</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Unit Overall Proficiency Award</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">4th Consecutive Gold</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Red Cross</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Unit Excellence Award</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">6th Consective Gold</td></tr></tbody></table>
-	
 <br>
 		
 <b>CLUBS 2022 RESULTS</b>
 		
-<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 523px"><colgroup><col style="width: 121px"><col style="width: 201px"><col style="width: 201px"></colgroup><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Clubs</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Competition</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Position</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Infocomm Technology (computing)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Amazing Race (Virtual Hunter)<br><br>By Ngee Ann Poly</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Team Participation</td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Strategy Games</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">2</span>nd <span style="font-weight:bold">National Schools Scrabble Games e-Series</span><br><br> <br>‘C’ Division Team A<br>‘C’ Division Team B<br> <br>‘B’ Division Team A<br>‘B’ Division Team B<br> <br><span style="font-weight:bold">73</span>rd <span style="font-weight:bold">National Schools Individual Chess Championship</span><br> <br>Under 14 Open<br> <br> <br>Under 16 Open<br> <br> </td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"> <br><br> <br> <br>5th<br>7th<br> <br>10th<br>11th<br> <br>1st participation<br> <br> <br>Rank 34/146:<br>Asoka Aneesh<br> <br>Rank 135/145:<br>Nathan Chew Wei Zhi<br> <br>Rank 137/145:<br>Steven Zhan<br> <br>Rank 141/145:<br>Yang Ming<br> </td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Digital Media</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">#Clickart Photography Showcase 2022 – by S2 Cluster<br><br> <br>‘Our Schools, Our Stories’ Photo &amp; Video Contest 2022</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Participation<br><br> <br> <br>Participation<br> <br> </td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Maker’s Club</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Design For Good Youth Competition</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Participation<br><br>(Pending results)</td></tr></tbody></table>
+<table style="undefined;table-layout: fixed; width: 703px">
+<colgroup>
+<col style="width: 151px">
+<col style="width: 301px">
+<col style="width: 251px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Clubs</th>
+    <th>Competition</th>
+    <th>Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Infocomm Technology (computing)</td>
+    <td>Amazing Race (Virtual Hunter)<br><br>By Ngee Ann Poly</td>
+    <td>Team Participation</td>
+  </tr>
+  <tr>
+    <td>Strategy Games</td>
+    <td>2nd National Schools Scrabble Games e-Series<br><br> <br>‘C’ Division Team A<br>‘C’ Division Team B<br> <br>‘B’ Division Team A<br>‘B’ Division Team B<br> <br>73rd National Schools Individual Chess Championship<br> <br>Under 14 Open<br> <br> <br>Under 16 Open<br> <br> </td>
+    <td> <br><br> <br> <br>5th<br>7th<br> <br>10th<br>11th<br> <br>1st participation<br> <br> <br>Rank 34/146:<br>Asoka Aneesh<br> <br>Rank 135/145:<br>Nathan Chew Wei Zhi<br> <br>Rank 137/145:<br>Steven Zhan<br> <br>Rank 141/145:<br>Yang Ming<br> </td>
+  </tr>
+  <tr>
+    <td>Digital Media</td>
+    <td>#Clickart Photography Showcase 2022 – by S2 Cluster<br><br> <br>‘Our Schools, Our Stories’ Photo &amp; Video Contest 2022</td>
+    <td>Participation<br><br> <br> <br>Participation<br> <br> </td>
+  </tr>
+  <tr>
+    <td>Maker’s Club</td>
+    <td>Design For Good Youth Competition</td>
+    <td>Participation<br><br>(Pending results)</td>
+  </tr>
+</tbody>
+</table>
 
 <br>		
 		
 <b>SPORTS 2022 RESULTS</b>
 		
-<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 523px"><colgroup><col style="width: 121px"><col style="width: 201px"><col style="width: 201px"></colgroup><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Sports</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Competition</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Position</span></th></tr></thead><tbody><tr><td rowspan="2" style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Basketball<br><br>(Boys)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">National School Games, South Zone<br><br>‘B’ Division</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Participation<br><br> </td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">National School Games, South Zone<br><br>‘C’ Division</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Term 3<br><br> </td></tr><tr><td rowspan="2" style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Football<br><br>(Boys)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">National School Games, South Zone<br><br>‘B’ Division</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Quarter-Final</td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">National School Games, South Zone     ‘C’ Division</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Term 3<br><br> </td></tr><tr><td rowspan="2" style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Volleyball<br><br>(Boys)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">National School Games, South Zone<br><br>‘B’ Division<br> </td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">SZ 3rd position</td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">National School Games, South Zone<br><br>‘C’ Division<br> </td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Term 3<br><br> </td></tr><tr><td rowspan="2" style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Volleyball<br><br>(Girls)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">National School Games, South Zone<br><br>‘B’ Division<br> </td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Participation</td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">National School Games, South Zone<br><br>‘C’ Division<br> </td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Term 3<br><br> </td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Table Tennis</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">National School Games, South Zone     ‘B’ Boys<br><br> <br>National School Games, South Zone      ‘B’ Girls<br> <br>National School Games, South Zone     ‘C’ Boys<br> <br> <br> </td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Participation<br><br> <br> <br>1st Participation<br> <br> <br>1st Participation</td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Wushu</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">National School Games<br><br>‘B’ &amp; ‘C’ Boys &amp; Girls<br> <br>Taiji Quan ‘C’ Girls<br>Taiji Sword ‘C’ Girls<br> <br> </td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Participation<br><br> <br> <br>Carine Lim Kang Yee<br>4th in both discipline</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Swimming</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">National School Games<br><br> <br>200m Boys ‘C’ Breaststroke<br>50m Boys ‘C’ Freestyle<br> <br> </td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"> <br><br>Gordon Syn<br>6th position<br>3rd position</td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Track &amp; Field</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">National School Games<br><br> <br>‘C’ Girls 100m<br> <br>‘C’ Girls 400m<br> <br>‘C’ Girls 800m</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"> <br><br> <br>Melissa Boo: Participation<br> <br>Teo Sze Quyen: Semi-Finals<br> <br>Teo Sze Quyen – Finals<br> </td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Artistic Gymnastics</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">National School Games<br><br>‘C’ Girls</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Alicia Lee:<br><br>Participation</td></tr></tbody></table>		
+<table style="undefined;table-layout: fixed; width: 703px">
+<colgroup>
+<col style="width: 151px">
+<col style="width: 301px">
+<col style="width: 251px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Sports</th>
+    <th>Competition</th>
+    <th>Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="2">Basketball<br><br>(Boys)</td>
+    <td>National School Games, South Zone<br><br>‘B’ Division</td>
+    <td>Participation<br><br> </td>
+  </tr>
+  <tr>
+    <td>National School Games, South Zone<br><br>‘C’ Division</td>
+    <td>Term 3<br><br> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Football<br><br>(Boys)</td>
+    <td>National School Games, South Zone<br><br>‘B’ Division</td>
+    <td>Quarter-Final</td>
+  </tr>
+  <tr>
+    <td>National School Games, South Zone     ‘C’ Division</td>
+    <td>Term 3<br><br> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Volleyball<br><br>(Boys)</td>
+    <td>National School Games, South Zone<br><br>‘B’ Division<br> </td>
+    <td>SZ 3rd position</td>
+  </tr>
+  <tr>
+    <td>National School Games, South Zone<br><br>‘C’ Division<br> </td>
+    <td>Term 3<br><br> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Volleyball<br><br>(Girls)</td>
+    <td>National School Games, South Zone<br><br>‘B’ Division<br> </td>
+    <td>Participation</td>
+  </tr>
+  <tr>
+    <td>National School Games, South Zone<br><br>‘C’ Division<br> </td>
+    <td>Term 3<br><br> </td>
+  </tr>
+  <tr>
+    <td>Table Tennis</td>
+    <td>National School Games, South Zone     ‘B’ Boys<br><br> <br>National School Games, South Zone      ‘B’ Girls<br> <br>National School Games, South Zone     ‘C’ Boys<br> <br> <br> </td>
+    <td>Participation<br><br> <br> <br>1st Participation<br> <br> <br>1st Participation</td>
+  </tr>
+  <tr>
+    <td>Wushu</td>
+    <td>National School Games<br><br>‘B’ &amp; ‘C’ Boys &amp; Girls<br> <br>Taiji Quan ‘C’ Girls<br>Taiji Sword ‘C’ Girls<br> <br> </td>
+    <td>Participation<br><br> <br> <br>Carine Lim Kang Yee<br>4th in both discipline</td>
+  </tr>
+  <tr>
+    <td>Swimming</td>
+    <td>National School Games<br><br> <br>200m Boys ‘C’ Breaststroke<br>50m Boys ‘C’ Freestyle<br> <br> </td>
+    <td> <br><br>Gordon Syn<br>6th position<br>3rd position</td>
+  </tr>
+  <tr>
+    <td>Track &amp; Field</td>
+    <td>National School Games<br><br> <br>‘C’ Girls 100m<br> <br>‘C’ Girls 400m<br> <br>‘C’ Girls 800m</td>
+    <td> <br><br> <br>Melissa Boo: Participation<br> <br>Teo Sze Quyen: Semi-Finals<br> <br>Teo Sze Quyen – Finals<br> </td>
+  </tr>
+  <tr>
+    <td>Artistic Gymnastics</td>
+    <td>National School Games<br><br>‘C’ Girls</td>
+    <td>Alicia Lee:<br><br>Participation</td>
+  </tr>
+</tbody>
+</table>		
 
 		
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
