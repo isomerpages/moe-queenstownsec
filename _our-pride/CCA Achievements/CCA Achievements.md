@@ -23,13 +23,86 @@ CCA Achievements
 
 (Bi –Annual Competition)</b>
 						
-<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 522px"><colgroup><col style="width: 151px"><col style="width: 371px"></colgroup><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Performing Arts</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Award 2021</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Chinese Dance</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Certificate  of Accomplishment</td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Choir<br><br> </td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Certificate of Participation<br><br>(No performance due to COVID-19)</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Drama</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Certificate of Participation</td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Malay Dance</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">3rd Certificate of Distinction</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Band</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">4th Certificate of Distinction</td></tr></tbody></table>
+<table style="undefined;table-layout: fixed; width: 702px">
+<colgroup>
+<col style="width: 301px">
+<col style="width: 401px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Performing Arts</th>
+    <th>Award 2021</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chinese Dance</td>
+    <td>Certificate  of Accomplishment</td>
+  </tr>
+  <tr>
+    <td>Choir<br><br> </td>
+    <td>Certificate of Participation<br><br>(No performance due to COVID-19)</td>
+  </tr>
+  <tr>
+    <td>Drama</td>
+    <td>Certificate of Participation</td>
+  </tr>
+  <tr>
+    <td>Malay Dance</td>
+    <td>3rd Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td>Band</td>
+    <td>4th Certificate of Distinction</td>
+  </tr>
+</tbody>
+</table>
 
 <br>
 		
 <b>UNIFORM GROUP 2022 RESULTS (based on 2021 submission)</b>
 		
-<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 523px"><colgroup><col style="width: 121px"><col style="width: 201px"><col style="width: 201px"></colgroup><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Uniform Group</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Best Unit Competition</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Award</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">NCC</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Unit Recognition (From 2019)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">3rd Consecutive Distinction</td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Scouts (Sea)<br><br> </td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Frank Coopers Sands Award</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">10th Consecutive Gold – 2020<br><br>(No competition from 2021 to 2022)</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Girl Guides</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Puan Noor Aishah Honour Award</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Silver</td></tr><tr><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">NPCC</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Unit Overall Proficiency Award</td><td style="background-color:#E4DEDE;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">4th Consecutive Gold</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Red Cross</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Unit Excellence Award</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">6th Consective Gold</td></tr></tbody></table>		
+<table style="undefined;table-layout: fixed; width: 703px">
+<colgroup>
+<col style="width: 151px">
+<col style="width: 301px">
+<col style="width: 251px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Uniform Group</th>
+    <th>Best Unit Competition</th>
+    <th>Award</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>NCC</td>
+    <td>Unit Recognition (From 2019)</td>
+    <td>3rd Consecutive Distinction</td>
+  </tr>
+  <tr>
+    <td>Scouts (Sea)<br><br> </td>
+    <td>Frank Coopers Sands Award</td>
+    <td>10th Consecutive Gold – 2020<br><br>(No competition from 2021 to 2022)</td>
+  </tr>
+  <tr>
+    <td>Girl Guides</td>
+    <td>Puan Noor Aishah Honour Award</td>
+    <td>Silver</td>
+  </tr>
+  <tr>
+    <td>NPCC</td>
+    <td>Unit Overall Proficiency Award</td>
+    <td>4th Consecutive Gold</td>
+  </tr>
+  <tr>
+    <td>Red Cross</td>
+    <td>Unit Excellence Award</td>
+    <td>6th Consective Gold</td>
+  </tr>
+</tbody>
+</table>	
 
 <br>
 		
