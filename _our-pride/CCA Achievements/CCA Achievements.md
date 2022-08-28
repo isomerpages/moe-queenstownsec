@@ -1027,6 +1027,36 @@ Sports 2017 Results
   </tr>
 </tbody>
 </table>			
+
+<br>			
+
+Clubs 2017 Results			
+
+<table style="undefined;table-layout: fixed; width: 703px">
+<colgroup>
+<col style="width: 151px">
+<col style="width: 301px">
+<col style="width: 251px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Clubs</th>
+    <th>Competition</th>
+    <th>Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="2">Thinker’s Club</td>
+    <td>National Inter-School Scrabble Championship ‘B’ division (Team)</td>
+    <td>National 2nd Position</td>
+  </tr>
+  <tr>
+    <td>National Inter-School Scrabble Championship ‘B’ division</td>
+    <td>National 4th &amp; 8th</td>
+  </tr>
+</tbody>
+</table>			
 			
 </p>
 
