@@ -480,6 +480,7 @@ CCA Achievements
 <li>
   
 <input type="checkbox" id="accordion3">
+	
 <label for="accordion3">CCA Achievement 2019</label>
     
 	<div>
