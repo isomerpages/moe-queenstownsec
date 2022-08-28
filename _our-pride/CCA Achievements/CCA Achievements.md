@@ -714,8 +714,64 @@ CCA Achievements
 </tbody>
 </table>
   
-	</div>
+</div>
 	
-	</li>
-	
-	</ul>
+</li>
+
+<li>
+
+    <input type="checkbox" id="accordion4">
+
+    <label for="accordion4">CCA 2018 Results</label>
+
+  <div>
+
+      <p>Uniform Group 2018 Results
+
+<table style="undefined;table-layout: fixed; width: 703px">
+<colgroup>
+<col style="width: 151px">
+<col style="width: 301px">
+<col style="width: 251px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Unit</th>
+    <th>Best Unit Competition</th>
+    <th>Award</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>NCC</td>
+    <td>NCC Best Unit Competition</td>
+    <td>Gold</td>
+  </tr>
+  <tr>
+    <td>Scouts (Sea)</td>
+    <td>Frank Coopers Sands Award</td>
+    <td>8th Consecutive  Gold</td>
+  </tr>
+  <tr>
+    <td>Girl Guides</td>
+    <td>Puan Noor Aishah Honour Award</td>
+    <td>Silver</td>
+  </tr>
+  <tr>
+    <td>NPCC</td>
+    <td>NPCC Unit Overall Proficiency Award</td>
+    <td>Gold</td>
+  </tr>
+  <tr>
+    <td>Red Cross</td>
+    <td>RCY Unit Excellence Award</td>
+    <td>3rd Consecutive Gold</td>
+  </tr>
+</tbody>
+</table>
+
+</p>
+
+  </div>
+
+</li>
