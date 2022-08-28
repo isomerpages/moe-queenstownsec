@@ -615,6 +615,108 @@ CLUBS 2019 RESULTS
 </tbody>
 </table>			
 			
+<br>
+			
+SPORTS 2019 RESULTS
+			
+<table style="undefined;table-layout: fixed; width: 705px">
+<colgroup>
+<col style="width: 151px">
+<col style="width: 301px">
+<col style="width: 253px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Sports</th>
+    <th>Competition</th>
+    <th>Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Basketball (Boys)</td>
+    <td>National School Games, South Zone Basketball Championship ‘B’ Division</td>
+    <td>Participated</td>
+  </tr>
+  <tr>
+    <td>Basketball (Boys)</td>
+    <td>National School Games, South Zone Basketball Championship ‘C’ Division</td>
+    <td>Participated</td>
+  </tr>
+  <tr>
+    <td>Football (Boys)</td>
+    <td>National School Games Football ‘B’ Division</td>
+    <td>Qualified for League 1</td>
+  </tr>
+  <tr>
+    <td>Football (Boys)</td>
+    <td>National School Games Football ‘C Division</td>
+    <td>Qualified for League 2</td>
+  </tr>
+  <tr>
+    <td>Volleyball (Boys)</td>
+    <td>National School Games, South Zone Basketball Championship ‘B’ Division</td>
+    <td>Participated</td>
+  </tr>
+  <tr>
+    <td>Volleyball (Boys)</td>
+    <td>National School Games, South Zone Basketball Championship ‘C’ Division</td>
+    <td>South Zone – 3rd. Qualified for Nationals</td>
+  </tr>
+  <tr>
+    <td>Volleyball (Girls)</td>
+    <td>National School Games, South Zone Basketball Championship ‘B’ Division</td>
+    <td>Participated</td>
+  </tr>
+  <tr>
+    <td>Volleyball (Girls)</td>
+    <td>National School Games, South Zone Basketball Championship ‘C’ Division</td>
+    <td>South Zone – 4th.<br><br>Qualified for Nationals</td>
+  </tr>
+  <tr>
+    <td>Wushu</td>
+    <td>National School Games ‘B’ Boys, ‘B’ Girls &amp; ‘C’ Boys</td>
+    <td>Participated</td>
+  </tr>
+  <tr>
+    <td>Cross Country</td>
+    <td>National School Games ‘B’ Boys</td>
+    <td>National 39th  out of 46  schools</td>
+  </tr>
+  <tr>
+    <td>Cross Country</td>
+    <td>National School Games ‘B’ Girls</td>
+    <td>National 33th out of 45 schools</td>
+  </tr>
+  <tr>
+    <td>Cross Country</td>
+    <td>National School Games ‘C’ Boys</td>
+    <td>National 20th out of 49 schools</td>
+  </tr>
+  <tr>
+    <td>Cross Country</td>
+    <td>National School Games ‘C’ Girls</td>
+    <td>Participated.<br>Lim Yuxuan Sinead, 2G – 25th</td>
+  </tr>
+  <tr>
+    <td>Fencing</td>
+    <td>National School Games<br>‘B’ Boys Epee</td>
+    <td>Thadeus Chia Juay Che, 3D – 10th<br>Jaden Tay Hao Yi, 3C – 28th</td>
+  </tr>
+  <tr>
+    <td>Fencing</td>
+    <td>Represented Singapore in the Asian Cadet Circuit (Taiwan) U-17 Epee</td>
+    <td>Thadeus Chia Juay Che, 3D – Silver</td>
+  </tr>
+  <tr>
+    <td>Swimming</td>
+    <td>National School Games ‘C’ Boys 50m &amp; 100m Freestyle</td>
+    <td>Participated.<br>Aden Chua Cheng Feng<br>1B</td>
+  </tr>
+</tbody>
+</table>
+			
+			
 			
 </p>
 
