@@ -717,3 +717,5 @@ CCA Achievements
 </div>
 
 </li>
+	
+	</ul>
