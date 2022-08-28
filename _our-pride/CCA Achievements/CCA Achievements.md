@@ -523,6 +523,8 @@ PERFORMING ARTS – SINGAPORE YOUTH FESTIVAL ART PRESENTATION (Bi –Annual Com
 </tbody>
 </table>
 
+<br>			
+			
 UNIFORM GROUP 2019 RESULTS (based on 2018 submission)			
 			
 <table style="undefined;table-layout: fixed; width: 703px">
