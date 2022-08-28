@@ -11,13 +11,13 @@ CCA Achievements
 
 <ul class="jekyllcodex_accordion">
 
-&nbsp;&nbsp;<li>
+<li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion1" type="checkbox">
+<input id="accordion1" type="checkbox">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">CCA Achievement 2022</label>
+<label for="accordion1">CCA Achievement 2022</label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+<div>
 
 <b>PERFORMING ARTS – SINGAPORE YOUTH FESTIVAL ART PRESENTATION
 
@@ -229,18 +229,18 @@ CCA Achievements
 </table>		
 
 		
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</div>
 
 </li>
 
 
 <li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion2" type="checkbox">
+<input id="accordion2" type="checkbox">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">CCA Achievement 2020</label>
+<label for="accordion2">CCA Achievement 2020</label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+<div>
 
 <b>PERFORMING ARTS – SINGAPORE YOUTH FESTIVAL ART PRESENTATION&nbsp;(Bi –Annual Competition) (2019)</b>
 
@@ -473,7 +473,7 @@ CCA Achievements
 </tbody>
 </table>	
 	
-&nbsp;&nbsp;</div>
+</div>
 
 </li>
 	
