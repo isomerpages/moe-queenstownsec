@@ -487,9 +487,88 @@ CCA Achievements
 
  <p>
 PERFORMING ARTS – SINGAPORE YOUTH FESTIVAL ART PRESENTATION (Bi –Annual Competition)
-	 
-	 
 
+<table style="undefined;table-layout: fixed; width: 702px">
+<colgroup>
+<col style="width: 301px">
+<col style="width: 401px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Unit</th>
+    <th>Award</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chinese Dance</td>
+    <td>2nd Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td>Choir</td>
+    <td>Certificate of Accomplishment</td>
+  </tr>
+  <tr>
+    <td>Drama</td>
+    <td>Certificate of Accomplishment</td>
+  </tr>
+  <tr>
+    <td>Malay Dance</td>
+    <td>2nd Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td>Band</td>
+    <td>3rd Certificate of Distinction</td>
+  </tr>
+</tbody>
+</table>
+
+UNIFORM GROUP 2019 RESULTS (based on 2018 submission)			
+			
+<table style="undefined;table-layout: fixed; width: 703px">
+<colgroup>
+<col style="width: 151px">
+<col style="width: 301px">
+<col style="width: 251px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Unit</th>
+    <th>Best Unit Competition</th>
+    <th>Award</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>NCC</td>
+    <td>Unit Recognition (From 2019)</td>
+    <td>1st Distinction</td>
+  </tr>
+  <tr>
+    <td>Scouts (Sea)</td>
+    <td>Frank Coopers Sands Award</td>
+    <td>9th Consecutive  Gold</td>
+  </tr>
+  <tr>
+    <td>Girl Guides</td>
+    <td>Puan Noor Aishah Honour Award</td>
+    <td>1st Gold</td>
+  </tr>
+  <tr>
+    <td>NPCC</td>
+    <td>Unit Overall Proficiency Award</td>
+    <td>2nd Gold</td>
+  </tr>
+  <tr>
+    <td>Red Cross</td>
+    <td>Unit Excellence Award</td>
+    <td>4th Consecutive Gold</td>
+  </tr>
+</tbody>
+</table>
+			
+			
+			
 </p>
 
   </div>
