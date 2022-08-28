@@ -484,6 +484,7 @@ CCA Achievements
 <label for="accordion3">CCA Achievement 2019</label>
     
 	<div>
+		
 <b>PERFORMING ARTS – SINGAPORE YOUTH FESTIVAL ART PRESENTATION&nbsp;(Bi –Annual Competition)<b>			
 
 <table style="undefined;table-layout: fixed; width: 702px">
