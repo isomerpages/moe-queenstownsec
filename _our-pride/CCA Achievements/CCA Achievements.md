@@ -866,9 +866,168 @@ Sports 2018 Results
 				
 Performing Arts – Singapore Youth Festival 2017 Art Presentation				
 
-				
-				
+<table style="undefined;table-layout: fixed; width: 702px">
+<colgroup>
+<col style="width: 301px">
+<col style="width: 401px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Unit</th>
+    <th>Award</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chinese Dance</td>
+    <td>Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td>Choir</td>
+    <td>Certificate of Accomplishment</td>
+  </tr>
+  <tr>
+    <td>Drama</td>
+    <td>Certificate of Accomplishment</td>
+  </tr>
+  <tr>
+    <td>Malay Dance</td>
+    <td>Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td>Quest Band</td>
+    <td>2nd Certificate of Distinction</td>
+  </tr>
+</tbody>
+</table>				
 
+Uniform Group 2017 Results			
+
+<table style="undefined;table-layout: fixed; width: 703px">
+<colgroup>
+<col style="width: 151px">
+<col style="width: 301px">
+<col style="width: 251px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Unit</th>
+    <th>Best Unit Competition</th>
+    <th>Award</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>NCC</td>
+    <td>NCC Best Unit Competition</td>
+    <td>Silver</td>
+  </tr>
+  <tr>
+    <td>Scouts (Sea)</td>
+    <td>Frank Coopers Sands Award</td>
+    <td>7th Consecutive  Gold</td>
+  </tr>
+  <tr>
+    <td>Girl Guides</td>
+    <td>Puan Noor Aishah Honour Award</td>
+    <td>10th Consecutive Gold</td>
+  </tr>
+  <tr>
+    <td>NPCC</td>
+    <td>NPCC Unit Overall Proficiency Award</td>
+    <td>Silver</td>
+  </tr>
+  <tr>
+    <td>Red Cross</td>
+    <td>RCY Unit Excellence Award</td>
+    <td>2th Consecutive Gold</td>
+  </tr>
+</tbody>
+</table>			
+			
+Sports 2017 Results			
+
+<table style="undefined;table-layout: fixed; width: 703px">
+<colgroup>
+<col style="width: 151px">
+<col style="width: 301px">
+<col style="width: 251px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Sports</th>
+    <th>Competition</th>
+    <th>Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Basketball</td>
+    <td>South Zone Inter-Schools Basketball Championship ‘B’ Division</td>
+    <td>South Zone – 2nd Round</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Football</td>
+    <td>South Zone Inter-Schools Football Championship ‘C’ Division</td>
+    <td>South Zone – 2nd Round</td>
+  </tr>
+  <tr>
+    <td>Delta League Championship U16 (Organised by Singapore Police Force &amp; National Crime Prevention Council)</td>
+    <td>1) National: 3rd Runner-Up<br><br>2) South Zone: Champion (U15 &amp; U17)</td>
+  </tr>
+  <tr>
+    <td rowspan="3"> Volleyball</td>
+    <td>South Zone Inter-Schools Volleyball Championship ‘C’ Division (Girls)</td>
+    <td>South Zone: 4th Position</td>
+  </tr>
+  <tr>
+    <td>South Zone Inter-Schools Volleyball Championship ‘B’ Division (Boys &amp; Girls)</td>
+    <td>Participated</td>
+  </tr>
+  <tr>
+    <td>South Zone Inter-Schools Volleyball Championship ‘C’ Division (Boys)</td>
+    <td>Participated</td>
+  </tr>
+  <tr>
+    <td>Wushu</td>
+    <td>National School Games</td>
+    <td>Participated</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Cross Country</td>
+    <td>National Inter-School Cross Country ‘C’ (Girls)</td>
+    <td>National 22nd team</td>
+  </tr>
+  <tr>
+    <td>National Inter-School Cross Country ‘B’ (Girls)</td>
+    <td>National 39th team</td>
+  </tr>
+  <tr>
+    <td>National Inter-School Cross Country ‘C’ (Boys)</td>
+    <td>National 26th team</td>
+  </tr>
+  <tr>
+    <td>National Inter-School Cross Country ‘B’ (Boys)</td>
+    <td>National 15th team</td>
+  </tr>
+  <tr>
+    <td>Fencing</td>
+    <td>National Inter-School Fencing ‘C’ (Boys) – Epee</td>
+    <td>National Top 16</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>National Inter-School Fencing ‘C’ (Boys) – Foil</td>
+    <td>National Top 16</td>
+  </tr>
+  <tr>
+    <td>Swimming</td>
+    <td>National School Games</td>
+    <td>Participated</td>
+  </tr>
+</tbody>
+</table>			
+			
 </p>
 
   </div>
