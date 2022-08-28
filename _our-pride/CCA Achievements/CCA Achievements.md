@@ -476,3 +476,22 @@ CCA Achievements
 </div>
 
 </li>
+	
+<li>
+
+    <input type="checkbox" id="accordion3">
+
+    <label for="accordion3">CCA Achievements 2019</label>
+
+    <div>
+
+ <p>
+PERFORMING ARTS – SINGAPORE YOUTH FESTIVAL ART PRESENTATION (Bi –Annual Competition)
+	 
+	 
+
+</p>
+
+  </div>
+
+</li>
