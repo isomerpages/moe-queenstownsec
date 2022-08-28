@@ -778,6 +778,76 @@ Uniform Group 2018 Results
 </tbody>
 </table>				
 
+Sports 2018 Results			
+			
+<table style="undefined;table-layout: fixed; width: 703px">
+<colgroup>
+<col style="width: 151px">
+<col style="width: 301px">
+<col style="width: 251px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Sports</th>
+    <th>Competition</th>
+    <th>Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Basketball</td>
+    <td>South Zone Inter-Schools Basketball Championship ‘B’ Division</td>
+    <td>South Zone – Participated</td>
+  </tr>
+  <tr>
+    <td>Football</td>
+    <td>South Zone Inter-Schools Football Championship ‘C’ Division</td>
+    <td>South Zone –<br><br>Quarter-Finals<br>(Main Competition)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>South Zone Inter-Schools Football Championship ‘B’ Division</td>
+    <td>South Zone – 3rd<br><br>(School Zonal League)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Delta League Championship U15  (Dec 2017) – Organised by Singapore Police Force &amp; National Crime Prevention Council)</td>
+    <td>Participated</td>
+  </tr>
+  <tr>
+    <td> Volleyball</td>
+    <td>South Zone Inter-Schools Volleyball Championship ‘B’ Division (Girls)</td>
+    <td>South Zone: 4th Position<br><br>Qualified for Nationals</td>
+  </tr>
+  <tr>
+    <td>Wushu</td>
+    <td>National School Games ‘B’ Boys &amp; Girls &amp; ‘C’ Girls</td>
+    <td>In Progress</td>
+  </tr>
+  <tr>
+    <td>Cross Country</td>
+    <td>National School Games ‘B’ Girls</td>
+    <td>National 30th  out of 51 schools</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>National School Games ‘B’ Boys</td>
+    <td>National 30th out of 42 schools</td>
+  </tr>
+  <tr>
+    <td>Fencing</td>
+    <td>National School Games<br><br>‘C’ Boys Epee – Thadeus Chia Juay Che<br>&amp; Jaden Tay Hao Yi</td>
+    <td>Round 2, Group of 32</td>
+  </tr>
+  <tr>
+    <td>Swimming</td>
+    <td>National School Games ‘C’ Boys 50m Freestyle &amp; 50m Backstroke -Lucas Pestana</td>
+    <td>In Progress</td>
+  </tr>
+</tbody>
+</table>
+			
+			
 </p>
 
   </div>
