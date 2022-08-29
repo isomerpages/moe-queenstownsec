@@ -20,31 +20,37 @@ Wondering what you can do as PSGs during FHBL? [Click Here](/files/PSG_Kit_HBL_
 
 **Lo Hei Session with our School Community and Corporate Partners**
 
-![](/images/Departments/Lo%20Hei%201.jpg)
+<img src="/images/Departments/Lo%20Hei%201.jpg"  
+     style="width:85%">
 
 **Lo Hei Session with our Partners**
 
-![](/images/Departments/Lo%20Hei%202.jpg)
+<img src="/images/Departments/Lo%20Hei%202.jpg"  
+     style="width:85%">
 
 **Mr Halil briefing about Cyber-Wellness**
 
-![](/images/Departments/Lo%20Hei%203.jpg)
+<img src="/images/Departments/Lo%20Hei%203.jpg"  
+     style="width:85%">
 
 **Mr Ravindran Penning his well wishes**
 
-![](/images/Departments/Lo%20Hei%204.jpg)
+<img src="/images/Departments/Lo%20Hei%204.jpg"  
+     style="width:85%">
 
 **Mr Toh and our Principal writing well-wishes**
 
-![](/images/Departments/Lo%20Hei%205.jpg)
-
+<img src="/images/Departments/Lo%20Hei%205.jpg"  
+     style="width:85%">
 **PSG Chariperson Mdm Eileen with God of Fortune**
 
-![](/images/Departments/Lo%20Hei%206.jpg)
+<img src="/images/Departments/Lo%20Hei%206.jpg"  
+     style="width:85%">
 
 **SSD interacting with representatives from TPC**
 
-![](/images/Departments/Lo%20Hei%207.jpg)
+<img src="/images/Departments/Lo%20Hei%207.jpg"  
+     style="width:85%">
 
 **Welcoming our Community Partner**
 
@@ -116,20 +122,23 @@ Wondering what you can do as PSGs during FHBL? [Click Here](/files/PSG_Kit_HBL_
 ----------------------
 **“Rites of Passage” Ceremony for our Secondary One Students**
 
-
-![](/images/Departments/Rites%20of%20Passage%201.jpg)
+<img src="/images/Departments/Rites%20of%20Passage%201.jpg"  
+     style="width:85%">
 
 **A loving embrace**
 
-![](/images/Departments/Rites%20of%20Passage%202.jpg)
+<img src="/images/Departments/Rites%20of%20Passage%202.jpg"  
+     style="width:85%">
 
 **Declaration by the Rites of Passage Group**
 
-![](/images/Departments/Rites%20of%20Passage%203.jpg)
+<img src="/images/Departments/Rites%20of%20Passage%203.jpg"  
+     style="width:85%">
 
 **Mr Roland Chatting with his daughter**
 
-![](/images/Departments/Rites%20of%20Passage%204.jpg)
+<img src="/images/Departments/Rites%20of%20Passage%204.jpg"  
+     style="width:85%">
 
 
 **Rites of Passage Group**
