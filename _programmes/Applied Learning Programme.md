@@ -48,7 +48,7 @@ The ALP team is working on the following areas:
 <img src="/images/Programmes/ALP%201.jpg"  
      style="width:65%">
 
-Students practising their sketching skills
+<center>Students practising their sketching skills
 
 <img src="/images/Programmes/ALP%202.jpg"  
      style="width:65%">
@@ -177,3 +177,5 @@ Sec 2 students with their history teacher on their learning journey
 <img src="/images/Programmes/ALP%2028.jpg"  
      style="width:65%">
 Sec 2 students with Mdm Wong outside the Battlebox Visitor Centre
+
+</center>
