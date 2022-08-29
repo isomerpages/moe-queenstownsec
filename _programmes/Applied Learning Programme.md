@@ -44,135 +44,161 @@ The ALP team is working on the following areas:
 *   leverage on the use of ICT tools to create a more purposeful and engaging learning experience for the students.
 *   expanding the scope of our students’ experience in environmental sustainability through more future-oriented solutions such as the floating reservoir concept, smart technology in an urban environment and leveraging on technology for food sustainability.
 
-
+<center>
+	
 <img src="/images/Programmes/ALP%201.jpg"  
-     style="width:65%">
-
-<center>Students practising their sketching skills
-
+     style="width:65%"> 
+Students practising their sketching skills
+<br>
+	
 <img src="/images/Programmes/ALP%202.jpg"  
      style="width:65%">
 Student experimenting on the solar-powered energy device
-
+<br>
+	
 <img src="/images/Programmes/ALP%203.jpg"  
      style="width:65%">
 Sec 2 students on their Sec 2 ALP trip to Ocean Financial Centre
-
+<br>
+	
 <img src="/images/Programmes/ALP%204.jpg"  
      style="width:65%">
 Sec 2 students at the school field on one for the ALP lessons
-
+<br>
+	
 <img src="/images/Programmes/ALP%205.jpg"  
      style="width:65%">
 Sec 1 students doing their fieldwork sketching
-
+<br>
+	
 <img src="/images/Programmes/ALP%206.jpg"  
      style="width:65%">
 Sec 3 students working with NGO in HK as part of the Food Sustainability Programme
-
+<br>
+	
 <img src="/images/Programmes/ALP%207.jpg"  
      style="width:65%">
 Sec 3 students in their ALP trip to HK in 2017
-
+<br>
+	
 <img src="/images/Programmes/ALP%208.jpg"  
      style="width:65%">
 Sec 3 students collecting vegetables from Tai Po Market in HK
-
+<br>
 
 <img src="/images/Programmes/ALP%209.jpg"  
      style="width:65%">
 Sec 3 ALP students sorting the vegetables collected in HK 2017
-
+<br>
+	
 
 <img src="/images/Programmes/ALP%2010.jpg"  
      style="width:65%">
 Sec 1 students doing their field investigation at Lorong Halus
-
+<br>
+	
 
 <img src="/images/Programmes/ALP%2011.jpg"  
      style="width:65%">
 Our students actively engaged in food sorting and redistribution with Food Grace
-
+<br>
+	
 
 <img src="/images/Programmes/ALP%2012.jpg"  
      style="width:65%">
 Our Sec 3 students embarking on Food Drive as part of the theme on Food Sustainability
-
+<br>
+	
 
 <img src="/images/Programmes/ALP%2013.jpg"  
      style="width:65%">
 Teachers and student volunteers with the huge amount of food packed on Food Drive
-
+<br>
+	
 
 <img src="/images/Programmes/ALP%2014.jpg"  
      style="width:65%">
 Students using ICT to learn about energy security
-
+<br>
+	
 
 <img src="/images/Programmes/ALP%2015.jpg"  
      style="width:65%">
 Students and teachers at the end of the Sec 2 enrichment programme
-
+<br>
+	
 
 <img src="/images/Programmes/ALP%2016.jpg"  
      style="width:65%">
 Student showing off his solar car design in NYP
-
+<br>
+	
 
 <img src="/images/Programmes/ALP%2017.jpg"  
      style="width:65%">
 Sec 2C students engaged with the exhibits on energy sustainability
-
+<br>
+	
 
 <img src="/images/Programmes/ALP%2018.jpg"  
      style="width:65%">
 Sec 2 students showing off their solar energy powered charging device
-
+<br>
+	
 
 <img src="/images/Programmes/ALP%2019.jpg"  
      style="width:65%">
 Sec 2 students on their energy enrichment programme at Pulau Ubin
-
+<br>
+	
 
 <img src="/images/Programmes/ALP%2020.jpg"  
      style="width:65%">
 Sec 2 students learning about the design of solar car in Nanyang Poly
-
+<br>
+	
 
 <img src="/images/Programmes/ALP%2021.jpg"  
      style="width:65%">
 Sec 2 students busy with the solar car design.
-
+<br>
+	
 
 <img src="/images/Programmes/ALP%2022.jpg"  
      style="width:65%">
 Sec 2 students been briefed about Pulau Ubin micro-grid test-bed
-
+<br>
+	
 
 <img src="/images/Programmes/ALP%2023.jpg"  
      style="width:65%">
 Our partnership with CPDD Humanities and EMA
-
+<br>
+	
 
 <img src="/images/Programmes/ALP%2024.jpeg"  
      style="width:65%">
 Sec 1 express students engaged in their investigation on water sustainability
-
+<br>
+	
 
 <img src="/images/Programmes/ALP%2025.jpeg"  
      style="width:65%">
 Ms Ellie Doong helping the students to collect water for their investigation
-
+<br>
+	
 
 <img src="/images/Programmes/ALP%2026.jpeg"  
      style="width:65%">
 Happy teachers and joyful students at the end of their outdoor learning experience
-
+<br>
+	
 
 <img src="/images/Programmes/ALP%2027.jpg"  
      style="width:65%">
 Sec 2 students with their history teacher on their learning journey
-
+<br>
+	
 
 <img src="/images/Programmes/ALP%2028.jpg"  
      style="width:65%">
