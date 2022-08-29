@@ -107,11 +107,13 @@ International Biomedical Quiz 2017 - Tay Cheng Yee, 3A (right) achieved the 'Hon
 
 **The Polyolefin Company - 2-day work experience (7,8 Nov 2017)**
 
-![](/images/Departments/Science%209.jpg)
+<img src="/images/Departments/Science%209.jpg"  
+     style="width:65%">
 
 **Unity Scientific Innovation Challenge With Singapore Polytechnic And Energy Research Institute @ Ntu (uspe) 2019 2**
 
-![](/images/Departments/Science%2010.jpg)
+<img src="/images/Departments/Science%2010.jpg"  
+     style="width:65%">
 
 **Unity Scientific Innovation Challenge With Singapore Polytechnic And Energy Research Institute @ Ntu (uspe) 2019**
 
@@ -135,4 +137,4 @@ International Biomedical Quiz 2017 - Tay Cheng Yee, 3A (right) 'Honourable Menti
 <img src="/images/Departments/Science%2014.jpg"  
      style="width:45%">
 		 
-<center>Chemistry Teachers</center>		 
+<center>Chemistry Teachers</center>
