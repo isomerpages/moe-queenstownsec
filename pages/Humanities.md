@@ -75,10 +75,13 @@ Examples include
 
 **Sec 2 students with their history teacher on their learning journey**
 
-![](/images/Departments/Humanities%203.jpg)
+<img src="/images/Departments/Humanities%203.jpg"  
+     style="width:65%">
+
 
 **Sec 2 students with Mdm Wong outside the Battlebox Visitor Centre**
 
-![](/images/Departments/Humanities%204.jpg)
+<img src="/images/Departments/Humanities%204.jpg"  
+     style="width:65%">
 
 **Sec 1 geography students honing their sketching skills at the field site in Lorong Halus**
