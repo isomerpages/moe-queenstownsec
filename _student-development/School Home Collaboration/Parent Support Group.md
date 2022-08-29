@@ -54,48 +54,59 @@ Wondering what you can do as PSGs during FHBL? [Click Here](/files/PSG_Kit_HBL_
 
 **Inaugural PSG Exco Appointment Ceremony**
 
+<img src="/images/Departments/PSG%20Exco%201.jpg"  
+     style="width:70%">
 
-![](/images/Departments/PSG%20Exco%201.jpg)
 
 **Eileen @ Inagural PSG Exco Appointment Ceremony**
 
-![](/images/Departments/PSG%20Exco%202.jpg)
+<img src="/images/Departments/PSG%20Exco%202.jpg"  
+     style="width:70%">
 
 **Georgene @ Inagural PSG Exco Appointment Ceremony**
 
-![](/images/Departments/PSG%20Exco%203.jpg)
+<img src="/images/Departments/PSG%20Exco%203.jpg"  
+     style="width:70%">
 
 **Jamuna @ Inagural PSG Exco Appointment Ceremony**
 
-![](/images/Departments/PSG%20Exco%204.jpg)
+<img src="/images/Departments/PSG%20Exco%204.jpg"  
+     style="width:70%">
 
 **Josephine @ Inagural PSG Exco Appointment Ceremony**
 
-![](/images/Departments/PSG%20Exco%205.jpg)
+<img src="/images/Departments/PSG%20Exco%205.jpg"  
+     style="width:70%">
 
 **Leslie @ Inagural PSG Exco Appointment Ceremony**
 
-![](/images/Departments/PSG%20Exco%206.jpg)
+<img src="/images/Departments/PSG%20Exco%206.jpg"  
+     style="width:70%">
 
 **MiThi @ Inagural PSG Exco Appointment Ceremony**
 
-![](/images/Departments/PSG%20Exco%207.jpg)
+<img src="/images/Departments/PSG%20Exco%207.jpg"  
+     style="width:70%">
 
 **Prema @ Inagural PSG Exco Appointment Ceremony**
 
-![](/images/Departments/PSG%20Exco%208.jpg)
+<img src="/images/Departments/PSG%20Exco%208.jpg"  
+     style="width:70%">
 
 **Roland @ Inagural PSG Exco Appointment Ceremony**
 
-![](/images/Departments/PSG%20Exco%209.jpg)
+<img src="/images/Departments/PSG%20Exco%209.jpg"  
+     style="width:70%">
 
 **Sophia @ Inagural PSG Exco Appointment Ceremony**
 
-![](/images/Departments/PSG%20Exco%2010.jpg)
+<img src="/images/Departments/PSG%20Exco%2010.jpg"  
+     style="width:70%">
 
 **ThiThi @ Inagural PSG Exco Appointment Ceremony**
 
-![](/images/Departments/PSG%20Exco%2011.jpg)
+<img src="/images/Departments/PSG%20Exco%2011.jpg"  
+     style="width:70%">
 
 **Vivian @ Inagural PSG Exco Appointment Ceremony**
 
@@ -122,10 +133,3 @@ Wondering what you can do as PSGs during FHBL? [Click Here](/files/PSG_Kit_HBL_
 
 
 **Rites of Passage Group**
-
-
-
-
-
-
-
