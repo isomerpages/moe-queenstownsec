@@ -66,22 +66,25 @@ Examples include
 *   Queenstown Heritage Trail
 *   NLB Research Competition
 
+<center>
 
 ![](/images/Departments/Humanities%201.jpg)
 
-**Sec 3 express students taking part in the ASEAN Quiz**
+Sec 3 express students taking part in the ASEAN Quiz
 
 ![](/images/Departments/Humanities%202.jpg)
 
-**Sec 2 students with their history teacher on their learning journey**
+Sec 2 students with their history teacher on their learning journey
 
 <img src="/images/Departments/Humanities%203.jpg"  
      style="width:65%">
 
 
-**Sec 2 students with Mdm Wong outside the Battlebox Visitor Centre**
+Sec 2 students with Mdm Wong outside the Battlebox Visitor Centre
 
 <img src="/images/Departments/Humanities%204.jpg"  
      style="width:65%">
 
-**Sec 1 geography students honing their sketching skills at the field site in Lorong Halus**
+Sec 1 geography students honing their sketching skills at the field site in Lorong Halus
+
+</center>
