@@ -91,42 +91,48 @@ The pair of hands in the Science Curriculum Framework represents the roles of st
 
 ![](/images/Departments/Science%205.jpg)
 
+**The Polyolefin Company - 1-day plant visit (24 Oct 2017)**
 
+International Biomedical Quiz 2017 - Tay Cheng Yee, 3A (right) achieved the 'Honourable Mention'\_ Teh Xiang Ning, 3A (fourth from left), and Kylie Heng, 3A (fifth from left), achieved the 'Merit Award'
 
 ![](/images/Departments/Science%206.jpeg)
 
-
+**The Polyolefin Company 1 Day Plant Visit (24 Oct 2018)**
 
 ![](/images/Departments/Science%207.jpg)
 
-
+**The Polyolefin Company 2 Days Work Experience (13&14 Nov 2018)**
 
 ![](/images/Departments/Science%208.jpg)
 
-
+**The Polyolefin Company - 2-day work experience (7,8 Nov 2017)**
 
 ![](/images/Departments/Science%209.jpg)
 
-
+**Unity Scientific Innovation Challenge With Singapore Polytechnic And Energy Research Institute @ Ntu (uspe) 2019 2**
 
 ![](/images/Departments/Science%2010.jpg)
 
-
+**Unity Scientific Innovation Challenge With Singapore Polytechnic And Energy Research Institute @ Ntu (uspe) 2019**
 
 ![](/images/Departments/Science%2011.jpg)
 
+**International Biomedical Quiz 2017**
 
+International Biomedical Quiz 2017 - Tay Cheng Yee, 3A (right) 'Honourable Mention'\_ Teh Xiang Ning, 3A (fourth from left), and Kylie Heng, 3A (fifth from left), 'Merit Award'
 
 
 <img src="/images/Departments/Science%2012-min.jpg"  
      style="width:45%">
 
-
+<center>Physics Teachers</center>
 
 <img src="/images/Departments/Science%2013.jpg"  
      style="width:45%">
 
-
+<center>Biology Teachers</center>
 
 <img src="/images/Departments/Science%2014.jpg"  
      style="width:45%">
+		 
+<center>Chemistry Teachers</center>		 
