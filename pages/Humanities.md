@@ -67,4 +67,18 @@ Examples include
 *   NLB Research Competition
 
 
-MODAL IMAGES TO BE INSERTED HERE
+![](/images/Departments/Humanities%201.jpg)
+
+**Sec 3 express students taking part in the ASEAN Quiz**
+
+![](/images/Departments/Humanities%202.jpg)
+
+**Sec 2 students with their history teacher on their learning journey**
+
+![](/images/Departments/Humanities%203.jpg)
+
+**Sec 2 students with Mdm Wong outside the Battlebox Visitor Centre**
+
+![](/images/Departments/Humanities%204.jpg)
+
+**Sec 1 geography students honing their sketching skills at the field site in Lorong Halus**
