@@ -154,17 +154,17 @@ Sec 2 students been briefed about Pulau Ubin micro-grid test-bed
 Our partnership with CPDD Humanities and EMA
 
 
-<img src="/images/Programmes/ALP%2024.jpg"  
+<img src="/images/Programmes/ALP%2024.jpeg"  
      style="width:65%">
 Sec 1 express students engaged in their investigation on water sustainability
 
 
-<img src="/images/Programmes/ALP%2025.jpg"  
+<img src="/images/Programmes/ALP%2025.jpeg"  
      style="width:65%">
 Ms Ellie Doong helping the students to collect water for their investigation
 
 
-<img src="/images/Programmes/ALP%2026.jpg"  
+<img src="/images/Programmes/ALP%2026.jpeg"  
      style="width:65%">
 Happy teachers and joyful students at the end of their outdoor learning experience
 
