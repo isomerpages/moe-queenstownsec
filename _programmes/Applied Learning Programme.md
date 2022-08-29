@@ -44,106 +44,136 @@ The ALP team is working on the following areas:
 *   leverage on the use of ICT tools to create a more purposeful and engaging learning experience for the students.
 *   expanding the scope of our students’ experience in environmental sustainability through more future-oriented solutions such as the floating reservoir concept, smart technology in an urban environment and leveraging on technology for food sustainability.
 
-![](/images/Programmes/ALP%201.jpg)
+
+<img src="/images/Programmes/ALP%201.jpg"  
+     style="width:65%">
+
 Students practising their sketching skills
 
-![](/images/Programmes/ALP%202.jpg)
+<img src="/images/Programmes/ALP%202.jpg"  
+     style="width:65%">
 Student experimenting on the solar-powered energy device
 
-![](/images/Programmes/ALP%203.jpg)
+<img src="/images/Programmes/ALP%203.jpg"  
+     style="width:65%">
 Sec 2 students on their Sec 2 ALP trip to Ocean Financial Centre
 
-![](/images/Programmes/ALP%204.jpg)
+<img src="/images/Programmes/ALP%204.jpg"  
+     style="width:65%">
 Sec 2 students at the school field on one for the ALP lessons
 
-![](/images/Programmes/ALP%205.jpg)
+<img src="/images/Programmes/ALP%205.jpg"  
+     style="width:65%">
 Sec 1 students doing their fieldwork sketching
 
-![](/images/Programmes/ALP%206.jpg)
+<img src="/images/Programmes/ALP%206.jpg"  
+     style="width:65%">
 Sec 3 students working with NGO in HK as part of the Food Sustainability Programme
 
-![](/images/Programmes/ALP%207.jpg)
+<img src="/images/Programmes/ALP%207.jpg"  
+     style="width:65%">
 Sec 3 students in their ALP trip to HK in 2017
 
-![](/images/Programmes/ALP%208.jpg)
+<img src="/images/Programmes/ALP%208.jpg"  
+     style="width:65%">
 Sec 3 students collecting vegetables from Tai Po Market in HK
 
 
-![](/images/Programmes/ALP%209.jpg)
+<img src="/images/Programmes/ALP%209.jpg"  
+     style="width:65%">
 Sec 3 ALP students sorting the vegetables collected in HK 2017
 
 
-![](/images/Programmes/ALP%2010.jpg)
+<img src="/images/Programmes/ALP%2010.jpg"  
+     style="width:65%">
 Sec 1 students doing their field investigation at Lorong Halus
 
 
-![](/images/Programmes/ALP%2011.jpg)
+<img src="/images/Programmes/ALP%2011.jpg"  
+     style="width:65%">
 Our students actively engaged in food sorting and redistribution with Food Grace
 
 
-![](/images/Programmes/ALP%2012.jpg)
+<img src="/images/Programmes/ALP%2012.jpg"  
+     style="width:65%">
 Our Sec 3 students embarking on Food Drive as part of the theme on Food Sustainability
 
 
-![](/images/Programmes/ALP%2013.jpg)
+<img src="/images/Programmes/ALP%2013.jpg"  
+     style="width:65%">
 Teachers and student volunteers with the huge amount of food packed on Food Drive
 
 
-![](/images/Programmes/ALP%2014.jpg)
+<img src="/images/Programmes/ALP%2014.jpg"  
+     style="width:65%">
 Students using ICT to learn about energy security
 
 
-![](/images/Programmes/ALP%2015.jpg)
+<img src="/images/Programmes/ALP%2015.jpg"  
+     style="width:65%">
 Students and teachers at the end of the Sec 2 enrichment programme
 
 
-![](/images/Programmes/ALP%2016.jpg)
+<img src="/images/Programmes/ALP%2016.jpg"  
+     style="width:65%">
 Student showing off his solar car design in NYP
 
 
-![](/images/Programmes/ALP%2017.jpg)
+<img src="/images/Programmes/ALP%2017.jpg"  
+     style="width:65%">
 Sec 2C students engaged with the exhibits on energy sustainability
 
 
-![](/images/Programmes/ALP%2018.jpg)
+<img src="/images/Programmes/ALP%2018.jpg"  
+     style="width:65%">
 Sec 2 students showing off their solar energy powered charging device
 
 
-![](/images/Programmes/ALP%2019.jpg)
+<img src="/images/Programmes/ALP%2019.jpg"  
+     style="width:65%">
 Sec 2 students on their energy enrichment programme at Pulau Ubin
 
 
-![](/images/Programmes/ALP%2020.jpg)
+<img src="/images/Programmes/ALP%2020.jpg"  
+     style="width:65%">
 Sec 2 students learning about the design of solar car in Nanyang Poly
 
 
-![](/images/Programmes/ALP%2021.jpg)
+<img src="/images/Programmes/ALP%2021.jpg"  
+     style="width:65%">
 Sec 2 students busy with the solar car design.
 
 
-![](/images/Programmes/ALP%2022.jpg)
+<img src="/images/Programmes/ALP%2022.jpg"  
+     style="width:65%">
 Sec 2 students been briefed about Pulau Ubin micro-grid test-bed
 
 
-![](/images/Programmes/ALP%2023.jpg)
+<img src="/images/Programmes/ALP%2023.jpg"  
+     style="width:65%">
 Our partnership with CPDD Humanities and EMA
 
 
-![](/images/Programmes/ALP%2024.jpeg)
+<img src="/images/Programmes/ALP%2024.jpg"  
+     style="width:65%">
 Sec 1 express students engaged in their investigation on water sustainability
 
 
-![](/images/Programmes/ALP%2025.jpeg)
+<img src="/images/Programmes/ALP%2025.jpg"  
+     style="width:65%">
 Ms Ellie Doong helping the students to collect water for their investigation
 
 
-![](/images/Programmes/ALP%2026.jpeg)
+<img src="/images/Programmes/ALP%2026.jpg"  
+     style="width:65%">
 Happy teachers and joyful students at the end of their outdoor learning experience
 
 
-![](/images/Programmes/ALP%2027.jpg)
+<img src="/images/Programmes/ALP%2027.jpg"  
+     style="width:65%">
 Sec 2 students with their history teacher on their learning journey
 
 
-![](/images/Programmes/ALP%2028.jpg)
+<img src="/images/Programmes/ALP%2028.jpg"  
+     style="width:65%">
 Sec 2 students with Mdm Wong outside the Battlebox Visitor Centre
