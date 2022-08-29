@@ -76,5 +76,57 @@ The pair of hands in the Science Curriculum Framework represents the roles of st
 *   40th ACJC C.B. Paul Science Quiz (Bronze Award: Jacob Tong Wai Hong, 4A)
 *   13th Singapore National Crystal Growing Challenge organised by NUS (Certificate of Participation: May Thin Khine, 3B; Tang Wei Sze, Adora, 3B; Lee Jun Xi, Jerrel, 3B; Lee Jungwoo, 3B)
 
+![](/images/Departments/Science%202.jpg)
 
-INSERT MODAL IMAGES HERE
+**13th Singapore National Crystal Growing Competition Adora Tang And May Thin Khine From 3b**
+
+![](/images/Departments/Science%203.jpg)
+
+**13th Singapore National Crystal Growing Competition Jerrel Lee And Lee Jung Woo From 3b**
+
+![](/images/Departments/Science%204.jpg)
+
+**13th Singapore National Crystal Growing Competition**
+
+
+![](/images/Departments/Science%205.jpg)
+
+
+
+![](/images/Departments/Science%206.jpeg)
+
+
+
+![](/images/Departments/Science%207.jpg)
+
+
+
+![](/images/Departments/Science%208.jpg)
+
+
+
+![](/images/Departments/Science%209.jpg)
+
+
+
+![](/images/Departments/Science%2010.jpg)
+
+
+
+![](/images/Departments/Science%2011.jpg)
+
+
+
+
+<img src="/images/Departments/Science%2012-min.jpg"  
+     style="width:45%">
+
+
+
+<img src="/images/Departments/Science%2013.jpg"  
+     style="width:45%">
+
+
+
+<img src="/images/Departments/Science%2014.jpg"  
+     style="width:45%">
