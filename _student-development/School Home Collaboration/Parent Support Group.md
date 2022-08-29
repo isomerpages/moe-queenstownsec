@@ -104,3 +104,28 @@ Wondering what you can do as PSGs during FHBL? [Click Here](/files/PSG_Kit_HBL_
 
 ----------------------
 **“Rites of Passage” Ceremony for our Secondary One Students**
+
+
+![](/images/Departments/Rites%20of%20Passage%201.jpg)
+
+**A loving embrace**
+
+![](/images/Departments/Rites%20of%20Passage%202.jpg)
+
+**Declaration by the Rites of Passage Group**
+
+![](/images/Departments/Rites%20of%20Passage%203.jpg)
+
+**Mr Roland Chatting with his daughter**
+
+![](/images/Departments/Rites%20of%20Passage%204.jpg)
+
+
+**Rites of Passage Group**
+
+
+
+
+
+
+
