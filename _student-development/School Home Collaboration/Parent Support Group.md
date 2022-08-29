@@ -48,6 +48,7 @@ Wondering what you can do as PSGs during FHBL? [Click Here](/files/PSG_Kit_HBL_
 
 **Welcoming our Community Partner**
 
+<br><br>
 
 -----------------------
 
@@ -98,6 +99,8 @@ Wondering what you can do as PSGs during FHBL? [Click Here](/files/PSG_Kit_HBL_
 
 **Vivian @ Inagural PSG Exco Appointment Ceremony**
 
+<br><br>
+
+
 ----------------------
 **“Rites of Passage” Ceremony for our Secondary One Students**
-
