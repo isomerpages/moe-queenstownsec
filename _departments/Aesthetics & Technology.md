@@ -3,22 +3,21 @@ title: Aesthetics & Technology
 permalink: /aesthetics-technology/
 description: ""
 ---
-
 Aesthetics & Technology
 =======================
 
-##### **Vision:**
+##### **Vision**
 
 
 Passion = I<sup>2</sup>R
 
 Passion = Innovative, Independent and Resilient Learners
 
-##### **Mission:**
+##### **Mission**
 
 Nurturing **P**assionate youths who are **I**nnovative, **I**ndependent & **R**esilient Learners
 
-##### **Key Programmes & Activities:** 
+##### **Key Programmes & Activities** 
 
 *   Sec 1 Makers EL & D&T Programme Collaboration
 *   Sec 2 Makers EL & D&T Programme Collaboration
