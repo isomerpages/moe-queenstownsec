@@ -2,11 +2,11 @@ collections:
   departments:
     output: true
     order:
-      - Infocomm Technology.md
-      - Science Department.md
-      - PE.md
-      - Mother Tongue.md
-      - Mathematics.md
-      - Humanities.md
-      - English Language and Literature.md
       - Aesthetics & Technology.md
+      - English Language and Literature.md
+      - Humanities.md
+      - Mathematics.md
+      - Mother Tongue.md
+      - PE.md
+      - Science Department.md
+      - Infocomm Technology.md
