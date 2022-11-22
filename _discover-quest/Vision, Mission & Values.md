@@ -86,9 +86,10 @@ Dare To Serve  <br>
 “Berani Berkhidmat” <br>
 
 	
-
+</center>
 
 ##### **Our Philosophy:** <br>
+
 <center>
 
 We believe in the unique worth of the individual, <br>
