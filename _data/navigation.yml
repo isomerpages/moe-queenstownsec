@@ -16,22 +16,22 @@ links:
         url: /aesthetics-technology/
       - title: English Language & Literature
         url: /english/
-      - title: Student Management
-        url: /discipline/
       - title: Humanities
         url: /humanities/
-      - title: Infocomm Technology
-        url: /it-mrl/
       - title: Mathematics
         url: /mathematics/
       - title: Mother Tongue
         url: /mother-tongue/
-      - title: PE
+      - title: Physical Education
         url: /pe/
       - title: Science
         url: /science/
+      - title: Infocomm Technology
+        url: /it-mrl/
       - title: Student Development
         url: /student-development/about/
+      - title: Student Management
+        url: /discipline/
   - title: CCA
     collection: cca
   - title: Programmes
