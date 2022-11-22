@@ -5,11 +5,11 @@ description: ""
 ---
 Vision, Mission & Values
 ========================
-<center>
+
 
 ##### **Our Vision:** 
 
-
+<center>
 Leaders for Tomorrow, <br>
 
 Anchored in Values, <br>
@@ -29,9 +29,9 @@ Committed to Serve. <br>
 
 
 
-##### **Our Mission:** <br> 
+##### **Our Mission:**
 
-
+<center>
 To nurture all Queenstownians to R<sup>2</sup>ISE as future-ready leaders, <br>
 
 actively contributing to society. <br>
@@ -50,11 +50,11 @@ We are committed to cater to the needs of our students:
 Instilling in them a sense of empathy  and the motivation to be of service to the community
 
 
-<center>
+
 
 ##### **Our Core Values:** <br>
 
-
+<center>
 R<sup>2</sup>ISE <br>
 	
 </center>
@@ -74,21 +74,22 @@ _**S**_ ervice: We have the responsibility to serve our community, demonstrating
 
 _**E**_ xcellence: We will strive for the best in all that we do.
 
-<center>
+
 
 
 ##### **Our Motto:** <br>
 
+<center>
 
 Dare To Serve  <br>
 
 “Berani Berkhidmat” <br>
 
 	
-<center>
+
 
 ##### **Our Philosophy:** <br>
-
+<center>
 
 We believe in the unique worth of the individual, <br>
 
