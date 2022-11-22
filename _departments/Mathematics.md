@@ -10,7 +10,7 @@ Mathematics
 
 **SH Math:** Mdm Jayasolai
 
-#### **Vision:**  
+#### **Vision**  
 An Independent Learner, A Precise and Resilient Thinker
 
 #### **Key Programmes & Activities** 
@@ -36,7 +36,7 @@ To support Secondary Two students to make informed decisions on their subject co
 
 All in all, preparing our students to be future-ready leaders forms the cornerstone of the design of our programmes and activities.
 
-#### **Gallery:**
+#### **Gallery**
 
 Showcasing moments of Mathematics Quiz, Computational Thinking Workshop for Secondary 1 and POA Outreach for Secondary 2
 
