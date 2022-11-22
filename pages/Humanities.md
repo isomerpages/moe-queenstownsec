@@ -6,15 +6,14 @@ description: ""
 Humanities
 ==========
 
-Humanities Department
----------------------
 
-**Vision**: Critical Thinkers, Concerned Citizens with a passion for Humanities
+#### **Vision:** 
+Critical Thinkers, Concerned Citizens with a passion for Humanities
 
-**Mission**: To develop our students to be critical in thinking and be rooted to our country and heritage
+#### **Mission:**
+To develop our students to be critical in thinking and be rooted to our country and heritage
 
-**Aims &amp; Objectives**
----------------------
+#### **Aims &amp; Objectives**
 
 1.  To develop in our students’ thinking and processing skills which are essential for lifelong and independent learning ;
 
@@ -26,8 +25,10 @@ Humanities Department
 
 1.  To develop our students into citizens who have empathy towards others and will participate responsibly and sensibly in a multi-ethnic, multi-cultural and multi-religious society.
 
-**Key Programmes &amp; Activities for 2021:**
------------------------------------------
+-----
+
+#### **Key Programmes &amp; Activities:**
+
 
 **Local Field Studies and Learning Journeys :**
 
@@ -40,27 +41,20 @@ Humanities Department
 *   NUS Geography Challenge Competition&nbsp;
 *   Tourism Innovation Competition&nbsp;
 
-**Special Programmes**
-----------------------
+#### **Special Programmes:**
 
-*   Local and Overseas Learning Journeys / Field Studies
-*   Local Learning Journey / Field Studies
 
-Examples include
+**Local Learning Journeys and Field Studies**
 
 *   Pasir Ris Park (Geog)
 *   Chinatown / Little India / Bugis Village / Changi International Airport (Geog / CCE)
 *   National Museum, Ford Factory, Battlebox (History/CCE)
 
-### **Overseas**
-
-Examples include
+**Overseas Learning Journeys and Field Studies**
 
 *   Hong Kong &nbsp;(ALP, Geog, CCE)
 
-### **Competitions / Enrichment Programmes**
-
-Examples include
+**Competitions and Enrichment Programmes**
 
 *   NUS Geography Challenge
 *   Queenstown Heritage Trail
