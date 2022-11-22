@@ -7,7 +7,7 @@ Vision, Mission & Values
 ========================
 <center>
 
-<u>Our Vision:</u> <br>
+##### <u>Our Vision:</u> <br>
 
 
 Leaders for Tomorrow, <br>
@@ -29,7 +29,7 @@ Committed to Serve. <br>
 
 <center>
 
-<u>Our Mission:</u> <br> 
+##### <u>Our Mission:</u> <br> 
 
 
 To nurture all Queenstownians to R<sup>2</sup>ISE as future-ready leaders, <br>
@@ -52,7 +52,7 @@ Instilling in them a sense of empathy  and the motivation to be of service to t
 
 <center>
 
-<u>Our Core Values:</u> <br>
+##### <u>Our Core Values:</u> <br>
 
 
 R<sup>2</sup>ISE <br>
