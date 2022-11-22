@@ -47,11 +47,11 @@ Special Programs
 *   Inter-Class Debates
 *   UNSW – ICAS: Writing
 
-**Whole School**: Reading Programme
+### **Whole School**
+* Reading Programme
 
 
 
 
 <img src="/images/Departments/English.png"  
      style="width:65%">
-
