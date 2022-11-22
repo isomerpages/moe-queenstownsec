@@ -6,18 +6,18 @@ description: ""
 Mother Tongue
 =============
 
-### **Mission:**
+### **Mission**
 
 
 To create an authentic environment for MTL learning, inculcate cultural values and build a sense of ethnic identity.
 
-### **Vision:**
+### **Vision**
 
 
 _Bilingual Leaders, Global Perspectives，_  
 _Stay rooted, Stay relevant, Lifelong learning!_
 
-### **Core Values:**
+### **Core Values**
 
 
 **H O M E**
@@ -27,13 +27,13 @@ _Stay rooted, Stay relevant, Lifelong learning!_
 *   **M**aximise our contribution to the community
 *   **E**xcel in our life-long learning
 
-### **Signature Programmes:**
+### **Signature Programmes**
 
 
 *   Talent Management Programmes – Author-in-Residence
 *   Conversational Chinese and Malay (CCM)
 
-### **Key Programmes & Activities:**
+### **Key Programmes & Activities**
 
 ##### **Touch of Literature**
 
@@ -56,7 +56,7 @@ Mr Wong’s engaging and interesting sharing had enabled our students to gain in
 
 Apart from the Author-in-Residence Programme, the MTL Department is also focused in developing a love of reading among students. Our Reading Programme takes place every Thursday morning during assembly. During the reading sessions, our lower secondary students not only read classics but also curated works by local authors, while our upper secondary students read newspaper publications to be updated on current affairs. – by Soo Sien.
 
-### **Teachers:**
+### **Teachers**
 
 
 **Malay Language**
