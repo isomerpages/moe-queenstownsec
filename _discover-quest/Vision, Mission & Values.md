@@ -77,14 +77,14 @@ _**E**_ xcellence: We will strive for the best in all that we do.
 <center>
 
 
-##### <u>Our Motto</u> <br>
+##### <u>Our Motto:</u> <br>
 
 
 Dare To Serve  <br>
 
 “Berani Berkhidmat” <br>
 
-<u>Our Philosophy:</u> <br>
+##### <u>Our Philosophy:</u> <br>
 
 
 We believe in the unique worth of the individual, <br>
