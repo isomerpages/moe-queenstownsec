@@ -6,18 +6,18 @@ description: ""
 Mother Tongue
 =============
 
-#### **Mission:**
+### **Mission:**
 
 
 To create an authentic environment for MTL learning, inculcate cultural values and build a sense of ethnic identity.
 
-#### **Vision:**
+### **Vision:**
 
 
 _Bilingual Leaders, Global Perspectives，_  
 _Stay rooted, Stay relevant, Lifelong learning!_
 
-#### **Core Values:**
+### **Core Values:**
 
 
 **H O M E**
@@ -27,15 +27,15 @@ _Stay rooted, Stay relevant, Lifelong learning!_
 *   **M**aximise our contribution to the community
 *   **E**xcel in our life-long learning
 
-#### **Signature Programmes:**
+### **Signature Programmes:**
 
 
 *   Talent Management Programmes – Author-in-Residence
 *   Conversational Chinese and Malay (CCM)
 
-#### **Key Programmes & Activities:**
+### **Key Programmes & Activities:**
 
-**<u>Touch of Literature</u>**
+##### **Touch of Literature**
 
 The department has taken the bold step venturing into expanding the learning of MTL into Literature with our talents and Pop culture with our masses:
 
@@ -46,7 +46,7 @@ Seventeen students from Sec 1 and Sec 3 were awarded Certificates of Participati
 * **"Xin Kong Xia” National Schools Xinyao Singing and Songwriting Competition** <br> 
 Nine Sec 3 students were awarded Certificates of Participation in the Lyrics Writing Category, They were also in Top 3 for the Singing Category (Chorus).
 
-**<u>Author-in-Residence Programme </u>**
+##### **Author-in-Residence Programme**
 
 Author-in-Residence Programme is one of the signature programmes of the Mother Tongue Languages (MTL) Department. The objectives of the programme are to enhance students’ confidence in Chinese literary writing and to promote an appreciation of Chinese Literature among students.
 
