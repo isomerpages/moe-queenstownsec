@@ -12,7 +12,7 @@ Passion = I<sup>2</sup>R
 
 Passion = Innovative, Independent and Resilient Learners
 
-**Mission**:
+###### **Mission**:
 ------------
 
 Nurturing **P**assionate youths who are **I**nnovative, **I**ndependent & **R**esilient Learners
