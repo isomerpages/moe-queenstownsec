@@ -3,8 +3,7 @@ title: PE
 permalink: /pe/
 description: ""
 ---
-
-PE
+Physical Education
 ==
 
 **Vision**
