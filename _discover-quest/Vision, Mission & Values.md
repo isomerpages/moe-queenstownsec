@@ -77,7 +77,7 @@ _**E**_ xcellence: We will strive for the best in all that we do.
 <center>
 
 
-<u>Our Motto</u> <br>
+##### <u>Our Motto</u> <br>
 
 
 Dare To Serve  <br>
