@@ -3,23 +3,21 @@ title: Science
 permalink: /science/
 description: ""
 ---
-
-
 Science Department
 ==================
 
-**Vision**
-----------
+### **Vision**
+
 
 Confident, Creative and Motivated Learners
 
-**Mission**
------------
+### **Mission**
+
 
 To strive for innovation and excellence in Science education to prepare our students for future challenges.
 
-**Aims and Objectives**
------------------------
+### **Aims and Objectives**
+
 
 
 <img src="/images/Departments/Science%201.png"  
@@ -52,8 +50,8 @@ Although Science uses objective methods to arrive at evidence-based conclusions,
 
 The pair of hands in the Science Curriculum Framework represents the roles of students as inquirers in their learning and pursuit of science, supported by teachers and partners as facilitators of the students’ learning experiences, to impart the excitement and value of science to the students. The partnership of learning and teaching goes beyond the students and teachers to include other partners who facilitate learning in various contexts to fuel students’ sense of inquiry and innovation, to inspire them and to help them appreciate the application of science in their daily lives, society and the environment.
 
-**Special Programmes**
-----------------------
+### **Special Programmes**
+
 
 ##### Applied Learning Programme (ALP)
 
