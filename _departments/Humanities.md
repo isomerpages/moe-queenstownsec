@@ -3,15 +3,14 @@ title: Humanities
 permalink: /humanities/
 description: ""
 ---
-
 Humanities
 ==========
 
 
-#### **Vision:** 
+#### **Vision** 
 Critical Thinkers, Concerned Citizens with a passion for Humanities
 
-#### **Mission:**
+#### **Mission**
 To develop our students to be critical in thinking and be rooted to our country and heritage
 
 #### **Aims &amp; Objectives**
@@ -28,7 +27,7 @@ To develop our students to be critical in thinking and be rooted to our country 
 
 -----
 
-#### **Key Programmes &amp; Activities:**
+#### **Key Programmes &amp; Activities**
 
 
 **Local Field Studies and Learning Journeys :**
@@ -42,7 +41,7 @@ To develop our students to be critical in thinking and be rooted to our country 
 *   NUS Geography Challenge Competition&nbsp;
 *   Tourism Innovation Competition&nbsp;
 
-#### **Special Programmes:**
+#### **Special Programmes**
 
 
 **Local Learning Journeys and Field Studies**
