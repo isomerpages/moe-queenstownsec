@@ -7,7 +7,7 @@ Vision, Mission & Values
 ========================
 <center>
 
-##### **Our Vision:** <br>
+##### **Our Vision:** 
 
 
 Leaders for Tomorrow, <br>
@@ -27,7 +27,7 @@ Committed to Serve. <br>
 
 **_Committed to Serve –_** <u>Serve</u> refer to the desire to actively contribute to the society. In alignment with our school motto of ‘Dare to Serve’, we want our students to be committed to make a positive and lasting contributions to the society upholding the Singapore Spirit.
 
-<center>
+
 
 ##### **Our Mission:** <br> 
 
