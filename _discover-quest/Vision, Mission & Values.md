@@ -7,7 +7,7 @@ Vision, Mission & Values
 ========================
 <center>
 
-##### <u>Our Vision:</u> <br>
+<u>Our Vision:</u> <br>
 
 
 Leaders for Tomorrow, <br>
@@ -29,7 +29,7 @@ Committed to Serve. <br>
 
 <center>
 
-##### <u>Our Mission:</u> <br> 
+<u>Our Mission:</u> <br> 
 
 
 To nurture all Queenstownians to R<sup>2</sup>ISE as future-ready leaders, <br>
@@ -52,7 +52,7 @@ Instilling in them a sense of empathy  and the motivation to be of service to t
 
 <center>
 
-##### <u>Our Core Values:</u> <br>
+<u>Our Core Values:</u> <br>
 
 
 R<sup>2</sup>ISE <br>
@@ -77,7 +77,7 @@ _**E**_ xcellence: We will strive for the best in all that we do.
 <center>
 
 
-##### <u>Our Motto:</u> <br>
+<u>Our Motto:</u> <br>
 
 
 Dare To Serve  <br>
@@ -85,7 +85,8 @@ Dare To Serve  <br>
 “Berani Berkhidmat” <br>
 
 	
-##### <u>Our Philosophy:</u> <br>
+<center>
+<u>Our Philosophy:</u> <br>
 
 
 We believe in the unique worth of the individual, <br>
