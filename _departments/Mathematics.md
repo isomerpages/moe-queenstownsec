@@ -3,7 +3,6 @@ title: Mathematics
 permalink: /mathematics/
 description: ""
 ---
-
 Mathematics
 ===========
 
@@ -11,22 +10,23 @@ Mathematics
 
 **SH Math:** Mdm Jayasolai
 
-**Vision:**  An Independent Learner, A Precise and Resilient Thinker
+#### **Vision:**  
+An Independent Learner, A Precise and Resilient Thinker
 
-**Key Programmes & Activities** 
+#### **Key Programmes & Activities** 
 
 1.  Mathematics Quiz
 2.  Talent Management Programme: Mathematics Ascent for Higher Achievers (MAHA) 
 3.  Computational Thinking Workshop for Secondary 1 
 4.  Principles of Accounts Outreach for Secondary 2 
 
-**Achievements** 
+#### **Achievements** 
 
-Singapore & Asian School Math Olympiad (SASMO): 1 Gold, 2 Silver & 6 Bronze
+**Singapore & Asian School Math Olympiad (SASMO):** 1 Gold, 2 Silver & 6 Bronze
 
-Singapore Math Kangaroo Contest (SMKC): 2 Gold, 4 Silver & 10 Bronze
+**Singapore Math Kangaroo Contest (SMKC):** 2 Gold, 4 Silver & 10 Bronze
 
-**Department Reflection**
+#### **Department Reflection**
 
 Despite COVID-19 and safe-distancing measures, the Mathematics department continued to create authentic, interesting and engaging activities for our Queenstownians. In October, the department teachers organised Math Quizzes through social media. Students were exposed to intriguing and challenging mathematics problems beyond the classroom, with the aim of developing their metacognitive and problem solving skills.
 
@@ -36,7 +36,7 @@ To support Secondary Two students to make informed decisions on their subject co
 
 All in all, preparing our students to be future-ready leaders forms the cornerstone of the design of our programmes and activities.
 
-**Photographs:**
+#### **Gallery:**
 
 Showcasing moments of Mathematics Quiz, Computational Thinking Workshop for Secondary 1 and POA Outreach for Secondary 2
 
