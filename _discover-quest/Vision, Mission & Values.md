@@ -59,12 +59,12 @@ R<sup>2</sup>ISE <br>
 	
 </center>
 
-**R**esilience, **R**espect, **I**ntegrity, **S**ervice, **E**xcellence_ <br>
+**R**esilience, **R**espect, **I**ntegrity, **S**ervice, **E**xcellence <br>
 	
 
 
 
-**_R_**esilience**:** We have the determination to persevere and prevail in the face of challenges. 
+_**R**_ esilience: We have the determination to persevere and prevail in the face of challenges. 
 
 _**R**_ espect: We have the belief of our own self-worth and the intrinsic worth of all people.
 
