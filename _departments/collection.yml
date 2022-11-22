@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Infocomm Technology.md
       - Science Department.md
       - PE.md
       - Mother Tongue.md
