@@ -3,23 +3,22 @@ title: Mother Tongue
 permalink: /mother-tongue/
 description: ""
 ---
-
 Mother Tongue
 =============
 
-**Mission**
------------
+#### **Mission:**
+
 
 To create an authentic environment for MTL learning, inculcate cultural values and build a sense of ethnic identity.
 
-**Vision**
-----------
+#### **Vision:**
+
 
 _Bilingual Leaders, Global Perspectives，_  
 _Stay rooted, Stay relevant, Lifelong learning!_
 
-**Core Values**
----------------
+#### **Core Values:**
+
 
 **H O M E**
 
@@ -28,26 +27,24 @@ _Stay rooted, Stay relevant, Lifelong learning!_
 *   **M**aximise our contribution to the community
 *   **E**xcel in our life-long learning
 
-**Signature Programmes**
-------------------------
+#### **Signature Programmes:**
+
 
 *   Talent Management Programmes – Author-in-Residence
 *   Conversational Chinese and Malay (CCM)
 
-**Key Programmes & Activities**
--------------------------------
+#### **Key Programmes & Activities:**
 
-**Touch of Literature**
+<u>**Touch of Literature**</u>
 
 The department has taken the bold step venturing into expanding the learning of MTL into Literature with our talents and Pop culture with our masses:
 
-CL:
-
-1.  S1. The 6th National JC and Secondary School Chinese Poetry Writing Competition 2021, Sec 2/3/4 Exp/NA (9 students / talent), participation certs
-2.  Create Your Own Newspaper Competition , Sec 3 Exp/NA (10 students / talent), participation certs, 
-3.  “Script It Right” Chinese Radio Drama Script Writing Competition, Sec 1/3 Exp/NA (17 students / talent), participation certs
-
-4.“Xin Kong Xia” National Schools Xinyao Singing and Songwriting Competition, Sec 3 Exp/NA (9 students / talent), participation certs for “Lyrics Writing Category”; Top 3 for Singing Category (Chorus), but the final results are yet to be announced
+* **The 6th National JC and Secondary School Chinese Poetry Writing Competition 2021** <br> Nine students from Sec 2, Sec 3 and Sec 4 were awarded Certificates of Participation.
+* **Create Your Own Newspaper Competition** <br> Ten students from Sec 3 were awarded Certificates of Participation.
+* **“Script It Right” Chinese Radio Drama Script Writing Competition** <br> 
+Seventeen students from Sec 1 and Sec 3 were awarded Certificates of Participation.
+* **"Xin Kong Xia” National Schools Xinyao Singing and Songwriting Competition** <br> 
+Nine Sec 3 students were awarded Certificates of Participation in the Lyrics Writing Category, They were also in Top 3 for the Singing Category (Chorus).
 
 **<u>Author-in-Residence Programme</u>**
 
@@ -59,8 +56,8 @@ Mr Wong’s engaging and interesting sharing had enabled our students to gain in
 
 Apart from the Author-in-Residence Programme, the MTL Department is also focused in developing a love of reading among students. Our Reading Programme takes place every Thursday morning during assembly. During the reading sessions, our lower secondary students not only read classics but also curated works by local authors, while our upper secondary students read newspaper publications to be updated on current affairs. – by Soo Sien.
 
-**Teachers**
-------------
+### **Teachers:**
+
 
 **Malay Language**
 
@@ -78,9 +75,5 @@ Apart from the Author-in-Residence Programme, the MTL Department is also focused
 
 *   Mdm Tan Kah Geok 陈家玉师 (Head of Department 部门主任)
 *   Mdm Xu Su 徐苏师 （Senior Teacher, Chinese Language 高级教师）
-*   Miss Ang Meng Li 洪萌莉师
-*   Miss Hon Soo Sien 韩淑娴师
-*   Ms Lek Hui Ying 陆汇颖师
 *   Ms Qu Caiyan 曲彩燕师
-*   Ms Tan Li Ming 程丽敏师
 *   Ms Tang Siow Leng 邓秀玲师
