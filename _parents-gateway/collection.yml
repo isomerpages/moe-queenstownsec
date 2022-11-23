@@ -1,0 +1,6 @@
+collections:
+  parents-gateway:
+    output: true
+    order:
+      - Parents Gateway (PG) Mobile App.md
+      - Travel Declaration via Parents Gateway (PG).md

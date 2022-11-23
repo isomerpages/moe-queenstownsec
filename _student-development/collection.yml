@@ -1,0 +1,19 @@
+collections:
+  student-development:
+    output: true
+    order:
+      - About.md
+      - Basic Needs/.keep
+      - Basic Needs/Basic Needs.md
+      - Basic Needs/FAS.md
+      - Academic Support/.keep
+      - Academic Support/Education & Career Guidance.md
+      - Academic Support/Foreign Students Support.md
+      - Social Emotional Development/.keep
+      - Social Emotional Development/Social Emotional Development.md
+      - Social Emotional Development/Sexuality Education.md
+      - Social Emotional Development/Special Education Needs (SEN).md
+      - Social Emotional Development/Counselling Services.md
+      - School Home Collaboration/.keep
+      - School Home Collaboration/Parent Support Group.md
+      - School Home Collaboration/Parenting Workshop for all Parents.md

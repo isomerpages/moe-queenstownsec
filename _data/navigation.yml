@@ -1,15 +1,99 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/cropped-QTSS_Logo_V2_400x100.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About US
+    url: /about-us/discover-quest/principals-message/
+    sublinks:
+      - title: Discover Quest
+        url: /about-us/discover-quest/principals-message/
+      - title: Our Pride
+        url: /media-highlights/
+      - title: Quest Family
+        url: /about-us/quest-family/school-management-committee/
+  - title: Departments
+    url: /aesthetics-technology/
+    sublinks:
+      - title: Aesthetics & Technology
+        url: /aesthetics-technology/
+      - title: English Language & Literature
+        url: /english/
+      - title: Humanities
+        url: /humanities/
+      - title: Mathematics
+        url: /mathematics/
+      - title: Mother Tongue
+        url: /mother-tongue/
+      - title: Physical Education
+        url: /PE/
+      - title: Science
+        url: /science/
+      - title: Infocomm Technology
+        url: /it-mrl/
+      - title: Student Development
+        url: /student-development/about/
+      - title: Student Management
+        url: /discipline/
+  - title: CCA
+    collection: cca
+  - title: Programmes
+    collection: programmes
+  - title: Students
+    url: /quick-links/student-links/school-rules/
+    sublinks:
+      - title: School Rules
+        url: /quick-links/student-links/school-rules/
+      - title: Student Handbook
+        url: /quick-links/student-links/student-handbook-2/
+      - title: School Timetable
+        url: /quick-links/student-links/school-timetable/
+      - title: Student Voice
+        url: /student-voices/
+      - title: Exam Matters
+        url: /quick-links/student-links/exam-matters/
+      - title: Exam Timetable
+        url: /quick-links/student-links/exam-timetable/
+      - title: SLS Helpline
+        url: /student-learning-space/
+      - title: QTSS School Magazine
+        url: /parent-links/qtss-newsletters/
+      - title: Student Links
+        url: /quick-links/student-links/
+  - title: Parents
+    url: /parent-engagement-session/
+    sublinks:
+      - title: Parent Engagement Session
+        url: /parent-engagement-session/
+      - title: PLD Initiatives
+        url: /parent-links/pld-initiatives/
+      - title: Class Mentors List 2022
+        url: /parent-links/class-mentors-list-2022/
+      - title: Parents Gateway (PG)
+        url: /student-development/school-home-collaboration/parents-gateway-pg-mobile-app/
+      - title: Parent Support Group
+        url: /student-development/school-home-collaboration/parent-support-group/
+      - title: School Booklist
+        url: /parent-links/school-booklist/
+      - title: School Rules
+        url: /quick-links/student-links/school-rules/
+      - title: School Uniforms
+        url: /parent-links/school-uniforms/
+      - title: Schoolbag.edu.sg
+        url: https://www.schoolbag.edu.sg/
+      - title: Parent Links
+        url: /parent-links/
+  - title: School Links
+    url: /quick-links/teacher-links/
+    sublinks:
+      - title: Teacher Links
+        url: /quick-links/teacher-links/
+      - title: Direct School Admission
+        url: /admission/
+      - title: Contact Us
+        url: /about-us/contact-page/
+      - title: Environment Commitments
+        url: /green-committee/
+      - title: School Calendar
+        url: /quick-links/student-links/calendar/
+      - title: School Rules
+        url: /quick-links/student-links/school-rules/
+      - title: School Timetable
+        url: /quick-links/student-links/school-timetable/

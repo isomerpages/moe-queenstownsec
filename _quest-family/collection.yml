@@ -1,0 +1,8 @@
+collections:
+  quest-family:
+    output: true
+    order:
+      - School Management Committee.md
+      - Teaching Staff.md
+      - School Counsellor and Allied Educator (AED).md
+      - Non Teaching Staff.md
