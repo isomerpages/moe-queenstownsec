@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/QTSS Homepage GIF.gif
+      background: /images/conceptphotos_addi_ST1_2298.jpg
       key_highlights:
         - title: Annual & Prize Giving Celebration 8th August ...
           description: ""
