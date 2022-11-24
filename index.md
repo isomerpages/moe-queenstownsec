@@ -23,12 +23,6 @@ sections:
       button: Click
       url: /announcements/
   - infopic:
-      title: Full Home-Based Learning (FHBL) 19 – 28 May 2021
-      button: CLICK
-      alt: Image alt text
-      url: /quick-links/student-links/instruction-for-home-based-learning-hbl/
-      image: /images/QTSS_Logo2-247x300.png
-  - infopic:
       title: Full SBB Pilot in Queenstown Secondary School in 2020
       button: CLICK
       alt: Image alt text
@@ -40,4 +34,10 @@ sections:
       url: /admission/
       image: /images/School Links/DSA_Pic3.png
       alt: alt text image
+  - infopic:
+      title: Full Home-Based Learning (FHBL) 19 – 28 May 2021
+      button: CLICK
+      alt: Image alt text
+      url: /quick-links/student-links/instruction-for-home-based-learning-hbl/
+      image: /images/QTSS_Logo2-247x300.png
 ---
