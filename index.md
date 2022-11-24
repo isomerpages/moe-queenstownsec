@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/conceptphotos_addi_ST1_2298.jpg
       key_highlights:
-        - title: Annual & Prize Giving Celebration 8th August ...
+        - title: Queenstown Sec Open House 2022
           description: ""
-          url: https://www.queenstownsec.moe.edu.sg/lp_announcement/annual-prize-giving-celebration-8th-august-2022%e2%80%8b-live-feed/
+          url: https://queenstownsecsch.wixsite.com/openhouse2022
         - title: Sem 2 Announcement
           description: ""
           url: /lp-announcement/sem-2-announcement/
