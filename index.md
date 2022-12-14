@@ -17,7 +17,7 @@ sections:
         - title: Enrichment Programme (24 – 27 May 2022)
           description: ""
           url: /lp-announcement/enrichment-programme-24-27-may-2022/
-      background: /images/conceptphotos_top_ST1_2212.jpg
+      background: /images/Website Banner 2.jpg
   - infobar:
       title: All Announcements
       button: Click
