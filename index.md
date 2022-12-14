@@ -17,7 +17,7 @@ sections:
         - title: Enrichment Programme (24 – 27 May 2022)
           description: ""
           url: /lp-announcement/enrichment-programme-24-27-may-2022/
-      background: /images/Website_Banner_2.jpeg
+      background: /images/QTSS_Website_Banner.jpeg
   - infobar:
       title: All Announcements
       button: Click
