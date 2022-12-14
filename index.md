@@ -7,27 +7,21 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/QTSS Homepage GIF.gif
       key_highlights:
-        - title: Annual & Prize Giving Celebration 8th August ...
+        - title: Queenstown Sec Open House 2022
           description: ""
-          url: https://www.queenstownsec.moe.edu.sg/lp_announcement/annual-prize-giving-celebration-8th-august-2022%e2%80%8b-live-feed/
+          url: https://queenstownsecsch.wixsite.com/openhouse2022
         - title: Sem 2 Announcement
           description: ""
           url: /lp-announcement/sem-2-announcement/
         - title: Enrichment Programme (24 – 27 May 2022)
           description: ""
           url: /lp-announcement/enrichment-programme-24-27-may-2022/
+      background: /images/conceptphotos_top_ST1_2289.jpg
   - infobar:
       title: All Announcements
       button: Click
       url: /announcements/
-  - infopic:
-      title: Full Home-Based Learning (FHBL) 19 – 28 May 2021
-      button: CLICK
-      alt: Image alt text
-      url: /quick-links/student-links/instruction-for-home-based-learning-hbl/
-      image: /images/QTSS_Logo2-247x300.png
   - infopic:
       title: Full SBB Pilot in Queenstown Secondary School in 2020
       button: CLICK
@@ -40,4 +34,10 @@ sections:
       url: /admission/
       image: /images/School Links/DSA_Pic3.png
       alt: alt text image
+  - infopic:
+      title: Full Home-Based Learning (FHBL) 19 – 28 May 2021
+      button: CLICK
+      alt: Image alt text
+      url: /quick-links/student-links/instruction-for-home-based-learning-hbl/
+      image: /images/QTSS_Logo2-247x300.png
 ---
