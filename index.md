@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/conceptphotos_addi_ST1_2298.jpg
       key_highlights:
         - title: Queenstown Sec Open House 2022
           description: ""
