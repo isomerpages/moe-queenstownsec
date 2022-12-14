@@ -17,7 +17,7 @@ sections:
         - title: Enrichment Programme (24 – 27 May 2022)
           description: ""
           url: /lp-announcement/enrichment-programme-24-27-may-2022/
-      background: /images/conceptphotos_top_ST1_2289.jpg
+      background: /images/conceptphotos_top_ST1_2212.jpg
   - infobar:
       title: All Announcements
       button: Click
@@ -34,10 +34,4 @@ sections:
       url: /admission/
       image: /images/School Links/DSA_Pic3.png
       alt: alt text image
-  - infopic:
-      title: Full Home-Based Learning (FHBL) 19 – 28 May 2021
-      button: CLICK
-      alt: Image alt text
-      url: /quick-links/student-links/instruction-for-home-based-learning-hbl/
-      image: /images/QTSS_Logo2-247x300.png
 ---
