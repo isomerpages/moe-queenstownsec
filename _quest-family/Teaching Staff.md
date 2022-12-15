@@ -15,32 +15,32 @@ Teaching Staff
 **Assistant Year Head:** Mr Lee Wing Sheng (lee_wing_sheng@moe.edu.sg) <br>
 **Level Mentor:** Mdm Cherlyn Tan (cherlyn_tan_jin_ping@moe.edu.sg) <br>
 
-##### Secondary One <br>
+#### Secondary One <br>
 **<u>1 Gratitude (1 GR)</u>** <br>
 Ms Ellie Doong (doong_siew_gee_ellie@moe.edu.sg) <br>
 Mr Paul Yuen (yuen_weiwen_paul@moe.edu.sg) <br>
 
-<u>**1 Aspire (1 AS)**</u> <br>
+**<u>1 Aspire (1 AS)</u>** <br>
 Mr Tay Yee Kai (tay_yee_kai@moe.edu.sg) <br>
 Ms Ow Hui Keng (ow_hui_keng@moe.edu.sg) <br>
 
-<u>**1 Respect (1 RP)** </u><br>
+**<u>1 Respect (1 RP)</u>** <br>
 Mr Peng Boon Yen (boon_yen_peng@moe.edu.sg) <br>
 Mr Nelaothaman (nelaothaman_suppayan@moe.edu.sg) <br>
 
-<u>**1 Resilience (1 RL)** </u><br>
+**<u>1 Resilience (1 RL)</u>** <br>
 Mdm Amy Pang (pang_yu_ming@moe.edu.sg) <br>
 Mr Sean David (sean_david@moe.edu.sg) <br>
 
-<u>**1 Integrity (1 IN)** </u><br>
+**<u>1 Integrity (1 IN)</u>** <br>
 Mdm Nur Shiqah (nur_shiqah_hashim@moe.edu.sg) <br>
 Mr Perdana Putra (perdana_putra_pan@moe.gov.sg) <br>
 
-<u>**1 Service (1 SE)** </u><br>
+**<u>1 Service (1 SE)</u>** <br>
 Mr Chandragus Rinah (chandragus_a@moe.edu.sg) <br>
 Mdm Xu Su (xu_su@moe.edu.sg) <br>
 
-<u>**1 Excellence (1 EX)** </u><br>
+**<u>1 Excellence (1 EX)</u>** <br>
 Mr Lawrence Lim (lim_yong_hwee@moe.edu.sg) <br>
 Mdm Michelle Liang (liang_xingfen@moe.edu.sg) <br>
 
