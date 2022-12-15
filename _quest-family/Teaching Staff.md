@@ -16,7 +16,7 @@ Teaching Staff
 **Level Mentor:** Mdm Cherlyn Tan (cherlyn_tan_jin_ping@moe.edu.sg) <br>
 
 ##### Secondary One <br>
-**<u>1 Gratitude (1 GR)</u>** <br>
+<u>**1 Gratitude (1 GR)</u>** <br>
 Ms Ellie Doong (doong_siew_gee_ellie@moe.edu.sg) <br>
 Mr Paul Yuen (yuen_weiwen_paul@moe.edu.sg) <br>
 
@@ -24,53 +24,53 @@ Mr Paul Yuen (yuen_weiwen_paul@moe.edu.sg) <br>
 Mr Tay Yee Kai (tay_yee_kai@moe.edu.sg) <br>
 Ms Ow Hui Keng (ow_hui_keng@moe.edu.sg) <br>
 
-**1 Respect (1 RP)** <br>
+<u>**1 Respect (1 RP)** </u><br>
 Mr Peng Boon Yen (boon_yen_peng@moe.edu.sg) <br>
 Mr Nelaothaman (nelaothaman_suppayan@moe.edu.sg) <br>
 
-**1 Resilience (1 RL)** <br>
+<u>**1 Resilience (1 RL)** </u><br>
 Mdm Amy Pang (pang_yu_ming@moe.edu.sg) <br>
 Mr Sean David (sean_david@moe.edu.sg) <br>
 
-**1 Integrity (1 IN)** <br>
+<u>**1 Integrity (1 IN)** </u><br>
 Mdm Nur Shiqah (nur_shiqah_hashim@moe.edu.sg) <br>
 Mr Perdana Putra (perdana_putra_pan@moe.gov.sg) <br>
 
-**1 Service (1 SE)** <br>
+<u>**1 Service (1 SE)** </u><br>
 Mr Chandragus Rinah (chandragus_a@moe.edu.sg) <br>
 Mdm Xu Su (xu_su@moe.edu.sg) <br>
 
-**1 Excellence (1 EX)** <br>
+<u>**1 Excellence (1 EX)** </u><br>
 Mr Lawrence Lim (lim_yong_hwee@moe.edu.sg) <br>
 Mdm Michelle Liang (liang_xingfen@moe.edu.sg) <br>
 
 ##### Secondary Two<br>
 
-**2 Gratitude (2 GR)**<br>
+<u>**2 Gratitude (2 GR)**</u><br>
 Mr Ian Leong (ian_leong@moe.edu.sg)<br>
 Ms Shermaine Chan (shermine_chan_pei_wen@moe.edu.sg)<br>
 
-**2 Aspire (2 AS)**<br>
+<u>**2 Aspire (2 AS)**</u><br>
 Mr Daniel Foo (foo_chuan_yee_daniel@moe.edu.sg)<br>
 Ms Siti Nur Aisyah (siti_nur_aisyah_shawall@moe.edu.sg)<br>
 
-**2 Respect (2 RP)**<br>
+<u>**2 Respect (2 RP)**</u><br>
 Ms Nancy Ng (ng_li_khoon@moe.edu.sg)<br>
 Mr Sean Ng (ng_wern_chin@moe.edu.sg)<br>
 
-**2 Resilience (2 RL)**<br>
+<u>**2 Resilience (2 RL)**</u><br>
 Mrs Muthi (vijayarani_govindasamy@moe.edu.sg)<br>
 Mr Peter Fu (fu_ruiqi@moe.edu.sg)<br>
 
-**2 Integrity (2 IN)**<br>
+<u>**2 Integrity (2 IN)**</u><br>
 Mr Melvin Tan (tan_wee_yau_melvin@moe.edu.sg)<br>
 Mdm Rozita (rozita_beram@moe.edu.sg)<br>
 
-**2 Service (2 SE)**<br>
+<u>**2 Service (2 SE)**</u><br>
 Mdm Neo Chai Meng<br>
 Mr Justin Goh (goh_yong_seng_justin@moe.edu.sg)<br>
 
-**2 Excellence (2 EX)**<br>
+<u>**2 Excellence (2 EX)**</u><br>
 Mr Adrian Chia (chia_wen_mien_adrian@moe.edu.sg)<br>
 Mr Lim Jit Hiang (lim_jit_hiang@moe.edu.sg)<br>
 
@@ -83,69 +83,71 @@ Mr Lim Jit Hiang (lim_jit_hiang@moe.edu.sg)<br>
 
 ##### Secondary Three<br>
 
-**3 Gratitude (3 GR)**<br>
+<u>**3 Gratitude (3 GR)**</u><br>
 Mrs Dass (sakunthalai_surian@moe.edu.sg) <br>
 Mdm Qu Caiyan (qu_caiyan@moe.edu.sg)<br>
 
-**3 Aspire (3 AS)**<br>
+<u>**3 Aspire (3 AS)**</u><br>
 Mdm Koh Gek Khim (koh_gek_khim@moe.edu.sg)<br>
 Mdm Stella Ng (	ng_kiat_ee_stella@moe.edu.sg)<br>
 Mr Benedict Ong (ong_yen_siong_benedict@moe.edu.sg)<br>
 
-**3 Respect (3 RP)**<br>
+<u>**3 Respect (3 RP)**</u><br>
 Ms Azlina (azlina_ali@moe.edu.sg)<br>
 Mr Matthias Wan (wan_zi_cheng@moe.edu.sg)<br>
 
-**3 Resilience (3 RL)**<br>
+<u>**3 Resilience (3 RL)**</u><br>
 Mdm Jayasolai (jayasolai_a@moe.edu.sg)<br>
 Mr Saratkumar (saratkumar_ganasekaran@moe.edu.sg)<br>
 
-**3 Integrity (3 IN)**<br>
+<u>**3 Integrity (3 IN)**</u><br>
 Ms Noryanti (noryanti_md_aris@moe.edu.sg)<br>
 Mdm Tang Siow Leng (tang_siow_leng@moe.edu.sg)<br>
 
-**3 Service (3 SE)**<br>
+<u>**3 Service (3 SE)**</u><br>
 Ms Chan Chu Yin (chan_chu_yin@moe.edu.sg)<br>
 Mr Chia Teck Seng (chia_teck_seng@moe.edu.sg)<br>
 
-**3 Excellence (3 EX)**<br>
+<u>**3 Excellence (3 EX)**</u><br>
 Mdm Minna Koh (koh_minna@moe.edu.sg)<br>
 Ms Germaine Jacolyn Peter (germaine_jacolyn_peter@moe.edu.sg)<br>
 
 ##### Secondary Four <br>
 
-**4 Gratitude (4 GR)**<br>
+<u>**4 Gratitude (4 GR)**</u><br>
 Mdm Hor Kah Yan (hor_kah_yan@moe.edu.sg)<br>
 Mdm Kousalya (sundaram_kousalya@moe.edu.sg)<br>
 Ms Ho Si Hui (ho_si_hui@moe.edu.sg)<br>
 
-4 Aspire (4 AS)<br>
+<u>**4 Aspire (4 AS)**</u><br>
 Mr Jansen Yuen (yuen_cheng_mun_jansen@moe.edu.sg)<br>
 Ms Ng Kai Jun (ng_kai_jun_a@moe.edu.sg)<br>
 
-4 Respect (4 RP)<br>
+<u>**4 Respect (4 RP)**</u><br>
 Mr Thomas Tan (tan_wei_boon_thomas@moe.edu.sg)<br>
 Mdm Yeo Gek Eng (yeo_gek_eng@moe.edu.sg)<br>
 
-4 Resilience (4 RL)<br>
+<u>**4 Resilience (4 RL)**</u><br>
 Ms Nur Haryani (nur_haryani_mohamed_hatta@moe.edu.sg)<br>
 Ms Law Geok Cheng (law_geok_cheng@moe.edu.sg)<br>
 Miss Jaslyn Shalini A R (jayasolai_a@moe.edu.sg)<br>
 
-4 Integrity (4 IN)<br>
+<u>**4 Integrity (4 IN)**</u><br>
 Mdm Cynthia Chang (chang_yee_ping_cynthia@moe.edu.sg)<br>
 Mrs Grace Gan (khoo_siew_hwee@moe.edu.sg)<br>
 
-4 Service (4 SE)<br>
+<u>**4 Service (4 SE)**</u><br>
 Mr Muhammad Fazari (fazari_othman_muhammad@moe.edu.sg)<br>
 Mr Lim Li Cheng (lim_li_cheng@moe.edu.sg)<br>
 
-4 Excellence (4 EX)<br>
+<u>**4 Excellence (4 EX)**</u><br>
 Mdm Farhati (farhati_ahmad@moe.edu.sg)<br>
 Mdm Yahida Yahya (yahida_yahya@moe.edu.sg)<br>
 Mdm Michelle Phoo (phoo_wey_wey@moe.edu.sg)<br>
 
 ##### Secondary Five <br>
+
+<u>**5 Gratitude (5 GR)**</u><br>
 Ms Amanda Liu (liu_yuanxin_amanda@moe.edu.sg)<br>
 
 
