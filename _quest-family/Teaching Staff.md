@@ -16,7 +16,7 @@ Teaching Staff
 **Level Mentor:** Mdm Cherlyn Tan (cherlyn_tan_jin_ping@moe.edu.sg) <br>
 
 ##### Secondary One <br>
-<u>**1 Gratitude (1 GR)</u>** <br>
+**<u>1 Gratitude (1 GR)</u>** <br>
 Ms Ellie Doong (doong_siew_gee_ellie@moe.edu.sg) <br>
 Mr Paul Yuen (yuen_weiwen_paul@moe.edu.sg) <br>
 
