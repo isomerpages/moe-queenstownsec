@@ -88,33 +88,33 @@ Mr Lim Jit Hiang <a href = "mailto: lim_jit_hiang@moe.edu.sg" >(lim_jit_hiang@mo
 #### Secondary Three<br>
 
 **<u>3 Gratitude (3 GR)</u>** <br>
-Mrs Dass (sakunthalai_surian@moe.edu.sg) <br>
-Mdm Qu Caiyan (qu_caiyan@moe.edu.sg)<br>
+Mrs Dass <a href = "mailto: sakunthalai_surian@moe.edu.sg" >(sakunthalai_surian@moe.edu.sg)</a><br>
+Mdm Qu Caiyan <a href = "mailto: qu_caiyan@moe.edu.sg" >(qu_caiyan@moe.edu.sg)</a><br>
 
 **<u>3 Aspire (3 AS)</u>** <br>
-Mdm Koh Gek Khim (koh_gek_khim@moe.edu.sg)<br>
-Mdm Stella Ng (	ng_kiat_ee_stella@moe.edu.sg)<br>
-Mr Benedict Ong (ong_yen_siong_benedict@moe.edu.sg)<br>
+Mdm Koh Gek Khim <a href = "mailto: koh_gek_khim@moe.edu.sg" >(koh_gek_khim@moe.edu.sg)</a><br>
+Mdm Stella Ng <a href = "mailto: ng_kiat_ee_stella@moe.edu.sg" >(ng_kiat_ee_stella@moe.edu.sg)</a><br>
+Mr Benedict Ong <a href = "mailto: ong_yen_siong_benedict@moe.edu.sg" >(ong_yen_siong_benedict@moe.edu.sg)</a><br>
 
 **<u>3 Respect (3 RP)</u>** <br>
-Ms Azlina (azlina_ali@moe.edu.sg)<br>
-Mr Matthias Wan (wan_zi_cheng@moe.edu.sg)<br>
+Ms Azlina <a href = "mailto: azlina_ali@moe.edu.sg" >(azlina_ali@moe.edu.sg)</a><br>
+Mr Matthias Wan <a href = "mailto: wan_zi_cheng@moe.edu.sg" >(wan_zi_cheng@moe.edu.sg)</a><br>
 
 **<u>3 Resilience (3 RL)</u>** <br>
-Mdm Jayasolai (jayasolai_a@moe.edu.sg)<br>
-Mr Saratkumar (saratkumar_ganasekaran@moe.edu.sg)<br>
+Mdm Jayasolai <a href = "mailto: jayasolai_a@moe.edu.sg" >(jayasolai_a@moe.edu.sg)</a><br>
+Mr Saratkumar <a href = "mailto: rsaratkumar_ganasekaran@moe.edu.sg" >(saratkumar_ganasekaran@moe.edu.sg)</a><br>
 
 **<u>3 Integrity (3 IN)</u>** <br>
-Ms Noryanti (noryanti_md_aris@moe.edu.sg)<br>
-Mdm Tang Siow Leng (tang_siow_leng@moe.edu.sg)<br>
+Ms Noryanti <a href = "mailto: noryanti_md_aris@moe.edu.sg" >(noryanti_md_aris@moe.edu.sg)</a><br>
+Mdm Tang Siow Leng <a href = "mailto: tang_siow_leng@moe.edu.sg" >(tang_siow_leng@moe.edu.sg)</a><br>
 
 **<u>3 Service (3 SE)</u>** <br>
-Ms Chan Chu Yin (chan_chu_yin@moe.edu.sg)<br>
-Mr Chia Teck Seng (chia_teck_seng@moe.edu.sg)<br>
+Ms Chan Chu Yin <a href = "mailto: chan_chu_yin@moe.edu.sg" >(chan_chu_yin@moe.edu.sg)</a><br>
+Mr Chia Teck Seng <a href = "mailto: chia_teck_seng@moe.edu.sg" >(chia_teck_seng@moe.edu.sg)</a><br>
 
 **<u>3 Excellence (3 EX)</u>** <br>
-Mdm Minna Koh (koh_minna@moe.edu.sg)<br>
-Ms Germaine Jacolyn Peter (germaine_jacolyn_peter@moe.edu.sg)<br>
+Mdm Minna Koh <a href = "mailto: koh_minna@moe.edu.sg" >(koh_minna@moe.edu.sg)</a><br>
+Ms Germaine Jacolyn Peter <a href = "mailto: germaine_jacolyn_peter@moe.edu.sg" >(germaine_jacolyn_peter@moe.edu.sg)</a><br>
 
 #### Secondary Four <br>
 
