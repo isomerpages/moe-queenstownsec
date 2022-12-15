@@ -16,7 +16,7 @@ Teaching Staff
 | ST Design & Technology  | Mr Ng Wern Chin Sean     | <a href = "mailto: ng_wern_chin@moe.edu.sg"> ng_wern_chin@moe.edu.sg </a>      |
 | ST Mathematics  | Mdm Neo Chai Meng     | <a href = "mailto: neo_chai_meng@moe.edu.sg"> neo_chai_meng@moe.edu.sg</a>      |
 | ST Chinese Language  | Ms Law Geok Cheng     | <a href = "mailto: law_geok_cheng@moe.edu.sg"> law_geok_cheng@schools.gov.sg</a>      |
-
+| | | |
 
 ![](/images/conceptphotos_top_ST1_1849.jpg)
 ### **CLASS MENTORS (SEM 1 2023)**
@@ -28,7 +28,7 @@ Teaching Staff
 | Year Head    | Ms Han Chin Woon, Janice   | <a href = "mailto: han_chin_woon_janice@moe.edu.sg">han_chin_woon_janice@moe.edu.sg</a>     |
 | Assistant Year Head    | Mr Lee Wing Sheng   | <a href = "mailto: lee_wing_sheng@moe.edu.sg">lee_wing_sheng@moe.edu.sg</a>    |
 | Level Mentor    | Mdm Cherlyn Tan Jin Ping   | <a href = "mailto: cherlyn_tan_jin_ping@moe.edu.sg" > cherlyn_tan_jin_ping@moe.edu.sg</a>   |
-
+| | | |
 
 #### Secondary One <br>
 
@@ -99,7 +99,7 @@ Mr Lim Jit Hiang <a href = "mailto: lim_jit_hiang@moe.edu.sg" >(lim_jit_hiang@mo
 | Year Head     | Ms Kang Poh Geok    | <a href = "mailto: kang_poh_geok@moe.edu.sg" >kang_poh_geok@moe.edu.sg</a>    |
 | Coordinator    | Ms Nur Haryani     | <a href = "mailto: nur_haryani_mohamed_hatta@moe.edu.sg" > nur_haryani_mohamed_hatta@moe.edu.sg</a>  |
 | Level Mentor   | Mdm Siti Nur Shahidah      | <a href = "mailto: siti_nur_shahidah_mohd@moe.edu.sg" > siti_nur_shahidah_mohd@moe.edu.sg</a> |
-
+| | | |
 
 #### Secondary Three<br>
 
