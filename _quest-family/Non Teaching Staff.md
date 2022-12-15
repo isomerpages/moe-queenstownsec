@@ -5,6 +5,7 @@ description: ""
 ---
 Non-Teaching Staff
 ==================
+
 | Appointment |Name | Email Address |
 | -------- | -------- | -------- |
 | Admin Manager| Mr Arjuna Rahmat Basro| <a href = "mailto: arjuna_rahmat_basro@schools.gov.sg"> arjuna_rahmat_basro@schools.gov.sg</a>      |
