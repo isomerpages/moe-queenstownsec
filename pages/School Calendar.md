@@ -7,4 +7,4 @@ School Calendar
 ===============
 
 
-[School Calendar](https://calendar.google.com/calendar/u/2?cid=cXVlZW5zdG93bnNlYy5lZHUuc2dfam5xa2t0YzE4NWlzYmgzcXM1NGRycWJscWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+<iframe src="https://calendar.google.com/calendar/embed?src=queenstownsec.edu.sg_jnqkktc185isbh3qs54drqblqc%40group.calendar.google.com&ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
