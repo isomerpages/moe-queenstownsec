@@ -81,9 +81,9 @@ Mr Lim Jit Hiang <a href = "mailto: lim_jit_hiang@moe.edu.sg" >(lim_jit_hiang@mo
 
 ### Upper Secondary <br>
 
-**Year Head:** Ms Kang Poh Geok (kang_poh_geok@moe.edu.sg)<br>
-**Coordinator:** Ms Nur Haryani (nur_haryani_mohamed_hatta@moe.edu.sg)<br>
-**Level Mentor:** Mdm Siti Nur Shahidah (siti_nur_shahidah_mohd@moe.edu.sg)<br>
+**Year Head:** Ms Kang Poh Geok <a href = "mailto: kang_poh_geok@moe.edu.sg" >(kang_poh_geok@moe.edu.sg)</a><br>
+**Coordinator:** Ms Nur Haryani <a href = "mailto: nur_haryani_mohamed_hatta@moe.edu.sg" >(nur_haryani_mohamed_hatta@moe.edu.sg)</a><br>
+**Level Mentor:** Mdm Siti Nur Shahidah <a href = "mailto: siti_nur_shahidah_mohd@moe.edu.sg" >(siti_nur_shahidah_mohd@moe.edu.sg)</a><br>
 
 #### Secondary Three<br>
 
