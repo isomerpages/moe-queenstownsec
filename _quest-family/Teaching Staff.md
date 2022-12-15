@@ -20,32 +20,32 @@ Teaching Staff
 #### Secondary One <br>
 
 **<u>1 Gratitude (1 GR)</u>** <br>
-Ms Ellie Doong (doong_siew_gee_ellie@moe.edu.sg) <br>
-Mr Paul Yuen (yuen_weiwen_paul@moe.edu.sg) <br>
+Ms Ellie Doong <a href = "mailto: doong_siew_gee_ellie@moe.edu.sg" >(doong_siew_gee_ellie@moe.edu.sg)</a><br>
+Mr Paul Yuen <a href = "mailto: yuen_weiwen_paul@moe.edu.sg" >(yuen_weiwen_paul@moe.edu.sg)</a><br>
 
 **<u>1 Aspire (1 AS)</u>** <br>
-Mr Tay Yee Kai (tay_yee_kai@moe.edu.sg) <br>
-Ms Ow Hui Keng (ow_hui_keng@moe.edu.sg) <br>
+Mr Tay Yee Kai <a href = "mailto: tay_yee_kai@moe.edu.sg" >(tay_yee_kai@moe.edu.sg)</a><br>
+Ms Ow Hui Keng <a href = "mailto: ow_hui_keng@moe.edu.sg" >(ow_hui_keng@moe.edu.sg)</a><br>
 
 **<u>1 Respect (1 RP)</u>** <br>
-Mr Peng Boon Yen (boon_yen_peng@moe.edu.sg) <br>
-Mr Nelaothaman (nelaothaman_suppayan@moe.edu.sg) <br>
+Mr Peng Boon Yen <a href = "mailto: boon_yen_peng@moe.edu.sg" >(boon_yen_peng@moe.edu.sg)</a><br>
+Mr Nelaothaman <a href = "mailto: nelaothaman_suppayan@moe.edu.sg" >(nelaothaman_suppayan@moe.edu.sg)</a><br>
 
 **<u>1 Resilience (1 RL)</u>** <br>
-Mdm Amy Pang (pang_yu_ming@moe.edu.sg) <br>
-Mr Sean David (sean_david@moe.edu.sg) <br>
+Mdm Amy Pang <a href = "mailto: pang_yu_ming@moe.edu.sg" >(pang_yu_ming@moe.edu.sg)</a><br>
+Mr Sean David <a href = "mailto: sean_david@moe.edu.sg" >(sean_david@moe.edu.sg)</a><br>
 
 **<u>1 Integrity (1 IN)</u>** <br>
-Mdm Nur Shiqah (nur_shiqah_hashim@moe.edu.sg) <br>
-Mr Perdana Putra (perdana_putra_pan@moe.gov.sg) <br>
+Mdm Nur Shiqah <a href = "mailto: nur_shiqah_hashim@moe.edu.sg" >(nur_shiqah_hashim@moe.edu.sg)</a><br>
+Mr Perdana Putra <a href = "mailto: perdana_putra_pan@moe.edu.sg" >(perdana_putra_pan@moe.edu.sg)</a><br>
 
 **<u>1 Service (1 SE)</u>** <br>
-Mr Chandragus Rinah (chandragus_a@moe.edu.sg) <br>
-Mdm Xu Su (xu_su@moe.edu.sg) <br>
+Mr Chandragus Rinah <a href = "mailto: chandragus_a@moe.edu.sg" >(chandragus_a@moe.edu.sg)</a><br>
+Mdm Xu Su <a href = "mailto: xu_su@moe.edu.sg" >(xu_su@moe.edu.sg)</a><br>
 
 **<u>1 Excellence (1 EX)</u>** <br>
-Mr Lawrence Lim (lim_yong_hwee@moe.edu.sg) <br>
-Mdm Michelle Liang (liang_xingfen@moe.edu.sg) <br>
+Mr Lawrence Lim <a href = "mailto: lim_yong_hwee@moe.edu.sg" >(lim_yong_hwee@moe.edu.sg)</a><br>
+Mdm Michelle Liang <a href = "mailto: liang_xingfen@moe.edu.sg" >(liang_xingfen@moe.edu.sg)</a><br>
 
 #### Secondary Two<br>
 
