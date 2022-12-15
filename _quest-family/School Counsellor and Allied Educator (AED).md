@@ -12,5 +12,4 @@ School Counsellor and Allied Educator (AED)
 | Special Education Needs Officer  | Ms Toh Zi Qian Joyce| <a href = "mailto: toh_zi_qian@moe.gov.sg"> toh_zi_qian@moe.gov.sg </a>      |
 | Student Welfare Officer  | Ms Hemalatha d/o R Rajendran| <a href = "mailto: hemalatha_rrajendran@moe.gov.sg"> hemalatha_rrajendran@moe.gov.sg </a>      |
 
-
-
+<br>
