@@ -16,18 +16,25 @@ School Booklist
 
 #### Secondary 2
 
-
+- [Sec 2 EXP](/files/QTSS%20S2E.pdf)
+- [Sec 2 NA](/files/QTSS%20S2NA.pdf)
+- [Sec 2 NT](/files/QTSS%20S2NT.pdf)
 
 #### Secondary 3
 
-
+- [Sec 3 EXP](/files/QTSS%20S3E.pdf)
+- [Sec 3 NA](/files/QTSS%20S3NA.pdf)
+- [Sec 3 NT](/files/QTSS%20S3NT.pdf)
 
 #### Secondary 4
 
-
+- [Sec 4 EXP](/files/QTSS%20S4E.pdf)
+- [Sec 4 NA](/files/QTSS%20S4NA.pdf)
+- [Sec 4 NT](/files/QTSS%20S4NT.pdf)
 
 #### Secondary 5
 
+- [Sec 5 NA](/files/QTSS%20S5NA.pdf)
 
 
 -------------------
