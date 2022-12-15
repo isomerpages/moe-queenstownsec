@@ -28,6 +28,12 @@ School Management Committee
 | HOD Special Education Needs | Ms Leuar Woan Khi | <a href = "leuar_woan_khi@moe.gov.sg"> leuar_woan_khi@moe.edu.sg</a>      |
 | Year Head (Lower Sec)| Mdm Han Chin Woon Janice | <a href = "han_chin_woon_janice@moe.edu.sg"> han_chin_woon_janice@moe.edu.sg</a>      |
 | Year Head (Upper Sec)| Ms Kang Poh Geok | <a href = "kang_poh_geok@moe.edu.sg"> kang_poh_geok@moe.edu.sg</a>      |
+| Assistant Year Head| Mr Lee Wing Sheng | <a href = "lee_wing_sheng@moe.edu.sg"> lee_wing_sheng@moe.edu.sg</a>      |
+| SH English Language| Mr Perdana Putra | <a href = "perdana_putra_pan@moe.edu.sg"> perdana_putra_pan@moe.edu.sg</a>      |
+| SH Mathematics| Mdm Jayasolai | <a href = "jayasolai_a@moe.edu.sg"> jayasolai_a@moe.edu.sg</a>      |
+| SH History| Ms Azlina Bte Ali | <a href = "azlina_ali@moe.edu.sg"> azlina_ali@moe.edu.sg</a>      |
+| SH Physical Education| Mdm Koh Minna | <a href = "koh_minna@moe.edu.sg"> koh_minna@moe.edu.sg</a>      |
+
 
 
 <br>
