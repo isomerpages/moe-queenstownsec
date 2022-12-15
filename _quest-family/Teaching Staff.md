@@ -8,6 +8,8 @@ Teaching Staff
 
 ### **CLASS MENTOR LIST (SEM 1 2023)**
 
+![](/images/conceptphotos_top_ST1_1849.jpg)
+
 ### Lower Secondary <br>
 **Year Head:** Ms Janice Woon (han_chin_woon_janice@moe.edu.sg) <br>
 **Assistant Year Head:** Mr Lee Wing Sheng (lee_wing_sheng@moe.edu.sg) <br>
@@ -71,6 +73,8 @@ Mr Justin Goh (goh_yong_seng_justin@moe.edu.sg)<br>
 **2 Excellence (2 EX)**<br>
 Mr Adrian Chia (chia_wen_mien_adrian@moe.edu.sg)<br>
 Mr Lim Jit Hiang (lim_jit_hiang@moe.edu.sg)<br>
+
+![](/images/conceptphotos_top_ST1_1992.jpg)
 
 ### Upper Secondary <br>
 **Year Head:** Ms Kang Poh Geok (kang_poh_geok@moe.edu.sg)<br>
