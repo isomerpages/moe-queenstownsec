@@ -10,6 +10,12 @@ School Management Committee
 
 | Appointment |Name | Email Address |
 | -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+
+| Appointment |Name | Email Address |
+| -------- | -------- | -------- |
 | Principal    | Mr Sim How Chong     | <a href = "mailto: sim_how_chong@schools.gov.sg"> sim_how_chong@schools.gov.sg</a>      |
 | Vice-Principal    | Mr Tan Tai Huat     | <a href = "mailto: tan_tai_huat@schools.gov.sg"> tan_tai_huat@schools.gov.sg</a>      |
 | Vice-Principal    | Mrs Yue-Chang Teck Hui    | <a href = "mailto: chang_teck_hui@schools.gov.sg"> chang_teck_hui@schools.gov.sg</a>      |
