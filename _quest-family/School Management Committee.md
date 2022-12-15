@@ -6,12 +6,19 @@ description: ""
 School Management Committee
 ===========================
 
+### School Leaders
 
 | Appointment |Name | Email Address |
 | -------- | -------- | -------- |
 | Principal    | Mr Sim How Chong     | <a href = "mailto: sim_how_chong@schools.gov.sg"> sim_how_chong@schools.gov.sg</a>      |
 | Vice-Principal    | Mr Tan Tai Huat     | <a href = "mailto: tan_tai_huat@schools.gov.sg"> tan_tai_huat@schools.gov.sg</a>      |
 | Vice-Principal    | Mrs Yue-Chang Teck Hui    | <a href = "mailto: chang_teck_hui@schools.gov.sg"> chang_teck_hui@schools.gov.sg</a>      |
+<br>
+
+### Key Personnels
+
+| Appointment |Name | Email Address |
+| -------- | -------- | -------- |
 | Administration Manager   | Mr Arjuna Rahmat Basro   | <a href = "mailto: arjuna_rahmat_basro@moe.edu.sg"> arjuna_rahmat_basro@moe.edu.sg</a>      |
 | Operations Manager   | Mr Liew Kheng Guan, Steven   | <a href = "mailto: liew_kheng_guan_steven@moe.edu.sg"> liew_kheng_guan_steven@moe.edu.sg</a>      |
 | School Staff Developer   | Ms Pang Xue Yin| <a href = "mailto: pang_xue_yin@moe.edu.sg"> pang_xue_yin@moe.edu.sg</a>      |
