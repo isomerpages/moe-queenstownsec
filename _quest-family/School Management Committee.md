@@ -14,7 +14,6 @@ School Management Committee
 | Vice-Principal    | Mr Tan Tai Huat     | <a href = "mailto: tan_tai_huat@schools.gov.sg"> tan_tai_huat@schools.gov.sg</a>      |
 | Vice-Principal    | Mrs Yue-Chang Teck Hui    | <a href = "mailto: chang_teck_hui@schools.gov.sg"> chang_teck_hui@schools.gov.sg</a>      |
 
-<br>
 
 ### Key Personnels
 
