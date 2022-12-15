@@ -5,7 +5,7 @@ description: ""
 ---
 Teaching Staff
 ==============
-### **TEACHER LEADERS**
+### TEACHER LEADERS
 
 | Appointment |Name | Email Address |
 | -------- | -------- | -------- |
@@ -23,9 +23,12 @@ Teaching Staff
 
 ### LOWER SECONDARY <br>
 
-**Year Head:** Ms Janice Woon  <a href = "mailto: han_chin_woon_janice@moe.edu.sg">(han_chin_woon_janice@moe.edu.sg)</a><br>
-**Assistant Year Head:** Mr Lee Wing Sheng <a href = "mailto: lee_wing_sheng@moe.edu.sg">(lee_wing_sheng@moe.edu.sg)</a><br>
-**Level Mentor:** Mdm Cherlyn Tan <a href = "mailto: cherlyn_tan_jin_ping@moe.edu.sg" >(cherlyn_tan_jin_ping@moe.edu.sg)</a><br>
+| Appointment | Name | Email Address |
+| -------- | -------- | -------- |
+| Year Head    | Ms Han Chin Woon, Janice   | <a href = "mailto: han_chin_woon_janice@moe.edu.sg">han_chin_woon_janice@moe.edu.sg</a>     |
+| Assistant Year Head    | Mr Lee Wing Sheng   | <a href = "mailto: lee_wing_sheng@moe.edu.sg">lee_wing_sheng@moe.edu.sg</a>    |
+| Level Mentor    | Mdm Cherlyn Tan Jin Ping   | <a href = "mailto: cherlyn_tan_jin_ping@moe.edu.sg" > cherlyn_tan_jin_ping@moe.edu.sg</a>   |
+
 
 #### Secondary One <br>
 
@@ -91,9 +94,12 @@ Mr Lim Jit Hiang <a href = "mailto: lim_jit_hiang@moe.edu.sg" >(lim_jit_hiang@mo
 
 ### UPPER SECONDARY <br>
 
-**Year Head:** Ms Kang Poh Geok <a href = "mailto: kang_poh_geok@moe.edu.sg" >(kang_poh_geok@moe.edu.sg)</a><br>
-**Coordinator:** Ms Nur Haryani <a href = "mailto: nur_haryani_mohamed_hatta@moe.edu.sg" >(nur_haryani_mohamed_hatta@moe.edu.sg)</a><br>
-**Level Mentor:** Mdm Siti Nur Shahidah <a href = "mailto: siti_nur_shahidah_mohd@moe.edu.sg" >(siti_nur_shahidah_mohd@moe.edu.sg)</a><br>
+| Appointment| Name | Email Address |
+| -------- | -------- | -------- |
+| Year Head     | Ms Kang Poh Geok    | <a href = "mailto: kang_poh_geok@moe.edu.sg" >kang_poh_geok@moe.edu.sg</a>    |
+| Coordinator    | Ms Nur Haryani     | <a href = "mailto: nur_haryani_mohamed_hatta@moe.edu.sg" > nur_haryani_mohamed_hatta@moe.edu.sg</a>  |
+| Level Mentor   | Mdm Siti Nur Shahidah      | <a href = "mailto: siti_nur_shahidah_mohd@moe.edu.sg" > siti_nur_shahidah_mohd@moe.edu.sg</a> |
+
 
 #### Secondary Three<br>
 
