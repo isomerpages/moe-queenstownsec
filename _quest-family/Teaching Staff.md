@@ -19,7 +19,7 @@ Teaching Staff
 | | | |
 
 ![](/images/conceptphotos_top_ST1_1849.jpg)
-### **CLASS MENTORS (SEM 1 2023)**
+### **CLASS MENTOR LIST (SEM 1 2023)**
 
 ### LOWER SECONDARY <br>
 
