@@ -6,7 +6,7 @@ description: ""
 School Management Committee
 ===========================
 
-### School Leaders
+### SCHOOL LEADERS
 
 | Appointment |Name | Email Address |
 | -------- | -------- | -------- |
@@ -15,7 +15,7 @@ School Management Committee
 | Vice-Principal    | Mrs Yue-Chang Teck Hui    | <a href = "mailto: chang_teck_hui@schools.gov.sg"> chang_teck_hui@schools.gov.sg</a>      |
 
 
-### Key Personnels
+### KEY PERSONNELS
 
 | Appointment |Name | Email Address |
 | -------- | -------- | -------- |
