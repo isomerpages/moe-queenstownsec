@@ -10,8 +10,9 @@ Teaching Staff
 
 ![](/images/conceptphotos_top_ST1_1849.jpg)
 
+
 ### LOWER SECONDARY <br>
-**Year Head:** Ms Janice Woon ([han_chin_woon_janice@moe.edu.sg](han_chin_woon_janice@moe.edu.sg)) <br>
+**Year Head:** Ms Janice Woon (han_chin_woon_janice@moe.edu.sg) <br>
 **Assistant Year Head:** Mr Lee Wing Sheng (lee_wing_sheng@moe.edu.sg) <br>
 **Level Mentor:** Mdm Cherlyn Tan (cherlyn_tan_jin_ping@moe.edu.sg) <br>
 
