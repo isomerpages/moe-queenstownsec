@@ -25,7 +25,7 @@ School Management Committee
 | HOD Character and Citizenship Education | Mr Tan Chee Tiong | <a href = "tan_chee_tiong@moe.edu.sg"> tan_chee_tiong@moe.edu.sg</a>      |
 | HOD Infocomm Technology | Mr Teo Chai Hong Joseph | <a href = "teo_chai_hong_joseph@moe.edu.sg"> teo_chai_hong_joseph@moe.edu.sg</a>      |
 | HOD Student Management | Mdm Siti Nurbaizura Binte Punawan | <a href = "siti_nurbaizura_punawan@moe.edu.sg"> siti_nurbaizura_punawan@moe.edu.sg</a>      |
-| HOD Special Education Needs | Miss Leuar Woan Khi | <a href = "leuar_woan_khi@moe.gov.sg"> leuar_woan_khi@moe.edu.sg</a>      |
+| HOD Special Education Needs | Ms Leuar Woan Khi | <a href = "leuar_woan_khi@moe.gov.sg"> leuar_woan_khi@moe.edu.sg</a>      |
 | Year Head (Lower Sec)| Mdm Han Chin Woon Janice | <a href = "han_chin_woon_janice@moe.edu.sg"> han_chin_woon_janice@moe.edu.sg</a>      |
 | Year Head (Upper Sec)| Ms Kang Poh Geok | <a href = "kang_poh_geok@moe.edu.sg"> kang_poh_geok@moe.edu.sg</a>      |
 
