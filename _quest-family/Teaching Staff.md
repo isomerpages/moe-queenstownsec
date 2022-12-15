@@ -50,32 +50,32 @@ Mdm Michelle Liang <a href = "mailto: liang_xingfen@moe.edu.sg" >(liang_xingfen@
 #### Secondary Two<br>
 
 **<u>2 Gratitude (2 GR)</u>** <br>
-Mr Ian Leong (ian_leong@moe.edu.sg)<br>
-Ms Shermaine Chan (shermine_chan_pei_wen@moe.edu.sg)<br>
+Mr Ian Leong <a href = "mailto: ian_leong@moe.edu.sg" >(ian_leong@moe.edu.sg)</a><br>
+Ms Shermaine Chan <a href = "mailto: shermine_chan_pei_wen@moe.edu.sg" >(shermine_chan_pei_wen@moe.edu.sg)</a><br>
 
 **<u>2 Aspire (2 AS)</u>** <br>
-Mr Daniel Foo (foo_chuan_yee_daniel@moe.edu.sg)<br>
-Ms Siti Nur Aisyah (siti_nur_aisyah_shawall@moe.edu.sg)<br>
+Mr Daniel Foo <a href = "mailto: foo_chuan_yee_daniel@moe.edu.sg" >(foo_chuan_yee_daniel@moe.edu.sg)</a><br>
+Ms Siti Nur Aisyah <a href = "mailto: siti_nur_aisyah_shawall@moe.edu.sg" >(siti_nur_aisyah_shawall@moe.edu.sg)</a><br>
 
 **<u>2 Respect (2 RP)</u>** <br>
-Ms Nancy Ng (ng_li_khoon@moe.edu.sg)<br>
-Mr Sean Ng (ng_wern_chin@moe.edu.sg)<br>
+Ms Nancy Ng <a href = "mailto: ng_li_khoon@moe.edu.sg" >(ng_li_khoon@moe.edu.sg)</a><br>
+Mr Sean Ng <a href = "mailto: ng_wern_chin@moe.edu.sg" >(ng_wern_chin@moe.edu.sg)</a><br>
 
 **<u>2 Resilience (2 RL)</u>** <br>
-Mrs Muthi (vijayarani_govindasamy@moe.edu.sg)<br>
-Mr Peter Fu (fu_ruiqi@moe.edu.sg)<br>
+Mrs Muthi <a href = "mailto: vijayarani_govindasamy@moe.edu.sg" >(vijayarani_govindasamy@moe.edu.sg)</a><br>
+Mr Peter Fu (fu_ruiqi@moe.edu.sg)<a href = "mailto: xu_su@moe.edu.sg" >(xu_su@moe.edu.sg)</a><br>
 
 **<u>2 Integrity (2 IN)</u>** <br>
-Mr Melvin Tan (tan_wee_yau_melvin@moe.edu.sg)<br>
-Mdm Rozita (rozita_beram@moe.edu.sg)<br>
+Mr Melvin Tan <a href = "mailto: tan_wee_yau_melvin@moe.edu.sg" >(tan_wee_yau_melvin@moe.edu.sg)</a><br>
+Mdm Rozita <a href = "mailto: rozita_beram@moe.edu.sg" >(rozita_beram@moe.edu.sg)</a><br>
 
 **<u>2 Service (2 SE)</u>** <br>
 Mdm Neo Chai Meng<br>
-Mr Justin Goh (goh_yong_seng_justin@moe.edu.sg)<br>
+Mr Justin Goh <a href = "mailto: goh_yong_seng_justin@moe.edu.sg" >(goh_yong_seng_justin@moe.edu.sg)</a><br>
 
 **<u>2 Excellence (2 EX)</u>** <br>
-Mr Adrian Chia (chia_wen_mien_adrian@moe.edu.sg)<br>
-Mr Lim Jit Hiang (lim_jit_hiang@moe.edu.sg)<br>
+Mr Adrian Chia <a href = "mailto: chia_wen_mien_adrian@moe.edu.sg" >(chia_wen_mien_adrian@moe.edu.sg)</a><br>
+Mr Lim Jit Hiang <a href = "mailto: lim_jit_hiang@moe.edu.sg" >(lim_jit_hiang@moe.edu.sg)</a><br>
 
 ![](/images/conceptphotos_top_ST1_1992.jpg)
 
