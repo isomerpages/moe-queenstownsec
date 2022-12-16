@@ -8,15 +8,15 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: Sec 1 Registration (Dec 2022)
+          description: ""
+          url: /lp-announcement/Sec1Registration-Dec2022
         - title: Queenstown Sec Open House 2022
           description: ""
           url: https://queenstownsecsch.wixsite.com/openhouse2022
         - title: Sem 2 Announcement
           description: ""
           url: /lp-announcement/sem-2-announcement/
-        - title: Sec 1 Registration (Dec 2022)
-          description: ""
-          url: /lp-announcement/Sec1Registration-Dec2022
       background: /images/QTSS_Website_Banner.jpeg
   - infobar:
       title: All Announcements
