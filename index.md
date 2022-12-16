@@ -14,9 +14,9 @@ sections:
         - title: Sem 2 Announcement
           description: ""
           url: /lp-announcement/sem-2-announcement/
-        - title: Enrichment Programme (24 – 27 May 2022)
+        - title: Sec 1 Registration (Dec 2022)
           description: ""
-          url: /lp-announcement/enrichment-programme-24-27-may-2022/
+          url: /lp-announcement/Sec1Registration-Dec2022
       background: /images/QTSS_Website_Banner.jpeg
   - infobar:
       title: All Announcements
