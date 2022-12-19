@@ -12,7 +12,7 @@ School Booklist
 
 - [Sec 1 EXP](/files/QTSS%20S1EXP%202511.pdf)
 - [Sec 1 NA](/files/QTSS%20S1NA%202511.pdf)
-- [Sec 1 NT](/files/QTSS%20S1NA%202511.pdf)
+- [Sec 1 NT](/files/QTSS%20S1NT%202511.pdf)
 
 #### Secondary 2
 
