@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Sec 1 Registration (Dec 2022)
+        - title: N-Level Results 2022 (Key Information)
           description: ""
-          url: /lp-announcement/Sec1Registration-Dec2022
+          url: /NlevelResults2022/
         - title: Queenstown Sec Open House 2022
           description: ""
           url: https://queenstownsecsch.wixsite.com/openhouse2022
