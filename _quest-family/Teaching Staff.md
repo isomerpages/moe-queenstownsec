@@ -9,7 +9,7 @@ Teaching Staff
 
 | Appointment |Name | Email Address |
 | -------- | -------- | -------- |
-| MTT Physical Education  | Mr Tan Seck Heong (w.e.f. 2 Jan 2023)     | <a href = "mailto: tan_seck_heong@moe.gov.sg"> tan_seck_heong@moe.gov.sg </a>      |
+| MTT Physical Education  | Mr Tan Seck Heong (w.e.f. 2 Jan 2023)     | <a href = "mailto: tan_seck_heong@moe.edu.sg"> tan_seck_heong@moe.edu.sg </a>      |
 | LT English Language and Literature  | Mdm Sakunthalai d/o Surian     | <a href = "mailto: sakunthalai_surian@moe.edu.sg"> sakunthalai_surian@moe.edu.sg</a>      |
 | ST Physics  | Mdm Khoo Siew Hwee, Grace     | <a href = "mailto: khoo_siew_hwee@moe.edu.s "> khoo_siew_hwee@moe.edu.sg </a>      |
 | ST Malay Language  | Mdm Yahida Yahya     | <a href = "mailto: yahida_yahya@moe.edu.sg"> yahida_yahya@moe.edu.sg</a>      |
