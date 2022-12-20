@@ -9,7 +9,7 @@ Welcome to Queenstown Secondary School. We are delighted to have your child/ward
 
 We would like to invite you to watch the welcome video on our school’s website, Facebook page or Instagram to know more about our school’s programme and important information on Secondary 1 Registration Exercise.
 <html>
-    <body bgcolor="black">
+    <body bgcolor="white">
         <!--adding the video file-->
         <video width="50%" 
                height="50%"
@@ -21,7 +21,7 @@ We would like to invite you to watch the welcome video on our school’s website
 </html>
 
 <html>
-    <body bgcolor="black">
+    <body bgcolor="white">
         <!--Adding the image file-->
         <!--also adding the link of video source.html to the image-->
         <a href=
