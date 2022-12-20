@@ -8,8 +8,33 @@ Dear Parents/Guardians,
 Welcome to Queenstown Secondary School. We are delighted to have your child/ward in our school. We have put together the necessary materials to get you started for Secondary 1 Registration Exercise. 
 
 We would like to invite you to watch the welcome video on our school’s website, Facebook page or Instagram to know more about our school’s programme and important information on Secondary 1 Registration Exercise.
+<html>
+    <body bgcolor="black">
+        <!--adding the video file-->
+        <video width="50%" 
+               height="50%"
+               src=
+"https://drive.google.com/file/d/1teJC2woLhROevIywSscsvMR32eQh2L5j/view?usp=sharing" 
+               controls>
+      </video>
+    </body>
+</html>
 
+<html>
+    <body bgcolor="black">
+        <!--Adding the image file-->
+        <!--also adding the link of video source.html to the image-->
+        <a href=
+"/images/Sec%201%20Reg%20Vid.jpeg">
+            <img src=
+"/images/Sec%201%20Reg%20Vid.jpeg" 
+                 width="100" 
+                 height="100" />
+        </a>
+    </body>
+</html>
 
+![Sec 1 Registration Video](/images/Sec%201%20Reg%20Vid.jpeg)
 
 After watching the video, please refer to the [Welcome Pack](/files/Sec%201%20Welcome%20Pack_2023%20intake.pdf) for more information regarding Secondary 1 Registration Exercise. 
 
