@@ -3,7 +3,6 @@ title: Sec 1 Registration (2023 Intake)
 permalink: /lp-announcement/Sec1Registration-Dec2022/
 description: ""
 ---
-
 ##### Dear Parents/Guardians,
 
 Welcome to Queenstown Secondary School. We are delighted to have your child/ward in our school. We have put together the necessary materials to get you started for Secondary 1 Registration Exercise. 
@@ -15,7 +14,7 @@ We would like to invite you to watch the welcome video on our school’s website
         <!--Adding the image file-->
         <!--also adding the link of video source.html to the image-->
         <a href=
-"https://drive.google.com/file/d/1teJC2woLhROevIywSscsvMR32eQh2L5j/view?usp=sharing">
+https://www.youtube.com/watch?v=NzYk284Ieq">
             <img src=
 "/images/Sec%201%20Reg%20Vid.jpeg" 
                  width="100" 
