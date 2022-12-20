@@ -3,7 +3,7 @@ title: Sec 1 Registration (Dec 2022)
 permalink: /lp-announcement/Sec1Registration-Dec2022/
 description: ""
 ---
-Dear Parents/Guardians,
+##### Dear Parents/Guardians,
 
 Welcome to Queenstown Secondary School. We are delighted to have your child/ward in our school. We have put together the necessary materials to get you started for Secondary 1 Registration Exercise. 
 
@@ -24,7 +24,7 @@ We would like to invite you to watch the welcome video on our school’s website
 </html>
 
 
-After watching the video, please refer to the [Welcome Pack](/files/Sec%201%20Welcome%20Pack_2023%20intake.pdf) for more information regarding Secondary 1 Registration Exercise. 
+After watching the video, please refer to the [Welcome Pack](/files/Welcome%20Pack_2023%20intake.pdf) for more information regarding Secondary 1 Registration Exercise. 
 
 You will receive your child’s/ward’s Mentor Class allocation by 30 December 2022, via Parents Gateway or email.
 
