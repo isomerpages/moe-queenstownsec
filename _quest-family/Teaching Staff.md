@@ -9,13 +9,13 @@ Teaching Staff
 
 | Appointment |Name | Email Address |
 | -------- | -------- | -------- |
-| MTT Physical Education  | Mr Tan Seck Heong (w.e.f. 3 Jan 2023)     | <a href = "mailto: tan_seck_heong@moe.gov.sg"> tan_seck_heong@moe.gov.sg </a>      |
+| MTT Physical Education  | Mr Tan Seck Heong (w.e.f. 2 Jan 2023)     | <a href = "mailto: tan_seck_heong@moe.gov.sg"> tan_seck_heong@moe.gov.sg </a>      |
 | LT English Language and Literature  | Mdm Sakunthalai d/o Surian     | <a href = "mailto: sakunthalai_surian@moe.edu.sg"> sakunthalai_surian@moe.edu.sg</a>      |
 | ST Physics  | Mdm Khoo Siew Hwee, Grace     | <a href = "mailto: khoo_siew_hwee@moe.edu.s "> khoo_siew_hwee@moe.edu.sg </a>      |
 | ST Malay Language  | Mdm Yahida Yahya     | <a href = "mailto: yahida_yahya@moe.edu.sg"> yahida_yahya@moe.edu.sg</a>      |
 | ST Design & Technology  | Mr Ng Wern Chin Sean     | <a href = "mailto: ng_wern_chin@moe.edu.sg"> ng_wern_chin@moe.edu.sg </a>      |
-| ST Mathematics  | Mdm Neo Chai Meng (w.e.f. 3 Jan 2023)    | <a href = "mailto: neo_chai_meng@moe.edu.sg"> neo_chai_meng@moe.edu.sg</a>      |
-| ST Chinese Language  | Ms Law Geok Cheng (w.e.f. 3 Jan 2023)    | <a href = "mailto: law_geok_cheng@moe.edu.sg"> law_geok_cheng@schools.gov.sg</a>      |
+| ST Mathematics  | Mdm Neo Chai Meng (w.e.f. 2 Jan 2023)      | <a href = "mailto: neo_chai_meng@moe.edu.sg"> neo_chai_meng@moe.edu.sg</a>      |
+| ST Chinese Language  | Ms Law Geok Cheng (w.e.f. 2 Jan 2023)    | <a href = "mailto: law_geok_cheng@moe.edu.sg"> law_geok_cheng@schools.gov.sg</a>      |
 | | | |
 
 ![](/images/conceptphotos_top_ST1_1849.jpg)
@@ -25,7 +25,7 @@ Teaching Staff
 
 | Appointment | Name | Email Address |
 | -------- | -------- | -------- |
-| Year Head    | Ms Han Chin Woon, Janice (w.e.f. 3 Jan 2023)   | <a href = "mailto: han_chin_woon_janice@moe.edu.sg">han_chin_woon_janice@moe.edu.sg</a>     |
+| Year Head    | Ms Han Chin Woon, Janice (w.e.f. 2 Jan 2023)     | <a href = "mailto: han_chin_woon_janice@moe.edu.sg">han_chin_woon_janice@moe.edu.sg</a>     |
 | Assistant Year Head    | Mr Lee Wing Sheng   | <a href = "mailto: lee_wing_sheng@moe.edu.sg">lee_wing_sheng@moe.edu.sg</a>    |
 | Level Mentor    | Mdm Cherlyn Tan Jin Ping   | <a href = "mailto: cherlyn_tan_jin_ping@moe.edu.sg" > cherlyn_tan_jin_ping@moe.edu.sg</a>   |
 | | | |
@@ -38,21 +38,21 @@ Mr Paul Yuen <a href = "mailto: yuen_weiwen_paul@moe.edu.sg" >(yuen_weiwen_paul@
 
 **<u>1 Aspire (1 AS)</u>** <br>
 Mr Tay Yee Kai <a href = "mailto: tay_yee_kai@moe.edu.sg" >(tay_yee_kai@moe.edu.sg)</a><br>
-Ms Ow Hui Keng <a href = "mailto: ow_hui_keng@moe.edu.sg" >(ow_hui_keng@moe.edu.sg)</a><br>
+Ms Ow Hui Keng (w.e.f. 2 Jan 2023)   <a href = "mailto: ow_hui_keng@moe.edu.sg" >(ow_hui_keng@moe.edu.sg)</a><br>
 
 **<u>1 Respect (1 RP)</u>** <br>
 Mr Peng Boon Yen <a href = "mailto: boon_yen_peng@moe.edu.sg" >(boon_yen_peng@moe.edu.sg)</a><br>
-Mr Nelaothaman <a href = "mailto: nelaothaman_suppayan@moe.edu.sg" >(nelaothaman_suppayan@moe.edu.sg)</a><br>
+Mr Nelaothaman (w.e.f. 2 Jan 2023)  <a href = "mailto: nelaothaman_suppayan@moe.edu.sg" >(nelaothaman_suppayan@moe.edu.sg)</a><br>
 
 **<u>1 Resilience (1 RL)</u>** <br>
 Mdm Amy Pang <a href = "mailto: pang_yu_ming@moe.edu.sg" >(pang_yu_ming@moe.edu.sg)</a><br>
-Mr Sean David <a href = "mailto: sean_david@moe.edu.sg" >(sean_david@moe.edu.sg)</a><br>
+Mr Sean David (w.e.f. 2 Jan 2023)  <a href = "mailto: sean_david@moe.edu.sg" >(sean_david@moe.edu.sg)</a><br>
 
 **<u>1 Integrity (1 IN)</u>** <br>
 Mdm Nur Shiqah <a href = "mailto: nur_shiqah_hashim@moe.edu.sg" >(nur_shiqah_hashim@moe.edu.sg)</a><br>
-Mr Perdana Putra <a href = "mailto: perdana_putra_pan@moe.edu.sg" >(perdana_putra_pan@moe.edu.sg)</a><br>
+Mr Perdana Putra (w.e.f. 2 Jan 2023) <a href = "mailto: perdana_putra_pan@moe.edu.sg" >(perdana_putra_pan@moe.edu.sg)</a><br>
 
-**<u>1 Service (1 SE)</u>** <br>
+**<u>1 Care (1 CA)</u>** <br>
 Mr Chandragus Rinah <a href = "mailto: chandragus_a@moe.edu.sg" >(chandragus_a@moe.edu.sg)</a><br>
 Mdm Xu Su <a href = "mailto: xu_su@moe.edu.sg" >(xu_su@moe.edu.sg)</a><br>
 
@@ -63,7 +63,7 @@ Mdm Michelle Liang <a href = "mailto: liang_xingfen@moe.edu.sg" >(liang_xingfen@
 #### Secondary Two<br>
 
 **<u>2 Gratitude (2 GR)</u>** <br>
-Mr Ian Leong <a href = "mailto: ian_leong@moe.edu.sg" >(ian_leong@moe.edu.sg)</a><br>
+Mr Ian Leong (w.e.f. 2 Jan 2023)  <a href = "mailto: ian_leong@moe.edu.sg" >(ian_leong@moe.edu.sg)</a><br>
 Ms Shermaine Chan <a href = "mailto: shermine_chan_pei_wen@moe.edu.sg" >(shermine_chan_pei_wen@moe.edu.sg)</a><br>
 
 **<u>2 Aspire (2 AS)</u>** <br>
@@ -82,8 +82,8 @@ Mr Peter Fu <a href = "mailto: fu_ruiqi@moe.edu.sg" >(fu_ruiqi@moe.edu.sg)</a><b
 Mr Melvin Tan <a href = "mailto: tan_wee_yau_melvin@moe.edu.sg" >(tan_wee_yau_melvin@moe.edu.sg)</a><br>
 Mdm Rozita <a href = "mailto: rozita_beram@moe.edu.sg" >(rozita_beram@moe.edu.sg)</a><br>
 
-**<u>2 Service (2 SE)</u>** <br>
-Mdm Neo Chai Meng<br>
+**<u>2 Care (2 CA)</u>** <br>
+Mdm Neo Chai Meng (w.e.f. 2 Jan 2023)  <br>
 Mr Justin Goh <a href = "mailto: goh_yong_seng_justin@moe.edu.sg" >(goh_yong_seng_justin@moe.edu.sg)</a><br>
 
 **<u>2 Excellence (2 EX)</u>** <br>
@@ -124,7 +124,7 @@ Mr Saratkumar <a href = "mailto: rsaratkumar_ganasekaran@moe.edu.sg" >(saratkuma
 Ms Noryanti <a href = "mailto: noryanti_md_aris@moe.edu.sg" >(noryanti_md_aris@moe.edu.sg)</a><br>
 Mdm Tang Siow Leng <a href = "mailto: tang_siow_leng@moe.edu.sg" >(tang_siow_leng@moe.edu.sg)</a><br>
 
-**<u>3 Service (3 SE)</u>** <br>
+**<u>3 Care (3 CA)</u>** <br>
 Ms Chan Chu Yin <a href = "mailto: chan_chu_yin@moe.edu.sg" >(chan_chu_yin@moe.edu.sg)</a><br>
 Mr Chia Teck Seng <a href = "mailto: chia_teck_seng@moe.edu.sg" >(chia_teck_seng@moe.edu.sg)</a><br>
 
@@ -156,7 +156,7 @@ Miss Jaslyn Shalini A R <a href = "mailto: 	jaslyn_shalini_a_r@moe.edu.sg" >(jas
 Mdm Cynthia Chang <a href = "mailto: chang_yee_ping_cynthia@moe.edu.sg" >(chang_yee_ping_cynthia@moe.edu.sg)</a><br>
 Mrs Grace Gan <a href = "mailto: khoo_siew_hwee@moe.edu.sg" >(khoo_siew_hwee@moe.edu.sg)</a><br>
 
-**<u>4 Service (4 SE)</u>** <br>
+**<u>4 Care (4 CA)</u>** <br>
 Mr Muhammad Fazari <a href = "mailto: fazari_othman_muhammad@moe.edu.sg" >(fazari_othman_muhammad@moe.edu.sg)</a><br>
 Mr Lim Li Cheng <a href = "mailto: lim_li_cheng@moe.edu.sg" >(lim_li_cheng@moe.edu.sg)</a><br>
 
