@@ -28,6 +28,6 @@ After watching the video, please refer to the [Welcome Pack](/files/Welcome%20Pa
 
 You will receive your child’s/ward’s Mentor Class allocation by 30 December 2022, via Parents Gateway or email.
 
-If you have further queries regarding Secondary 1 Registration, please email us at qtss@moe.edu.sg and we will get back to you promptly.
+If you have further queries regarding Secondary 1 Registration, please email us at <a href = "mailto: qtss@moe.edu.sg"> qtss@moe.edu.sg </a> and we will get back to you promptly.
 
 We trust that your child/ward will have an engaging learning experience in our school for the next 4-5 years. We thank you in advance for your partnership with us in your child’s/ward’s education.
