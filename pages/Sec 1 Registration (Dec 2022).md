@@ -25,7 +25,7 @@ We would like to invite you to watch the welcome video on our school’s website
         <!--Adding the image file-->
         <!--also adding the link of video source.html to the image-->
         <a href=
-"/images/Sec%201%20Reg%20Vid.jpeg">
+"https://drive.google.com/file/d/1teJC2woLhROevIywSscsvMR32eQh2L5j/view?usp=sharing">
             <img src=
 "/images/Sec%201%20Reg%20Vid.jpeg" 
                  width="100" 
