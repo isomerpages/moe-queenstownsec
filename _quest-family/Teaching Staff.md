@@ -25,7 +25,7 @@ Teaching Staff
 
 | Appointment | Name | Email Address |
 | -------- | -------- | -------- |
-| Year Head    | Ms Han Chin Woon, Janice   | <a href = "mailto: han_chin_woon_janice@moe.edu.sg">han_chin_woon_janice@moe.edu.sg</a>     |
+| Year Head    | Ms Han Chin Woon, Janice (w.e.f. 3 Jan 2023)   | <a href = "mailto: han_chin_woon_janice@moe.edu.sg">han_chin_woon_janice@moe.edu.sg</a>     |
 | Assistant Year Head    | Mr Lee Wing Sheng   | <a href = "mailto: lee_wing_sheng@moe.edu.sg">lee_wing_sheng@moe.edu.sg</a>    |
 | Level Mentor    | Mdm Cherlyn Tan Jin Ping   | <a href = "mailto: cherlyn_tan_jin_ping@moe.edu.sg" > cherlyn_tan_jin_ping@moe.edu.sg</a>   |
 | | | |
