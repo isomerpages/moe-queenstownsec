@@ -8,20 +8,16 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: Sec 1 Registration (2023 Intake)
+          description: ""
+          url: /lp-announcement/Sec1Registration-Dec2022/
         - title: N-Level Results 2022 (Key Information)
           description: ""
           url: /NlevelResults2022/
         - title: Queenstown Sec Open House 2022
           description: ""
           url: https://queenstownsecsch.wixsite.com/openhouse2022
-        - title: Sem 2 Announcement
-          description: ""
-          url: /lp-announcement/sem-2-announcement/
       background: /images/QTSS_Website_Banner.jpeg
-  - infobar:
-      title: All Announcements
-      button: Click
-      url: /announcements/
   - infopic:
       title: Full SBB Pilot in Queenstown Secondary School in 2020
       button: CLICK
@@ -34,4 +30,8 @@ sections:
       url: /admission/
       image: /images/School Links/DSA_Pic3.png
       alt: alt text image
+  - infobar:
+      title: Announcements
+      button: Click
+      url: /announcements/
 ---
