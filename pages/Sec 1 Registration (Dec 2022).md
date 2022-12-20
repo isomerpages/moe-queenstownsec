@@ -9,6 +9,8 @@ Welcome to Queenstown Secondary School. We are delighted to have your child/ward
 
 We would like to invite you to watch the welcome video on our school’s website, Facebook page or Instagram to know more about our school’s programme and important information on Secondary 1 Registration Exercise.
 
+
+
 After watching the video, please refer to the [Welcome Pack](/files/Sec%201%20Welcome%20Pack_2023%20intake.pdf) for more information regarding Secondary 1 Registration Exercise. 
 
 You will receive your child’s/ward’s Mentor Class allocation by 30 December 2022, via Parents Gateway or email.
