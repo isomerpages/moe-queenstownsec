@@ -31,7 +31,7 @@ sections:
       image: /images/School Links/DSA_Pic3.png
       alt: alt text image
   - infobar:
-      title: All Announcements
+      title: Announcements
       button: Click
       url: /announcements/
 ---
