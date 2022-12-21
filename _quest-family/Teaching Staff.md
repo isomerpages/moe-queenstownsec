@@ -50,7 +50,7 @@ Mr Sean David (w.e.f. 2 Jan 2023)  <a href = "mailto: sean_david@moe.edu.sg" >(s
 
 **<u>1 Integrity (1 IN)</u>** <br>
 Mdm Nur Shiqah <a href = "mailto: nur_shiqah_hashim@moe.edu.sg" >(nur_shiqah_hashim@moe.edu.sg)</a><br>
-Mr Perdana Putra (w.e.f. 2 Jan 2023) <a href = "mailto: perdana_putra_pan@moe.edu.sg" >(perdana_putra_pan@moe.edu.sg)</a><br>
+Mr Perdana Putra (w.e.f. 2 Jan 2023) <a href = "mailto: pan_ping_rui_perdana@moe.edu.sg" >(pan_ping_rui_perdana@moe.edu.sg)</a><br>
 
 **<u>1 Care (1 CA)</u>** <br>
 Mr Chandragus Rinah <a href = "mailto: chandragus_a@moe.edu.sg" >(chandragus_a@moe.edu.sg)</a><br>
