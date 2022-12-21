@@ -38,7 +38,7 @@ School Management Committee
 | Year Head (Lower Sec)| Mdm Han Chin Woon Janice (w.e.f. 2 Jan 2023) | <a href = "han_chin_woon_janice@moe.edu.sg"> han_chin_woon_janice@moe.edu.sg</a>      |
 | Year Head (Upper Sec)| Ms Kang Poh Geok | <a href = "kang_poh_geok@moe.edu.sg"> kang_poh_geok@moe.edu.sg</a>      |
 | Assistant Year Head| Mr Lee Wing Sheng | <a href = "lee_wing_sheng@moe.edu.sg"> lee_wing_sheng@moe.edu.sg</a>      |
-| SH English Language| Mr Perdana Putra (w.e.f. 2 Jan 2023) | <a href = "perdana_putra_pan@moe.edu.sg"> perdana_putra_pan@moe.edu.sg</a>      |
+| SH English Language| Mr Perdana Putra (w.e.f. 2 Jan 2023) | <a href = "pan_ping_rui_perdana@moe.edu.sg"> pan_ping_rui_perdana@moe.edu.sg</a>      |
 | SH Mathematics| Mdm Jayasolai | <a href = "jayasolai_a@moe.edu.sg"> jayasolai_a@moe.edu.sg</a>      |
 | SH History| Ms Azlina Bte Ali | <a href = "azlina_ali@moe.edu.sg"> azlina_ali@moe.edu.sg</a>      |
 | SH Physical Education| Mdm Koh Minna | <a href = "koh_minna@moe.edu.sg"> koh_minna@moe.edu.sg</a>      |
