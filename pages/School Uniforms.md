@@ -7,7 +7,8 @@ School Uniforms
 ===============
 **Updated Footwear policy**
 
-Please refer to the guide for the school [Updated Footwear Policy](/files/Footwear%20Policy.pdf)
+Please refer to the guide
+[Updated Footwear Policy](/files/Footwear%20Policy.pdf)
 
 
 **Supplier Information** 
