@@ -9,7 +9,7 @@ Teaching Staff
 
 | Appointment |Name | Email Address |
 | -------- | -------- | -------- |
-| MTT Physical Education  | Mr Tan Seck Heong (w.e.f. 2 Jan 2023)     | <a href = "mailto: tan_seck_heong@moe.gov.sg"> tan_seck_heong@moe.gov.sg </a>      |
+| MTT Physical Education  | Mr Tan Seck Heong (w.e.f. 2 Jan 2023)     | <a href = "mailto: tan_seck_heong@moe.edu.sg"> tan_seck_heong@moe.edu.sg </a>      |
 | LT English Language and Literature  | Mdm Sakunthalai d/o Surian     | <a href = "mailto: sakunthalai_surian@moe.edu.sg"> sakunthalai_surian@moe.edu.sg</a>      |
 | ST Physics  | Mdm Khoo Siew Hwee, Grace     | <a href = "mailto: khoo_siew_hwee@moe.edu.s "> khoo_siew_hwee@moe.edu.sg </a>      |
 | ST Malay Language  | Mdm Yahida Yahya     | <a href = "mailto: yahida_yahya@moe.edu.sg"> yahida_yahya@moe.edu.sg</a>      |
@@ -50,7 +50,7 @@ Mr Sean David (w.e.f. 2 Jan 2023)  <a href = "mailto: sean_david@moe.edu.sg" >(s
 
 **<u>1 Integrity (1 IN)</u>** <br>
 Mdm Nur Shiqah <a href = "mailto: nur_shiqah_hashim@moe.edu.sg" >(nur_shiqah_hashim@moe.edu.sg)</a><br>
-Mr Perdana Putra (w.e.f. 2 Jan 2023) <a href = "mailto: perdana_putra_pan@moe.edu.sg" >(perdana_putra_pan@moe.edu.sg)</a><br>
+Mr Perdana Putra (w.e.f. 2 Jan 2023) <a href = "mailto: pan_ping_rui_perdana@moe.edu.sg" >(pan_ping_rui_perdana@moe.edu.sg)</a><br>
 
 **<u>1 Care (1 CA)</u>** <br>
 Mr Chandragus Rinah <a href = "mailto: chandragus_a@moe.edu.sg" >(chandragus_a@moe.edu.sg)</a><br>
