@@ -3,7 +3,7 @@ title: N Level Results 2022 (Key Information)
 permalink: /NlevelResults2022/
 description: ""
 ---
-![](/images/Students/4NTb.jpg)Dear Sec 4N students,
+Dear Sec 4N students,
 
 Congratulations for your N-level results.
 
