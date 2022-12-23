@@ -13,4 +13,4 @@ Please view the slides below for key information for your post secondary courses
 
 ![](/images/Students/4NAa.jpg)
 ![](/images/Students/4NAb.jpg)
-![](/images/Students/4NTa.jpg)
+![](/images/Students/4NTa.jpg)![](/images/Students/4NTb.jpg)
