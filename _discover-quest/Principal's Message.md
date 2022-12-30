@@ -14,16 +14,6 @@ Principal’s Message
 
 **<u><font size=5>Welcome to Queenstown Secondary School!</font></u>**
 
-<!DOCTYPE html>
-<html>
-  
-<head>
-    <title>Justified content</title>
-</head>
-  
-<body>
-  
-<p align="justify">
 
 Our nation has come a long way in the fight against COVID-19, and 2022 has been a year when the situation stabilised, allowing us to resume many key schooling experiences for our Queenstownians. 
 
@@ -60,9 +50,3 @@ Sincerely yours,
 Mr Sim How Chong 
 Principal 
         
-
-</body>
-  
-</html>
-
-
