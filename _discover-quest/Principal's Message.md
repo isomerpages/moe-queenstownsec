@@ -48,5 +48,4 @@ I look forward to journeying through 2023 with our QTSS community!
 Sincerely yours,
 	
 Mr Sim How Chong 
-Principal 
-        
+Principal
