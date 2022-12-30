@@ -32,8 +32,11 @@ Being curious, I provided ChatGPT with the following instruction - Write a Singa
 > At our school, we believe in the importance of providing a well-rounded education that goes beyond just academic achievement. We strive to instill in our students the critical thinking skills, creativity, and global perspective needed to succeed in an increasingly complex and fast-paced world.
 > We are committed to providing our students with the tools and opportunities they need to pursue their passions and achieve their goals. From our state-of-the-art facilities and cutting-edge technology, to our extensive extracurricular activities and real-world learning experiences, we provide our students with a diverse range of opportunities to grow and learn.
 > I encourage you to explore our website to learn more about the exciting opportunities available at our school. If you have any questions or would like to learn more, please do not hesitate to contact us.
+> 
 > Sincerely,
-> [Principal's Name] Principal, [School Name]
+> [Principal's Name] 
+> Principal, 
+> [School Name]
 
 To my surprise, the few weeks old ChatGPT generated this output within seconds, one that is indeed of a similar quality to what a human could have written. I believe the quality of the output will only improve exponentially with wider and prolonged usage. In the face of such accelerated technological changes, it is hence increasingly paramount that our school’s Total Curriculum continues developing competences which are uniquely human and difficult for machines to replicate or obtain. Acquiring 21st Century Competencies like collaborative skills and critical thinking skills, as well as future literacies such as digital literacy and sustainability literacy will ensure that our Queenstownians are oriented for the future of learning and work. 
 
@@ -48,4 +51,5 @@ I look forward to journeying through 2023 with our QTSS community!
 Sincerely yours,
 	
 Mr Sim How Chong 
+
 Principal
