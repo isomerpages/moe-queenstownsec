@@ -6,14 +6,14 @@ description: ""
 School Timetable
 ================
 
-Academic Year 2022 (Semester 1)
+Academic Year 2023 (Semester 1)
 -------------------------------
 
 Click the links below to view the timetable:
 
-*   [Students Semester 2 Timetable (Sec 1 to 5)](/files/QTSS-Sem-2-2022-Timetable_Classes-wef-12-Jul-22.pdf) \[w.e.f 12-Jul-2022\]
-*   [Classrooms/Locations Semester 2 Timetable](/files/QTSS-Semester-2-2022-Timetable_Venue.pdf) \[w.e.f 27-Jun-2022\]
+[Class Timetable 2023](/files/QTSS_2023_Semester%201%20Timetable%20wef%203%20JAN_Classes.pdf)
+
 
 * * *
 
-_Last updated on 7-Jul-2022_
+_Last updated on 30-Dec-2023_
