@@ -14,8 +14,8 @@ Concert Band
 ----------------------
 
 *   Ms Liu Yuanxin Amanda – OIC
-*   Mdm Fatimah Begum
 *   Mdm Yeo Gek Eng
+*   Mdm Neo Chai Meng
 
 **Awards**
 ----------
