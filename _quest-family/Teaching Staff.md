@@ -9,13 +9,13 @@ Teaching Staff
 
 | Appointment |Name | Email Address |
 | -------- | -------- | -------- |
-| MTT Physical Education  | Mr Tan Seck Heong (w.e.f. 2 Jan 2023)     | <a href = "mailto: tan_seck_heong@moe.edu.sg"> tan_seck_heong@moe.edu.sg </a>      |
+| MTT Physical Education  | Mr Tan Seck Heong      | <a href = "mailto: tan_seck_heong@moe.edu.sg"> tan_seck_heong@moe.edu.sg </a>      |
 | LT English Language and Literature  | Mdm Sakunthalai d/o Surian     | <a href = "mailto: sakunthalai_surian@moe.edu.sg"> sakunthalai_surian@moe.edu.sg</a>      |
 | ST Physics  | Mdm Khoo Siew Hwee, Grace     | <a href = "mailto: khoo_siew_hwee@moe.edu.s "> khoo_siew_hwee@moe.edu.sg </a>      |
 | ST Malay Language  | Mdm Yahida Yahya     | <a href = "mailto: yahida_yahya@moe.edu.sg"> yahida_yahya@moe.edu.sg</a>      |
 | ST Design & Technology  | Mr Ng Wern Chin Sean     | <a href = "mailto: ng_wern_chin@moe.edu.sg"> ng_wern_chin@moe.edu.sg </a>      |
-| ST Mathematics  | Mdm Neo Chai Meng (w.e.f. 2 Jan 2023)      | <a href = "mailto: neo_chai_meng@moe.edu.sg"> neo_chai_meng@moe.edu.sg</a>      |
-| ST Chinese Language  | Ms Law Geok Cheng (w.e.f. 2 Jan 2023)    | <a href = "mailto: law_geok_cheng@moe.edu.sg"> law_geok_cheng@schools.gov.sg</a>      |
+| ST Mathematics  | Mdm Neo Chai Meng    | <a href = "mailto: neo_chai_meng@moe.edu.sg"> neo_chai_meng@moe.edu.sg</a>      |
+| ST Chinese Language  | Ms Law Geok Cheng    | <a href = "mailto: law_geok_cheng@moe.edu.sg"> law_geok_cheng@schools.gov.sg</a>      |
 | | | |
 
 ![](/images/conceptphotos_top_ST1_1849.jpg)
@@ -25,7 +25,7 @@ Teaching Staff
 
 | Appointment | Name | Email Address |
 | -------- | -------- | -------- |
-| Year Head    | Ms Han Chin Woon, Janice (w.e.f. 2 Jan 2023)     | <a href = "mailto: han_chin_woon_janice@moe.edu.sg">han_chin_woon_janice@moe.edu.sg</a>     |
+| Year Head    | Ms Han Chin Woon, Janice    | <a href = "mailto: han_chin_woon_janice@moe.edu.sg">han_chin_woon_janice@moe.edu.sg</a>     |
 | Assistant Year Head    | Mr Lee Wing Sheng   | <a href = "mailto: lee_wing_sheng@moe.edu.sg">lee_wing_sheng@moe.edu.sg</a>    |
 | Level Mentor    | Mdm Cherlyn Tan Jin Ping   | <a href = "mailto: cherlyn_tan_jin_ping@moe.edu.sg" > cherlyn_tan_jin_ping@moe.edu.sg</a>   |
 | | | |
