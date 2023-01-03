@@ -12,8 +12,8 @@ Wushu
 **Teachers-in-Charge**
 ----------------------
 
-*   Mdm Qu Caiyan – IC
-*   Mr Lee Wing Sheng
+*   Mr Lee Wing Sheng - OIC
+*   Ms Law Geok Cheng (Ms)
 
 **Awards**
 ----------
