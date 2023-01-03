@@ -13,7 +13,7 @@ English Drama
 ----------------------
 
 *   Mr Yuen Cheng Mun Jansen – OIC
-*   Mdm Sundaram Kousalya
+*   Mdm Grace Khoo
 
 **Awards**
 ----------
