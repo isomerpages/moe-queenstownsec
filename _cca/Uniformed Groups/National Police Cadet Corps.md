@@ -13,15 +13,14 @@ National Police Cadet Corps
 ----------------------
 
 *   Mdm Liang Xingfen Michelle – OIC
-*   Ms Chung Shan Min Natalie -2IC
-*   Mr Chia Teck Seng
+*   Mr Chia Teck Seng - 2IC
 *   Ms Chan Pei Wen Shermine
 *   Mr Saratkumar Ganasekaran
 
 **Awards**
 ----------
 
-*   NPCC Unit Overall Proficiency Award 2020 –  Gold
+*   NPCC Unit Overall Proficiency Award  –  Gold
 
 **More Information on the CCA**
 -------------------------------
