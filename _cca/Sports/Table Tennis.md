@@ -13,7 +13,7 @@ Table Tennis
 ----------------------
 
 *   Mr Lim Yong Hwee Lawrence – OIC
-*   Mr Ng Chee Kin
+
 *   Mdm Chang Yee Ping, Cynthia
 
 **More information on the CCA**
