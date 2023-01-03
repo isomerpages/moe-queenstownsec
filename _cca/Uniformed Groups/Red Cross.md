@@ -13,13 +13,13 @@ Red Cross Youth
 ----------------------
 
 *   Ms Ng Li Khoon Nancy – OIC
-*   Ms Ang Meng Li – 2IC
-*   Ms Tan Jin Ping Cherlyn
+*   Ms Tan Jin Ping Cherlyn - 2IC
+*   Ms Koh Gek Khim
 
 **Awards**
 ----------
 
-RCY Excellent Unit Award 2021 –  Gold
+RCY Excellent Unit Award  –  Gold
 
 **More Information about the CCA**
 ----------------------------------

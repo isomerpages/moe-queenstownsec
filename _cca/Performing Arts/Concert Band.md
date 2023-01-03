@@ -14,13 +14,13 @@ Concert Band
 ----------------------
 
 *   Ms Liu Yuanxin Amanda – OIC
-*   Mdm Fatimah Begum
 *   Mdm Yeo Gek Eng
+*   Mdm Neo Chai Meng
 
 **Awards**
 ----------
 
-*   4th Certificate of Distinction
+*   Certificate of Distinction
 
 **More information on the CCA**
 -------------------------------

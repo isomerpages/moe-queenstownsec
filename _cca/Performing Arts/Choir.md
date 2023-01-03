@@ -13,7 +13,7 @@ Choir
 ----------------------
 
 *   Mdm Nur Shiqah Binte Hashim – OIC
-*   Miss Jade Tan Jie Heng
+*   Mr Tay Yee Kai
 
 **Awards**
 ----------

@@ -12,7 +12,7 @@ Design and Innovation
 **Teachers-in-Charge**
 ----------------------
 
-*   Mr Tan Gek Guang – I/C
+*   Mr Ng Wern Chin Sean – OIC
 *   Mr Ng Lim Jit Hiang
 
 **More Information on the CCA**

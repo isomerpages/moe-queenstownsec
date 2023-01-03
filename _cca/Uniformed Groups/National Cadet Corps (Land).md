@@ -22,7 +22,7 @@ National Cadet Corps (Land)
 **Awards**
 ----------
 
-*   NCC Best Unit Competition 2021 –  Gold
+*   NCC Best Unit Competition –  Gold
 
 **More Information on the CCA**
 -------------------------------

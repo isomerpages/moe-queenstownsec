@@ -19,7 +19,7 @@ Girl Guides
 **Awards**
 ----------
 
-Puan Noor Aishah Honour Award 2021 – Silver
+Puan Noor Aishah Honour Award – Silver
 
 **More information about the CCA**
 ----------------------------------
