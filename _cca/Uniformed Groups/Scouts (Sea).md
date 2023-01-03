@@ -15,12 +15,11 @@ Scouts (Sea)
 *   Ms Doong Siew Gee Ellie – OC
 *   Mr Chandragus Rinah – 2IC
 *   Mr Peng Boon Yen
-*   Mdm Geetha Veeramani
 
 **Awards**
 ----------
 
-Frank Coopers Sands Award 2020 –  Gold ((No competition from 2021 to 2022)
+Frank Coopers Sands Award  –  Gold 
 
 **More information on the CCA**
 -------------------------------
