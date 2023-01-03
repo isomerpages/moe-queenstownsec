@@ -167,7 +167,7 @@ Mdm Michelle Phoo <a href = "mailto: phoo_wey_wey@moe.edu.sg" >(phoo_wey_wey@moe
 
 #### Secondary Five <br>
 
-**<u>5 Gratitude (5 GR)</u>** <br>
+**<u>5 Aspire (5 AS)</u>** <br>
 Ms Amanda Liu <a href = "mailto: liu_yuanxin_amanda@moe.edu.sg" >(liu_yuanxin_amanda@moe.edu.sg)</a><br>
 
 <br>
