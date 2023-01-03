@@ -13,7 +13,7 @@ Infocomm Technology (Computing)
 ----------------------
 
 *   Mr Chia Wen Mien Adrian – OIC
-*   Mdm Ng Kiat Ee
+*   Mdm Ng Kiat Ee Stella
 *   Mr Fu Ruiqi
 
 **Information:**
