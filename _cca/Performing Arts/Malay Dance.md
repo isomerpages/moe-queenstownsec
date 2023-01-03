@@ -13,12 +13,12 @@ Malay Dance
 ----------------------
 
 *   Miss Noryanti B Md Aris – OIC
-*   Miss Low Shi Ting
+*   Mdm Yahida Yahya
 
 **Awards**
 ----------
 
-*   3rd Certificate of Distinction
+*  Certificate of Distinction
 
 **More Information on the CCA**
 -------------------------------
