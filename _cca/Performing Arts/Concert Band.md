@@ -20,7 +20,7 @@ Concert Band
 **Awards**
 ----------
 
-*   4th Certificate of Distinction
+*   Certificate of Distinction
 
 **More information on the CCA**
 -------------------------------
