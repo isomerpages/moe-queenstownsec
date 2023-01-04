@@ -19,6 +19,3 @@ third_nav_title: Clubs & Societies
 </a></p>
 
 
-<p><a href="https://staging.d33coz43hxnqna.amplifyapp.com/cca/club-societies/photography-club/">
-<img src="\images/CCA/Digital%20Media.png" style="width:390px;height:270px;margin-right:20px;" align = "left">
-</a></p>
