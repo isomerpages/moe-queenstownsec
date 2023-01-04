@@ -5,5 +5,36 @@ description: ""
 ---
 Media Highlights
 ================
+![](/images/Emdhyas_.jpg)
+An article published by Tamil Murasu about our student Emdhyas. 
 
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 750px" class="tg"><colgroup><col style="width: 349px"><col style="width: 401px"></colgroup><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Abstract</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Newslink</span></th></tr></thead><tbody><tr><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Queenstown Secondary is one of the few schools in Singapore, which has in place the interdisciplinary (Geography and Science) Applied Learning Programme (ALP). The articles feature our students working on real-world problems and going beyond learning textbook knowledge.</td><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#2F7CBF;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="https://www.straitstimes.com/singapore/education/more-emphasis-in-humanities-on-the-how-and-why"><span style="text-decoration:underline;color:#2F7CBF;background-color:transparent">https://www.straitstimes.com/singapore/education/more-emphasis-in-humanities-on-the-how-and-why (April 2016)</span></a><br><br> <br><a href="https://www.straitstimes.com/singapore/education/students-work-in-teams-to-solve-problems-in-water-energy-and-food-sustainability"><span style="text-decoration:underline;color:#2F7CBF;background-color:transparent">https://www.straitstimes.com/singapore/education/students-work-in-teams-to-solve-problems-in-water-energy-and-food-sustainability (Nov 2017)</span></a></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Queenstown Secondary School is one of the 28 secondary schools selected by the Ministry of Education to start piloting aspects of Full Subject-Based Banding (Full SBB) from 2020 onwards. Here are some news featuring Queenstown Secondary School as well as our students who have benefitted from subject-based banding.</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2F7CBF;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="https://www.youtube.com/watch?v=7HKKhUOitc0&feature=youtu.be"><span style="text-decoration:underline;color:#2F7CBF;background-color:transparent">https://www.youtube.com/watch?v=7HKKhUOitc0&amp;feature=youtu.be (September, 2019)</span></a><br><br><a href="https://www.zaobao.com.sg/znews/singapore/story20190307-937667"><span style="text-decoration:underline;color:#2F7CBF;background-color:transparent">https://www.zaobao.com.sg/znews/singapore/story20190307-937667 (March, 2019)</span></a></td></tr></tbody></table>
+Article translated by Mdm Kousalya. 
+https://www.tamilmurasu.com.sg/singapore/story20221220-120996
+
+**Emdhyas article - Published by Tamil Murasu**
+
+The circumstances at home was not quite suitable for education, however that wasn’t a barrier.
+
+Emdhyas Ahmed, a Child raised by a single parent, lead to losing interest in education and faced multiple challenges.
+
+Amidst the challenging situation at home he managed to successfully complete the course with outstanding performances & desired to pursue his higher studies in cybersecurity.
+
+When he initially joined the Queenstown Secondary School he was a student that lacked passion & involvement in his studies, he was found to be disinterested in computer related subjects. However, with constant encouragement & support from friends, family & teachers his interest in studies gradually grew & he also wanted to become a computer expert like his brother.
+
+He was awarded the EDUSAVE excellence award for his generosity to help various communities.
+
+Emdhyas used his spare time in lending a hand to the school cleaning staff for preparing food. He mentioned to Tamil Murasu, that recognition needs to be given to these staffs that relentlessly serve us. He was appreciated by many for his selfless character.
+
+NPCC candidate Emdhyas, used to patiently teach all the activities & exercises to his fellow students.
+
+He said that his Mother, Grandmother, Grandfather, Younger Sister & older brother’s support played a vital role in him.
+
+Especially his Grandmother used to encourage him to inculcate good characteristics everyday.
+
+In addition to this Emdhyas mentioned that without the constant support & patience of his teachers it wouldn’t have been possible for him to achieve all that he has today. He said, he was forever grateful & thankful to them.
+
+The governments support, his grandfather’s income & the schools financial assistance are the key players that helped him & his family greatly.
+
+During the pandemic, there was no such facility that was suitable for online classes at his home. However, he never considered this to be a barrier in accomplishing his goal.
+
+He has great interest in watching anime & has a very strong desire to learn the violin. His ambition is to constantly aim for success & achieve more laurels in the future.
