@@ -38,7 +38,6 @@ SETTING UP THE PARENTS GATEWAY MOBILE APP
 </a></p>
 
 
-Please Refer to the [FAQ](/files/FAQ-for-Parent-Gateway.pdf) for Parents if there is any doubts.
 
 If you have any questions, please email : [moe\_parents\_gateway@moe.gov.sg](mailto:moe_parents_gateway@moe.gov.sg?Subject=Enquiry%20on%20Parents%20Gateway)
 
