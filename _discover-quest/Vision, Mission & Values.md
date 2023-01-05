@@ -32,7 +32,7 @@ Committed to Serve. <br>
 #### **Our Mission:**
 
 <center>
-To nurture all Queenstownians to as future-ready leaders, <br>
+To nurture all Queenstownians to as future-oriented leaders, <br>
 actively contributing to society. <br>
 	
 	
@@ -42,7 +42,7 @@ We are committed to cater to the needs of our students:
 
 *   Inculcating the school’s core values of Resilience, Respect, Integrity, Care and Excellence in them
 
-*   Developing them to be future-ready leaders
+*   Developing them to be future-oriented leaders
 
 *   Equipping them with 21st century skill sets and mind sets so that they are able to face the demands of the rapidly changing world
 
