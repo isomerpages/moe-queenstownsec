@@ -9,6 +9,12 @@ Newsworthy Alumni
 
 ![](/images/Our%20Pride/Alumni%201.jpg)
 
+##### Mr Francois Antoine Saverias is featured in the ‘Alive with Experts’ video series.
+We are proud to share that Mr Francois Antoine Saverias, an alumnus of Queenstown Secondary School, is featured in the ‘Alive with Experts’ video series. An expert in projection mapping, Mr Francois shares how his passion in design was developed during his school days, and how he uses his unique strength to contribute to the community. Be inspired by Mr Francois journey and sense of purpose:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rYAUBZw5lKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 --------------
 
 ### Interview with The CEO Magazine
