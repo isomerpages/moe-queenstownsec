@@ -66,7 +66,7 @@ The school expects every Queenstownian to maintain high standards of personal co
 
 1.  Students are to keep nails short, clean and unpainted. No nail polish or henna should be used.
 2.  Students are not allowed to wear coloured contact lenses or tinted spectacles.
-3.  Students are not allowed to wear make-up, jewellery, accessories or ornaments to school. Accessories such as lanyards, necklaces, friendship bands and ankle-bands are not allowed. Students must seek the school’s permission if they would like to wear religious amulets or related accessories. These accessories must be worn out of sight.
+3.  Students are not allowed to wear make-up, jewellery, accessories or ornaments to school. Accessories such as lanyards, necklaces, friendship bands and ankle-bands are not allowed. 
 4.  Body piercings and tattoos are strictly prohibited.
 5.  Outlandish hairstyles, dyed or tinted hair are strictly not allowed. Students with unacceptable hairstyles are required to make the necessary correction before they are allowed back in school.
 
