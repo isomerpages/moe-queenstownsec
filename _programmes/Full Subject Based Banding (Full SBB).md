@@ -16,8 +16,6 @@ Remaking Secondary School Pathways
 Source: https://www.schoolbag.sg/story/what-was-our-experience-in-taking-up-subject-based-banding
 
 
-**<FONT SIZE=5>INSERT VIDEO HERE (HAS TO BE CONVERTED INTO YOUTUBE VIDEO)</FONT>**
-
 Source: https://www.schoolbag.sg/story/fireside-chat-with-minister-ong-on-remaking-secondary-school-pathways
 
 Queenstown Secondary School is one of the 28 secondary schools selected by the Ministry of Education to start piloting aspects of Full Subject-Based Banding (Full SBB) from 2020 onwards.  Here are some of the media articles featuring Queenstown Secondary School.
