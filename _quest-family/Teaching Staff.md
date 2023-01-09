@@ -81,7 +81,7 @@ Mr Melvin Tan <a href = "mailto: tan_wee_yau_melvin@moe.edu.sg" >(tan_wee_yau_me
 Mdm Rozita <a href = "mailto: rozita_beram@moe.edu.sg" >(rozita_beram@moe.edu.sg)</a><br>
 
 **<u>2 Care (2 CA)</u>** <br>
-Mdm Neo Chai Meng <br>
+Mdm Neo Chai Meng <a href = "mailto: neo_chai_meng@moe.edu.sg" >(neo_chai_meng@moe.edu.sg)</a><br>
 Mr Justin Goh <a href = "mailto: goh_yong_seng_justin@moe.edu.sg" >(goh_yong_seng_justin@moe.edu.sg)</a><br>
 
 **<u>2 Excellence (2 EX)</u>** <br>
