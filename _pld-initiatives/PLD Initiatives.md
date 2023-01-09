@@ -14,3 +14,7 @@ MOE has rolled out a Personal Learning Device (PLD) Initiative that requires eve
 ### ICT DIGITAL ITERACY PROGRAMME@QTSS
 ----------------------------------
 ![](/images/NDLP%20DL.jpg)
+
+
+# **2023**
+1) [2023 Parents NDLP Engagement Slides]()
