@@ -6,7 +6,7 @@ description: ""
 CCA Schedule & Venues
 =====================
 
-Click [HERE]() for the 2023 CCA schedule
+Click [Here](/files/CCA%20Schedule%20for%20website%202023%20SEM%201.pdf) for the 2023 CCA schedule
 
 ------------------
 
