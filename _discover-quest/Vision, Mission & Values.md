@@ -32,7 +32,7 @@ Committed to Serve. <br>
 #### **Our Mission:**
 
 <center>
-To nurture all Queenstownians to as future-oriented leaders, <br>
+To nurture all Queenstownians to rise as future-oriented leaders, <br>
 actively contributing to society. <br>
 	
 	
@@ -53,7 +53,6 @@ Instilling in them a sense of empathy  and the motivation to be of service to t
 
 #### **Our Core Values:** <br>
 
-</center>
 
 **R**esilience, **R**espect, **I**ntegrity, **C**are, **E**xcellence <br>
 	
