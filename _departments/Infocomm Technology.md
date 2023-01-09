@@ -14,7 +14,7 @@ Produce future-ready Queenstownians who flourish through personalised, self-dire
 # Mission: 
 To reinvent how teachers teach and students learn using data informed practice and inspire lifelong learning. 
 
- 
+----- 
 
 Leveraging on technology, students are given more opportunities to hone their skills to learn independently and work collaboratively with others. Technology also allows for greater students’ voice in class, with more flexibility on their learning content and learning pace. 
 ![](/images/Picture1.png)
@@ -41,7 +41,3 @@ In Secondary One, students learnt to use CANVA to create posters. They then appl
 
 In Secondary Two, students are exposed to storyboarding and video creation tool. Hence, for their CYL in Secondary Two, they will create video to document and showcase their CYL journey. (Openshot)
 ![](/images/Picture5.png)![](/images/Picture6.png)
-
-
-
-
