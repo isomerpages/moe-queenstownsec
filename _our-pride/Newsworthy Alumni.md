@@ -14,6 +14,10 @@ We are proud to share that Mr Francois Antoine Saverias, an alumnus of Queenstow
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rYAUBZw5lKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+--------------
+### Lee Kwan Yew Award for Normal Course Student 2019
+
+![](/images/LKY%20Award.png)
 
 --------------
 
@@ -21,7 +25,6 @@ We are proud to share that Mr Francois Antoine Saverias, an alumnus of Queenstow
 
 
 <img src="/images/Our%20Pride/Alumni%202.png" style="width:180px;height:180px;margin-right:10px;" align = "left">
-
 
 
 **Continuing a family legacy: Ronald Goh**
