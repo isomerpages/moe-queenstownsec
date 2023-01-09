@@ -8,7 +8,6 @@ Learning for Life Programme
 
 [Click here](https://staging.d33coz43hxnqna.amplifyapp.com/admission/) for DSA application info.
 
-### INSERT VIDEO HERE (NEEDS TO BE CONVERTED TO YOUTUBE
 
 The Learning for Life Programme (LLP) in Queenstown Secondary School leverages on 2 things to nurture all Queenstownians as Community Youth Leaders:
 
