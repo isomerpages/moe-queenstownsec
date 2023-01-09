@@ -6,8 +6,8 @@ description: ""
 CCA Schedule & Venues
 =====================
 
-Click [HERE](/files/CCA-Schedule-SEM2-2022.pdf) for the 2022 Semester 2 CCA Schedule.
+Click [HERE]() for the 2023 CCA schedule
 
 ------------------
 
-Updated on 25 Jun 2022
+Updated on 9 Jan 2023
