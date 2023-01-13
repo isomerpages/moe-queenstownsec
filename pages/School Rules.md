@@ -37,12 +37,13 @@ The school expects every Queenstownian to maintain high standards of personal co
 
 **<u>Attendance and Punctuality</u>**
 
-1.  Students must be present for morning assembly at the assembly venue no later than 7.30am (8.15am on Thursdays). Students are considered late if they are not at the assembly venue.
-2.  Students who are late for school are expected to report to school 15 minutes before reporting time on the next 3 consecutive school days. Students who do not report early on the assigned days, without a valid reason, will serve detention.
-3.  Students are expected to be punctual for morning assembly, lessons, remedial classes, CCAs and all other school activities/ programmes.
-4.  Students who are absent from school or any school activity are expected to submit a medical certificate or a parent letter on the day he returns to school. **Parent letters will be capped at 5 letters per semester.**
-5.  Students who would like to apply for leave from school must submit their parent’s request, in writing, to the Principal, at least 2 weeks in advance. Taking leave during term time for local or overseas holiday is not allowed and will be considered as absence without valid reason.
-6.  If students are feeling unwell or have valid reasons to leave school during school hours, they may ask for permission to leave school earlier. They are to obtain a form at the General Office and seek recommendation from their Class Mentor before attaining approval from HOD/SH Student Management, Vice-Principal or Principal.
+1.  Students must report for morning assembly at the assembly venue no later than 7.30am (8.15am on Thursdays). Students are considered late if they are not at the assembly venue **by the reporting time.**
+2.	Students who are late for school are expected to report to school 15 minutes before reporting time for the next 3 consecutive school days. Students who do not report early on the assigned days, without a valid reason, will serve detention.
+3.	Students are expected to be punctual for morning assembly, lessons, remedial classes, CCAs and all other school activities/ programmes.
+4.	Students who are absent from school or any school activity are expected to submit a medical certificate or a parent letter on the day he returns to school. Parent letters will be capped at 5 letters per semester.
+5.	Students who would like to apply for leave from school must submit their parent’s request, in writing, to the Principal, at least 2 weeks in advance. Taking leave during term time for local or overseas holiday is not allowed and will be considered as absence without valid reason.
+6.	Students who are feeling unwell or have valid reasons to leave school during school hours may ask for permission to leave school earlier. They are to be escorted to the General Office by a Class Leader to obtain an Early Departure Form. Students leaving school during school hours are to seek recommendation from their Class Mentor before attaining approval from HOD/SH Student Management or Vice-Principal/ Principal.
+
 
 **School Attire**
 
