@@ -14,7 +14,7 @@ The school expects every Queenstownian to maintain high standards of personal co
 
 1.  Students are to be polite, respectful and maintain proper decorum at all times.
 2.  Students are to participate actively in all school activities and functions.
-3.  Students must respect and obey school rules and personnel, including the Principal, Vice-Principals, teaching and non-teaching staff, and student-leaders.
+3.  Students are expected to comply with school rules.
 4.  Students are to uphold the good name of the school when they are out of the school. They should be courteous and considerate to others when they are on public transportation or at any public places.
 5.  Students must uphold the law at all times and report students who are behaving suspiciously.
 6.  Students must maintain a conducive learning environment by keeping their noise level down along the corridors, stairways, near classrooms, laboratories or special rooms.
@@ -22,7 +22,7 @@ The school expects every Queenstownian to maintain high standards of personal co
 8.  Students must take care of school and public property and not vandalise them.
 9.  Students should not waste electricity, water, or other school resources.
 10.  Students must follow the security procedures of the school and take care of their belongings.
-11.  Students are strictly not allowed to enter the Staff Room. Students can speak to teachers via the intercom system outside the Staff Room.
+11.  Students are strictly not allowed to enter the Staff Room. Students can communicate with teachers via the intercom system outside the Staff Room or through MS Teams from 0700h to 1800h during school days.
 12.  Gambling, betting or playing of any card games of any form are prohibited in school.
 13.  **All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.**
 
@@ -33,16 +33,17 @@ The school expects every Queenstownian to maintain high standards of personal co
 3.  All students are to sing the school song and recite the Student’s Creed respectfully.
 4.  Proper decorum and behaviour must be observed during all school assemblies and functions. Students are to be quiet and seated in an orderly manner during school events such as assembly period.
 5.  All students are expected to uphold the reputation of the school and nation at all times – e.g. there must be no defamation (in any form) of the school or any staff of the school or any of the leaders of the nation.
-6.  Students are to greet all staff and visitors when they meet them.
+6.  Students are to greet all staff and visitors when they meet them for the first time in the day.
 
 **<u>Attendance and Punctuality</u>**
 
-1.  Students must be present for morning assembly at the assembly venue no later than 7.30am (8.15am on Thursdays). Students are considered late if they are not at the assembly venue.
-2.  Students who are late for school are expected to report to school 15 minutes before reporting time on the next 3 consecutive school days. Students who do not report early on the assigned days, without a valid reason, will serve detention.
-3.  Students are expected to be punctual for morning assembly, lessons, remedial classes, CCAs and all other school activities/ programmes.
-4.  Students who are absent from school or any school activity are expected to submit a medical certificate or a parent letter on the day he returns to school. **Parent letters will be capped at 5 letters per semester.**
-5.  Students who would like to apply for leave from school must submit their parent’s request, in writing, to the Principal, at least 2 weeks in advance. Taking leave during term time for local or overseas holiday is not allowed and will be considered as absence without valid reason.
-6.  If students are feeling unwell or have valid reasons to leave school during school hours, they may ask for permission to leave school earlier. They are to obtain a form at the General Office and seek recommendation from their Class Mentor before attaining approval from HOD/SH Student Management, Vice-Principal or Principal.
+1.  Students must report for morning assembly at the assembly venue no later than 7.30am (8.15am on Thursdays). Students are considered late if they are not at the assembly venue **by the reporting time.**
+2.	Students who are late for school are expected to report to school 15 minutes before reporting time for the next 3 consecutive school days. Students who do not report early on the assigned days, without a valid reason, will serve detention.
+3.	Students are expected to be punctual for morning assembly, lessons, remedial classes, CCAs and all other school activities/ programmes.
+4.	Students who are absent from school or any school activity are expected to submit a medical certificate or a parent letter on the day he returns to school. Parent letters will be capped at 5 letters per semester.
+5.	Students who would like to apply for leave from school must submit their parent’s request, in writing, to the Principal, at least 2 weeks in advance. Taking leave during term time for local or overseas holiday is not allowed and will be considered as absence without valid reason.
+6.	Students who are feeling unwell or have valid reasons to leave school during school hours may ask for permission to leave school earlier. They are to be escorted to the General Office by a Class Leader to obtain an Early Departure Form. Students leaving school during school hours are to seek recommendation from their Class Mentor before attaining approval from HOD/SH Student Management or Vice-Principal/ Principal.
+
 
 **School Attire**
 
