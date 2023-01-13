@@ -17,4 +17,4 @@ MOE has rolled out a Personal Learning Device (PLD) Initiative that requires eve
 
 
 # **2023**
-1) [2023 Parents NDLP Engagement Slides]()
+1) [Parent Engagement Slides 2023](/files/Parent-Engagement-Deck_07-Jan-2023.pdf)
