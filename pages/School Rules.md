@@ -14,7 +14,7 @@ The school expects every Queenstownian to maintain high standards of personal co
 
 1.  Students are to be polite, respectful and maintain proper decorum at all times.
 2.  Students are to participate actively in all school activities and functions.
-3.  Students must respect and obey school rules and personnel, including the Principal, Vice-Principals, teaching and non-teaching staff, and student-leaders.
+3.  Students are expected to comply with school rules.
 4.  Students are to uphold the good name of the school when they are out of the school. They should be courteous and considerate to others when they are on public transportation or at any public places.
 5.  Students must uphold the law at all times and report students who are behaving suspiciously.
 6.  Students must maintain a conducive learning environment by keeping their noise level down along the corridors, stairways, near classrooms, laboratories or special rooms.
@@ -22,7 +22,7 @@ The school expects every Queenstownian to maintain high standards of personal co
 8.  Students must take care of school and public property and not vandalise them.
 9.  Students should not waste electricity, water, or other school resources.
 10.  Students must follow the security procedures of the school and take care of their belongings.
-11.  Students are strictly not allowed to enter the Staff Room. Students can speak to teachers via the intercom system outside the Staff Room.
+11.  Students are strictly not allowed to enter the Staff Room. Students can communicate with teachers via the intercom system outside the Staff Room or through MS Teams from 0700h to 1800h during school days.
 12.  Gambling, betting or playing of any card games of any form are prohibited in school.
 13.  **All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.**
 
@@ -33,7 +33,7 @@ The school expects every Queenstownian to maintain high standards of personal co
 3.  All students are to sing the school song and recite the Student’s Creed respectfully.
 4.  Proper decorum and behaviour must be observed during all school assemblies and functions. Students are to be quiet and seated in an orderly manner during school events such as assembly period.
 5.  All students are expected to uphold the reputation of the school and nation at all times – e.g. there must be no defamation (in any form) of the school or any staff of the school or any of the leaders of the nation.
-6.  Students are to greet all staff and visitors when they meet them.
+6.  Students are to greet all staff and visitors when they meet them for the first time in the day.
 
 **<u>Attendance and Punctuality</u>**
 
