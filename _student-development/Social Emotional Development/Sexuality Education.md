@@ -100,17 +100,32 @@ _**8.** eTeens_ is a programme developed by Health Promotion Board, in collabo
 **At Queenstown Secondary School, the _eTeens_ programme will be implemented as follows in 2023:** <br>
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 553px" class="tg"><colgroup><col style="width: 161px"><col style="width: 291px"><col style="width: 101px"></colgroup><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Topics/Lessons</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Programme Learning Objectives</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Time Period</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mass Talk by HPB appointed vendor</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">·       Awareness of the different STIs and HIV/AIDS<br><br>·       Modes of transmission<br>·       Modes of protection, specifically on how the condom is used<br>·       Consequences and impact of STIs/HIV</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Term 3 Week 9</td></tr><tr><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Classroom-based Lesson</td><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">·       Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td><td style="background-color:#E6E6E6;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Term 3 Week 10</td></tr></tbody></table><br>
+	
 
 **Information for Parents**<br>
+	
 
-<br>**10.** Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+**10.** Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.<br>
+	
+	
 
-**11.** Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form has been disseminated via the Parents Gateway for Sec 2, 4 and 5. For Sec 1 and 3, the form will be disseminated nearer the end of Term 2.
+**11.** Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form has been disseminated via the Parents Gateway for Sec 2, 4 and 5. For Sec 1 and 3, the form will be disseminated nearer the end of Term 2. <br>
+	
+	
+	
+**11.** Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form has been disseminated via the Parents Gateway for Sec 2, 4 and 5. For Sec 1 and 3, the form will be disseminated nearer the end of Term 2. <br>
+	
+	
 
-**12.** Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form has been disseminated via the Parents Gateway for all levels in Term 1.
+**12.** Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form has been disseminated via the Parents Gateway for all levels in Term 1.<br>
+	
+	
 
-**13.** Parents can contact the school at [qtss@moe.edu.sg](mailto:qtss@moe.edu.sg) or 64741055 for discussion or to seek clarification about the school’s sexuality education programme with Mr Tan Chee Tiong (HOD CCE) or Mdm Tang Siow Leng (SEd Coordinator)
+**13.** Parents can contact the school at [qtss@moe.edu.sg](mailto:qtss@moe.edu.sg) or 64741055 for discussion or to seek clarification about the school’s sexuality education programme with Mr Tan Chee Tiong (HOD CCE) or Mdm Tang Siow Leng (SEd Coordinator)<br>
+	
+	
 
-**14.** Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+**14.** Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.<br>
+	
 
 Last updated: 18 Jan 2023
