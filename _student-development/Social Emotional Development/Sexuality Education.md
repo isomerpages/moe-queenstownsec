@@ -102,7 +102,7 @@ _**8.** eTeens_ is a programme developed by Health Promotion Board, in collabo
 
 **Information for Parents**<br>
 
-**10.** Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+<br>**10.** Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
 **11.** Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form has been disseminated via the Parents Gateway for Sec 2, 4 and 5. For Sec 1 and 3, the form will be disseminated nearer the end of Term 2.
 
