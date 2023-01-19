@@ -112,19 +112,19 @@ Information for Parents <br><br>
 	
 	
 
-**11.** Parents who wish to opt their children out of the **Sexuality Education** lessons need to complete an opt-out form. This form has been disseminated via the Parents Gateway for Sec 2, 4 and 5. For Sec 1 and 3, the form will be disseminated nearer the end of Term 2. 
+11. Parents who wish to opt their children out of the **Sexuality Education** lessons need to complete an opt-out form. This form has been disseminated via the Parents Gateway for Sec 2, 4 and 5. For Sec 1 and 3, the form will be disseminated nearer the end of Term 2. 
 <br><br>
 	
 	
-**12.** Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form has been disseminated via the Parents Gateway for all levels in Term 1.<br><br>
+12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form has been disseminated via the Parents Gateway for all levels in Term 1.<br><br>
 	
 	
 
-**13.** Parents can contact the school at qtss@moe.edu.sg or 64741055 for discussion or to seek clarification about the school’s sexuality education programme with Mr Tan Chee Tiong (HOD CCE) or Mdm Tang Siow Leng (SEd Coordinator)<br><br>
+13. Parents can contact the school at qtss@moe.edu.sg or 64741055 for discussion or to seek clarification about the school’s sexuality education programme with Mr Tan Chee Tiong (HOD CCE) or Mdm Tang Siow Leng (SEd Coordinator)<br><br>
 	
 	
 
-**14.** Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.<br><br>
+14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.<br><br>
 	
 
 Last updated: 18 Jan 2023
