@@ -55,7 +55,7 @@ CCE 2023 Theme: Making Choices**
 
 	
 **Secondary 2<br>
-	CCE 2021 Theme: Making Choices**
+	CCE 2023 Theme: Making Choices**
 	
 
 
