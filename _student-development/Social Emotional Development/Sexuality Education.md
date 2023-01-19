@@ -112,7 +112,7 @@ Sense and Sexuality (2nd Edition)**
 <br>
 	
 	
-**12.** Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form has been disseminated via the Parents Gateway for all levels in Term 1.<br>
+**12.** Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form.This form has been disseminated via the Parents Gateway for all levels in Term 1. <br>
 	
 	
 
