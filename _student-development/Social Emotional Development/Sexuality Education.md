@@ -108,7 +108,7 @@ Sense and Sexuality (2nd Edition)**
 Information for Parents <br><br>
 	
 
-10. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.<br><br>
+10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.<br><br>
 	
 	
 
