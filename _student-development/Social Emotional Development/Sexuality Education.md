@@ -122,7 +122,7 @@ Sense and Sexuality (2nd Edition)**
 	
 	
 
-**13.** Parents can contact the school at [qtss@moe.edu.sg](mailto:qtss@moe.edu.sg) or 64741055 for discussion or to seek clarification about the school’s sexuality education programme with Mr Tan Chee Tiong (HOD CCE) or Mdm Tang Siow Leng (SEd Coordinator)<br><br>
+**13.** Parents can contact the school at qtss@moe.edu.sg or 64741055 for discussion or to seek clarification about the school’s sexuality education programme with Mr Tan Chee Tiong (HOD CCE) or Mdm Tang Siow Leng (SEd Coordinator)<br><br>
 	
 	
 
