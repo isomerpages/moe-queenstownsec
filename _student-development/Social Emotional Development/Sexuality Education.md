@@ -116,7 +116,8 @@ Sense and Sexuality (2nd Edition)**
 	
 	
 
-**11.** Parents who wish to opt their children out of the **Sexuality Education** lessons need to complete an opt-out form. This form has been disseminated via the Parents Gateway for Sec 2, 4 and 5. For Sec 1 and 3, the form will be disseminated nearer the end of Term 2. <br><br>
+**11.** Parents who wish to opt their children out of the **Sexuality Education** lessons need to complete an opt-out form. This form has been disseminated via the Parents Gateway for Sec 2, 4 and 5. For Sec 1 and 3, the form will be disseminated nearer the end of Term 2. 
+<br><br>
 	
 	
 **12.** Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form has been disseminated via the Parents Gateway for all levels in Term 1.<br><br>
