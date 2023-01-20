@@ -3,7 +3,7 @@ title: O & N Level Results 2022 (Key Information)
 permalink: /OnNlevelResults2022/
 description: ""
 ---
-Dear Sec 4&5 students,
+Dear Sec 4 & 5 students,
 
 Congratulations for your O & N-level results.
 
