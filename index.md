@@ -13,7 +13,7 @@ sections:
           url: /lp-announcement/Sec1Registration-Dec2022/
         - title: O & N Level Results 2022 (Key Information)
           description: ""
-          url: /O&NlevelResults2022/
+          url: /OnNlevelResults2022/
         - title: Queenstown Sec Open House 2022
           description: ""
           url: https://queenstownsecsch.wixsite.com/openhouse2022
