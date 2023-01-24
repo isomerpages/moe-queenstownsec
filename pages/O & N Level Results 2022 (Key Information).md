@@ -15,7 +15,7 @@ Please view the slides below for key information for your post secondary courses
 ![](/images/Picture%20B.png)
 ![](/images/Picture%20B2.png)
 ![](/images/Picture%20B3.png)
-
+![](/images/Picture%20C1.png)
 
 ## GCE N-Level
 [PowerPoint slides on the Key Information](/files/Release%20of%20N%20Level%20Results_Key%20Information.pdf)
