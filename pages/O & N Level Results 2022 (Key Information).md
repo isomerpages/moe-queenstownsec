@@ -12,7 +12,9 @@ Please view the slides below for key information for your post secondary courses
 ## GCE O-Level
 [PowerPoint slides on the Key Information](/files/2022%20O-Level%20Briefing%20Slides%20for%20Students_website.pdf)
 ![](/images/Picture%20A.png)
-
+![](/images/Picture%20B.png)
+![](/images/Picture%20B2.png)
+![](/images/Picture%20B3.png)
 
 
 ## GCE N-Level
