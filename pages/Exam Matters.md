@@ -23,4 +23,3 @@ Sec 4 NA: [WA 2](/files/letter_t2%20sba%20info_sec%204na%202023.pdf)
 Sec 4 NT: [WA 2](/files/letter_t2%20sba%20info_sec%204nt%202023.pdf)
 
 Sec 5 NA: [WA 2](/files/letter_t2%20sba%20info_sec%205na%202023.pdf)
-
