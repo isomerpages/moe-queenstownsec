@@ -3,7 +3,7 @@ title: Exam Matters
 permalink: /quick-links/student-links/exam-matters/
 description: ""
 ---
-Exam Matters
+Assessment Matters
 ============
 
 ### Assessment Info
