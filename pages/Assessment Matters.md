@@ -6,7 +6,7 @@ description: ""
 Assessment Matters
 ============
 
-### Assessment Inf
+### Assessment Info
 
 ##### School Based Assessment in Term 2 (2023)
 
