@@ -10,7 +10,7 @@ Direct School Admission
 
 
 
-**Direct School Admission 2022**
+**Direct School Admission 2023**
 --------------------------------
 
 The talent areas offered by Queenstown Secondary School for Direct School Admission (Sec) are as follow (click on the following to access the description of each of the talent areas):
@@ -84,41 +84,29 @@ _Please note that meeting all the criteria does not guarantee the student will b
 
 ------------------
 
-**Application Process**
+# **Important DSA 2023 Information**
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal at [https://www.moe.gov.sg/secondary/dsa/application](https://www.moe.gov.sg/secondary/dsa/application). The application is free-of-charge and will be open from **5 May 2022, 11am to 1 June 2022, 3pm**.
+1.	Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of- charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec
 
-Shortlisted applicants will be notified to present themselves, **in-person**,
+2.	Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
-*   for an interview for ALP & CYL, or
-*   a trial for Volleyball, or
-*   an audition for Malay Dance
+3.	Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
 
-in the month of July 2022.
+4.	The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec”
 
-All shortlisted candidates will be informed of their exact date and time of the interviews/sports trial/ audition to be conducted in Queenstown Secondary School.
+5.	Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
 
-Parents and students are encouraged to choose schools wisely based on the student’s **aptitudes** and **strengths**, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. Students who are successfully admitted to the school via DSA are **expected to honour their commitment** to the school, and **participate in the activities** related to the talent they are selected for from year 1-4.
 
-**Results of Application:**
+Useful MOE weblinks
+DSA-Sec Main Webpage	https://www.moe.gov.sg/dsa-sec
 
-All applicants will be informed of the outcome of their applications by Mid-September 2022. For successful applicants, your respective primary school will follow up with the remaining procedures. Queenstown Secondary School reserves the right not to release the interview results or the reasons for non-successful applications.
+Instructions on Application (Mainstream students)	https://go.gov.sg/dsa-sec-application
+Instructions on Application (Non Mainstream Students)	https://go.gov.sg/nmsdsa-sec- application
+Direct to DSA-Sec Portal (Mainstream Students)
+* go live on 4 May, 11am	https://go.gov.sg/apply-dsa-sec
+Direct to DSA-Sec Portal (Non Mainstream Students)
+* go live on 4 May, 11am	https://go.gov.sg/apply-dsa-sec-nms
+DSA-Sec iFAQs	https://go.gov.sg/dsa-secfaqs
+DSA-Sec School Finder	https://go.gov.sg/dsa-secschfinder
 
-For more details, please refer to MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
 
-For more information on our school and on the DSA process, please refer to the following website:
-
- *   DSA-Sec MOE website:
-        *   [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
-   *   Instructions on Application (Mainstream students):
-        *   [https://go.gov.sg/dsa-sec-application](https://go.gov.sg/dsa-sec-application)
-   *   Instructions on Application (Non Mainstream Students):
-        *   [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)
-   *   Direct to DSA-Sec Portal (Mainstream Students):
-        *   [https://go.gov.sg/apply-dsa-sec](https://go.gov.sg/apply-dsa-sec)
-   *   Direct to DSA-Sec Portal (Non Mainstream Students):
-        *   [https://go.gov.sg/apply-dsa-sec-nms](https://go.gov.sg/apply-dsa-sec-nms)
-   *   DSA-Sec iFAQs:
-        *   [https://go.gov.sg/dsa-secfaqs](https://go.gov.sg/dsa-secfaqs)
-   *   DSA-Sec School Finder:
-        *   [https://go.gov.sg/dsa-secschfinder](https://go.gov.sg/dsa-secschfinder)
