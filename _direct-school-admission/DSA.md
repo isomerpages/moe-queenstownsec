@@ -15,13 +15,18 @@ Direct School Admission
 
 The talent areas offered by Queenstown Secondary School for Direct School Admission (Sec) are as follow (click on the following to access the description of each of the talent areas):
 
-[**Community Youth Leadership**](https://staging.d33coz43hxnqna.amplifyapp.com/quick-links/school-links/learning-for-life-programme/)
+[Community and Youth Leadership](/files/llp%20dsa%202023.pdf)
 
-[**Environmental Sustainability**](https://staging.d33coz43hxnqna.amplifyapp.com/quick-links/school-links/applied-learning-programme/)
+[Environmental Sustainability](/files/alp%20dsa%202023%20.pdf)
 
-[**Malay Dance**](https://staging.d33coz43hxnqna.amplifyapp.com/quick-links/school-links/malay-dance/)
+[Malay Dance](/files/malay%20dance%20dsa%202023.pdf)
 
-[**Volleyball**](https://staging.d33coz43hxnqna.amplifyapp.com/quick-links/school-links/volleyball/)
+[Concert Band](/files/band%20dsa%202023%20.pdf)
+
+[Volleyball](/files/volleyball%20dsa%202023%20.pdf)
+
+[Basketball](/files/basketball%20dsa%202023.pdf)
+
 
 ----------------
 
