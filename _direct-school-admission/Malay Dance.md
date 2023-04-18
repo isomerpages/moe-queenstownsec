@@ -6,93 +6,78 @@ description: ""
 Malay Dance
 ===========
 
-**Direct School Admission 2022 (MALAY DANCE)**
+**Direct School Admission 2023 (MALAY DANCE)**
 
 **Our Story**
 
 For our Questari dancers, dance has always been their passion, and the co-curricular activity offers our dancers the opportunity to embark on an enriching and fantastic journey, exploring the wide array of traditional Malay dance genres. These dance genres include Joget, Zapin, Asli, Inang and Masri. Each dance form depicts the many aspects of the Malay culture and traditions.  
   
-Our dedicated coach choreographs delicate, enchanting and energetic dance movements to create a traditional dance form that allows our dancers to move gracefully on stage. Our dances also incorporate the creative use of the _kompang_ (hand-held drum), _tepak sireh_ (ornate betel leaf container), umbrella, _sarong_ and other Malay ceremonial mainstays as dance props, adding to the beauty and enchantment of our dance form.
+Our dedicated coach choreographs delicate, enchanting and energetic dance movements to create a traditional dance form that allows our dancers to move gracefully on stage. Our dances also incorporate the creative use of the&nbsp;_kompang_&nbsp;(hand-held drum),&nbsp;_tepak sireh_&nbsp;(ornate betel leaf container), umbrella,&nbsp;_sarong_&nbsp;and other Malay ceremonial mainstays as dance props, adding to the beauty and enchantment of our dance form.
 
-Our dancers demonstrate resilience and excellence through their dedication to perfect their dance movements. Our dancers have built a strong sense of belonging, teamwork and respect for each other. They always perform to their upmost best and as part of our character development, we serve the community and perform at communal events, enacting our school motto, _Berani Berkhidmat_ (Dare to Serve).
+Our dancers demonstrate resilience and excellence through their dedication to perfect their dance movements. Our dancers have built a strong sense of belonging, teamwork and respect for each other. They always perform to their upmost best and as part of our character development, we serve the community and perform at communal events, enacting our school motto,&nbsp;_Berani Berkhidmat_&nbsp;(Dare to Serve).
 
-It is no surprise that our dance group has been outstanding in performance. We have obtained **Certificates of Distinction** at the Singapore Youth Festival (SYF) Arts Presentation for three consecutive years – in 2017, 2019, and 2021. Our Questari dancers are also regularly invited to perform at external events. These platforms further hone their skills and confidence as they showcase their graceful dance movements to members of the public.
+It is no surprise that our dance group has been outstanding in performance. We have obtained&nbsp;**Certificates of Distinction**&nbsp;at the Singapore Youth Festival (SYF) Arts Presentation for three consecutive years – in 2017, 2019, and 2021. Our Questari dancers are also regularly invited to perform at external events. These platforms further hone their skills and confidence as they showcase their graceful dance movements to members of the public.
 
-We welcome students who are passionate and have the experience and flair in any dance form to join through the Direct School Admission (DSA) Exercise.
-
-Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
-
-Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1 – 4.
+Beyond SYF, our dancers participated in a variety of events to hone and showcase their talents. These included performing at CNY concerts, QTSS Speech Day, Community Hari Raya Festive Celebrations, Muara Festival 2022 @ Esplanade Outdoor Theatre, Mutiara Tari 2022 Competition @Wisma Geylang Serai, among others.&nbsp;
 
 
-
-<img src="/images/School%20Links/MD1.jpg"  
-     style="width:85%">
+We welcome students who are passionate and have the experience and flair in any dance form to join through the Direct School Admission (DSA) Exercise
 
 
-<img src="/images/School%20Links/MD2.jpg"  
-     style="width:65%">
+
+
+
+**SYF 2021**
+<img src="/images/School%20Links/MD1.jpg" style="width:85%">
+
+
+**Hari Raya Celebration 2023**
+![](/images/picture59.jpg)
+
+
 		 
-**Our activities**
+**Our Activities**&nbsp;
 
-**2018**
+**2021&nbsp;**
 
-<u>School Performance</u>
+**<u>School Performance</u>&nbsp;**
 
-CNY concert 2018
+CNY concert 2021&nbsp;
 
-Communal Lunch 2018
+**2022&nbsp;**
 
-Speech Day 2018
+**<u>School Performance&nbsp;</u>**
 
-<u>External Performance</u>
+Chinese New Year Live Streaming Concert @QTSS&nbsp;
 
-Henderson Community National Day Dinner 2018
+Hari Raya Concert @QTSS – Music Video&nbsp;
 
-Muara Festival 2018 @ Esplanade Outdoor Theatre
+**2023**&nbsp;
 
-<br> 
+**<u>School Performance&nbsp;</u>**
 
-**2019**
+CNY concert 2023&nbsp;
 
-<u>School Performance</u>
+One Raya @QTSS&nbsp;
 
-CNY concert 2019
+**<u>External Performance&nbsp;</u>**
 
-QTSS Communal Lunch 2019
+Clementi Division Hari Raya Festive Celebration (Singapore Police Force)&nbsp;
 
-<u>External Performance</u>
+Mutiara Tari 2022 Competition held @Wisma Geylang Serai and collaborating partner with Sri Warisan Som Said Performing Arts Ltd&nbsp;
 
-Performance for Lion Club of Singapore Nanyang Dinner @ HomeTeams Bukit Batok
-
-SYF 2019 Youth Day Celebration @ Esplanade Outdoor Theatre
-
-MESRA Berzapin Series Workshop
-
-<br>
-
-**2020**
-
-<u>School Performance</u>
-
-CNY concert 2020
-
-<br>
-
-**2021**
-
-<u>School Performance</u>
-
-CNY concert 2021
+Muara Festival 2022 @ Esplanade Outdoor Theatre&nbsp;
 
 **Our Achievements**
 
-<u>Singapore Youth Festival Competition</u>
+**<u>Singapore Youth Festival Competition&nbsp;</u>**
 
-2017 – Certificate of Distinction
+2019 - Certificate of Distinction&nbsp;
 
-2019 – Certificate of Distinction
+2021 - Certificate of Distinction&nbsp;
 
-2021 – Certificate of Distinction
+2023 – SYF in progress&nbsp;
 
-MESRA Berzapin Competition 2019 – 1st Runner-up
+**<u>MESRA Berzapin Competition</u>**&nbsp;&nbsp;
+
+2019 – 1st Runner-up
