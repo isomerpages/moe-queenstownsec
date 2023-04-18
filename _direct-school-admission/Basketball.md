@@ -31,3 +31,26 @@ description: ""
 	* Good Work Ethics
     
 	* Sound Values (Discipline, Teamwork, Respect, Responsibility)</td></tr></tbody></table>
+	
+	
+
+We believe strongly in the concept of putting the student before the athlete. To excel in sports, they must be grounded in ethics and values. Only then will they exhibit the readiness to participate and reap the benefits of our structured basketball programme.&nbsp;&nbsp;
+
+Student Athletes would also be given multiple opportunities and platforms to demonstrate their application of the skills acquired.&nbsp;&nbsp;
+
+In 2024, we will have our pioneer batch of basketball girls. This is an unique opportunity for you to leave a legacy for future generations to emulate. &nbsp;
+
+These include but are not limited to:&nbsp;&nbsp;
+
+1.  National School Games (NSG)&nbsp;
+    
+
+2.  Friendly Tournaments (Queens Cup, T-Net Club Invitational Basketball Tournament&nbsp;
+    
+
+3.  Inter-school friendlies&nbsp;&nbsp;
+    
+
+4.  Annual Training and Bonding Camps
+	
+	
