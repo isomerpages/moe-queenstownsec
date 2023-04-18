@@ -23,12 +23,9 @@ We welcome students who are passionate and committed to concert band to apply an
 
 
 
+
+
 **Pre-SYF Showcase to Parents 2023**
-
-
-
-
-
 
 
 
