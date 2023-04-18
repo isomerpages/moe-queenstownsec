@@ -12,15 +12,15 @@ description: ""
 
 The talent areas offered by Queenstown Secondary School for Direct School Admission (Sec) are as follow (click on the menu on the left to access the description of each of the talent areas):
 
-*   Community Youth Leadership 
+*   Community Youth Leadership&nbsp;
     
-*   Environmental Sustainability 
+*   Environmental Sustainability&nbsp;
     
-*   Basketball 
+*   Basketball&nbsp;
 
-*   Volleyball 
+*   Volleyball&nbsp;
     
-*   Concert Band 
+*   Concert Band&nbsp;
     
 *   Malay Dance
 
@@ -42,17 +42,53 @@ The talent areas offered by Queenstown Secondary School for Direct School Admiss
 
 **Useful MOE weblinks**
 
-DSA-Sec Main Webpage	https://www.moe.gov.sg/dsa-sec
+  <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="319" valign="top" style="width:239.4pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>DSA-Sec Main Webpage</td><td width="319" valign="top" style="width:239.4pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>https://www.moe.gov.sg/dsa-sec </td></tr><tr style="mso-yfti-irow:1"><td width="319" valign="top" style="width:239.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>Instructions on Application (Mainstream students)</td><td width="319" valign="top" style="width:239.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>https://go.gov.sg/dsa-sec-application</td></tr><tr style="mso-yfti-irow:2"><td width="319" valign="top" style="width:239.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>Instructions on Application (Non Mainstream Students)</td><td width="319" valign="top" style="width:239.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>https://go.gov.sg/nmsdsa-sec- application</td></tr><tr style="mso-yfti-irow:3"><td width="319" valign="top" style="width:239.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>Direct to DSA-Sec Portal (Mainstream Students)&nbsp;
 
-Instructions on Application (Mainstream students) https://go.gov.sg/dsa-sec-application
+\* go live on 4 May, 11am</td><td width="319" valign="top" style="width:239.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>https://go.gov.sg/apply-dsa-sec</td></tr><tr style="mso-yfti-irow:4"><td width="319" valign="top" style="width:239.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p></td><td width="319" valign="top" style="width:239.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:5"><td width="319" valign="top" style="width:239.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p></td><td width="319" valign="top" style="width:239.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes"><td width="319" valign="top" style="width:239.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p></td><td width="319" valign="top" style="width:239.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p></td></tr></tbody></table>
 
-Instructions on Application (Non Mainstream Students)	https://go.gov.sg/dsa-sec-application
 
-Direct to DSA-Sec Portal (Mainstream Students)
-go live on 4 May, 11am	https://go.gov.sg/apply-dsa-sec
 
-Direct to DSA-Sec Portal (Non Mainstream Students) go live on 4 May, 11am	https://go.gov.sg/apply-dsa-sec-nms
 
-DSA-Sec iFAQs	https://go.gov.sg/dsa-secfaqs
 
-DSA-Sec School Finder	https://go.gov.sg/dsa-secschfinder
+
+
+
+
+
+
+
+
