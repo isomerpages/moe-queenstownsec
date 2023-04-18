@@ -52,7 +52,7 @@ To start using the option A, you will need to do some setup.  We have send  vi
 
 After you have setup the individual accounts, you will be able to access the full flexibilities of DMA option A.
 
-For additional queries regarding DMA, please email Mr Chua Zhen An (ICT Executive):  chua_zhen_an@schools.gov.sg
+For additional queries regarding DMA, please email Mr Chua Zhen An (ICT Associate):  chua_zhen_an@schools.gov.sg
 
 If your child/ward requires help with  the usage of PLD, please visit our [Student’s Portal](https://sites.google.com/moe.edu.sg/qtssstudentndlp/home). This portal includes updated information and solutions on commonly faced technical issues and procedure for reporting them if a solution cannot be found on Student Portal.
 
