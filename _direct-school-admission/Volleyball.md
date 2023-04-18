@@ -121,44 +121,19 @@ We welcome students who are passionate and committed in volleyball to participat
 
 **Photos <br>
 B-Div Boys 2023**
+![](/images/picture62.jpg)
+
+![](/images/picture71.jpg)
+
+
+**B-Div Girls 2023: 2nd Runner- Up**
+
+![](/images/picture91.jpg)
+![](/images/picture81.jpg)
 
 
 
 
 
 
-<br>
 
-**2021**&nbsp;(covid disruption)
-
-NSG Championship B Division Girls – 1st
-
-
-
-<img style="width:75%" src="/images/School%20Links/VB1.jpg">
-
-
-
-B div 2021
-
-<img style="width:85%" src="/images/School%20Links/VB2.jpg">
-
-
-C div 2019
-
-
-<img style="width:85%" src="/images/School%20Links/VB3.jpg">
-
-C div 2019
-
-
-
-<img style="width:85%" src="/images/School%20Links/VB4.jpg">
-
-B div 2018
-
-
-
-<img style="width:75%" src="/images/School%20Links/VB5.jpg">
-
-<img style="width:75%" src="/images/School%20Links/VB6.jpg">
