@@ -97,16 +97,19 @@ _Please note that meeting all the criteria does not guarantee the student will b
 5.	Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
 
 
-Useful MOE weblinks
+**Useful MOE weblinks**
+
 DSA-Sec Main Webpage	https://www.moe.gov.sg/dsa-sec
 
-Instructions on Application (Mainstream students)	https://go.gov.sg/dsa-sec-application
+Instructions on Application (Mainstream students) https://go.gov.sg/dsa-sec-application
+
 Instructions on Application (Non Mainstream Students)	https://go.gov.sg/nmsdsa-sec- application
+
 Direct to DSA-Sec Portal (Mainstream Students)
-* go live on 4 May, 11am	https://go.gov.sg/apply-dsa-sec
-Direct to DSA-Sec Portal (Non Mainstream Students)
-* go live on 4 May, 11am	https://go.gov.sg/apply-dsa-sec-nms
+go live on 4 May, 11am	https://go.gov.sg/apply-dsa-sec
+
+Direct to DSA-Sec Portal (Non Mainstream Students) go live on 4 May, 11am	https://go.gov.sg/apply-dsa-sec-nms
+
 DSA-Sec iFAQs	https://go.gov.sg/dsa-secfaqs
+
 DSA-Sec School Finder	https://go.gov.sg/dsa-secschfinder
-
-
