@@ -21,14 +21,17 @@ We welcome students who are passionate and committed to concert band to apply an
 
 **2022 National Day Performance at Redhill**
 
-
-
+![](/images/picture130.png)
 
 
 **Pre-SYF Showcase to Parents 2023**
 
+![](/images/picture140.jpg)
 
 
+**SYF 2023**
+
+![](/images/picture150.jpg)
 
 
 
