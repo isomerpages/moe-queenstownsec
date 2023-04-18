@@ -65,5 +65,3 @@ These include but are not limited to:&nbsp;&nbsp;
 ![](/images/picture111.jpg)
 
 ![](/images/picture121.jpg)
-
-
