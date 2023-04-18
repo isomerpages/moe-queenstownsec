@@ -10,7 +10,7 @@ description: ""
 **Direct School Admission 2023**
 --------------------------------
 
-The talent areas offered by Queenstown Secondary School for Direct School Admission (Sec) are as follow (click on the following to access the description of each of the talent areas):
+The talent areas offered by Queenstown Secondary School for Direct School Admission (Sec) are as follow (click on the menu on the left to access the description of each of the talent areas):
 
 *   Community Youth Leadership 
     
