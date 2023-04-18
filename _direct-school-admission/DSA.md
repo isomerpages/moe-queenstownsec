@@ -46,7 +46,7 @@ DSA-Sec Main Webpage	https://www.moe.gov.sg/dsa-sec
 
 Instructions on Application (Mainstream students) https://go.gov.sg/dsa-sec-application
 
-Instructions on Application (Non Mainstream Students)	https://go.gov.sg/nmsdsa-sec- application
+Instructions on Application (Non Mainstream Students)	https://go.gov.sg/dsa-sec-application
 
 Direct to DSA-Sec Portal (Mainstream Students)
 go live on 4 May, 11am	https://go.gov.sg/apply-dsa-sec
