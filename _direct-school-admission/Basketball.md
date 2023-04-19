@@ -24,6 +24,7 @@ description: ""
 * Tactical Play
     
 * Psychological Readiness
+	
 	</td><td width="319" valign="top" style="width:239.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
