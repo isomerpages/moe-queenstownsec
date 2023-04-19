@@ -60,7 +60,7 @@ The talent areas offered by Queenstown Secondary School for Direct School Admiss
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>Direct to DSA-Sec Portal (Mainstream Students)&nbsp;
 
-\* go live on 4 May, 11am</td><td width="319" valign="top" style="width:239.4pt;border-top:none;border-left:
+<p>* go live on 4 May, 11am</p></td><td width="319" valign="top" style="width:239.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>https://go.gov.sg/apply-dsa-sec</td></tr><tr style="mso-yfti-irow:4"><td width="319" valign="top" style="width:239.4pt;border:solid windowtext 1.0pt;
@@ -68,7 +68,7 @@ The talent areas offered by Queenstown Secondary School for Direct School Admiss
   padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>Direct to DSA-Sec Portal (Non Mainstream Students)&nbsp;
 	
 	
-<p>* go live on 4 May, 11am&lt;</p></td><td width="319" valign="top" style="width:239.4pt;border-top:none;border-left:
+<p>* go live on 4 May, 11am</p></td><td width="319" valign="top" style="width:239.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>https://go.gov.sg/apply-dsa-sec-nms</td></tr><tr style="mso-yfti-irow:5"><td width="319" valign="top" style="width:239.4pt;border:solid windowtext 1.0pt;
