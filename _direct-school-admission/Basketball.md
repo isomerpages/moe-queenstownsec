@@ -17,7 +17,7 @@ description: ""
 *   padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>
 	
 	
-* Fundamental Basketball Skills
+* <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;<b></b></p> Fundamental Basketball Skills
     
 * Strength and Conditioning
     
