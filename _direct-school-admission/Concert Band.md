@@ -32,6 +32,3 @@ We welcome students who are passionate and committed to concert band to apply an
 **SYF 2023**
 
 ![](/images/picture150.jpg)
-
-
-
