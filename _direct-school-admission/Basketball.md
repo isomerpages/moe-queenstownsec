@@ -17,13 +17,14 @@ description: ""
 *   padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>
 	
 	
-* <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;<b></b></p> Fundamental Basketball Skills
+* <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;<b></b>Fundamental Basketball Skills</p> 
+
+* <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;<b></b>Strength and Conditioning</p> 
+
+* <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;<b></b>Tactical Play</p> 
     
-* Strength and Conditioning
-    
-* Tactical Play
-    
-* Psychological Readiness
+* <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;<b></b>Psychological Readiness</p> 
+
 	
 	</td><td width="319" valign="top" style="width:239.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
