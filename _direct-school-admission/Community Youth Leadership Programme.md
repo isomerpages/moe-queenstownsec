@@ -33,7 +33,7 @@ a. <u>Knowledge on Leadership and VIA Development&nbsp;</u>**
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ii.  Participation in the CYL VIA &amp; Cultural &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Overseas Learning Journey&nbsp;
     
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iii.  Internship opportunities in Social &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Enterprises/Organisations&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iii.Internship opportunities in Social &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Enterprises/Organisations&nbsp;
     
 
 b. <u>Opportunities to refine their Leadership Qualities&nbsp;</u>
