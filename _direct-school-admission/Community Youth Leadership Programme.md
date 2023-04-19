@@ -50,7 +50,7 @@ b. <u>Opportunities to refine their Leadership Qualities&nbsp;</u>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; iv.  Overseas CYL Expedition/Programme&nbsp;
     
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;v.  Student Ambassador roles in the school’s CYL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; programmes/publicity&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;v.  Student Ambassador roles in the school’s CYL programmes/publicity&nbsp;
     
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;vi.  Mentorship roles for various VIA projects&nbsp;
