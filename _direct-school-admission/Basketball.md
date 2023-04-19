@@ -16,13 +16,15 @@ description: ""
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
 *   padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>
 	
-* Fundamental Basketball Skills&nbsp;&nbsp;
+	
+* Fundamental Basketball Skills
     
-* Strength and Conditioning&nbsp;&nbsp;
+* Strength and Conditioning
     
-* Tactical Play&nbsp;&nbsp;
+* Tactical Play
     
-* Psychological Readiness</td><td width="319" valign="top" style="width:239.4pt;border-top:none;border-left:
+* Psychological Readiness
+	</td><td width="319" valign="top" style="width:239.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>
