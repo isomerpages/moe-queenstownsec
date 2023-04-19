@@ -30,10 +30,10 @@ Successful applicants through the school’s DSA\-CYL programme will have the pr
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;i.  Participation in Leadership workshops &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; organised by the Student Leadership &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Committee&nbsp;
     
 
-2.  Participation in the CYL VIA &amp; Cultural Overseas Learning Journey&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ii.  Participation in the CYL VIA &amp; Cultural &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Overseas Learning Journey&nbsp;
     
 
-3.  Internship opportunities in Social Enterprises/Organisations&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iii.  Internship opportunities in Social &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Enterprises/Organisations&nbsp;
     
 
 2.  Opportunities to refine their Leadership Qualities&nbsp;
