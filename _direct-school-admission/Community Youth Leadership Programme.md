@@ -59,11 +59,7 @@ Successful applicants through the school’s DSA\-CYL programme will have the pr
 <u>**c.  Mentorship**</u>&nbsp;&nbsp;
     
 
-i.  1-1 mentorship by Teachers in the CYL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Committee
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;i.  1-1 mentorship by Teachers in the CYL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Committee
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;i.  Mentorship<br>
-    &nbsp;  &nbsp; &nbsp;  1.  Mentorship by Teachers in the CYL Committee
-		
-		
 		
 ![](/images/School%20Links/Learning%20for%20Life.jpg)
