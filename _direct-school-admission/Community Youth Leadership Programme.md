@@ -44,23 +44,24 @@ Successful applicants through the school’s DSA\-CYL programme will have the pr
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ii.  Completion of National Youth Achievement &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Award (NYAA) - (Silver)&nbsp;
     
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iii.  Leadership roles in Class/School-based VIA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;projects&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iii.  Leadership roles in Class/School-based VIA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;projects&nbsp;
     
 
-4.  Overseas CYL Expedition/Programme&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iv.  Overseas CYL Expedition/Programme&nbsp;
     
 
-5.  Student Ambassador roles in the school’s CYL programmes/publicity&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;v.  Student Ambassador roles in the school’s CYL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; programmes/publicity&nbsp;
     
 
-6.  Mentorship roles for various VIA projects&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;vi.  Mentorship roles for various VIA projects&nbsp;
     
 
-3.  Mentorship&nbsp;&nbsp;
+<u>**c.  Mentorship**</u>&nbsp;&nbsp;
     
 
-1.  1-1 mentorship by Teachers in the CYL Committee
-1\.  Mentorship<br>
+i.  1-1 mentorship by Teachers in the CYL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Committee
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;i.  Mentorship<br>
     &nbsp;  &nbsp; &nbsp;  1.  Mentorship by Teachers in the CYL Committee
 		
 		
