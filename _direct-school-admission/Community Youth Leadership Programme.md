@@ -36,7 +36,7 @@ Successful applicants through the school’s DSA\-CYL programme will have the pr
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iii.  Internship opportunities in Social &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Enterprises/Organisations&nbsp;
     
 
-**<u>b.  Opportunities to refine their Leadership Qualities&nbsp;</u>**
+b. <u>Opportunities to refine their Leadership Qualities&nbsp;</u>
     
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;i.  Leadership appointments, e.g., a member of the Student Leadership Board.&nbsp;&nbsp;
     
@@ -56,7 +56,7 @@ Successful applicants through the school’s DSA\-CYL programme will have the pr
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;vi.  Mentorship roles for various VIA projects&nbsp;
     
 
-<u>**c.  Mentorship**</u>&nbsp;&nbsp;
+**<u>c.  Mentorship</u>&nbsp;&nbsp;**
     
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;i. 1-1 mentorship by Teachers in the CYL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
