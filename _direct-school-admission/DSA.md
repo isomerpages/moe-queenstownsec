@@ -35,7 +35,7 @@ The talent areas offered by Queenstown Secondary School for Direct School Admiss
 
 3.	Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
 
-4.	The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec”
+4.	The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec
 
 5.	Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
 
