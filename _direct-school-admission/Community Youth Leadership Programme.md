@@ -56,7 +56,7 @@ b. <u>Opportunities to refine their Leadership Qualities&nbsp;</u>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;vi.  Mentorship roles for various VIA projects&nbsp;
     
 
-**<u>c.  Mentorship</u>&nbsp;&nbsp;**
+c. **<u> Mentorship</u>&nbsp;&nbsp;**
     
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;i. 1-1 mentorship by Teachers in the CYL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
