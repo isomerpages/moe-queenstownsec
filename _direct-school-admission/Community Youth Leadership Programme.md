@@ -24,33 +24,33 @@ QTSS DSA\-Community and Youth Leadership (DSA-CYL) Student Talent Development Pr
 
 Successful applicants through the school’s DSA\-CYL programme will have the privilege of participating in a DSA\-CYL Talent Development Programme.&nbsp; Some of the programme highlights include:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<u>**a.  Knowledge on Leadership and VIA Development&nbsp;**</u>
+<u>**a. Knowledge on Leadership and VIA Development&nbsp;**</u>
     
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;i.  Participation in Leadership workshops &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; organised by the Student Leadership &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Committee&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;i.  Participation in Leadership workshops &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; organised by the Student Leadership Committee&nbsp;
     
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ii.  Participation in the CYL VIA &amp; Cultural &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Overseas Learning Journey&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ii.  Participation in the CYL VIA &amp; Cultural &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Overseas Learning Journey&nbsp;
     
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iii.  Internship opportunities in Social &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Enterprises/Organisations&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iii.  Internship opportunities in Social &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Enterprises/Organisations&nbsp;
     
 
 <u>**b.  Opportunities to refine their Leadership Qualities&nbsp;**</u>
     
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;i.  Leadership appointments, e.g., a member of the &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Student Leadership Board.&nbsp;&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;i.  Leadership appointments, e.g., a member of the &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; Student Leadership Board.&nbsp;&nbsp;
     
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ii.  Completion of National Youth Achievement &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Award (NYAA) - (Silver)&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ii.  Completion of National Youth Achievement &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Award (NYAA) - (Silver)&nbsp;
     
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iii.  Leadership roles in Class/School-based VIA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;projects&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iii.  Leadership roles in Class/School-based VIA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;projects&nbsp;
     
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iv.  Overseas CYL Expedition/Programme&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; iv.  Overseas CYL Expedition/Programme&nbsp;
     
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;v.  Student Ambassador roles in the school’s CYL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; programmes/publicity&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;v.  Student Ambassador roles in the school’s CYL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; programmes/publicity&nbsp;
     
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;vi.  Mentorship roles for various VIA projects&nbsp;
