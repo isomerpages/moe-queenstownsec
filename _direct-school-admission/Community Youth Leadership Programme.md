@@ -36,10 +36,9 @@ Successful applicants through the school’s DSA\-CYL programme will have the pr
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iii.  Internship opportunities in Social &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Enterprises/Organisations&nbsp;
     
 
-2.  Opportunities to refine their Leadership Qualities&nbsp;
+<u>**b.  Opportunities to refine their Leadership Qualities&nbsp;**</u>
     
-
-1.  Leadership appointments, e.g., a member of the Student Leadership Board.&nbsp;&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;i.  Leadership appointments, e.g., a member of the &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Student Leadership Board.&nbsp;&nbsp;
     
 
 2.  Completion of National Youth Achievement Award (NYAA) - (Silver)&nbsp;
