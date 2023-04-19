@@ -38,13 +38,13 @@ Successful applicants through the school’s DSA\-CYL programme will have the pr
 
 **<u>b.  Opportunities to refine their Leadership Qualities&nbsp;</u>**
     
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;i.  Leadership appointments, e.g., a member of the &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; Student Leadership Board.&nbsp;&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;i.  Leadership appointments, e.g., a member of the Student Leadership Board.&nbsp;&nbsp;
     
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ii.  Completion of National Youth Achievement &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Award (NYAA) - (Silver)&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ii.  Completion of National Youth Achievement Award (NYAA) - (Silver)&nbsp;
     
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iii.  Leadership roles in Class/School-based VIA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;projects&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iii.  Leadership roles in Class/School-based VIA projects&nbsp;
     
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; iv.  Overseas CYL Expedition/Programme&nbsp;
