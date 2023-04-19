@@ -44,7 +44,7 @@ Successful applicants through the school’s DSA\-CYL programme will have the pr
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ii.  Completion of National Youth Achievement &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Award (NYAA) - (Silver)&nbsp;
     
 
-3.  Leadership roles in Class/School-based VIA projects&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iii.  Leadership roles in Class/School-based VIA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;projects&nbsp;
     
 
 4.  Overseas CYL Expedition/Programme&nbsp;
