@@ -32,9 +32,11 @@ description: ""
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>
 
 
-	* Good Work Ethics
+	* <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;<b></b>Good Work Ethics</p> 
     
-	* Sound Values (Discipline, Teamwork, Respect, Responsibility)</td></tr></tbody></table>
+	
+  * <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;<b></b>Sound Values (Discipline, Teamwork, Respect, Responsibility)</p> 
+	</td></tr></tbody></table>
 	
 	
 
