@@ -47,13 +47,13 @@ b. <u>Opportunities to refine their Leadership Qualities&nbsp;</u>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iii.  Leadership roles in Class/School-based VIA projects&nbsp;
     
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; iv.  Overseas CYL Expedition/Programme&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; iv.  Overseas CYL Expedition/Programme&nbsp;
     
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;v.  Student Ambassador roles in the school’s CYL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; programmes/publicity&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;v.  Student Ambassador roles in the school’s CYL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; programmes/publicity&nbsp;
     
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;vi.  Mentorship roles for various VIA projects&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;vi.  Mentorship roles for various VIA projects&nbsp;
     
 
 c. **<u> Mentorship</u>&nbsp;&nbsp;**
