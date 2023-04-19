@@ -6,42 +6,49 @@ description: ""
 Applied Learning Programme
 ==========================
 
-**Direct School Admission 2022**  
+**Direct School Admission 2023**&nbsp;&nbsp;
 
-**Applied Learning Programme – Environmental Sustainability** 
+**Applied Learning Programme – Environmental Sustainability**&nbsp;
 
 **Science for Sustainable Development**
 
-
-<img src="/images/School%20Links/ALP%201.jpg"  
-     style="width:75%">
+![](/images/field%20studies.jpg)
 
 
+**_Sec 1 students doing Field Studies along Alexandra_**&nbsp;**_Canal_**
 
-**_Sec 1 students doing water filtration_** **_investigation_**
-
-
-<img src="/images/School%20Links/ALP%202.jpg"  
-     style="width:75%">
+![](/images/picture21.png)
 
 
-**_Our ALP ambassadors sharing our ALP programme_**  
 
-Our school’s Applied Learning Programme (ALP) is on Cultivating Minds for the Future based on the theme of **Sustainability**. We adopt an **interdisciplinary approach** driven mainly by **Geography** and **Science**. In this ALP, we aim to solve real-world geographical challenges through a scientific lens.   
+**_Sec 1 students carrying out sand filtration in the Science Laboratory_**&nbsp;&nbsp;
 
-Our school’s ALP adopts a thematic approach, where students explore three global geographical issues related to sustainability over three years, namely: 
+![](/images/picture31.png)
 
-Sec 1: Water Sustainability 
+***Sec 3 students attending an Advanced Elective Module in Nanyang Polytechnic***
 
-Sec 2: Urban and Energy Sustainability 
+![](/images/picture41.png)
 
-Sec 3: Food Sustainability
+***Sec 3 students attending a Plant Visit at The Polyolefin Company (TPC)***
 
 
 
 
-<img src="/images/School%20Links/ALP%203.png"  
-     style="width:45%">
+
+Our school’s Applied Learning Programme (ALP) is on Cultivating Minds for the Future based on the theme of  **<u>Sustainability</u>**. We adopt an&nbsp;**<u>interdisciplinary approach </u>** driven mainly by  **<u>Geography </u>** and **<u> Science</u>**. In this ALP, we aim to solve real-world geographical challenges through a scientific lens.&nbsp;&nbsp;&nbsp;
+
+Our school’s ALP adopts a <u>thematic approach</u>, where students explore three global geographical issues related to sustainability over three years, namely:&nbsp;
+
+Sec 1:&nbsp;Water Sustainability&nbsp;
+
+Sec 2:&nbsp;Urban and Energy Sustainability&nbsp;
+
+Sec 3:&nbsp;Food Sustainability
+
+
+
+
+<img src="/images/School%20Links/ALP%203.png" style="width:45%">
 
 
 
@@ -49,16 +56,13 @@ Sec 3: Food Sustainability
 
 
 
-<img src="/images/School%20Links/ALP%204.jpg"  
-     style="width:75%">
+<img src="/images/School%20Links/ALP%204.jpg" style="width:75%">
 
 
-**_ALP Field Studies to Hong Kong (Pre-covid)_** 
+**_ALP Field Studies to Hong Kong (Pre-covid)_**&nbsp;
 
-These three themes, which are aligned with the Singapore Green Plan 2030, are critical for Singapore’s continued development. We leverage current and relevant learning content to design engaging packages that help our students apply their knowledge of Geography and Science to solve a real-world issue. 
+These three themes, which are aligned with the Singapore Green Plan 2030, are critical for Singapore’s continued development. We leverage current and relevant learning content to design engaging packages that help our students apply their knowledge of Geography and Science to solve a real-world issue.&nbsp;
 
-We welcome students who are passionate about **environmental advocacy** to apply for the DSA Exercise. Interested students should be keen to adopt an interdisciplinary approach in solving geographical issues. 
+We welcome students who are passionate about&nbsp;**environmental advocacy**&nbsp;to apply for the DSA Exercise. Interested students should be keen to adopt an interdisciplinary approach in solving geographical issues.&nbsp;
 
-Successful applicants will have the privilege of participating in the school’s DSA Talent Development Programme which will include progressive exposure to issues related to the environment and sustainability. They will take on the role of **ALP Ambassadors**, undertaking projects that advocate for environmental sustainability at the upper secondary level. In the process, students will also acquire effective communication and presentation skills as they build their confidence to advocate for a good cause in their area of passion.  
-
-Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
+Successful applicants will have the privilege of participating in the school’s DSA Talent Development Programme&nbsp;which will include progressive exposure to issues related to the environment and sustainability. They will take on the role of&nbsp;**ALP Ambassadors**, undertaking projects that advocate for environmental sustainability at the upper secondary level. In the process, students will also acquire effective communication and presentation skills as they build their confidence to advocate for a good cause in their area of passion.&nbsp;&nbsp;

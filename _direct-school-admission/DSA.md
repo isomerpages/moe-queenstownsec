@@ -5,120 +5,80 @@ description: ""
 ---
 ![](/images/School%20Links/DSA_Pic3.png)
 
-Direct School Admission
-=======================
 
 
-
-**Direct School Admission 2022**
+**Direct School Admission 2023**
 --------------------------------
 
-The talent areas offered by Queenstown Secondary School for Direct School Admission (Sec) are as follow (click on the following to access the description of each of the talent areas):
+The talent areas offered by Queenstown Secondary School for Direct School Admission (Sec) are as follow (click on the menu on the left to access the description of each of the talent areas):
 
-[**Community Youth Leadership**](https://staging.d33coz43hxnqna.amplifyapp.com/quick-links/school-links/learning-for-life-programme/)
+*   Community Youth Leadership&nbsp;
+    
+*   Environmental Sustainability&nbsp;
+    
+*   Basketball&nbsp;
 
-[**Environmental Sustainability**](https://staging.d33coz43hxnqna.amplifyapp.com/quick-links/school-links/applied-learning-programme/)
+*   Volleyball&nbsp;
+    
+*   Concert Band&nbsp;
+    
+*   Malay Dance
 
-[**Malay Dance**](https://staging.d33coz43hxnqna.amplifyapp.com/quick-links/school-links/malay-dance/)
-
-[**Volleyball**](https://staging.d33coz43hxnqna.amplifyapp.com/quick-links/school-links/volleyball/)
 
 ----------------
 
-**Community Youth Leadership Selection Criteria:**
+**Important DSA 2023 Information**
 
-Applicants must:
+1.	Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of- charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec
 
-*   Demonstrate strong involvement in CIP/ VIA activities within and/or outside school
-*   Demonstrate strong leadership experience in school (i.e. member of the Prefectorial Board, Student Council, Class Committee, CCA), and/or outside school
-*   Obtain at least a conduct of ‘Very-Good’ in Primary 5 and 6.
+2.	Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
-_Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer._
+3.	Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
 
-Supporting documents
+4.	The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec
 
-*   Evidence of external leadership experience, if any.
-*   Evidence of participation in external Community VIA Projects, if any.
+5.	Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
 
----------------------
 
-**Environmental Sustainability Selection Criteria:**
+**Useful MOE weblinks**
 
-Applicants must attend an interview in person. They should:
+  <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="319" valign="top" style="width:239.4pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>DSA-Sec Main Webpage</td><td width="319" valign="top" style="width:239.4pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>https://www.moe.gov.sg/dsa-sec </td></tr><tr style="mso-yfti-irow:1"><td width="319" valign="top" style="width:239.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>Instructions on Application (Mainstream students)</td><td width="319" valign="top" style="width:239.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>https://go.gov.sg/dsa-sec-application</td></tr><tr style="mso-yfti-irow:2"><td width="319" valign="top" style="width:239.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>Instructions on Application (Non Mainstream Students)</td><td width="319" valign="top" style="width:239.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>https://go.gov.sg/nmsdsa-sec- application</td></tr><tr style="mso-yfti-irow:3"><td width="319" valign="top" style="width:239.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>Direct to DSA-Sec Portal (Mainstream Students)&nbsp;
 
-*   Demonstrate understanding of the key environmental sustainability issues facing Singapore
-*   Have participated in environmental-related projects / programmes in Primary School
-*   Obtain at least a conduct of ‘Very-Good’ in Primary 5 and 6.
-
-_Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer._
-
-Supporting documents
-
-*   Evidence of projects / programmes/ portfolio on environmental issues in Singapore, if any.
-*   Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
-
--------------------
-
-**Malay Dance Selection Criteria:**
-
-*   Prior exposure to dance performance (school or public performance) / competition such as Singapore Youth Festival Arts Presentation will be an advantage.
-*   Audition for selected applicants to showcase their talent through a 1-min self-choreographed dance of any genre.
-*   Obtain at least a conduct of ‘Good’ in Primary 5 & 6.
-
-_Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer._
-
-------------------------
-
-**Volleyball Selection Criteria:**
-
-*   PHYSICAL/CCA ACHIEVEMENT  
-    Students should be medically fit for sports and athletic trainings/activities. Students should preferably have represented their primary schools in sports and games or have participated in the MOE Junior Sports Academy.
-
-*   CHARACTER  
-    Students should possess a positive attitude and a strong sense of commitment to the CCA with regular attendance of at least 75% in their Primary School CCA and a minimum conduct grade of Good.
-
-*   SPORTS TRIAL  
-    Students will be assessed on teamwork, ball control, spatial awareness, and general fitness.
-
-_Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer._
-
-------------------
-
-**Application Process**
-
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal at [https://www.moe.gov.sg/secondary/dsa/application](https://www.moe.gov.sg/secondary/dsa/application). The application is free-of-charge and will be open from **5 May 2022, 11am to 1 June 2022, 3pm**.
-
-Shortlisted applicants will be notified to present themselves, **in-person**,
-
-*   for an interview for ALP & CYL, or
-*   a trial for Volleyball, or
-*   an audition for Malay Dance
-
-in the month of July 2022.
-
-All shortlisted candidates will be informed of their exact date and time of the interviews/sports trial/ audition to be conducted in Queenstown Secondary School.
-
-Parents and students are encouraged to choose schools wisely based on the student’s **aptitudes** and **strengths**, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. Students who are successfully admitted to the school via DSA are **expected to honour their commitment** to the school, and **participate in the activities** related to the talent they are selected for from year 1-4.
-
-**Results of Application:**
-
-All applicants will be informed of the outcome of their applications by Mid-September 2022. For successful applicants, your respective primary school will follow up with the remaining procedures. Queenstown Secondary School reserves the right not to release the interview results or the reasons for non-successful applications.
-
-For more details, please refer to MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
-
-For more information on our school and on the DSA process, please refer to the following website:
-
- *   DSA-Sec MOE website:
-        *   [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
-   *   Instructions on Application (Mainstream students):
-        *   [https://go.gov.sg/dsa-sec-application](https://go.gov.sg/dsa-sec-application)
-   *   Instructions on Application (Non Mainstream Students):
-        *   [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)
-   *   Direct to DSA-Sec Portal (Mainstream Students):
-        *   [https://go.gov.sg/apply-dsa-sec](https://go.gov.sg/apply-dsa-sec)
-   *   Direct to DSA-Sec Portal (Non Mainstream Students):
-        *   [https://go.gov.sg/apply-dsa-sec-nms](https://go.gov.sg/apply-dsa-sec-nms)
-   *   DSA-Sec iFAQs:
-        *   [https://go.gov.sg/dsa-secfaqs](https://go.gov.sg/dsa-secfaqs)
-   *   DSA-Sec School Finder:
-        *   [https://go.gov.sg/dsa-secschfinder](https://go.gov.sg/dsa-secschfinder)
+<p>* go live on 4 May, 11am</p></td><td width="319" valign="top" style="width:239.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>https://go.gov.sg/apply-dsa-sec</td></tr><tr style="mso-yfti-irow:4"><td width="319" valign="top" style="width:239.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>Direct to DSA-Sec Portal (Non Mainstream Students)&nbsp;
+	
+	
+<p>* go live on 4 May, 11am</p></td><td width="319" valign="top" style="width:239.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>https://go.gov.sg/apply-dsa-sec-nms</td></tr><tr style="mso-yfti-irow:5"><td width="319" valign="top" style="width:239.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>DSA-Sec iFAQs</td><td width="319" valign="top" style="width:239.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>https://go.gov.sg/dsa-secfaqs</td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes"><td width="319" valign="top" style="width:239.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>DSA-Sec School Finder</td><td width="319" valign="top" style="width:239.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>https://go.gov.sg/dsa-secschfinder</td></tr></tbody></table>
