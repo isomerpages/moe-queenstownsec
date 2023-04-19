@@ -24,10 +24,10 @@ QTSS DSA\-Community and Youth Leadership (DSA-CYL) Student Talent Development Pr
 
 Successful applicants through the school’s DSA\-CYL programme will have the privilege of participating in a DSA\-CYL Talent Development Programme.&nbsp; Some of the programme highlights include:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-1.  Knowledge on Leadership and VIA Development&nbsp;
+<u>**a.  Knowledge on Leadership and VIA Development&nbsp;**</u>
     
 
-1.  Participation in Leadership workshops organised by the Student Leadership Committee&nbsp;
+i.  Participation in Leadership workshops organised by the Student Leadership Committee&nbsp;
     
 
 2.  Participation in the CYL VIA &amp; Cultural Overseas Learning Journey&nbsp;
