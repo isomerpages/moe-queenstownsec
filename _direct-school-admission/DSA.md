@@ -56,7 +56,7 @@ The talent areas offered by Queenstown Secondary School for Direct School Admiss
   padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>Instructions on Application (Non Mainstream Students)</td><td width="319" valign="top" style="width:239.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>https://go.gov.sg/nmsdsa-sec- application</td></tr><tr style="mso-yfti-irow:3"><td width="319" valign="top" style="width:239.4pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>https://go.gov.sg/nmsdsa-sec-application</td></tr><tr style="mso-yfti-irow:3"><td width="319" valign="top" style="width:239.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">&nbsp;</p>Direct to DSA-Sec Portal (Mainstream Students)&nbsp;
 
