@@ -2,4 +2,4 @@ collections:
   canteen-stall:
     output: true
     order:
-      - Canteen Stalls.md
+      - School Canteen.md
