@@ -1,4 +1,5 @@
 collections:
   canteen-stall:
     output: true
-    order: []
+    order:
+      - Canteen Stalls.md
