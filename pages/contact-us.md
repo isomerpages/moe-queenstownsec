@@ -17,8 +17,8 @@ locations:
 contacts:
   - content:
       - phone: +65 6474 1055
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - email: qtss@moe.edu.sg
+      - other: https://www.facebook.com/QueenstownSecondarySchool
     title: General Office
   - content:
       - phone: ""
