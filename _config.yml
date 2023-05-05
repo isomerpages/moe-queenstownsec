@@ -1,5 +1,5 @@
 title: Queenstown Secondary School
-url: ""
+url: https://www.queenstownsec
 favicon: /images/QTSS_Logo2-247x300.png
 colors:
   primary-color: "#2f7cbf"
@@ -56,3 +56,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
