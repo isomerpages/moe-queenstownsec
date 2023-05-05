@@ -6,17 +6,17 @@ description: ""
 Contact Us
 ==========
 
-## **INSERT ONEMAP HERE**
+[Map](https://www.onemap.gov.sg/main/v2/?lat=1.29352126774652&amp;lng=103.813190980055)![](/images/qtss%20one%20map.JPG)
 
 
-**Address:** Queenstown Secondary School  
+**Address:**&nbsp;Queenstown Secondary School  
 1 Strathmore Road Singapore 148800
 
-**Telephone:** 65 6474 1055
+**Telephone:**&nbsp;65 6474 1055
 
-**Fax:** 65 6474 1295
+**Fax:**&nbsp;65 6474 1295
 
-**Email:**  <a href="mailto:qtss@moe.edu.sg">qtss@moe.edu.sg</a>
+**Email:**&nbsp; <a href="mailto:qtss@moe.edu.sg">qtss@moe.edu.sg</a>
 
 
 
