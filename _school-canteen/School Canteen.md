@@ -5,4 +5,5 @@ description: ""
 ---
 **Canteen Stalls**
 
-There is no canteen stall vacancy advertisement at this time.
+**There is no canteen stall vacancy advertisement at this time.**
+

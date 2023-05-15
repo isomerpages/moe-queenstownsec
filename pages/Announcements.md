@@ -5,6 +5,12 @@ description: ""
 ---
 Announcements
 =============
+#### Cross Country Race 2023
+A) **Briefing Notes:** <br>
+1) [Cross Country Venue Guide](https://file.go.gov.sg/cross-country.pdf) - For Parents &amp; Students
+
+
+
 
 #### Sec 3 MOE-OBS Challenge Programme 2023 – 5D4N Residential Camp
 

@@ -17,12 +17,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6474 1055
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Office
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
+      - email: qtss@moe.edu.sg
       - other: ""
-    title: Careers
+    title: General Office
 ---
