@@ -19,7 +19,7 @@ Device Management Application (DMA), is a software solution to allow schools to 
 
 ###   What flexibilities do I get in Option A?
 
-With Default option, students will login to their PLD using _Student ICON Account_, this account can be access during S_chool Hours_ from 7am to 11pm and is configured with school approved applications only. The web content filtering is also activated when students are using this account. To provide a more focus and conducive learning experience, Default options will only allow students to login using this account.
+With Default option, students will login to their PLD using _Student ICON Account_, this account can be access during school hours from 7am to 11pm and is configured with school approved applications only. The web content filtering is also activated when students are using this account. To provide a more focus and conducive learning experience, Default options will only allow students to login using this account.
 
 For Option A, two additional accounts have been created on the PLD to facilitate the following flexibilities:
 
