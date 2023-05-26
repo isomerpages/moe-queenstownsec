@@ -16,4 +16,3 @@ We wish all Queenstownians a safe holiday ahead!
 [Health Sciences Authority Advisory](/files/hpb-hsa%20joint%20advisory%20to%20parents%20and%20students_may%202023.pdf)
 
 [Singapore Police Force Advisory](/files/spf_cnb_ncpc_ncada.pdf)
-
