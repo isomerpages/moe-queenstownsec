@@ -25,14 +25,14 @@ description: ""
 | -------- | -------- | -------- |
 | Year Head    | Ms Han Chin Woon, Janice    | <a href="mailto: han_chin_woon_janice@moe.edu.sg">han_chin_woon_janice@moe.edu.sg</a>     |
 | Assistant Year Head    | Mr Lee Wing Sheng   | <a href="mailto: lee_wing_sheng@moe.edu.sg">lee_wing_sheng@moe.edu.sg</a>    |
-| Acting SH Student Management| Mdm Noorheriza B Mohd Aris| <a href="mailto: noorheriza_mohammed_aris@moe.edu.sg"> noorheriza_mohammed_aris@moe.edu.sg</a>   |
+| SH Student Management| Mdm Noorheriza B Mohd Aris| <a href="mailto: noorheriza_mohammed_aris@moe.edu.sg"> noorheriza_mohammed_aris@moe.edu.sg</a>   |
 | | | |
 
 #### Secondary One <br>
 
 **<u>1 Gratitude (1 GR)</u>** <br>
 Ms Ellie Doong <a href="mailto: doong_siew_gee_ellie@moe.edu.sg">(doong_siew_gee_ellie@moe.edu.sg)</a><br>
-Mr Paul Yuen <a href="mailto: yuen_weiwen_paul@moe.edu.sg">(yuen_weiwen_paul@moe.edu.sg)</a><br>
+Mr Chan Wei Lek, Alvin <a href="mailto: chan_wei_lek_alvin@moe.edu.sg">(chan_wei_lek_alvin@moe.edu.sg)</a><br>
 
 **<u>1 Aspire (1 AS)</u>** <br>
 Mr Tay Yee Kai <a href="mailto: tay_yee_kai@moe.edu.sg">(tay_yee_kai@moe.edu.sg)</a><br>
@@ -54,8 +54,9 @@ Mr Perdana Putra <a href="mailto: pan_ping_rui_perdana@moe.edu.sg">(pan_ping_rui
 Mr Chandragus Rinah <a href="mailto: chandragus_a@moe.edu.sg">(chandragus_a@moe.edu.sg)</a><br>
 Mdm Xu Su <a href="mailto: xu_su@moe.edu.sg">(xu_su@moe.edu.sg)</a><br>
 
+
 **<u>1 Excellence (1 EX)</u>** <br>
-Mr Lawrence Lim <a href="mailto: lim_yong_hwee@moe.edu.sg">(lim_yong_hwee@moe.edu.sg)</a><br>
+Ms Chen Cui Xia <a href="mailto: chen_cui_xia@moe.edu.sg">(chen_cui_xia@moe.edu.sg)</a><br>
 Mdm Michelle Liang <a href="mailto: liang_xingfen@moe.edu.sg">(liang_xingfen@moe.edu.sg)</a><br>
 
 #### Secondary Two<br>
@@ -82,7 +83,7 @@ Mdm Rozita <a href="mailto: rozita_beram@moe.edu.sg">(rozita_beram@moe.edu.sg)</
 
 **<u>2 Care (2 CA)</u>** <br>
 Mdm Neo Chai Meng <a href="mailto: neo_chai_meng@moe.edu.sg">(neo_chai_meng@moe.edu.sg)</a><br>
-Mr Justin Goh <a href="mailto: goh_yong_seng_justin@moe.edu.sg">(goh_yong_seng_justin@moe.edu.sg)</a><br>
+Mr Tan Jin Kiang Joel <a href="mailto: tan_jin_kiang_joel@moe.edu.sg">(tan_jin_kiang_joel@moe.edu.sg)</a><br>
 
 **<u>2 Excellence (2 EX)</u>** <br>
 Mr Adrian Chia <a href="mailto: chia_wen_mien_adrian@moe.edu.sg">(chia_wen_mien_adrian@moe.edu.sg)</a><br>
@@ -105,6 +106,7 @@ Mr Lim Jit Hiang <a href="mailto: lim_jit_hiang@moe.edu.sg">(lim_jit_hiang@moe.e
 **<u>3 Gratitude (3 GR)</u>** <br>
 Mrs Dass <a href="mailto: sakunthalai_surian@moe.edu.sg">(sakunthalai_surian@moe.edu.sg)</a><br>
 Mdm Qu Caiyan <a href="mailto: qu_caiyan@moe.edu.sg">(qu_caiyan@moe.edu.sg)</a><br>
+Miss Lee Mei Teng Finna <a href="mailto: lee_mei_teng_finna@moe.edu.sg">(lee_mei_teng_finna@moe.edu.sg)</a><br>
 
 **<u>3 Aspire (3 AS)</u>** <br>
 Mdm Koh Gek Khim <a href="mailto: koh_gek_khim@moe.edu.sg">(koh_gek_khim@moe.edu.sg)</a><br>
@@ -136,7 +138,7 @@ Ms Germaine Jacolyn Peter <a href="mailto: germaine_jacolyn_peter@moe.edu.sg">(g
 **<u>4 Gratitude (4 GR)</u>** <br>
 Mdm Hor Kah Yan <a href="mailto: hor_kah_yan@moe.edu.sg">(hor_kah_yan@moe.edu.sg)</a><br>
 Mdm Kousalya <a href="mailto: sundaram_kousalya@moe.edu.sg">(sundaram_kousalya@moe.edu.sg)</a><br>
-Ms Ho Si Hui <a href="mailto: ho_si_hui@moe.edu.sg">(ho_si_hui@moe.edu.sg)</a><br>
+
 
 **<u>4 Aspire (4 AS)</u>** <br>
 Mr Jansen Yuen <a href="mailto: yuen_cheng_mun_jansen@moe.edu.sg">(yuen_cheng_mun_jansen@moe.edu.sg)</a><br>
@@ -144,12 +146,12 @@ Ms Ng Kai Jun <a href="mailto: ng_kai_jun_a@moe.edu.sg">(ng_kai_jun_a@moe.edu.sg
 
 **<u>4 Respect (4 RP)</u>** <br>
 Mr Thomas Tan <a href="mailto: tan_wei_boon_thomas@moe.edu.sg">(tan_wei_boon_thomas@moe.edu.sg)</a><br>
-Mdm Yeo Gek Eng <a href="mailto: yeo_gek_eng@moe.edu.sg">(yeo_gek_eng@moe.edu.sg)</a><br>
+Miss Yong Tai Si <a href="mailto: yong_tai_si@moe.edu.sg">(yong_tai_si@moe.edu.sg)</a><br>
 
 **<u>4 Resilience (4 RL)</u>** <br>
 Ms Nur Haryani <a href="mailto: nur_haryani_mohamed_hatta@moe.edu.sg">(nur_haryani_mohamed_hatta@moe.edu.sg)</a><br>
 Ms Law Geok Cheng <a href="mailto: law_geok_cheng@moe.edu.sg">(law_geok_cheng@moe.edu.sg)</a><br>
-Miss Jaslyn Shalini A R <a href="mailto: 	jaslyn_shalini_a_r@moe.edu.sg">(jaslyn_shalini_a_r@moe.edu.sg)</a><br>
+
 
 **<u>4 Integrity (4 IN)</u>** <br>
 Mdm Cynthia Chang <a href="mailto: chang_yee_ping_cynthia@moe.edu.sg">(chang_yee_ping_cynthia@moe.edu.sg)</a><br>
@@ -168,5 +170,6 @@ Mdm Michelle Phoo <a href="mailto: phoo_wey_wey@moe.edu.sg">(phoo_wey_wey@moe.ed
 
 **<u>5 Aspire (5 AS)</u>** <br>
 Ms Amanda Liu <a href="mailto: liu_yuanxin_amanda@moe.edu.sg">(liu_yuanxin_amanda@moe.edu.sg)</a><br>
+Miss Sim Zhi Xin <a href="mailto: sim_zhi_xin@moe.edu.sg">(sim_zhi_xin@moe.edu.sg)</a><br>
 
 <br>
