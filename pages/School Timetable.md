@@ -11,7 +11,7 @@ Academic Year 2023 (Semester 1)
 
 Click the links below to view the timetable:
 
-[Class Timetable 2023](/files/QTSS_2023_Semester%201%20Timetable%20wef%203%20JAN_Classes.pdf)
+[SEM 2 Timetable 2023](/files/2023%20sem%202%20timetable%20finalised%2023062023_classes.pdf)
 
 
 * * *
