@@ -6,7 +6,7 @@ description: ""
 School Timetable
 ================
 
-Academic Year 2023 (Semester 1)
+Academic Year 2023 (Semester 2)
 -------------------------------
 
 Click the links below to view the timetable:
@@ -16,4 +16,4 @@ Click the links below to view the timetable:
 
 * * *
 
-_Last updated on 30-Dec-2023_
+_Last updated on 23-Jun-2023_
