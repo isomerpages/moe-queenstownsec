@@ -33,7 +33,7 @@ Our Secondary One students were brimming with excitement while unboxing their ne
 
 ## ICT Literacy Programme@QTSS
 
-Besides providing students with the hardware, they also need to be equipped with the digital skills required in the future workplace. All our students will to through a three-year ICT Digital Literacy Programme and platforms for them to apply their skills in authentic setting.
+Besides providing students with the hardware, they also need to be equipped with the digital skills required in the future workplace. All our students will go through a three-year ICT Digital Literacy Programme and platforms for them to apply their skills in authentic setting.
 
 ![](/images/NDLP%20DL.jpg)
 In Secondary One, students learnt to use CANVA to create posters. They then apply the acquired skill to to create posters to advocate their cause for their Community Youth Leadership (CYL) Projects. (CANVA).
