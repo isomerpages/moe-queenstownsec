@@ -8,7 +8,7 @@ Assessment Matters
 
 ### Assessment Info
 
-##### School Based Assessment in Term 2 (2023)
+##### School Based Assessment in Term 3 (2023)
 
 Sec 1: [WA3](/files/sec%201%202023%20wa3%20information.pdf)
 
