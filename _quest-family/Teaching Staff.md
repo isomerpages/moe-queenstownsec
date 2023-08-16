@@ -76,6 +76,7 @@ Mr Sean Ng <a href="mailto: ng_wern_chin@moe.edu.sg">(ng_wern_chin@moe.edu.sg)</
 **<u>2 Resilience (2 RL)</u>** <br>
 Mrs Muthi <a href="mailto: vijayarani_govindasamy@moe.edu.sg">(vijayarani_govindasamy@moe.edu.sg)</a><br>
 Mr Fu Rui Qi <a href="mailto: fu_ruiqi@moe.edu.sg">(fu_ruiqi@moe.edu.sg)</a><br>
+Miss Jeanice Toh  <a href="mailto: jeanice_toh_yu_ling@moe.edu.sg">(jeanice_toh_yu_ling@moe.edu.sg)</a><br>
 
 **<u>2 Integrity (2 IN)</u>** <br>
 Mr Melvin Tan <a href="mailto: tan_wee_yau_melvin@moe.edu.sg">(tan_wee_yau_melvin@moe.edu.sg)</a><br>
