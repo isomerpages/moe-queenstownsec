@@ -120,7 +120,8 @@ Mr Matthias Wan <a href="mailto: wan_zi_cheng@moe.edu.sg">(wan_zi_cheng@moe.edu.
 
 **<u>3 Resilience (3 RL)</u>** <br>
 Mdm Jayasolai <a href="mailto: jayasolai_a@moe.edu.sg">(jayasolai_a@moe.edu.sg)</a><br>
-Mr Saratkumar <a href="mailto: rsaratkumar_ganasekaran@moe.edu.sg">(saratkumar_ganasekaran@moe.edu.sg)</a><br>
+Mr Saratkumar <a href="mailto: saratkumar_ganasekaran@moe.edu.sg">(saratkumar_ganasekaran@moe.edu.sg)</a><br>
+Mr Benedict See-Toh Kam Hung <a href="mailto: benedict_seetoh_kam_hung@moe.edu.sg>">(benedict_seetoh_kam_hung@moe.edu.sg)</a><br>
 
 **<u>3 Integrity (3 IN)</u>** <br>
 Ms Noryanti <a href="mailto: noryanti_md_aris@moe.edu.sg">(noryanti_md_aris@moe.edu.sg)</a><br>
