@@ -76,6 +76,7 @@ Mr Sean Ng <a href="mailto: ng_wern_chin@moe.edu.sg">(ng_wern_chin@moe.edu.sg)</
 **<u>2 Resilience (2 RL)</u>** <br>
 Mrs Muthi <a href="mailto: vijayarani_govindasamy@moe.edu.sg">(vijayarani_govindasamy@moe.edu.sg)</a><br>
 Mr Fu Rui Qi <a href="mailto: fu_ruiqi@moe.edu.sg">(fu_ruiqi@moe.edu.sg)</a><br>
+Miss Jeanice Toh  <a href="mailto: jeanice_toh_yu_ling@moe.edu.sg">(jeanice_toh_yu_ling@moe.edu.sg)</a><br>
 
 **<u>2 Integrity (2 IN)</u>** <br>
 Mr Melvin Tan <a href="mailto: tan_wee_yau_melvin@moe.edu.sg">(tan_wee_yau_melvin@moe.edu.sg)</a><br>
@@ -119,7 +120,8 @@ Mr Matthias Wan <a href="mailto: wan_zi_cheng@moe.edu.sg">(wan_zi_cheng@moe.edu.
 
 **<u>3 Resilience (3 RL)</u>** <br>
 Mdm Jayasolai <a href="mailto: jayasolai_a@moe.edu.sg">(jayasolai_a@moe.edu.sg)</a><br>
-Mr Saratkumar <a href="mailto: rsaratkumar_ganasekaran@moe.edu.sg">(saratkumar_ganasekaran@moe.edu.sg)</a><br>
+Mr Saratkumar <a href="mailto: saratkumar_ganasekaran@moe.edu.sg">(saratkumar_ganasekaran@moe.edu.sg)</a><br>
+Mr Benedict See-Toh Kam Hung <a href="mailto: benedict_seetoh_kam_hung@moe.edu.sg>">(benedict_seetoh_kam_hung@moe.edu.sg)</a><br>
 
 **<u>3 Integrity (3 IN)</u>** <br>
 Ms Noryanti <a href="mailto: noryanti_md_aris@moe.edu.sg">(noryanti_md_aris@moe.edu.sg)</a><br>
@@ -155,7 +157,7 @@ Ms Law Geok Cheng <a href="mailto: law_geok_cheng@moe.edu.sg">(law_geok_cheng@mo
 
 **<u>4 Integrity (4 IN)</u>** <br>
 Mdm Cynthia Chang <a href="mailto: chang_yee_ping_cynthia@moe.edu.sg">(chang_yee_ping_cynthia@moe.edu.sg)</a><br>
-Mrs Grace Gan <a href="mailto: khoo_siew_hwee@moe.edu.sg">(khoo_siew_hwee@moe.edu.sg)</a><br>
+Mdm Grace Khoo <a href="mailto: khoo_siew_hwee@moe.edu.sg">(khoo_siew_hwee@moe.edu.sg)</a><br>
 
 **<u>4 Care (4 CA)</u>** <br>
 Mr Muhammad Fazari <a href="mailto: fazari_othman_muhammad@moe.edu.sg">(fazari_othman_muhammad@moe.edu.sg)</a><br>
@@ -171,5 +173,6 @@ Mdm Michelle Phoo <a href="mailto: phoo_wey_wey@moe.edu.sg">(phoo_wey_wey@moe.ed
 **<u>5 Aspire (5 AS)</u>** <br>
 Ms Amanda Liu <a href="mailto: liu_yuanxin_amanda@moe.edu.sg">(liu_yuanxin_amanda@moe.edu.sg)</a><br>
 Miss Sim Zhi Xin <a href="mailto: sim_zhi_xin@moe.edu.sg">(sim_zhi_xin@moe.edu.sg)</a><br>
+
 
 <br>
