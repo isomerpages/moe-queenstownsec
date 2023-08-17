@@ -157,7 +157,7 @@ Ms Law Geok Cheng <a href="mailto: law_geok_cheng@moe.edu.sg">(law_geok_cheng@mo
 
 **<u>4 Integrity (4 IN)</u>** <br>
 Mdm Cynthia Chang <a href="mailto: chang_yee_ping_cynthia@moe.edu.sg">(chang_yee_ping_cynthia@moe.edu.sg)</a><br>
-Mrs Grace Gan <a href="mailto: khoo_siew_hwee@moe.edu.sg">(khoo_siew_hwee@moe.edu.sg)</a><br>
+Mdm Grace Khoo <a href="mailto: khoo_siew_hwee@moe.edu.sg">(khoo_siew_hwee@moe.edu.sg)</a><br>
 
 **<u>4 Care (4 CA)</u>** <br>
 Mr Muhammad Fazari <a href="mailto: fazari_othman_muhammad@moe.edu.sg">(fazari_othman_muhammad@moe.edu.sg)</a><br>
