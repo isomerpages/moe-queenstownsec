@@ -17,6 +17,7 @@ We wish all Queenstownians a safe holiday ahead!
 
 [Singapore Police Force Advisory](/files/spf_cnb_ncpc_ncada.pdf)
 
-[SEC 1 Cohort Camp @ MOE Dairy Farm OALC  (16 to 19 Oct 2023)]()
+[SEC 1 Cohort Camp @ MOE Dairy Farm OALC  (16 to 19 Oct 2023)](/files/queenstown%20sec%201%20cohort%20camp%20briefing%20slides%202023%20(students%20&%20parents)%2021aug23%20final.pdf)
+
 
 
