@@ -8,12 +8,13 @@ Assessment Matters
 
 ### Assessment Info
 
-##### School Based Assessment in Term 3 (2023)
+##### End-of-Year Examination Timetable
 
-Sec 1: [WA3](/files/sec%201%202023%20wa3%20information.pdf)
+Sec 1: [End of Year 2023 TimeTable for Sec 1](/files/eoy%202023%20timetable_s1.pdf)
 
-Sec 2: [WA3](/files/sec%202%202023%20wa3%20information.pdf)
+Sec 2: [End of Year 2023 TimeTable for Sec 2](/files/eoy%202023%20timetable_s2.pdf)
 
-Sec 3: [WA3](/files/sec%203%202023%20wa3%20information.pdf)
+Sec 3: [End of Year 2023 TimeTable for Sec 3](/files/eoy%202023%20timetable_s3.pdf)
+
 
 
