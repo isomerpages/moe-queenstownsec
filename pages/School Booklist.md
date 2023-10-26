@@ -9,7 +9,6 @@ School Booklist
 ### Booklist Download (AY 2024)
 
 Please note that **Sec 1** Book list 2024 is not out yet.
-****
 
 #### Secondary 2
 
@@ -43,5 +42,3 @@ If you have any other queries, please email to qtss@moe.edu.sg.
 -------------------
 
 Last updated on 26-Oct-2023
-
-
