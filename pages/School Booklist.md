@@ -6,31 +6,27 @@ description: ""
 School Booklist
 ===============
 
-### Booklist Download (AY 2023)
+### Booklist Download (AY 2024)
 
-#### Secondary 1
-
-- [Sec 1 EXP](/files/QTSS%20S1EXP%202511.pdf)
-- [Sec 1 NA](/files/QTSS%20S1NA%202511.pdf)
-- [Sec 1 NT](/files/QTSS%20S1NT%202511.pdf)
+Please note that **Sec 1** Book list 2024 is not out yet.
 
 #### Secondary 2
 
-- [Sec 2 EXP](/files/QTSS%20S2E.pdf)
-- [Sec 2 NA](/files/QTSS%20S2NA.pdf)
-- [Sec 2 NT](/files/QTSS%20S2NT.pdf)
+- [Sec 2 EXP](/files/qtss%202024%20s2%20exp.pdf)
+- [Sec 2 NA](/files/qtss%202024%20s2%20na.pdf)
+- [Sec 2 NT](/files/qtss%202024%20s2%20nt.pdf)
 
 #### Secondary 3
 
-- [Sec 3 EXP](/files/QTSS%20S3E.pdf)
-- [Sec 3 NA](/files/QTSS%20S3NA.pdf)
-- [Sec 3 NT](/files/QTSS%20S3NT.pdf)
+- [Sec 3 EXP](/files/qtss%202024%20s3%20exp.pdf)
+- [Sec 3 NA](/files/qtss%202024%20s3%20na.pdf)
+- [Sec 3 NT](/files/qtss%202024%20s3_nt.pdf)
 
 #### Secondary 4
 
-- [Sec 4 EXP](/files/QTSS%20S4E.pdf)
-- [Sec 4 NA](/files/QTSS%20S4NA.pdf)
-- [Sec 4 NT](/files/QTSS%20S4NT.pdf)
+- [Sec 4 EXP](/files/qtss%202024%20s4%20exp.pdf)
+- [Sec 4 NA](/files/qtss%202024%20s4%20na.pdf)
+- [Sec 4 NT](/files/qtss%202024%20s4%20nt.pdf)
 
 #### Secondary 5
 
@@ -45,4 +41,4 @@ If you have any other queries, please email to qtss@moe.edu.sg.
 
 -------------------
 
-Last updated on 15-Dec-2022
+Last updated on 26-Oct-2023
