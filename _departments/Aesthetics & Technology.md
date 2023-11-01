@@ -84,7 +84,7 @@ c)	Applying principles of culinary science creatively in food preparation and co
 
 ##### **Key Learning Experiences**&nbsp;
 
-WHOLE SCHOOL 
+**WHOLE SCHOOL** 
 
 Maker Education Programme <br>
 •	Design Challenge 1 (during QUEST Learning Festival)
