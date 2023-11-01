@@ -3,49 +3,130 @@ title: Aesthetics & Technology
 permalink: /aesthetics-technology/
 description: ""
 ---
-Aesthetics & Technology
+Aesthetics &amp; Technology
 =======================
 
-##### **Vision**
+
+##### **The Quest to...**
+
+Develop every Queenstownian into a Passionate youth who is an Innovative, Independent and Resilient Learner.
+
+##### **Key Approaches**&nbsp;
+
+**LOWER SECONDARY**
+
+<u>Art</u>
+
+Providing our students with a balanced and well-rounded art education in the aesthetic, cognitive and affective dimensions through:
+
+a)	Enjoyment of art via creative and innovative self-expression, and visual communication.
+
+b)	Encouragement of discourse/critique of peers’ work to promote lifelong enjoyment of artistic works.
+
+c)	Fostering the understanding of national identity and appreciation of cultural heritage through the learning of local artworks and artists.
+
+<u>Design &amp; Technology (D &amp; T)</u>
+
+Building on students’ innate ability to sketch and construct and grow their confidence to use these abilities to create and innovate via authentic coursework learning tasks with the practice of safe working habits.
+Food and Consumer Education (FCE)
+Providing our students with the necessary 21CC knowledge, skills and attitudes towards health and financial management through authentic learning experiences like practical cooking sessions, investigative work and coursework.
+
+<u>Music</u>
+
+Enabling our students to acquire and apply musical skills, build their knowledge and understanding of music, develop their abilities for creative expression and communication through music, develop an understanding and appreciation of music in local and global cultures and lay the foundation for a lifelong enjoyment and involvement in music.
+
+**UPPER SECONDARY**
+
+<u>Art</u>
+
+Through drawing and painting activities, coursework tasks and other learning activities, students are:
+
+a)	Developing an informed awareness and appreciation of visual arts.
+
+b)	Enhancing the ability to identify and solve problems creatively in visual and tactile forms.
+
+c)	Developing competency in the use of art elements and design principles, materials and processes.
+
+d)	Fostering self-confidence and a sense of achievement through the practice of visual arts.
+
+e)	Cultivating an inquiring mind, a spirit of experimentation and a passion for the visual arts.
+
+<u>Design &amp; Technology (D &amp; T)</u>
+
+Through practical sessions, authentic coursework tasks and other learning activities, students are:
+
+a)	Developing confidence, pride and tenacity through exploring real-world design opportunities.
+
+b)	Developing the quality of mindfulness, empathy and sensitivity through improving aspects of their environment in everyday life.
+
+c)	Embracing complexities, uncertainties and the inherent social dimension of the design process when exploring design opportunity vis-à-vis design ideas.
+
+d)	Cultivating thinking through doodling and sketching/drawing.
+
+e)	Experimenting and prototyping ideas using appropriate materials and tools.
+
+f)	Building on their innate curiosity and ability to create.
+
+g)	Exercising judgements and make evidence-based decisions of a technological, aesthetic and economic nature.
+
+h)	Developing safe working habits.
+
+<u>Nutrition &amp; Food Science (NFS)</u>
+
+Through practical sessions, authentic coursework tasks and other learning activities, students are:
+
+a)	Leading a healthier lifestyle proactively through proper diet and nutrition.
+
+b)	Advocating for sustainable food consumption by planning and making appropriate food choices.
+
+c)	Applying principles of culinary science creatively in food preparation and cooking.
 
 
-Passion = I<sup>2</sup>R
+##### **Key Learning Experiences**&nbsp;
 
-Passion = Innovative, Independent and Resilient Learners
+WHOLE SCHOOL 
 
-##### **Mission**
-
-Nurturing **P**assionate youths who are **I**nnovative, **I**ndependent & **R**esilient Learners
-
-##### **Key Programmes & Activities** 
-
-*   Sec 1 Makers EL & D&T Programme Collaboration
-*   Sec 2 Makers EL & D&T Programme Collaboration
-*   Lower Sec Art Programme Exhibition
-*   Sec 3 NFS Culinary Enrichment Programme
-*   Sec 4/5 NFS Plating Enrichment Programme
-
-Aesthetic & Technology Department believes in nurturing innovative independent, resilient learners by providing them with learning and making opportunities where they can put together their learning to generate innovative solutions or products. In their lessons, our students get to create music, food, product and art work through the pedgagogy of experiential learning which allows them to build their resilience and creative disposition. 2021 continues to be an exciting year of learning for them despite the challenges posed by Covid-19 situation.
+Maker Education Programme <br>
+•	Design Challenge 1 (during QUEST Learning Festival)
+•	Design Challenge 2 (Post-Exam activities)
 
 
+**LOWER SECONDARY**
+
+•	Lower Secondary EL &amp; D&amp;T Maker Education Collaboration <br>
+•	Sec 1 Aesthetics Programme: Marina Bay Sculpture Walk <br>
+•	Sec 1 FCE Coursework: Promoting Healthy Eating Habits through students learning to prepare healthy and interesting snacks through coursework activities <br>
+•	Sec 2 Aesthetics Programme: Dragon Kiln Programme <br>
+•	Sec 2 ‘Dare to Serve’ Badge Design Competition<br> 
+•	Sec 2 FCE Coursework: Promoting the learning of one’s cultural roots through cooking activities<br>
+•	Lower Sec Art Exhibition (2024) <br>
+•	Sec 2 Music students: Concert (2024)
+
+**UPPER SECONDARY**<br>
+•	Upper Secondary Authentic Coursework Tasks (Art, D&amp;T and NFS) <br>
+•	Sec 3 Art VIA Project with Moral Welfare Home <br>
+•	Sec 3 NFS Learning Journey to Elsie’s Kitchen<br>
+•	Sec 4 D&amp;T Learning Journey to National Design Centre <br>
+•	Sec 4/5 NFS Food Presentation Workshop<br>
+•	Music: The Youth Station Project (SYF)<br>
+•	Sec 3 D&amp;T Learning Journey to IKEA (2024)<br>
+•	Sec 3 D&amp;T Learning Journey to Enabling Village (2024)
 
 
-<img src="/images/Departments/AT%201.jpg"  
-     style="width:85%">
+##### **Key Achievements**&nbsp;
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Kindred Spirits [Queenstown Secondary School]" src="https://www.youtube.com/embed/cpcm6d3-p18?list=PLRGFo1hZVPDkepY2BDgMP4GCZUCR5_t1G" height="385" width="684"></iframe>
+       
+<img src="/images/Departments/AT%201.jpg" style="width:85%">
 		 
-<img src="/images/Departments/AT%202.jpg"  
-     style="width:85%">
+<img src="/images/Departments/AT%202.jpg" style="width:85%">
 
-<img src="/images/Departments/AT%203.jpg"  
-     style="width:85%">
+<img src="/images/Departments/AT%203.jpg" style="width:85%">
 
 
 
-<img src="/images/Departments/AT%204.jpg"  
-     style="width:55%">
+<img src="/images/Departments/AT%204.jpg" style="width:55%">
 
-<img src="/images/Departments/AT%205.jpg"  
-     style="width:45%">
+<img src="/images/Departments/AT%205.jpg" style="width:45%">
 
-<img src="/images/Departments/AT%206.jpg"  
-     style="width:200%">
+<img src="/images/Departments/AT%206.jpg" style="width:200%">
