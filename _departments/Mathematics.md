@@ -48,10 +48,10 @@ Develop every Queenstownian into an independent learner, and a precise and resil
 ##### **Key Achievements**
 <ul>
 
-**•	&nbsp;Singapore Math Kangaroo Contest (SMKC):** 2 Silver awards, 10 Bronze awards and 2 Honourable Mentions<br>
-**• &nbsp;Singapore  Asian School Math Olympiad (SASMO):** 2 Silver awards, 3 Bronze awards and 7 Honourable Mentions<br>
-**•&nbsp; Singapore Mathematical Olympiad (SMO):** 3 Honourable Mentions
-</ul>
+**•	Singapore Math Kangaroo Contest (SMKC):** 2 Silver awards, 10 Bronze awards and 2 Honourable Mentions<br>
+**•	Singapore &amp; Asian School Math Olympiad (SASMO):** 2 Silver awards, 3 Bronze awards and 7 Honourable Mentions<br>
+**•	Singapore Mathematical Olympiad (SMO):** 3 Honourable Mentions
 
 
-<img src="/images/Departments/maths205.png" style="width:80%">
+
+<img src="/images/Departments/maths205.png" style="width:80%"></ul>
