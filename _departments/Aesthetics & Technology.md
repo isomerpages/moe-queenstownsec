@@ -24,8 +24,9 @@ Providing our students with a balanced and well-rounded art education in the aes
 
 <ul>a)	&nbsp;Enjoyment of art via creative and innovative self-expression, and visual communication.<br></ul>
 <ul>b)	&nbsp;Encouragement of discourse/critique of peers’ works to promote lifelong enjoyment of artistic works.<br></ul>
-<ul>
-<p>c)&nbsp;Fostering the understanding of national identity and appreciation of cultural heritage through the learning of local artworks and artists.</p> </ul>
+
+<ul> 
+<p style="text-align:;">c) &nbsp;Fostering the understanding of national identity and appreciation of cultural heritage through the learning of local artworks and artists.</p> </ul>
 
 <u>Design &amp; Technology (D &amp; T)</u>
 
@@ -114,12 +115,12 @@ Maker Education Programme <br>
 <ul>
 • &nbsp;The Youth Station Project 2023: Top 10 and Honourable Mentions Songs
 
-<iframe width="684" height="385" src="https://www.youtube.com/embed/cpcm6d3-p18?list=PLRGFo1hZVPDkepY2BDgMP4GCZUCR5_t1G" title="Kindred Spirits [Queenstown Secondary School]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Kindred Spirits [Queenstown Secondary School]" src="https://www.youtube.com/embed/cpcm6d3-p18?list=PLRGFo1hZVPDkepY2BDgMP4GCZUCR5_t1G" height="385" width="684"></iframe>
 	
 	
 
 	
-<img style="width:150%" src="/images/Departments/a&amp;t207.png">  
+<img src="/images/Departments/a&amp;t207.png" style="width:150%">  
 	
 	
 	
