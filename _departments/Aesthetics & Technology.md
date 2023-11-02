@@ -98,19 +98,19 @@ Maker Education Programme <br>
 
 <br>
 <ul>
-•	Upper Secondary Authentic Coursework Tasks (Art, D&amp;T and NFS) <br>
-•	Sec 3 Art VIA Project with Moral Welfare Home <br>
-•	Sec 3 NFS Learning Journey to Elsie’s Kitchen<br>
-•	Sec 4 D&amp;T Learning Journey to National Design Centre <br>
+•	&nbsp;Upper Secondary Authentic Coursework Tasks (Art, D&amp;T and NFS) <br>
+•	&nbsp;Sec 3 Art VIA Project with Moral Welfare Home <br>
+•	&nbsp;Sec 3 NFS Learning Journey to Elsie’s Kitchen<br>
+•	&nbsp;Sec 4 D&amp;T Learning Journey to National Design Centre <br>
 •	Sec 4/5 NFS Food Presentation Workshop<br>
-•	Music: The Youth Station Project (SYF)<br>
-•	Sec 3 D&amp;T Learning Journey to IKEA (2024)<br>
-•	Sec 3 D&amp;T Learning Journey to Enabling Village (2024)
+•&nbsp;	Music: The Youth Station Project (SYF)<br>
+•	&nbsp;Sec 3 D&amp;T Learning Journey to IKEA (2024)<br>
+•&nbsp;	Sec 3 D&amp;T Learning Journey to Enabling Village (2024)
 </ul>
 
 ##### **Key Achievements**
 <ul>
-• The Youth Station Project 2023: Top 10 and Honourable Mentions Songs
+• &nbsp;The Youth Station Project 2023: Top 10 and Honourable Mentions Songs
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Kindred Spirits [Queenstown Secondary School]" src="https://www.youtube.com/embed/cpcm6d3-p18?list=PLRGFo1hZVPDkepY2BDgMP4GCZUCR5_t1G" height="385" width="684"></iframe>
 	
