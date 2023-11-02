@@ -50,7 +50,7 @@ The three “IN”s, inspire, inquire and innovate, represent the **vision of sc
 •	&nbsp;Lee Kong Chian Natural History Museum Marine Ecology Workshop<br>
 •	&nbsp;Learning Journey to National Kidney Foundation<br>
 •	&nbsp;Industrial Visits (e.g. ChemGallery @ Jurong Island, Asia Pacific Brewery, etc.)
-
+</ul>
 
 ##### **Key Achievements**
 
@@ -120,4 +120,4 @@ International Biomedical Quiz 2017 - Tay Cheng Yee, 3A (right) 'Honourable Menti
 
 <img src="/images/Departments/Science%2014.jpg" style="width:45%">
 		 
-<center>Chemistry Teachers</center></ul>
+<center>Chemistry Teachers</center>
