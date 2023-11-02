@@ -42,8 +42,23 @@ Promoting a safe and conducive environment that facilitates student learning and
 
 </ul>
 
+##### **Key Learning Experiences**
+
+**WHOLE SCHOOL**
+
+<ul>
+•	Student Management briefing at the start and end of every term<br>
+•	Educational Talks during school Assemblies by invited guests and agencies
+</ul>
 
 
+**TARGETED SUPPORT**
+
+<ul>
+•	&nbsp;Dare2DREAM (Daring, Resilient, Empathetic, Active, Motivated)<br>
+•	&nbsp;Dare2SHINE (Self, Heart, Identity, Inclusiveness, Exploration)<br>
+•	&nbsp;Engagement by internal and external stakeholders
+</ul>
 
 ![](/images/Departments/Stud%20Mag%202.jpg)
 
