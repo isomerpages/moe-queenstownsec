@@ -68,7 +68,8 @@ h) &nbsp;Developing safe working habits.
 
 Through practical sessions, authentic coursework tasks and other learning activities, students are:
 
-<ul>a)	&nbsp;Leading a healthier lifestyle proactively through proper diet and nutrition.<br>
+<ul>
+a)	&nbsp;Leading a healthier lifestyle proactively through proper diet and nutrition.<br>
 b)	&nbsp;Advocating for sustainable food consumption by planning and making appropriate food choices.<br>
 c)	&nbsp;Applying principles of culinary science creatively in food preparation and cooking.
 </ul>
@@ -81,7 +82,7 @@ Maker Education Programme <br>
 
 <ul>
 •	&nbsp;Design Challenge 1 (during QUEST Learning Festival)<br>
-•&nbsp;	Design Challenge 2 (Post-Exam activities)
+• &nbsp;Design Challenge 2 (Post-Exam activities)
 </ul>
 
 **LOWER SECONDARY**
