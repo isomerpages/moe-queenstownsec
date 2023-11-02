@@ -19,10 +19,8 @@ Develop every Queenstownian into a Passionate youth who is an Innovative, Indepe
 
 Providing our students with a balanced and well-rounded art education in the aesthetic, cognitive and affective dimensions through:
 
-a)	Enjoyment of art via creative and innovative self-expression, and visual communication.
-
-b)	Encouragement of discourse/critique of peers’ work to promote lifelong enjoyment of artistic works.
-
+a)	Enjoyment of art via creative and innovative self-expression, and visual communication.<br>
+b)	Encouragement of discourse/critique of peers’ work to promote lifelong enjoyment of artistic works.<br>
 c)	Fostering the understanding of national identity and appreciation of cultural heritage through the learning of local artworks and artists.
 
 <u>Design &amp; Technology (D &amp; T)</u>
