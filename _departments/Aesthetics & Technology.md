@@ -113,9 +113,9 @@ Maker Education Programme <br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Kindred Spirits [Queenstown Secondary School]" src="https://www.youtube.com/embed/cpcm6d3-p18?list=PLRGFo1hZVPDkepY2BDgMP4GCZUCR5_t1G" height="385" width="684"></iframe>
 	
 	
+
 	
-	
-       
+<img src="/images/Departments/a&amp;t207.png" style="width:150%">  
 	
 	
 	
