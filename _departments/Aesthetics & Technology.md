@@ -19,9 +19,10 @@ Develop every Queenstownian into a Passionate youth who is an Innovative, Indepe
 
 Providing our students with a balanced and well-rounded art education in the aesthetic, cognitive and affective dimensions through:
 
-a)	Enjoyment of art via creative and innovative self-expression, and visual communication.<br>
-b)	Encouragement of discourse/critique of peers’ work to promote lifelong enjoyment of artistic works.<br>
-c)	Fostering the understanding of national identity and appreciation of cultural heritage through the learning of local artworks and artists.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a)	Enjoyment of art via creative and innovative <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self-expression, and visual communication.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b)	Encouragement of discourse/critique of peers’ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;work to promote lifelong enjoyment of artistic &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;works.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+c)	Fostering the understanding of national identity &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and appreciation of cultural heritage through &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the learning of local artworks and artists.
 
 <u>Design &amp; Technology (D &amp; T)</u>
 
@@ -39,44 +40,31 @@ Enabling our students to acquire and apply musical skills, build their knowledge
 
 Through drawing and painting activities, coursework tasks and other learning activities, students are:
 
-a)	Developing an informed awareness and appreciation of visual arts.
-
-b)	Enhancing the ability to identify and solve problems creatively in visual and tactile forms.
-
-c)	Developing competency in the use of art elements and design principles, materials and processes.
-
-d)	Fostering self-confidence and a sense of achievement through the practice of visual arts.
-
+a)	Developing an informed awareness and appreciation of visual arts.<br>
+b)	Enhancing the ability to identify and solve problems creatively in visual and tactile forms.<br>
+c)	Developing competency in the use of art elements and design principles, materials and processes.<br>
+d)	Fostering self-confidence and a sense of achievement through the practice of visual arts.<br>
 e)	Cultivating an inquiring mind, a spirit of experimentation and a passion for the visual arts.
 
 <u>Design &amp; Technology (D &amp; T)</u>
 
 Through practical sessions, authentic coursework tasks and other learning activities, students are:
 
-a)	Developing confidence, pride and tenacity through exploring real-world design opportunities.
-
-b)	Developing the quality of mindfulness, empathy and sensitivity through improving aspects of their environment in everyday life.
-
-c)	Embracing complexities, uncertainties and the inherent social dimension of the design process when exploring design opportunity vis-à-vis design ideas.
-
-d)	Cultivating thinking through doodling and sketching/drawing.
-
-e)	Experimenting and prototyping ideas using appropriate materials and tools.
-
-f)	Building on their innate curiosity and ability to create.
-
-g)	Exercising judgements and make evidence-based decisions of a technological, aesthetic and economic nature.
-
+a)	Developing confidence, pride and tenacity through exploring real-world design opportunities.<br>
+b)	Developing the quality of mindfulness, empathy and sensitivity through improving aspects of their environment in everyday life.<br>
+c)	Embracing complexities, uncertainties and the inherent social dimension of the design process when exploring design opportunity vis-à-vis design ideas.<br>
+d)	Cultivating thinking through doodling and sketching/drawing.<br>
+e)	Experimenting and prototyping ideas using appropriate materials and tools.<br>
+f)	Building on their innate curiosity and ability to create.<br>
+g)	Exercising judgements and make evidence-based decisions of a technological, aesthetic and economic nature.<br>
 h)	Developing safe working habits.
 
 <u>Nutrition &amp; Food Science (NFS)</u>
 
 Through practical sessions, authentic coursework tasks and other learning activities, students are:
 
-a)	Leading a healthier lifestyle proactively through proper diet and nutrition.
-
-b)	Advocating for sustainable food consumption by planning and making appropriate food choices.
-
+a)	Leading a healthier lifestyle proactively through proper diet and nutrition.<br>
+b)	Advocating for sustainable food consumption by planning and making appropriate food choices.<br>
 c)	Applying principles of culinary science creatively in food preparation and cooking.
 
 
