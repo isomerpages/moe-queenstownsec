@@ -6,54 +6,54 @@ description: ""
 Science 
 ==================
 
-### **The Quest to…**
+##### **The Quest to…**
 
 
 Develop every Queenstownian into a confident, creative and motivated learner. 
 
-### **Key Approaches**
+##### **Key Approaches**
 
 The three “IN”s, inspire, inquire and innovate, represent the **vision of science education.** It encapsulates the desired overall experience of our students in science education.
 
 <u>INspired by Science</u>
 
-•	Enjoying learning Science, and being fascinated by how everyday phenomena have scientific connections and how Science helps solve many of our global challenges.<br>
-•	Regarding Science as relevant and meaningful, and appreciating how Science and Technology have transformed the world and improved our lives. <br>
-•	Seeing Science-related careers as a viable profession to serve the good of society.
+•	&nbsp;Enjoying learning Science, and being fascinated by how everyday phenomena have scientific connections and how Science helps solve many of our global challenges.<br>
+•	&nbsp;Regarding Science as relevant and meaningful, and appreciating how Science and Technology have transformed the world and improved our lives. <br>
+•	&nbsp;Seeing Science-related careers as a viable profession to serve the good of society.
 
 <u>INquire like Scientists</u><br>
-•	Having a strong foundation in Science, and possessing the spirit of scientific inquiry. <br>
-•	Engaging confidently in the Practices of Science, grounded in the knowledge, issues and questions that relate to the roles played by Science in daily life, society and the environment.<br>
-•	Discerning, weighing alternatives and evaluating claims and ideas critically, based on logical scientific evidence and arguments, and yet being able to suspend judgement where there is lack of evidence.
+•	&nbsp;Having a strong foundation in Science, and possessing the spirit of scientific inquiry. <br>
+•	&nbsp;Engaging confidently in the Practices of Science, grounded in the knowledge, issues and questions that relate to the roles played by Science in daily life, society and the environment.<br>
+•	&nbsp;Discerning, weighing alternatives and evaluating claims and ideas critically, based on logical scientific evidence and arguments, and yet being able to suspend judgement where there is lack of evidence.
 
 <u>INnovate using Science</u><br>
-•	Applying and experiencing the potential of Science to generate creative solutions to solve real-world problems, ranging from those affecting everyday lives to complex problems affecting humanity. <br>
-•	Making contributions towards STEM research, innovation and enterprise.
+•	&nbsp;Applying and experiencing the potential of Science to generate creative solutions to solve real-world problems, ranging from those affecting everyday lives to complex problems affecting humanity. <br>
+•	&nbsp;Making contributions towards STEM research, innovation and enterprise.
 
-### **Key Learning Experiences**
+##### **Key Learning Experiences**
 
 
 **LOWER SECONDARY**
 
-•	Science Centre Singapore – Lecture Demonstration, Practical Lab Session
+•	&nbsp;Science Centre Singapore – Lecture Demonstration, Practical Lab Session
 
 **UPPER SECONDARY**
 
-•	Plant Visit to The Polyolefin Company<br>
-•	Work Experience Programme at The Polyolefin Company<br>
-•	Lee Kong Chian Natural History Museum Marine Ecology Workshop<br>
-•	Learning Journey to National Kidney Foundation<br>
-•	Industrial Visits (e.g. ChemGallery @ Jurong Island, Asia Pacific Brewery, etc.)
+•	&nbsp;Plant Visit to The Polyolefin Company<br>
+•	&nbsp;Work Experience Programme at The Polyolefin Company<br>
+•	&nbsp;Lee Kong Chian Natural History Museum Marine Ecology Workshop<br>
+•	&nbsp;Learning Journey to National Kidney Foundation<br>
+•	&nbsp;Industrial Visits (e.g. ChemGallery @ Jurong Island, Asia Pacific Brewery, etc.)
 
 
-### **Key Achievements**
+##### **Key Achievements**
 
-•	43rd C.B. Paul Science Quiz 2022: Gold Award – Kieren Cheong Jia Shen; Bronze Award – Carissa Tang Qi Ruan; Merit Award – Fang Jiani, Isabeth Wang Yu Qi<br>
-•	44th C.B. Paul Science Quiz 2023: Merit Award – Eden Wong)<br>
-•	Singapore Junior Physics Olympiad 2022: Honourable Mention – Nathan Chew Wei Zhi, Raiyan Zaman Kabbo, Tao Yan Fai<br>
-•	Singapore Junior Physics Olympiad 2023: Honourable Mention – Charles Ivan Augusto, Dai Siyuan, Darius Saputra, Darwyn Goh Hong Jun, Nathan Chew Wei Zhi, Raiyan Zaman Kabbo, Tao Yan Fai<br>
-•	Singapore Junior Chemistry Olympiad 2023: Merit Award – Darius Saputra, Tao Yan Fai<br>
-•	Singapore Junior Chemistry Olympiad 2023: Merit Award – Ishaan Veer Singh S/O Ranveer Singh, Dicky Dzulkarnain Bin Abdul Malik
+•	&nbsp;43rd C.B. Paul Science Quiz 2022: Gold Award – Kieren Cheong Jia Shen; Bronze Award – Carissa Tang Qi Ruan; Merit Award – Fang Jiani, Isabeth Wang Yu Qi<br>
+•	&nbsp;44th C.B. Paul Science Quiz 2023: Merit Award – Eden Wong)<br>
+•	&nbsp;Singapore Junior Physics Olympiad 2022: Honourable Mention – Nathan Chew Wei Zhi, Raiyan Zaman Kabbo, Tao Yan Fai<br>
+•	&nbsp;Singapore Junior Physics Olympiad 2023: Honourable Mention – Charles Ivan Augusto, Dai Siyuan, Darius Saputra, Darwyn Goh Hong Jun, Nathan Chew Wei Zhi, Raiyan Zaman Kabbo, Tao Yan Fai<br>
+•	&nbsp;Singapore Junior Chemistry Olympiad 2023: Merit Award – Darius Saputra, Tao Yan Fai<br>
+•	&nbsp;Singapore Junior Chemistry Olympiad 2023: Merit Award – Ishaan Veer Singh S/O Ranveer Singh, Dicky Dzulkarnain Bin Abdul Malik
 
 
 
