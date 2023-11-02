@@ -111,17 +111,13 @@ Maker Education Programme <br>
 • The Youth Station Project 2023: Top 10 and Honourable Mentions Songs
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Kindred Spirits [Queenstown Secondary School]" src="https://www.youtube.com/embed/cpcm6d3-p18?list=PLRGFo1hZVPDkepY2BDgMP4GCZUCR5_t1G" height="385" width="684"></iframe>
+	
+	
+	
+	
        
-<img src="/images/Departments/AT%201.jpg" style="width:85%">
-		 
-<img src="/images/Departments/AT%202.jpg" style="width:85%">
-
-<img src="/images/Departments/AT%203.jpg" style="width:85%">
-
-
-
-<img src="/images/Departments/AT%204.jpg" style="width:55%">
-
-<img src="/images/Departments/AT%205.jpg" style="width:45%">
-
-<img src="/images/Departments/AT%206.jpg" style="width:200%"></ul>
+	
+	
+	
+	
+</ul>
