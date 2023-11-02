@@ -17,7 +17,7 @@ Develop every Queenstownian into a Passionate youth who is an Innovative, Indepe
 
 <u>Art</u>
 
-Providing our students with a balanced and well-rounded art education in the aesthetic, cognitive and affective dimensions through:
+line-height: 2 ;Providing our students with a balanced and well-rounded art education in the aesthetic, cognitive and affective dimensions through:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a)	&nbsp;Enjoyment of art via creative and innovative &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self-expression, and visual communication.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b)	&nbsp;Encouragement of discourse/critique of peers’ works to promote lifelong enjoyment of artistic works.<br>
