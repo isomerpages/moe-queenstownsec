@@ -6,15 +6,22 @@ description: ""
 Infocomm Technology
 ===================
 
-# Vision: 
-Produce future-ready Queenstownians who flourish through personalised, self-directed and collaborative learning. 
+##### **The Quest to…** 
+Develop every Queenstownian into a future-ready individual who flourishes through personalised, self-directed and collaborative learning.
 
  
 
-# Mission: 
-To reinvent how teachers teach and students learn using data informed practice and inspire lifelong learning. 
+##### **Key Approaches** 
 
------ 
+
+<ul>
+•	Using data-informed practices to reinvent how teachers teach and students learn <br>
+•	Leveraging on technology to provide more opportunities for students to learn independently and work collaboratively with others
+•	Leveraging on technology to build students’ ownership of their learning
+•	Inspiring life-long learning
+</ul>
+
+
 
 Leveraging on technology, students are given more opportunities to hone their skills to learn independently and work collaboratively with others. Technology also allows for greater students’ voice in class, with more flexibility on their learning content and learning pace. 
 ![](/images/Picture1.png)
