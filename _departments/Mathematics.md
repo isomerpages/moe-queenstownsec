@@ -35,12 +35,12 @@ Develop every Queenstownian into an independent learner, and a precise and resil
 	
 **WHOLE SCHOOL**
 
-•	Talent Development Programme: Mathematics Ascent for Higher Achievers (MAHA) 
+•	Talent Development Programme: Mathematics Ascent for Higher Achievers (MAHA) <br>
 •	Bridging programmes to prepare students to learn Mathematics at a more demanding level.
 
 **LOWER SECONDARY**
 
-•	Sec 1: Computational Thinking and Code for Fun 
+•	Sec 1: Computational Thinking and Code for Fun <br>
 •	Sec 2: Principles of Accounts Outreach 
 	
 
