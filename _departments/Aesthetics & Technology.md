@@ -58,9 +58,9 @@ b)	&nbsp;Developing the quality of mindfulness, empathy and sensitivity through 
 c)	&nbsp;Embracing complexities, uncertainties and the inherent social dimension of the design process when exploring design opportunity vis-à-vis design ideas.<br>
 d)	&nbsp;Cultivating thinking through doodling and sketching/drawing.<br>
 e)	&nbsp;Experimenting and prototyping ideas using appropriate materials and tools.<br>
-f)	&nbsp;Building on their innate curiosity and ability to create.<br>
-g)&nbsp;	Exercising judgements and make evidence-based decisions of a technological, aesthetic and economic nature.<br>
-h)&nbsp;	Developing safe working habits.
+f)  &nbsp;Building on their innate curiosity and ability to create.<br>
+g) &nbsp;	Exercising judgements and make evidence-based decisions of a technological, aesthetic and economic nature.<br>
+h) &nbsp;	Developing safe working habits.
 </ul>
 <u>Nutrition &amp; Food Science (NFS)</u>
 
