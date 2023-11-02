@@ -91,7 +91,9 @@ Maker Education Programme <br>
 •	Lower Sec Art Exhibition (2024) <br>
 •	Sec 2 Music students: Concert (2024)
 </ul>
-**UPPER SECONDARY**<br>
+
+**UPPER SECONDARY**
+
 <br>
 <ul>
 •	Upper Secondary Authentic Coursework Tasks (Art, D&amp;T and NFS) <br>
