@@ -6,48 +6,59 @@ description: ""
 Mathematics
 ===========
 
-**Head of Department:**  Mrs Grace Choo
 
-**SH Math:** Mdm Jayasolai
 
-#### **Vision**  
-An Independent Learner, A Precise and Resilient Thinker
 
-#### **Key Programmes & Activities** 
+#### **The Quest to...**
+Develop every Queenstownian into an independent learner, and a precise and resilient thinker.
 
-1.  Mathematics Quiz
-2.  Talent Management Programme: Mathematics Ascent for Higher Achievers (MAHA) 
-3.  Computational Thinking Workshop for Secondary 1 
-4.  Principles of Accounts Outreach for Secondary 2 
+#### **Key Approaches**
 
-#### **Achievements** 
+<u>Using pedagogical practices in teaching towards Big Ideas in Mathematics:</u>
 
-**Singapore & Asian School Math Olympiad (SASMO):** 1 Gold, 2 Silver & 6 Bronze
+•	Diagrams<br>
+•	Equivalence<br>
+•	Functions <br>
+•	Invariance<br>
+•	Measures<br>
+•	Models<br>
+•	Notations <br>
+•	Proportionality<br>
 
-**Singapore Math Kangaroo Contest (SMKC):** 2 Gold, 4 Silver & 10 Bronze
+<u>Solving Problems in Real World Context (PRWC) Tasks: </u>
 
-#### **Department Reflection**
+•	Providing students with authentic context to work with to raise their competencies in abstracting and reasoning, representing and communicating, applying and modelling.<br>
+•	Using Computational Thinking to approach PRWC questions
 
-Despite COVID-19 and safe-distancing measures, the Mathematics department continued to create authentic, interesting and engaging activities for our Queenstownians. In October, the department teachers organised Math Quizzes through social media. Students were exposed to intriguing and challenging mathematics problems beyond the classroom, with the aim of developing their metacognitive and problem solving skills.
+	
+#### **Key Learning Experiences**	
+	
+**WHOLE SCHOOL**
 
-In addition, the department collaborated with IMDA to provide opportunities for the Secondary One students to deepen their computational thinking skills through exposure to digital crafts, coding and the use of micro-controller. Students applied what they have learnt to solve real-life problems e.g. designing movement trackers to encourage exercise and temperature and humidity sensor.
+•	Talent Development Programme: Mathematics Ascent for Higher Achievers (MAHA) 
+•	Bridging programmes to prepare students to learn Mathematics at a more demanding level.
 
-To support Secondary Two students to make informed decisions on their subject combination for the following year, Principles of Accounts teachers mounted a workshop, namely POA Outreach, for students to expose them to some basic accounting concepts and challenged them to create a business decisions for the toy they made. Students shared that they greatly enjoyed the process.
+**LOWER SECONDARY**
 
-All in all, preparing our students to be future-ready leaders forms the cornerstone of the design of our programmes and activities.
+•	Sec 1: Computational Thinking and Code for Fun 
+•	Sec 2: Principles of Accounts Outreach 
+	
 
-#### **Gallery**
+#### **Key Achievements**
 
-Showcasing moments of Mathematics Quiz, Computational Thinking Workshop for Secondary 1 and POA Outreach for Secondary 2
+•	**Singapore Math Kangaroo Contest (SMKC):** 2 Silver awards, 10 Bronze awards and 2 Honourable Mentions<br>
+•	**Singapore &amp; Asian School Math Olympiad <br>(SASMO):** 2 Silver awards, 3 Bronze awards and 7 Honourable Mentions<br>
+•	**Singapore Mathematical Olympiad (SMO):** 3 Honourable Mentions
+	 
+<br>
 
-<img src="/images/Departments/Math%201.jpg"  
-     style="width:65%">
 
-<img src="/images/Departments/Math%202.jpg"  
-     style="width:65%">
+
+
+<img src="/images/Departments/Math%201.jpg" style="width:65%">
+
+<img src="/images/Departments/Math%202.jpg" style="width:65%">
 		 
-<img src="/images/Departments/Math%203.jpg"  
-     style="width:65%">
+<img src="/images/Departments/Math%203.jpg" style="width:65%">
 		 
-<img src="/images/Departments/Math%204.jpg"  
-     style="width:65%">
+<img src="/images/Departments/Math%204.jpg" style="width:65%">
