@@ -61,7 +61,6 @@ The three “IN”s, inspire, inquire and innovate, represent the **vision of sc
 •	&nbsp;Singapore Junior Physics Olympiad 2023: Honourable Mention – Charles Ivan Augusto, Dai Siyuan, Darius Saputra, Darwyn Goh Hong Jun, Nathan Chew Wei Zhi, Raiyan Zaman Kabbo, Tao Yan Fai<br>
 •	&nbsp;Singapore Junior Chemistry Olympiad 2023: Merit Award – Darius Saputra, Tao Yan Fai<br>
 •	&nbsp;Singapore Junior Chemistry Olympiad 2023: Merit Award – Ishaan Veer Singh S/O Ranveer Singh, Dicky Dzulkarnain Bin Abdul Malik
-
 </ul>
 
 
