@@ -53,14 +53,15 @@ e)	&nbsp;Cultivating an inquiring mind, a spirit of experimentation and a passio
 
 Through practical sessions, authentic coursework tasks and other learning activities, students are:
 
-<ul>a)	&nbsp;Developing confidence, pride and tenacity through exploring real-world design opportunities.<br>
+<ul>
+a)	&nbsp;Developing confidence, pride and tenacity through exploring real-world design opportunities.<br>
 b)	&nbsp;Developing the quality of mindfulness, empathy and sensitivity through improving aspects of their environment in everyday life.<br>
 c)	&nbsp;Embracing complexities, uncertainties and the inherent social dimension of the design process when exploring design opportunity vis-à-vis design ideas.<br>
 d)	&nbsp;Cultivating thinking through doodling and sketching/drawing.<br>
 e)	&nbsp;Experimenting and prototyping ideas using appropriate materials and tools.<br>
-f)  &nbsp;Building on their innate curiosity and ability to create.<br>
-g) &nbsp;	Exercising judgements and make evidence-based decisions of a technological, aesthetic and economic nature.<br>
-h) &nbsp;	Developing safe working habits.
+f) &nbsp;Building on their innate curiosity and ability to create.<br>
+g) &nbsp;Exercising judgements and make evidence-based decisions of a technological, aesthetic and economic nature.<br>
+h) &nbsp;Developing safe working habits.
 </ul>
 <u>Nutrition &amp; Food Science (NFS)</u>
 
@@ -96,7 +97,6 @@ Maker Education Programme <br>
 
 **UPPER SECONDARY**
 
-<br>
 <ul>
 •	&nbsp;Upper Secondary Authentic Coursework Tasks (Art, D&amp;T and NFS) <br>
 •	&nbsp;Sec 3 Art VIA Project with Moral Welfare Home <br>
