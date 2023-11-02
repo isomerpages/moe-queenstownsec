@@ -54,4 +54,4 @@ Develop every Queenstownian into an independent learner, and a precise and resil
 
 
 
-<img src="/images/Departments/maths205.png" style="width:80%"></ul>
+<img src="/images/Departments/maths205.png" style="width:65%"></ul>
