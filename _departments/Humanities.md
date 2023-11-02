@@ -28,7 +28,7 @@ d)	Building 21st Century Competencies
 a)	Building on the lower secondary skills <br>
 b)	Inquiry-based Approach <br>
 c)	Experiential Learning <br>
-d)	Diving deep in the thinking and approach and   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exam skills in Ace-ing for Humanities 
+d)	Diving deep in the thinking and approach and   &nbsp;&nbsp;&nbsp;&nbsp;exam skills in Ace-ing for Humanities 
 
 #### **Key Learning Experiences**
 
