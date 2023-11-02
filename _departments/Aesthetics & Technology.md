@@ -43,32 +43,32 @@ Enabling our students to acquire and apply musical skills, build their knowledge
 
 Through drawing and painting activities, coursework tasks and other learning activities, students are:
 
-<ul>a)	Developing an informed awareness and appreciation of visual arts.<br>
-b)	Enhancing the ability to identify and solve problems creatively in visual and tactile forms.<br>
-c)	Developing competency in the use of art elements and design principles, materials and processes.<br>
-d)	Fostering self-confidence and a sense of achievement through the practice of visual arts.<br>
-e)	Cultivating an inquiring mind, a spirit of experimentation and a passion for the visual arts.
+<ul>a) &nbsp;Developing an informed awareness and appreciation of visual arts.<br>
+b)	&nbsp;Enhancing the ability to identify and solve problems creatively in visual and tactile forms.<br>
+c)	&nbsp;Developing competency in the use of art elements and design principles, materials and processes.<br>
+d)	&nbsp;Fostering self-confidence and a sense of achievement through the practice of visual arts.<br>
+e)	&nbsp;Cultivating an inquiring mind, a spirit of experimentation and a passion for the visual arts.
 </ul>
 <u>Design &amp; Technology (D &amp; T)</u>
 
 Through practical sessions, authentic coursework tasks and other learning activities, students are:
 
-<ul>a)	Developing confidence, pride and tenacity through exploring real-world design opportunities.<br>
-b)	Developing the quality of mindfulness, empathy and sensitivity through improving aspects of their environment in everyday life.<br>
-c)	Embracing complexities, uncertainties and the inherent social dimension of the design process when exploring design opportunity vis-à-vis design ideas.<br>
-d)	Cultivating thinking through doodling and sketching/drawing.<br>
-e)	Experimenting and prototyping ideas using appropriate materials and tools.<br>
-f)	Building on their innate curiosity and ability to create.<br>
-g)	Exercising judgements and make evidence-based decisions of a technological, aesthetic and economic nature.<br>
-h)	Developing safe working habits.
+<ul>a)	&nbsp;Developing confidence, pride and tenacity through exploring real-world design opportunities.<br>
+b)	&nbsp;Developing the quality of mindfulness, empathy and sensitivity through improving aspects of their environment in everyday life.<br>
+c)	&nbsp;Embracing complexities, uncertainties and the inherent social dimension of the design process when exploring design opportunity vis-à-vis design ideas.<br>
+d)	&nbsp;Cultivating thinking through doodling and sketching/drawing.<br>
+e)	&nbsp;Experimenting and prototyping ideas using appropriate materials and tools.<br>
+f)	&nbsp;Building on their innate curiosity and ability to create.<br>
+g)&nbsp;	Exercising judgements and make evidence-based decisions of a technological, aesthetic and economic nature.<br>
+h)&nbsp;	Developing safe working habits.
 </ul>
 <u>Nutrition &amp; Food Science (NFS)</u>
 
 Through practical sessions, authentic coursework tasks and other learning activities, students are:
 
-<ul>a)	Leading a healthier lifestyle proactively through proper diet and nutrition.<br>
-b)	Advocating for sustainable food consumption by planning and making appropriate food choices.<br>
-c)	Applying principles of culinary science creatively in food preparation and cooking.
+<ul>a)	&nbsp;Leading a healthier lifestyle proactively through proper diet and nutrition.<br>
+b)	&nbsp;Advocating for sustainable food consumption by planning and making appropriate food choices.<br>
+c)	&nbsp;Applying principles of culinary science creatively in food preparation and cooking.
 </ul>
 
 ##### **Key Learning Experiences**&nbsp;
@@ -78,8 +78,8 @@ c)	Applying principles of culinary science creatively in food preparation and co
 Maker Education Programme <br>
 
 <ul>
-•	Design Challenge 1 (during QUEST Learning Festival)<br>
-•	Design Challenge 2 (Post-Exam activities)
+•	&nbsp;Design Challenge 1 (during QUEST Learning Festival)<br>
+•&nbsp;	Design Challenge 2 (Post-Exam activities)
 </ul>
 
 **LOWER SECONDARY**
