@@ -15,29 +15,34 @@ Develop every Queenstownian into a critical thinker, deeply rooted in our countr
 **LOWER SECONDARY**
 
 <u>Inculcating the joy of learning Humanities</u> through
-
+<ul>
 a)	Exploring the world and relevance of learning Humanities <br>
 b)	Inquiry-based Approach <br>
 c)	Experiential Learning <br>
 d)	Building 21st Century Competencies 
+</ul>
+
 
 **UPPER SECONDARY**
 
 <u>Appreciating the importance of learning Humanities</u> through
 
+<ul>
 a)	Building on the lower secondary skills <br>
 b)	Inquiry-based Approach <br>
 c)	Experiential Learning <br>
-d)	Diving deep in the thinking and approach and   &nbsp;&nbsp;&nbsp;&nbsp;exam skills in Ace-ing for Humanities 
-
+d)	Diving deep in the thinking and approach and   exam skills in Ace-ing for Humanities 
+</ul>
+	
 ##### **Key Learning Experiences**
 
 **WHOLE SCHOOL**<br>
+<ul>
 •	Local Field Studies and Learning Journeys <br>
 •	NLB Prove it! Competition <br>
 •	NLB Historical Scene Investigation Competition<br>
 •	Geography Challenge 
-
+</ul>
 
 <center>
 
