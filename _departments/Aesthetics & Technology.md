@@ -9,7 +9,9 @@ Aesthetics &amp; Technology
 
 ##### **The Quest to...**
 
+
 Develop every Queenstownian into a Passionate youth who is an Innovative, Independent and Resilient Learner.
+
 
 ##### **Key Approaches**&nbsp;
 
@@ -20,10 +22,10 @@ Develop every Queenstownian into a Passionate youth who is an Innovative, Indepe
 
 Providing our students with a balanced and well-rounded art education in the aesthetic, cognitive and affective dimensions through:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a)	&nbsp;Enjoyment of art via creative and innovative &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self-expression, and visual communication.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b)	&nbsp;Encouragement of discourse/critique of peers’ works to promote lifelong enjoyment of artistic works.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-c)	&nbsp;Fostering the understanding of national identity &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and appreciation of cultural heritage through &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the learning of local artworks and artists.
+<ul>a)	&nbsp;Enjoyment of art via creative and innovative self-expression, and visual communication.<br></ul>
+<ul>b)	&nbsp;Encouragement of discourse/critique of peers’ works to promote lifelong enjoyment of artistic works.<br></ul>
+
+<ul> c)	&nbsp;Fostering the understanding of national identity and appreciation of cultural heritage through the learning of local artworks and artists. </ul>
 
 <u>Design &amp; Technology (D &amp; T)</u>
 
@@ -41,17 +43,17 @@ Enabling our students to acquire and apply musical skills, build their knowledge
 
 Through drawing and painting activities, coursework tasks and other learning activities, students are:
 
-a)	Developing an informed awareness and appreciation of visual arts.<br>
+<ul>a)	Developing an informed awareness and appreciation of visual arts.<br>
 b)	Enhancing the ability to identify and solve problems creatively in visual and tactile forms.<br>
 c)	Developing competency in the use of art elements and design principles, materials and processes.<br>
 d)	Fostering self-confidence and a sense of achievement through the practice of visual arts.<br>
 e)	Cultivating an inquiring mind, a spirit of experimentation and a passion for the visual arts.
-
+</ul>
 <u>Design &amp; Technology (D &amp; T)</u>
 
 Through practical sessions, authentic coursework tasks and other learning activities, students are:
 
-a)	Developing confidence, pride and tenacity through exploring real-world design opportunities.<br>
+<ul>a)	Developing confidence, pride and tenacity through exploring real-world design opportunities.<br>
 b)	Developing the quality of mindfulness, empathy and sensitivity through improving aspects of their environment in everyday life.<br>
 c)	Embracing complexities, uncertainties and the inherent social dimension of the design process when exploring design opportunity vis-à-vis design ideas.<br>
 d)	Cultivating thinking through doodling and sketching/drawing.<br>
@@ -59,15 +61,15 @@ e)	Experimenting and prototyping ideas using appropriate materials and tools.<br
 f)	Building on their innate curiosity and ability to create.<br>
 g)	Exercising judgements and make evidence-based decisions of a technological, aesthetic and economic nature.<br>
 h)	Developing safe working habits.
-
+</ul>
 <u>Nutrition &amp; Food Science (NFS)</u>
 
 Through practical sessions, authentic coursework tasks and other learning activities, students are:
 
-a)	Leading a healthier lifestyle proactively through proper diet and nutrition.<br>
+<ul>a)	Leading a healthier lifestyle proactively through proper diet and nutrition.<br>
 b)	Advocating for sustainable food consumption by planning and making appropriate food choices.<br>
 c)	Applying principles of culinary science creatively in food preparation and cooking.
-
+</ul>
 
 ##### **Key Learning Experiences**&nbsp;
 
