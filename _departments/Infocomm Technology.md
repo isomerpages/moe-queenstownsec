@@ -15,32 +15,27 @@ Develop every Queenstownian into a future-ready individual who flourishes throug
 
 
 <ul>
-•	Using data-informed practices to reinvent how teachers teach and students learn <br>
-•	Leveraging on technology to provide more opportunities for students to learn independently and work collaboratively with others
-•	Leveraging on technology to build students’ ownership of their learning
+•	&nbsp;Using data-informed practices to reinvent how teachers teach and students learn <br>
+•	&nbsp;Leveraging on technology to provide more opportunities for students to learn independently and work collaboratively with others<br>
+•	&nbsp;Leveraging on technology to build students’ ownership of their learning<br>
 •	Inspiring life-long learning
 </ul>
 
-
-
-Leveraging on technology, students are given more opportunities to hone their skills to learn independently and work collaboratively with others. Technology also allows for greater students’ voice in class, with more flexibility on their learning content and learning pace. 
 ![](/images/Picture1.png)
-In small groups, students of class 4A research and choose different Pressure experiments they are keen to explore. They then collaborate within their groups to perform the experiments and explain their observations using Physics concepts learnt in class. [Padlet]
 
 ![](/images/Picture2.png)
-Ms Amanda Liu produces videos, coupled with guided worksheets, to support students to learn at their own pace outside curriculum time. [MS Teams]
 
-## National Digital Learning Programme (NDLP)
 
-Since MOE launched the National Digital Learning Programme (NDLP) in March 2020, every student in our school now owns a school-prescribed Personal Learning Device (PLD).
+##### **Key Learning Experiences** 
 
-Our Secondary One students were brimming with excitement while unboxing their new PLDs.
+**WHOLE SCHOOL**
+
+•	&nbsp;National Digital Learning Programme (NDLP): Every student owns a school-prescribed Personal Learning Device (PLD)
 
 ![](/images/Picture3.jpg)
 
-## ICT Literacy Programme@QTSS
-
-Besides providing students with the hardware, they also need to be equipped with the digital skills required in the future workplace. All our students will go through a three-year ICT Digital Literacy Programme and platforms for them to apply their skills in authentic setting.
+<br>
+•	ICT Digital Literacy Programme
 
 ![](/images/NDLP%20DL.jpg)
 In Secondary One, students learnt to use CANVA to create posters. They then apply the acquired skill to to create posters to advocate their cause for their Community Youth Leadership (CYL) Projects. (CANVA).
