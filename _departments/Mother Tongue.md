@@ -53,7 +53,7 @@ Empower every Queenstownian to embrace and speak our mother tongue language with
 •	Cultural Performance Exposure Programme
 
 
-**UPPER SECONDARY **
+**UPPER SECONDARY**
 
 •	Reading Programme<br>
 •	Idioms Competition (Internal) <br>
