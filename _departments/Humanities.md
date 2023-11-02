@@ -41,8 +41,8 @@ d)	Diving deep in the thinking and approach and   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <center>
 
-![](/images/Departments/Humanities%201.jpg)
 
+![](/images/Departments/Humanities%201.jpg)
 Sec 3 express students taking part in the ASEAN Quiz
 
 ![](/images/Departments/Humanities%202.jpg)
