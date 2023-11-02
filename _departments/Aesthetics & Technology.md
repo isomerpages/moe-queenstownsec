@@ -103,9 +103,9 @@ Maker Education Programme <br>
 •	&nbsp;Sec 3 NFS Learning Journey to Elsie’s Kitchen<br>
 •	&nbsp;Sec 4 D&amp;T Learning Journey to National Design Centre <br>
 •	&nbsp;Sec 4/5 NFS Food Presentation Workshop<br>
-•&nbsp;	Music: The Youth Station Project (SYF)<br>
+• &nbsp;	Music: The Youth Station Project (SYF)<br>
 •	&nbsp;Sec 3 D&amp;T Learning Journey to IKEA (2024)<br>
-•&nbsp;	Sec 3 D&amp;T Learning Journey to Enabling Village (2024)
+• &nbsp;	Sec 3 D&amp;T Learning Journey to Enabling Village (2024)
 </ul>
 
 ##### **Key Achievements**
