@@ -43,22 +43,23 @@ Enabling our students to acquire and apply musical skills, build their knowledge
 
 Through drawing and painting activities, coursework tasks and other learning activities, students are:
 
-<ul>a) &nbsp;Developing an informed awareness and appreciation of visual arts.<br>
-b)	&nbsp;Enhancing the ability to identify and solve problems creatively in visual and tactile forms.<br>
-c)	&nbsp;Developing competency in the use of art elements and design principles, materials and processes.<br>
-d)	&nbsp;Fostering self-confidence and a sense of achievement through the practice of visual arts.<br>
-e)	&nbsp;Cultivating an inquiring mind, a spirit of experimentation and a passion for the visual arts.
+<ul>
+a) &nbsp;Developing an informed awareness and appreciation of visual arts.<br>
+b) &nbsp;Enhancing the ability to identify and solve problems creatively in visual and tactile forms.<br>
+c) &nbsp;Developing competency in the use of art elements and design principles, materials and processes.<br>
+d) &nbsp;Fostering self-confidence and a sense of achievement through the practice of visual arts.<br>
+e) &nbsp;Cultivating an inquiring mind, a spirit of experimentation and a passion for the visual arts.
 </ul>
 <u>Design &amp; Technology (D &amp; T)</u>
 
 Through practical sessions, authentic coursework tasks and other learning activities, students are:
 
 <ul>
-a)	&nbsp;Developing confidence, pride and tenacity through exploring real-world design opportunities.<br>
-b)	&nbsp;Developing the quality of mindfulness, empathy and sensitivity through improving aspects of their environment in everyday life.<br>
-c)	&nbsp;Embracing complexities, uncertainties and the inherent social dimension of the design process when exploring design opportunity vis-à-vis design ideas.<br>
-d)	&nbsp;Cultivating thinking through doodling and sketching/drawing.<br>
-e)	&nbsp;Experimenting and prototyping ideas using appropriate materials and tools.<br>
+a) &nbsp;Developing confidence, pride and tenacity through exploring real-world design opportunities.<br>
+b) &nbsp;Developing the quality of mindfulness, empathy and sensitivity through improving aspects of their environment in everyday life.<br>
+c) &nbsp;Embracing complexities, uncertainties and the inherent social dimension of the design process when exploring design opportunity vis-à-vis design ideas.<br>
+d) &nbsp;Cultivating thinking through doodling and sketching/drawing.<br>
+e) &nbsp;Experimenting and prototyping ideas using appropriate materials and tools.<br>
 f) &nbsp;Building on their innate curiosity and ability to create.<br>
 g) &nbsp;Exercising judgements and make evidence-based decisions of a technological, aesthetic and economic nature.<br>
 h) &nbsp;Developing safe working habits.
@@ -103,9 +104,9 @@ Maker Education Programme <br>
 •	&nbsp;Sec 3 NFS Learning Journey to Elsie’s Kitchen<br>
 •	&nbsp;Sec 4 D&amp;T Learning Journey to National Design Centre <br>
 •	&nbsp;Sec 4/5 NFS Food Presentation Workshop<br>
-• &nbsp;	Music: The Youth Station Project (SYF)<br>
+• &nbsp;Music: The Youth Station Project (SYF)<br>
 •	&nbsp;Sec 3 D&amp;T Learning Journey to IKEA (2024)<br>
-• &nbsp;	Sec 3 D&amp;T Learning Journey to Enabling Village (2024)
+• &nbsp;Sec 3 D&amp;T Learning Journey to Enabling Village (2024)
 </ul>
 
 ##### **Key Achievements**
