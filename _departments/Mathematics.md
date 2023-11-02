@@ -9,10 +9,10 @@ Mathematics
 
 
 
-#### **The Quest to...**
+##### **The Quest to...**
 Develop every Queenstownian into an independent learner, and a precise and resilient thinker.
 
-#### **Key Approaches**
+##### **Key Approaches**
 
 <u>Using pedagogical practices in teaching towards Big Ideas in Mathematics:</u>
 
@@ -31,7 +31,7 @@ Develop every Queenstownian into an independent learner, and a precise and resil
 •	Using Computational Thinking to approach PRWC questions
 
 	
-#### **Key Learning Experiences**	
+##### **Key Learning Experiences**	
 	
 **WHOLE SCHOOL**
 
@@ -44,7 +44,7 @@ Develop every Queenstownian into an independent learner, and a precise and resil
 •	Sec 2: Principles of Accounts Outreach 
 	
 
-#### **Key Achievements**
+##### **Key Achievements**
 
 •	**Singapore Math Kangaroo Contest (SMKC):** 2 Silver awards, 10 Bronze awards and 2 Honourable Mentions<br>
 •	**Singapore  Asian School Math Olympiad (SASMO):** 2 Silver awards, 3 Bronze awards and 7 Honourable Mentions<br>
