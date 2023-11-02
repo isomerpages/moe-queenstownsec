@@ -103,6 +103,7 @@ Maker Education Programme <br>
 •	Sec 2 Music students: Concert (2024)
 
 **UPPER SECONDARY**<br>
+
 •	Upper Secondary Authentic Coursework Tasks (Art, D&amp;T and NFS) <br>
 •	Sec 3 Art VIA Project with Moral Welfare Home <br>
 •	Sec 3 NFS Learning Journey to Elsie’s Kitchen<br>
