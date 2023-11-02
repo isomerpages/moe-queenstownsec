@@ -7,10 +7,10 @@ Humanities
 ==========
 
 
-#### **The Quest to...** 
+##### **The Quest to...**
 Develop every Queenstownian into a critical thinker, deeply rooted in our country and heritage. 
 
-#### **Key Approaches**
+##### **Key Approaches**
 
 **LOWER SECONDARY**
 
@@ -30,7 +30,7 @@ b)	Inquiry-based Approach <br>
 c)	Experiential Learning <br>
 d)	Diving deep in the thinking and approach and   &nbsp;&nbsp;&nbsp;&nbsp;exam skills in Ace-ing for Humanities 
 
-#### **Key Learning Experiences**
+##### **Key Learning Experiences**
 
 **WHOLE SCHOOL**<br>
 •	Local Field Studies and Learning Journeys <br>
