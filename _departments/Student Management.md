@@ -47,8 +47,8 @@ Promoting a safe and conducive environment that facilitates student learning and
 **WHOLE SCHOOL**
 
 <ul>
-•	Student Management briefing at the start and end of every term<br>
-•	Educational Talks during school Assemblies by invited guests and agencies
+•	&nbsp;Student Management briefing at the start and end of every term<br>
+•	&nbsp;Educational Talks during school Assemblies by invited guests and agencies
 </ul>
 
 
@@ -60,4 +60,4 @@ Promoting a safe and conducive environment that facilitates student learning and
 •	&nbsp;Engagement by internal and external stakeholders
 </ul>
 
-<img src="/images/Departments/stumagmerge.png" style="width:90%"> 
+<img src="/images/Departments/stumagmerge.png" style="width:90%">
