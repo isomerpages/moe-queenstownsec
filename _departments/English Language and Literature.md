@@ -28,7 +28,7 @@ b)	Weaving group projects into the curriculum to provide students with the oppor
 
 <u>Amplifying student voice:</u>
 
-a)	Giving students a choice in the unit tasks they want to perform to demonstrate their learning gives students the confidence to take ownership over their own learning. 
+a)	Giving students a choice in the unit tasks they want to perform to demonstrate their learning gives students the confidence to take ownership over their own learning. <br>
 b)	Creating a safe space in the classroom and school to encourage students to form and articulate their opinions. 
 
 #### **Key Learning Experiences**
