@@ -76,9 +76,11 @@ c)	Applying principles of culinary science creatively in food preparation and co
 **WHOLE SCHOOL** 
 
 Maker Education Programme <br>
+
+<ul>
 •	Design Challenge 1 (during QUEST Learning Festival)<br>
 •	Design Challenge 2 (Post-Exam activities)
-
+</ul>
 
 **LOWER SECONDARY**
 <ul>
