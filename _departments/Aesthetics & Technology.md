@@ -84,14 +84,14 @@ Maker Education Programme <br>
 
 **LOWER SECONDARY**
 <ul>
-•	Lower Secondary EL &amp; D&amp;T Maker Education Collaboration <br>
-•	Sec 1 Aesthetics Programme: Marina Bay Sculpture Walk <br>
-•	Sec 1 FCE Coursework: Promoting Healthy Eating Habits through students learning to prepare healthy and interesting snacks through coursework activities <br>
-•	Sec 2 Aesthetics Programme: Dragon Kiln Programme <br>
-•	Sec 2 ‘Dare to Serve’ Badge Design Competition<br> 
-•	Sec 2 FCE Coursework: Promoting the learning of one’s cultural roots through cooking activities<br>
-•	Lower Sec Art Exhibition (2024) <br>
-•	Sec 2 Music students: Concert (2024)
+•	&nbsp;Lower Secondary EL &amp; D&amp;T Maker Education Collaboration <br>
+•	&nbsp;Sec 1 Aesthetics Programme: Marina Bay Sculpture Walk <br>
+•	&nbsp;Sec 1 FCE Coursework: Promoting Healthy Eating Habits through students learning to prepare healthy and interesting snacks through coursework activities <br>
+•	&nbsp;Sec 2 Aesthetics Programme: Dragon Kiln Programme <br>
+•	&nbsp;Sec 2 ‘Dare to Serve’ Badge Design Competition<br> 
+•	&nbsp;Sec 2 FCE Coursework: Promoting the learning of one’s cultural roots through cooking activities<br>
+•	&nbsp;Lower Sec Art Exhibition (2024) <br>
+•	&nbsp;Sec 2 Music students: Concert (2024)
 </ul>
 
 **UPPER SECONDARY**
