@@ -81,7 +81,7 @@ Maker Education Programme <br>
 
 
 **LOWER SECONDARY**
-
+<ul>
 •	Lower Secondary EL &amp; D&amp;T Maker Education Collaboration <br>
 •	Sec 1 Aesthetics Programme: Marina Bay Sculpture Walk <br>
 •	Sec 1 FCE Coursework: Promoting Healthy Eating Habits through students learning to prepare healthy and interesting snacks through coursework activities <br>
@@ -90,9 +90,10 @@ Maker Education Programme <br>
 •	Sec 2 FCE Coursework: Promoting the learning of one’s cultural roots through cooking activities<br>
 •	Lower Sec Art Exhibition (2024) <br>
 •	Sec 2 Music students: Concert (2024)
-
+</ul>
 **UPPER SECONDARY**<br>
-
+<br>
+<ul>
 •	Upper Secondary Authentic Coursework Tasks (Art, D&amp;T and NFS) <br>
 •	Sec 3 Art VIA Project with Moral Welfare Home <br>
 •	Sec 3 NFS Learning Journey to Elsie’s Kitchen<br>
@@ -101,10 +102,11 @@ Maker Education Programme <br>
 •	Music: The Youth Station Project (SYF)<br>
 •	Sec 3 D&amp;T Learning Journey to IKEA (2024)<br>
 •	Sec 3 D&amp;T Learning Journey to Enabling Village (2024)
-
+</ul>
 
 ##### **Key Achievements**
-* The Youth Station Project 2023: Top 10 and Honourable Mentions Songs
+<ul>
+• The Youth Station Project 2023: Top 10 and Honourable Mentions Songs
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Kindred Spirits [Queenstown Secondary School]" src="https://www.youtube.com/embed/cpcm6d3-p18?list=PLRGFo1hZVPDkepY2BDgMP4GCZUCR5_t1G" height="385" width="684"></iframe>
        
@@ -120,4 +122,4 @@ Maker Education Programme <br>
 
 <img src="/images/Departments/AT%205.jpg" style="width:45%">
 
-<img src="/images/Departments/AT%206.jpg" style="width:200%">
+<img src="/images/Departments/AT%206.jpg" style="width:200%"></ul>
