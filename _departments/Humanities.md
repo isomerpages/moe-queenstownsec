@@ -41,12 +41,12 @@ d)	Diving deep in the thinking and approach and   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <center>
 
-
-![](/images/Departments/Humanities%201.jpg)
+<img src="/images/Departments/Humanities%201.jpg" style="width:65%">
+	
 Sec 3 express students taking part in the ASEAN Quiz
 
-
-![](/images/Departments/Humanities%202.jpg)
+<img src="/images/Departments/Humanities%202.jpg" style="width:65%">
+	
 Sec 2 students with their history teacher on their learning journey
 
 <img src="/images/Departments/Humanities%203.jpg" style="width:65%">
