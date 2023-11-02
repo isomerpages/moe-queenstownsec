@@ -3,7 +3,7 @@ title: Mother Tongue
 permalink: /mother-tongue/
 description: ""
 ---
-Mother Tongue Languages
+Mother Tongue 
 =============
 
 ### **The Quest to…**
@@ -66,14 +66,4 @@ Empower every Queenstownian to embrace and speak our mother tongue language with
 
 •	Fiesta Bahasa 2023 (National) – Second Prize<br>
 •	1,2,3 Aksi Short Skit Competition (National) – Third Prize<br>
-•	Naanum Oru Padaippaali Writing Competition (National) – Shortlisted Award 
-
-
-
-
-
-
-
-
-
-
+•	Naanum Oru Padaippaali Writing Competition (National) – Shortlisted Award
