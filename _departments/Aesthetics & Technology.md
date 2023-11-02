@@ -2,6 +2,7 @@
 title: Aesthetics & Technology
 permalink: /aesthetics-technology/
 description: ""
+variant: markdown
 ---
 Aesthetics &amp; Technology
 =======================
@@ -26,7 +27,7 @@ Providing our students with a balanced and well-rounded art education in the aes
 <ul>b)	&nbsp;Encouragement of discourse/critique of peers’ works to promote lifelong enjoyment of artistic works.<br></ul>
 
 <ul> 
-<p style="text-align:;">c) &nbsp;Fostering the understanding of national identity and appreciation of cultural heritage through the learning of local artworks and artists.</p> </ul>
+<p style="text-align:right;">c) &nbsp;Fostering the understanding of national identity and appreciation of cultural heritage through the learning of local artworks and artists.</p> </ul>
 
 <u>Design &amp; Technology (D &amp; T)</u>
 
