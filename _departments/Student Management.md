@@ -60,4 +60,4 @@ Promoting a safe and conducive environment that facilitates student learning and
 •	&nbsp;Engagement by internal and external stakeholders
 </ul>
 
-![](/images/Departments/stumagmerge.png)
+<img src="/images/Departments/stumagmerge.png" style="width:90%"> 
