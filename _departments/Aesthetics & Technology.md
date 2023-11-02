@@ -100,7 +100,7 @@ Maker Education Programme <br>
 •	Sec 3 D&amp;T Learning Journey to Enabling Village (2024)
 
 
-##### **Key Achievements**&nbsp;
+##### **Key Achievements**
 * The Youth Station Project 2023: Top 10 and Honourable Mentions Songs
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Kindred Spirits [Queenstown Secondary School]" src="https://www.youtube.com/embed/cpcm6d3-p18?list=PLRGFo1hZVPDkepY2BDgMP4GCZUCR5_t1G" height="385" width="684"></iframe>
