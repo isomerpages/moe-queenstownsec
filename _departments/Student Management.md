@@ -16,7 +16,7 @@ Develop every Queenstownian into an individual with self-discipline and good cha
 
 Promoting a safe and conducive environment that facilitates student learning and well-being through a positive and proactive approach:
 
-<img src="/images/Departments/studentm1.png" style="width:90%">
+<img src="/images/Departments/Student%20Management.png" style="width:90%">
 
 <u>Promote and Prevent</u>
 
@@ -60,4 +60,3 @@ Promoting a safe and conducive environment that facilitates student learning and
 •	&nbsp;Engagement by internal and external stakeholders
 </ul>
 
-<img src="/images/Departments/stumagmerge.png" style="width:90%">
