@@ -18,11 +18,11 @@ Empower every Queenstownian to embrace and speak our mother tongue language with
 
 <u>Joyful Learner, Cultural Explorer</u><br>
 
-•	&nbsp;Discovering the uniqueness of the language and culture<br>
-•	&nbsp;Developing the language skills – listening, speaking, reading &amp; writing<br>
-•	&nbsp;Forming good habits and values<br>
-•	&nbsp;Building vocabulary<br>
-• &nbsp;Appreciating reading a range of texts
+•	&nbsp; Discovering the uniqueness of the language and culture<br>
+•	&nbsp; Developing the language skills – listening, speaking, reading &amp; writing<br>
+•	&nbsp; Forming good habits and values<br>
+•	&nbsp; Building vocabulary<br>
+• &nbsp; Appreciating reading a range of texts
 
 
 **UPPER SECONDARY**
