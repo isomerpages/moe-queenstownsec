@@ -15,12 +15,12 @@ Develop every Queenstownian into a future-ready individual who flourishes throug
 ##### **Key Approaches** 
 
 
-<ul>
+
 •	&nbsp; Using data-informed practices to reinvent how teachers teach and students learn <br>
 •	&nbsp; Leveraging on technology to provide more opportunities for students to learn independently and work collaboratively with others<br>
 •	&nbsp; Leveraging on technology to build students’ ownership of their learning<br>
 •	&nbsp; Inspiring life-long learning
-</ul>
+
 
 ![](/images/Picture1.png)
 
