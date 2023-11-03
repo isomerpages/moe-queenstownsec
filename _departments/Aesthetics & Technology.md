@@ -44,18 +44,18 @@ Enabling our students to acquire and apply musical skills, build their knowledge
 
 Through drawing and painting activities, coursework tasks and other learning activities, students are:
 
-<ul>
+
 a) &nbsp;Developing an informed awareness and appreciation of visual arts.<br>
 b) &nbsp;Enhancing the ability to identify and solve problems creatively in visual and tactile forms.<br>
 c) &nbsp;Developing competency in the use of art elements and design principles, materials and processes.<br>
 d) &nbsp;Fostering self-confidence and a sense of achievement through the practice of visual arts.<br>
 e) &nbsp;Cultivating an inquiring mind, a spirit of experimentation and a passion for the visual arts.
-</ul>
+
 <u>Design &amp; Technology (D &amp; T)</u>
 
 Through practical sessions, authentic coursework tasks and other learning activities, students are:
 
-<ul>
+
 a) &nbsp;Developing confidence, pride and tenacity through exploring real-world design opportunities.<br>
 b) &nbsp;Developing the quality of mindfulness, empathy and sensitivity through improving aspects of their environment in everyday life.<br>
 c) &nbsp;Embracing complexities, uncertainties and the inherent social dimension of the design process when exploring design opportunity vis-à-vis design ideas.<br>
@@ -64,16 +64,16 @@ e) &nbsp;Experimenting and prototyping ideas using appropriate materials and too
 f) &nbsp;Building on their innate curiosity and ability to create.<br>
 g) &nbsp;Exercising judgements and make evidence-based decisions of a technological, aesthetic and economic nature.<br>
 h) &nbsp;Developing safe working habits.
-</ul>
+
 <u>Nutrition &amp; Food Science (NFS)</u>
 
 Through practical sessions, authentic coursework tasks and other learning activities, students are:
 
-<ul>
+
 a)	&nbsp;Leading a healthier lifestyle proactively through proper diet and nutrition.<br>
 b)	&nbsp;Advocating for sustainable food consumption by planning and making appropriate food choices.<br>
 c)	&nbsp;Applying principles of culinary science creatively in food preparation and cooking.
-</ul>
+
 
 ##### **Key Learning Experiences**&nbsp;
 
@@ -81,13 +81,13 @@ c)	&nbsp;Applying principles of culinary science creatively in food preparation 
 
 Maker Education Programme <br>
 
-<ul>
+
 •	&nbsp;Design Challenge 1 (during QUEST Learning Festival)<br>
 • &nbsp;Design Challenge 2 (Post-Exam activities)
-</ul>
+
 
 **LOWER SECONDARY**
-<ul>
+
 •	&nbsp;Lower Secondary EL &amp; D&amp;T Maker Education Collaboration <br>
 •	&nbsp;Sec 1 Aesthetics Programme: Marina Bay Sculpture Walk <br>
 •	&nbsp;Sec 1 FCE Coursework: Promoting Healthy Eating Habits through students learning to prepare healthy and interesting snacks through coursework activities <br>
@@ -96,11 +96,11 @@ Maker Education Programme <br>
 •	&nbsp;Sec 2 FCE Coursework: Promoting the learning of one’s cultural roots through cooking activities<br>
 •	&nbsp;Lower Sec Art Exhibition (2024) <br>
 •	&nbsp;Sec 2 Music students: Concert (2024)
-</ul>
+
 
 **UPPER SECONDARY**
 
-<ul>
+
 •	&nbsp;Upper Secondary Authentic Coursework Tasks (Art, D&amp;T and NFS) <br>
 •	&nbsp;Sec 3 Art VIA Project with Moral Welfare Home <br>
 •	&nbsp;Sec 3 NFS Learning Journey to Elsie’s Kitchen<br>
@@ -109,10 +109,10 @@ Maker Education Programme <br>
 • &nbsp;Music: The Youth Station Project (SYF)<br>
 •	&nbsp;Sec 3 D&amp;T Learning Journey to IKEA (2024)<br>
 • &nbsp;Sec 3 D&amp;T Learning Journey to Enabling Village (2024)
-</ul>
+
 
 ##### **Key Achievements**
-<ul>
+
 • &nbsp;The Youth Station Project 2023: Top 10 and Honourable Mentions Songs
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Kindred Spirits [Queenstown Secondary School]" src="https://www.youtube.com/embed/cpcm6d3-p18?list=PLRGFo1hZVPDkepY2BDgMP4GCZUCR5_t1G" height="385" width="684"></iframe>
@@ -125,4 +125,3 @@ Maker Education Programme <br>
 	
 	
 	
-</ul>
