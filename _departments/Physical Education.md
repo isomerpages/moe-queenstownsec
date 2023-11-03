@@ -43,6 +43,5 @@ Building students’ appreciation and regular participation in recreational and 
 	
 **UPPER SECONDARY** 
 	
-<ul>
+
 •	&nbsp; Sec 3: Outward Bound Singapore (OBS) 5-Day, 4-Night Camp National Youth Achievement Award Programme
-</ul>
