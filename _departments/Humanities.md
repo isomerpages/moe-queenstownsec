@@ -2,6 +2,7 @@
 title: Humanities
 permalink: /humanities/
 description: ""
+variant: markdown
 ---
 Humanities
 ==========
@@ -15,34 +16,34 @@ Develop every Queenstownian into a critical thinker, deeply rooted in our countr
 **LOWER SECONDARY**
 
 <u>Inculcating the joy of learning Humanities</u> through
-<ul>
+
 a)	&nbsp;Exploring the world and relevance of learning Humanities <br>
 b)	&nbsp;Inquiry-based Approach <br>
 c)	&nbsp;Experiential Learning <br>
 d)	&nbsp;Building 21st Century Competencies 
-</ul>
+
 
 
 **UPPER SECONDARY**
 
 <u>Appreciating the importance of learning Humanities</u> through
 
-<ul>
+
 a)	&nbsp;Building on the lower secondary skills <br>
 b)	&nbsp;Inquiry-based Approach <br>
 c)	&nbsp;Experiential Learning <br>
 d)	&nbsp;Diving deep in the thinking and approach and   exam skills in Ace-ing for Humanities 
-</ul>
+
 	
 ##### **Key Learning Experiences**
 
 **WHOLE SCHOOL**<br>
-<ul>
+
 •	&nbsp;Local Field Studies and Learning Journeys <br>
 •&nbsp;	NLB Prove it! Competition <br>
 •&nbsp;	NLB Historical Scene Investigation Competition<br>
 •	&nbsp;Geography Challenge 
-</ul>
+
 
 <center>
 
