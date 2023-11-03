@@ -2,57 +2,62 @@
 title: English Language and Literature
 permalink: /english/
 description: ""
+variant: markdown
 ---
-
 English Language and Literature
 ===============================
 
-Aims and Objectives
--------------------
-
-#### **Lower Secondary: Building A Strong Foundation**
-
-*   Developing a love for the English Language
-*   Forming good habits – present work neatly, write in grammatical and complete sentences, read regularly
-*   Developing an inquiring mind
-*   Speaking confidently
-*   Explicit teaching of grammar
-*   Building vocabulary
-
-#### **Upper Secondary: Sharpening the Skills & Getting Ready for Exams**
-
-*   Continue to build on the foundational skills
-*   Appreciating literary texts
-*   Writing a range of expository texts
-*   Developing critical thinking skills
-*   Acquiring the necessary exam skills
-
-#### **Developing 21st Century Competencies**
-
-*   Critical and Inventive Thinking (CIT): Individually and collaboratively generates novel and useful ideas to address issues; exercises sound reasoning, and metacognition to make good decisions; and manages complexities and ambiguities.
-*   Communication, Collaboration and Information Skills (CCI): Communicates information and ideas clearly and collaborates effectively; manages, creates and shares information thoughtfully, ethically and responsibly.
-
-Special Programs
-----------------
-
-#### **Lower Secondary**
-
-*   Oral Communication Workshop
-*   Speaking Competition
-*   Read@Schools Programme (Collaboration with National Library Board)
-*   University of New South Wales (UNSW) – International Competitions and Assessments for Schools (ICAS): English
-
-#### **Upper Secondary**
-
-*   Debating Club
-*   Inter-Class Debates
-*   UNSW – ICAS: Writing
-
-#### **Whole School**
-* Reading Programme
 
 
+##### **The Quest to...**
+
+Develop every Queenstownian into a 
+respectful communicator, discerning reader and confident enquirer. 
+
+##### **Key Approaches**
+
+<u>Reading and viewing widely for leisure and learning, and to keep abreast of current affairs:</u>
 
 
-<img src="/images/Departments/English.png"  
-     style="width:65%">
+a) &nbsp; Exposing students to multimodal texts, ranging from online articles via the Quest Reads website, to print materials in the form of age-appropriate, educational magazines. <br>
+b) &nbsp; Centering units on relatable and interesting themes to provide students with the opportunities to learn about themselves and the world. <br>
+c) &nbsp; Using multimodal learning materials during lessons to encourage students to make text-to-self and self-to-world connections. 
+	
+	
+<u>Honing communication skills:</u>
+
+a) &nbsp; Students are learning how to listen attentively and speak respectfully through Talk Moves. <br>
+b) &nbsp; Weaving group projects into the curriculum to provide students with the opportunity to learn collaboratively and leverage on each other’s strengths. 
+
+	
+<u>Amplifying student voice:</u>
+
+
+a) &nbsp; Giving students a choice in the unit tasks they want to perform to demonstrate their learning gives students the confidence to take ownership over their own learning. <br>
+b) &nbsp; Creating a safe space in the classroom and school to encourage students to form and articulate their opinions. 
+
+	
+##### **Key Learning Experiences**
+
+**WHOLE SCHOOL**
+
+
+• &nbsp; Reading Programme <br>
+• &nbsp; National Schools Literature Festival <br>
+•	&nbsp; Debate Club for selected students 
+
+
+**LOWER SECONDARY**<br>
+
+•	&nbsp; Theatre exposure for Lower Secondary students 
+
+	
+	
+#### **Key Achievements**
+
+
+• &nbsp; Participation in National Secondary Schools debating championship<br>
+•	&nbsp; Participation in training workshops conducted by the National Debate Team coaches
+
+
+<img src="/images/Departments/English.png" style="width:65%">

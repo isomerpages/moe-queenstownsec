@@ -2,82 +2,65 @@
 title: Humanities
 permalink: /humanities/
 description: ""
+variant: markdown
 ---
 Humanities
 ==========
 
 
-#### **Vision** 
-Critical Thinkers, Concerned Citizens with a passion for Humanities
+##### **The Quest to...**
+Develop every Queenstownian into a critical thinker, deeply rooted in our country and heritage. 
 
-#### **Mission**
-To develop our students to be critical in thinking and be rooted to our country and heritage
+##### **Key Approaches**
 
-#### **Aims &amp; Objectives**
+**LOWER SECONDARY**
 
-1.  To develop in our students’ thinking and processing skills which are essential for lifelong and independent learning ;
+<u>Inculcating the joy of learning Humanities</u> through
 
-1.  To develop in our students into concerned and responsible citizens with a global outlook;
-
-1.  To nurture our students to understand the significance of the past in relation to their own lives, community and society, which will then provide a sound basis for further study and the pursuit of personal interests ;
-
-1.  To provide students with a holistic understanding of physical-human relationships; and
-
-1.  To develop our students into citizens who have empathy towards others and will participate responsibly and sensibly in a multi-ethnic, multi-cultural and multi-religious society.
-
------
-
-#### **Key Programmes &amp; Activities**
+a) &nbsp; Exploring the world and relevance of learning Humanities <br>
+b) &nbsp; Inquiry-based Approach <br>
+c) &nbsp; Experiential Learning <br>
+d) &nbsp; Building 21st Century Competencies 
 
 
-**Local Field Studies and Learning Journeys :**
 
-*   Examples include Geography Coastal Studies to Labrador Park&nbsp;
+**UPPER SECONDARY**
 
-**Competitions**
-
-*   NLB Prove It! Competition&nbsp;
-*   NLB Historical Scene Investigation Competition
-*   NUS Geography Challenge Competition&nbsp;
-*   Tourism Innovation Competition&nbsp;
-
-#### **Special Programmes**
+<u>Appreciating the importance of learning Humanities</u> through
 
 
-**Local Learning Journeys and Field Studies**
+a) &nbsp; Building on the lower secondary skills <br>
+b) &nbsp; Inquiry-based Approach <br>
+c) &nbsp; Experiential Learning <br>
+d) &nbsp; Diving deep in the thinking and approach and   exam skills in Ace-ing for Humanities 
 
-*   Pasir Ris Park (Geog)
-*   Chinatown / Little India / Bugis Village / Changi International Airport (Geog / CCE)
-*   National Museum, Ford Factory, Battlebox (History/CCE)
+	
+##### **Key Learning Experiences**
 
-**Overseas Learning Journeys and Field Studies**
+**WHOLE SCHOOL**<br>
 
-*   Hong Kong &nbsp;(ALP, Geog, CCE)
+•	&nbsp; Local Field Studies and Learning Journeys <br>
+• &nbsp; NLB Prove it! Competition <br>
+• &nbsp; NLB Historical Scene Investigation Competition<br>
+•	&nbsp; Geography Challenge 
 
-**Competitions and Enrichment Programmes**
-
-*   NUS Geography Challenge
-*   Queenstown Heritage Trail
-*   NLB Research Competition
 
 <center>
 
-![](/images/Departments/Humanities%201.jpg)
-
+<img src="/images/Departments/Humanities%201.jpg" style="width:65%">
+	
 Sec 3 express students taking part in the ASEAN Quiz
 
-![](/images/Departments/Humanities%202.jpg)
-
+<img src="/images/Departments/Humanities%202.jpg" style="width:65%">
+	
 Sec 2 students with their history teacher on their learning journey
 
-<img src="/images/Departments/Humanities%203.jpg"  
-     style="width:65%">
+<img src="/images/Departments/Humanities%203.jpg" style="width:65%">
 
 
 Sec 2 students with Mdm Wong outside the Battlebox Visitor Centre
 
-<img src="/images/Departments/Humanities%204.jpg"  
-     style="width:65%">
+<img src="/images/Departments/Humanities%204.jpg" style="width:65%">
 
 Sec 1 geography students honing their sketching skills at the field site in Lorong Halus
 
