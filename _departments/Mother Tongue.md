@@ -30,12 +30,12 @@ Empower every Queenstownian to embrace and speak our mother tongue language with
 <u>Proficient Users, Cultural Ambassador </u><br>
 
 
-•	&nbsp;Developing a stronger cultural identity that is uniquely Singaporean<br>
-•	&nbsp;Upholding and promoting the language and culture <br>
-•	&nbsp;Developing critical thinking skills with strong values as the foundation<br>
-•	&nbsp;Speaking and writing with confidence<br>
-•	&nbsp;Appreciating literary texts<br>
-•	&nbsp;Analysing problems and generating solutions to meet different needs
+•	&nbsp; Developing a stronger cultural identity that is uniquely Singaporean<br>
+•	&nbsp; Upholding and promoting the language and culture <br>
+•	&nbsp; Developing critical thinking skills with strong values as the foundation<br>
+•	&nbsp; Speaking and writing with confidence<br>
+•	&nbsp; Appreciating literary texts<br>
+•	&nbsp; Analysing problems and generating solutions to meet different needs
 
 
 ### **Key Learning Experiences**
