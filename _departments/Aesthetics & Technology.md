@@ -26,7 +26,7 @@ Providing our students with a balanced and well-rounded art education in the aes
 <ul>
 a) &nbsp;Enjoyment of art via creative and innovative self-expression, and visual communication.<br>
 b) &nbsp;Encouragement of discourse/critique of peers’ works to promote lifelong enjoyment of artistic works.<br>
-c) &nbsp;Fostering the understanding of national identity and appreciation of cultural heritage through the learning of local artworks and artists. </ul>
+c) &nbsp;Fostering the understanding of national identity and appreciation of cultural heritage through the learning of local &nbsp;&nbsp;&nbsp;artworks and artists. </ul>
 
 <u>Design &amp; Technology (D &amp; T)</u>
 
