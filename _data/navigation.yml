@@ -28,10 +28,10 @@ links:
         url: /science/
       - title: Infocomm Technology
         url: /it-mrl/
-      - title: Student Development
-        url: /student-development/
       - title: Student Management
         url: /discipline/
+      - title: Student Development
+        url: /student-development/
   - title: CCA
     collection: cca
   - title: Programmes
