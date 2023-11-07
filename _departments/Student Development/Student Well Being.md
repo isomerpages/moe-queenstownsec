@@ -57,10 +57,10 @@ In QTSS, we place the well-being of our students at the centre and focus on 4 di
 **•	School Counselling:** <br>
 Counselling is a collaborative process in which the school counsellors facilitate the expansion of the student’s view of life, enlarge his/her repertoire of coping resources and enable him/her to make choices for change in himself/herself, the situation and the environment, without destructive consequences to self or others. Students who experience difficulties in issues such as academic stress, anxiety, peer or family relationships may be referred for counselling support. 
 
-**•	Student Welfare:**
+**•	Student Welfare:** <br>
 Introduced in 2015, Student Welfare Officers (SWOs) support vulnerable students whose schooling is affected by disadvantaged backgrounds. SWOs reach out to students who are irregular in school and help to reintegrate chronic absentees back to school. Community resources are often mobilised to mitigate the risks and support the needs of the students and their families.
 
-**•	Special Educational Needs:**
+**•	Special Educational Needs:** <br>
 Special Educational Needs Officers (SENO) support students with special educational needs (SEN). They provide targeted learning and behaviour support through individual or small group intervention and/or skills training and/or in-class support based on the needs of students with SEN. Their support is invaluable in enabling students to achieve their goals. In addition, they reach out to families of students with SEN to build home-school partnerships and strengthen the support for students. 
 
 
