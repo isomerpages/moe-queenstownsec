@@ -45,6 +45,21 @@ The programmes are conducted in partnership with multiple in-house and industria
 •	Work Shadowing <br>
 •	Consultations with Education and Career Guidance Counsellor
 
+![](/images/ecg111.jpg)
+
+
+##### **Useful links**
+•	Overview of Education and Career Guidance | MOE
+•	https://www.myskillsfuture.gov.sg/content/student/en/secondary.html
+•	Joint Admissions Exercise (JAE) | MOE
+•	2024-jae-worksheet.pdf (moe.gov.sg)
+•	SchoolFinder | MOE
+•	CourseFinder | MOE
+
+Get in contact with our ECGC at:
+•	https://go.gov.sg/qtss-ecg 
+
+
 
 
 
