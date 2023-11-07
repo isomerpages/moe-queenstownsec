@@ -7,3 +7,40 @@ third_nav_title: Student Development
 ---
 Education and Career Guidance
 ===========================
+
+
+##### **The Quest to...**
+
+Develop every Queenstownian's sense of identity and purpose through the acquisition of necessary knowledge, skills and competencies to make well-informed decisions in planning their journey for potential careers.
+
+
+##### **Key Approaches**
+
+The Education and Career programmes, in tandem with the other school programmes, bring Queenstownians on a quest to discover their strengths as well as their interests, and how these can potentially allow them to carve out a profession. Queenstownians are provided with ample time and opportunity to establish their sense of identity and purpose, and are gradually introduced to the different work opportunities in order for them to make well-informed post-secondary choices that lead to their desired career paths. 
+
+More importantly, staying true to our motto, Berani Berkhidmat - Dare to Serve, and weaving in the Japanese concept of Ikigai, Queenstownians will discover the diverse needs in the world and understand how their strengths and interests can be meaningfully developed in professions to address these needs, therein imbuing in them a greater sense of meaning and purpose.
+
+Through all these experiences, Queenstownians are armed with the mindset and ability to adapt and re-invent the role that they play in this ever-changing world to remain relevant and be able to work with others from different socio-cultural groups, a key attribute in today’s highly connected world.
+
+
+In summary, the ECG programmes look at:
+
+•	Enhancing students’ awareness of their strengths, interests, and talents <br>
+•	Imbuing students’ a sense of purpose in their life for lifelong learning <br>
+•	Instilling career awareness, appreciation, and preparing students for different post-secondary education and career options <br><br>
+The programmes are conducted in partnership with multiple in-house and industrial partners
+
+##### **Key Learning Experiences**
+
+**WHOLE SCHOOL** <br>
+•	Classroom Discussions: Discover global and regional developments as well as the near-term and long-term education and career implications <br>
+•	Self-discovery: Various profiling tools <br>
+•	Exploration of the different worlds through sharing by industrial professionals and alumni
+
+
+
+
+
+
+
+
