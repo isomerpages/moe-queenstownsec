@@ -2,11 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Student Development/Student Support.md
-      - Student Development/Student Well Being.md
-      - Student Development/Education & Career Guidance (ECG).md
-      - Student Development/Character & Citizenship Development (CCE).md
-      - Student Development/.keep
       - Aesthetics & Technology.md
       - English Language and Literature.md
       - Humanities.md
@@ -15,4 +10,9 @@ collections:
       - Physical Education.md
       - Science.md
       - Infocomm Technology.md
+      - Student Development/.keep
+      - Student Development/Student Support.md
+      - Student Development/Student Well Being.md
+      - Student Development/Education & Career Guidance (ECG).md
+      - Student Development/Character & Citizenship Development (CCE).md
       - Student Management.md
