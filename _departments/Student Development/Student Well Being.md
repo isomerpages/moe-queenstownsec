@@ -67,6 +67,4 @@ Special Educational Needs Officers (SENO) support students with special educatio
 
 <img src="/images/swbmerge2.png" style="width:90%">
 
-
-
-
+![](/images/swbgrad.png)
