@@ -1,7 +1,10 @@
 ---
 title: Character & Citizenship Development (CCE)
 permalink: /student-development/cce/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Student Development
 ---
+Character & Citizenship Education (CCE)
+===========================
+
