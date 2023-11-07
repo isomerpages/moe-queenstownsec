@@ -2,8 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Student Development/About.md
-      - Student Development/.keep
       - Aesthetics & Technology.md
       - English Language and Literature.md
       - Humanities.md
@@ -12,4 +10,6 @@ collections:
       - Physical Education.md
       - Science.md
       - Infocomm Technology.md
+      - Student Development/.keep
+      - Student Development/About.md
       - Student Management.md
