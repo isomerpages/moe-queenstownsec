@@ -28,6 +28,29 @@ Through the different content areas in the CCE curriculum, Queenstownians go thr
 True to our philosophy, where the unique worth of every individual is cherished, and the symbiotic relation between him/her and society is recognised, we place much emphasis on the involvement of every Queenstownian in their own development and influence on others:
 
 •	Students are strongly encouraged to contribute their voices in classroom discussions as well as other areas 
+where they are able to apply what they learnt during CCE. 
+•	Positive relationships between them and their peers and staff are also nurtured and sustained, which goes a long way in helping our Queenstownians internalise the multiple facets of their Character and Citizenship Education.
 
 
+<u>Student-centric Programmes </u><br>
+•	Equipping students with the necessary head knowledge regarding values, skills and competencies to become a better version of themselves <br>
+•	Providing students with safe and authentic learning experiences to make sense of the world around them and apply their knowledge <br>
+•	Giving students the opportunities to internalize their learning
+
+
+The programmes are conducted in partnership with the other stakeholders in and outside of school, to enable  Queenstownians to enjoy a positive and meaningful relationship with others in the community.
+
+
+##### **Key Learning Experiences**
+
+**WHOLE SCHOOL**<br>
+•	Discussion of Contemporary Issues<br>
+•	Classroom CCE Lessons<br>
+•	Commemorative Events: Total Defence Day; International Friendship Day; Racial Harmony Day; National Day<br>
+•	Learning Journeys<br>
+•	Peer Support Skills<br>
+•	Student Leadership Development 
+
+**TARGETED SUPPORT** <br>
+•	Student Leadership Development (Tier 2 &amp; 3) Programmes
 
