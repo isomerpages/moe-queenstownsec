@@ -49,7 +49,7 @@ The programmes are conducted in partnership with multiple in-house and industria
 
 
 ##### **Useful links**
-•	[Overview of Education and Career Guidance | MOE] (https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview)<br>
+•	[Overview of Education and Career Guidance | MOE](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview)<br>
 •	[https://www.myskillsfuture.gov.sg/content/student/en/secondary.html]()<br>
 •	[Joint Admissions Exercise (JAE) | MOE](https://www.moe.gov.sg/post-secondary/admissions/jae) <br>
 • [2024-jae-worksheet.pdf (moe.gov.sg)]()<br>
