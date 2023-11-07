@@ -45,8 +45,8 @@ The programmes are conducted in partnership with multiple in-house and industria
 •	Work Shadowing <br>
 •	Consultations with Education and Career Guidance Counsellor
 
-![](/images/ecg111.jpg)
 
+<img src="/images/ecg111.png" style="width:90%">
 
 ##### **Useful links**
 •	[Overview of Education and Career Guidance | MOE](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview)<br>
@@ -57,12 +57,4 @@ The programmes are conducted in partnership with multiple in-house and industria
 •	[CourseFinder | MOE](https://www.moe.gov.sg/coursefinder)<br>
 
 Get in contact with our ECGC at:<br>
-•	[https://go.gov.sg/qtss-ecg]() 
-
-
-
-
-
-
-
-
+•	[https://go.gov.sg/qtss-ecg]()
