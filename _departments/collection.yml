@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Student Development.md
-      - Student Development/.keep
       - Aesthetics & Technology.md
       - English Language and Literature.md
       - Humanities.md
