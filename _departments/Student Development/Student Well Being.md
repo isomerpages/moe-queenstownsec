@@ -15,7 +15,8 @@ Develop every Queenstownian into growing and flourishing learners.
 
 ##### **Key Approaches**
 
-![](/images/swb111.png)
+<img src="/images/swb111.png" style="width:70%">
+
 
 In QTSS, we place the well-being of our students at the centre and focus on 4 different domains in the Student Well-Being framework to support our students and help them grow and flourish in school.
 
@@ -63,8 +64,8 @@ Introduced in 2015, Student Welfare Officers (SWOs) support vulnerable students 
 **•	Special Educational Needs:** <br>
 Special Educational Needs Officers (SENO) support students with special educational needs (SEN). They provide targeted learning and behaviour support through individual or small group intervention and/or skills training and/or in-class support based on the needs of students with SEN. Their support is invaluable in enabling students to achieve their goals. In addition, they reach out to families of students with SEN to build home-school partnerships and strengthen the support for students.
 
-![](/images/swbmerge.png)<br>
+<img src="/swbmerge.png" style="width:70%"> <br>
 
 <img src="/images/swbmerge2.png" style="width:90%">
 
-![](/images/swbgrad.png)
+<img src="/images/swbgrad.png" style="width:90%">
