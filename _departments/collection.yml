@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Test/.keep
       - Student Development.md
       - Aesthetics & Technology.md
       - English Language and Literature.md
