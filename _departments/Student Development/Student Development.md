@@ -25,9 +25,3 @@ Develop every Queenstownian into having a sense of belonging and forging positiv
 * Character &amp; Citizenship Development (CCE)
 * Education &amp; Career Guidance (ECG)
 * Student Well-Being
-* Student Support
-
-
-
-
-
