@@ -32,7 +32,7 @@ where they are able to apply what they learnt during CCE.
 •	Positive relationships between them and their peers and staff are also nurtured and sustained, which goes a long way in helping our Queenstownians internalise the multiple facets of their Character and Citizenship Education.
 
 
-<u>Student-centric Programmes </u><br>
+**<u>Student-centric Programmes </u>**<br>
 •	Equipping students with the necessary head knowledge regarding values, skills and competencies to become a better version of themselves <br>
 •	Providing students with safe and authentic learning experiences to make sense of the world around them and apply their knowledge <br>
 •	Giving students the opportunities to internalize their learning
@@ -55,7 +55,7 @@ The programmes are conducted in partnership with the other stakeholders in and o
 •	Student Leadership Development (Tier 2 &amp; 3) Programmes
 
 
-<u>**Student Leadership**</u> <br>
+**<u>Student Leadership</u>** <br>
 Anchored in the belief that every learner can be a leader and should be a leader, the Student Leadership Development programme in QTSS constantly seeks to provide opportunities where Queenstownians hone their self-mastery in leadership qualities, with the eventual goal of addressing society’s current and future needs.
 Learners who demonstrate competency in self-mastery, with an inclination towards peer influence and community leadership, are identified and provided with training opportunities to develop and hone peer leadership skills. This takes the form of mentoring by teacher-mentors, workshops as well as platforms to interact and network with student leaders from other schools in a bid to develop our student leaders into “Ready supporters with courage”. On top of that, to realise the outcome of “Visionary Advocators with wisdom”, selected student leaders are presented with opportunities to conceptualise, plan and execute cohort to school-wide events such as CYL activities, Orientation Camp, Youth Day, Teachers’ Day, and being advocators of students’ voice.
 The Student Leadership Development Programme in QTSS aspires to equip all our learners with the skills and knowledge to continue soaring high and help others soar in the face of challenges posed by the unknown future.
@@ -66,6 +66,3 @@ Recognising the role that quality relationships plays in ensuring the readiness 
 While all Queenstownians play a part in providing basic peer support to one another, those who are deemed to demonstrate a stronger disposition in showing empathy and caring for others are identified and trained with additional knowledge and skills to effect the 3 domains of peer support. This group of Queenstownians will be charged with being the champions of strengthening the caring culture in QTSS, and influencing their peers and juniors to promote positive mindset and mental well-being both online and offline. A safe and caring community where every Queenstownian feels accepted and supported, is one where Queenstownians will then flourish and grow to be future-ready.
 
 ![](/images/cce222.png)
-
-
-
