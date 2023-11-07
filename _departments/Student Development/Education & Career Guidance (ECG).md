@@ -49,15 +49,15 @@ The programmes are conducted in partnership with multiple in-house and industria
 
 
 ##### **Useful links**
-•	Overview of Education and Career Guidance | MOE
-•	https://www.myskillsfuture.gov.sg/content/student/en/secondary.html
-•	Joint Admissions Exercise (JAE) | MOE
-•	2024-jae-worksheet.pdf (moe.gov.sg)
-•	SchoolFinder | MOE
-•	CourseFinder | MOE
+•	[Overview of Education and Career Guidance | MOE] (https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview)<br>
+•	[https://www.myskillsfuture.gov.sg/content/student/en/secondary.html]()<br>
+•	[Joint Admissions Exercise (JAE) | MOE](https://www.moe.gov.sg/post-secondary/admissions/jae) <br>
+• [2024-jae-worksheet.pdf (moe.gov.sg)]()<br>
+•	[SchoolFinder | MOE](https://www.moe.gov.sg/schoolfinder?journey=Post%20secondary-JC%20school)<br>
+•	[CourseFinder | MOE](https://www.moe.gov.sg/coursefinder)<br>
 
-Get in contact with our ECGC at:
-•	https://go.gov.sg/qtss-ecg 
+Get in contact with our ECGC at:<br>
+•	[https://go.gov.sg/qtss-ecg]() 
 
 
 
