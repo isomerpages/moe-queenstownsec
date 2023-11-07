@@ -54,3 +54,18 @@ The programmes are conducted in partnership with the other stakeholders in and o
 **TARGETED SUPPORT** <br>
 •	Student Leadership Development (Tier 2 &amp; 3) Programmes
 
+
+<u>**Student Leadership**</u> <br>
+Anchored in the belief that every learner can be a leader and should be a leader, the Student Leadership Development programme in QTSS constantly seeks to provide opportunities where Queenstownians hone their self-mastery in leadership qualities, with the eventual goal of addressing society’s current and future needs.
+Learners who demonstrate competency in self-mastery, with an inclination towards peer influence and community leadership, are identified and provided with training opportunities to develop and hone peer leadership skills. This takes the form of mentoring by teacher-mentors, workshops as well as platforms to interact and network with student leaders from other schools in a bid to develop our student leaders into “Ready supporters with courage”. On top of that, to realise the outcome of “Visionary Advocators with wisdom”, selected student leaders are presented with opportunities to conceptualise, plan and execute cohort to school-wide events such as CYL activities, Orientation Camp, Youth Day, Teachers’ Day, and being advocators of students’ voice.
+The Student Leadership Development Programme in QTSS aspires to equip all our learners with the skills and knowledge to continue soaring high and help others soar in the face of challenges posed by the unknown future.
+
+
+<u>**Peer Support &amp; Relations**</u><br>
+Recognising the role that quality relationships plays in ensuring the readiness of our Queenstownians to learn and grow, QTSS invests significant resources in strengthening the Peer Support Programmes. Queenstownians are equipped with knowledge in the 3 domains of peer support – Peer Bonding, Peer Helping and Peer Influencing – and opportunities are provided to allow for the development of positive relationships between the peers. The presence of positive relationships creates a strong culture of care which ensures that Queenstownians feel a greater sense of belonging and therein being more resilient in navigating the challenges.
+While all Queenstownians play a part in providing basic peer support to one another, those who are deemed to demonstrate a stronger disposition in showing empathy and caring for others are identified and trained with additional knowledge and skills to effect the 3 domains of peer support. This group of Queenstownians will be charged with being the champions of strengthening the caring culture in QTSS, and influencing their peers and juniors to promote positive mindset and mental well-being both online and offline. A safe and caring community where every Queenstownian feels accepted and supported, is one where Queenstownians will then flourish and grow to be future-ready.
+
+![](/images/cce222.png)
+
+
+
