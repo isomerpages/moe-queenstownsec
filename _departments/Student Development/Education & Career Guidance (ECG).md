@@ -46,7 +46,7 @@ The programmes are conducted in partnership with multiple in-house and industria
 •	Consultations with Education and Career Guidance Counsellor
 
 
-<img src="/images/ecg1111.jpg" style="width:80%">
+<img src="/images/ecg1111.jpg" style="width:65%">
 
 ##### **Useful links**
 •	[Overview of Education and Career Guidance | MOE](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview)<br>
