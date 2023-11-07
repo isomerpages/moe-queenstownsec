@@ -17,7 +17,7 @@ Character &amp; Citizenship Education (CCE)
 ##### **Key Approaches**
 
 
-<img src="/images/cce image 1.png" style="width:70%">
+<img src="/images/ccekey.png" style="width:60%">
 
 
 The Character &amp; Citizenship Education (CCE) programmes in QTSS emphasises on the school’s core values and aims to strengthen the competencies of Queenstownians so that they will be able to make sound decisions, therein fostering meaningful and positive relationship with others, and making a positive impact to the community around them.
