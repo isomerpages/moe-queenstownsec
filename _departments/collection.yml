@@ -2,8 +2,8 @@ collections:
   departments:
     output: true
     order:
-      - Test 2/Character & Citizenship Development (CCE).md
-      - Test 2/.keep
+      - Student Development/Character & Citizenship Development (CCE).md
+      - Student Development/.keep
       - Aesthetics & Technology.md
       - English Language and Literature.md
       - Humanities.md
