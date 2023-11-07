@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
-      - About/Student Development.md
+      - About/About.md
       - About/.keep
       - Aesthetics & Technology.md
       - English Language and Literature.md
