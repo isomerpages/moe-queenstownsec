@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Student Development/Student Well Being.md
       - Student Development/Education & Career Guidance (ECG).md
       - Student Development/Character & Citizenship Development (CCE).md
       - Student Development/.keep
