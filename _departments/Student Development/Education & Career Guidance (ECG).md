@@ -35,8 +35,15 @@ The programmes are conducted in partnership with multiple in-house and industria
 **WHOLE SCHOOL** <br>
 •	Classroom Discussions: Discover global and regional developments as well as the near-term and long-term education and career implications <br>
 •	Self-discovery: Various profiling tools <br>
-•	Exploration of the different worlds through sharing by industrial professionals and alumni
+•	Exploration of the different worlds through sharing by industrial professionals and alumni <br>
+•	Applied Learning Modules: Authentic and experiential learning <br>
 
+**TARGETED SUPPORT** <br>
+
+•	Mentorship <br>
+•	Learning Journeys with Industrial Partners <br>
+•	Work Shadowing <br>
+•	Consultations with Education and Career Guidance Counsellor
 
 
 
