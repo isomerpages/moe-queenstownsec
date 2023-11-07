@@ -61,18 +61,6 @@ Counselling is a collaborative process in which the school counsellors facilitat
 Introduced in 2015, Student Welfare Officers (SWOs) support vulnerable students whose schooling is affected by disadvantaged backgrounds. SWOs reach out to students who are irregular in school and help to reintegrate chronic absentees back to school. Community resources are often mobilised to mitigate the risks and support the needs of the students and their families.
 
 **•	Special Educational Needs:** <br>
-Special Educational Needs Officers (SENO) support students with special educational needs (SEN). They provide targeted learning and behaviour support through individual or small group intervention and/or skills training and/or in-class support based on the needs of students with SEN. Their support is invaluable in enabling students to achieve their goals. In addition, they reach out to families of students with SEN to build home-school partnerships and strengthen the support for students. 
-
-
-
-
-
-
-
-
-
-
-
-
+Special Educational Needs Officers (SENO) support students with special educational needs (SEN). They provide targeted learning and behaviour support through individual or small group intervention and/or skills training and/or in-class support based on the needs of students with SEN. Their support is invaluable in enabling students to achieve their goals. In addition, they reach out to families of students with SEN to build home-school partnerships and strengthen the support for students.
 
 
