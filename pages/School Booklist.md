@@ -2,6 +2,7 @@
 title: School Booklist
 permalink: /parent-links/school-booklist/
 description: ""
+variant: markdown
 ---
 School Booklist
 ===============
@@ -30,7 +31,7 @@ Please note that **Sec 1** Book list 2024 is not out yet.
 
 #### Secondary 5
 
-- [Sec 5 NA](/files/QTSS%20S5NA.pdf)
+- [Sec 5 NA](/files/qtss%202024%20s5%20na_.pdf)
 
 
 -------------------
