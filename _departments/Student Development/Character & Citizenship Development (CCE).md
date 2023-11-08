@@ -46,7 +46,8 @@ True to our philosophy, where the unique worth of every individual is cherished,
 where they are able to apply what they learnt during CCE. 
 		</li><li> Positive relationships between them and their peers and staff are also nurtured and sustained, which goes a long way in helping our Queenstownians internalise the multiple facets of their Character and Citizenship Education.
 				
-</li></ul>
+</li>
+</ul>
 		
 
 
