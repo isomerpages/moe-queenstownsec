@@ -77,10 +77,10 @@ In QTSS, we place the well-being of our students at the centre and focus on 4 di
 <ul>
 	
 
-<li><strong>School Counseling:</strong>
+<li><strong>School Counselling:</strong>
 Counselling is a collaborative process in which the school counsellors facilitate the expansion of the student’s view of life, enlarge his/her repertoire of coping resources and enable him/her to make choices for change in himself/herself, the situation and the environment, without destructive consequences to self or others. Students who experience difficulties in issues such as academic stress, anxiety, peer or family relationships may be referred for counselling support. 
 
-</li><li><strong>Student Welfare</strong>
+</li><li><strong>Student Welfare:</strong>
 Introduced in 2015, Student Welfare Officers (SWOs) support vulnerable students whose schooling is affected by disadvantaged backgrounds. SWOs reach out to students who are irregular in school and help to reintegrate chronic absentees back to school. Community resources are often mobilised to mitigate the risks and support the needs of the students and their families.
 
 </li><li><strong>Special Educational Needs</strong>
