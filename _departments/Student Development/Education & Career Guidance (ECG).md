@@ -24,26 +24,34 @@ Through all these experiences, Queenstownians are armed with the mindset and abi
 
 
 In summary, the ECG programmes look at:
+<ul>
+<li> Enhancing students’ awareness of their strengths, interests, and talents <br>
+</li><li> Imbuing students’ a sense of purpose in their life for lifelong learning <br>
+</li><li> Instilling career awareness, appreciation, and preparing students for different post-secondary education and career options <br>
+</li></ul>
 
-•	Enhancing students’ awareness of their strengths, interests, and talents <br>
-•	Imbuing students’ a sense of purpose in their life for lifelong learning <br>
-•	Instilling career awareness, appreciation, and preparing students for different post-secondary education and career options <br><br>
+
 The programmes are conducted in partnership with multiple in-house and industrial partners
 
+	
 ##### **Key Learning Experiences**
 
-**WHOLE SCHOOL** <br>
-•	Classroom Discussions: Discover global and regional developments as well as the near-term and long-term education and career implications <br>
-•	Self-discovery: Various profiling tools <br>
-•	Exploration of the different worlds through sharing by industrial professionals and alumni <br>
-•	Applied Learning Modules: Authentic and experiential learning <br>
+**WHOLE SCHOOL**
+<ul>
+<li>Classroom Discussions: Discover global and regional developments as well as the near-term and long-term education and career implications <br>
+</li><li>Self-discovery: Various profiling tools <br>
+</li><li>Exploration of the different worlds through sharing by industrial professionals and alumni <br>
+</li><li>Applied Learning Modules: Authentic and experiential learning <br>
+</li></ul>
 
-**TARGETED SUPPORT** <br>
 
-•	Mentorship <br>
-•	Learning Journeys with Industrial Partners <br>
-•	Work Shadowing <br>
-•	Consultations with Education and Career Guidance Counsellor
+**TARGETED SUPPORT**
+<ul>
+<li>	Mentorship <br>
+</li><li>	Learning Journeys with Industrial Partners <br>
+</li><li>	Work Shadowing <br>
+</li><li>	Consultations with Education and Career Guidance Counsellor
+</li></ul>
 
 
 <img src="/images/ecg1111.jpg" style="width:65%">
