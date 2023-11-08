@@ -70,7 +70,7 @@ The programmes are conducted in partnership with the other stakeholders in and o
 </li><li>Classroom CCE Lesson
 </li><li>Commemorative Events: Total Defence Day; International Friendship Day; Racial Harmony Day; National Day
 </li><li>Learning Journeys
-</li><li><a href="https://www.queenstownsec.moe.edu.sg/student-development/cce/#test">Peer Support Skills</a>
+</li><li><a href="#test">Peer Support Skills</a>
 </li><li>Student Leadership Development 
 
 </li></ul>
