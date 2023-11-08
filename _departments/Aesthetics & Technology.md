@@ -57,7 +57,11 @@ e) &nbsp; Cultivating an inquiring mind, a spirit of experimentation and a passi
 
 Through practical sessions, authentic coursework tasks and other learning activities, students are:
 
-
+<ol>  
+&nbsp;&nbsp;<li>Coffee</li>  
+&nbsp;&nbsp;<li>Tea</li>  
+&nbsp;&nbsp;<li>Milk</li>  
+</ol>
 a) &nbsp; Developing confidence, pride and tenacity through exploring real-world design opportunities.<br>
 b) &nbsp; Developing the quality of mindfulness, empathy and sensitivity through improving aspects of their environment in everyday life.<br>
 c) &nbsp; Embracing complexities, uncertainties and the inherent social dimension of the design process when exploring design opportunity vis-à-vis design ideas.<br>
