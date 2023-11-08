@@ -57,7 +57,7 @@ e) &nbsp; Cultivating an inquiring mind, a spirit of experimentation and a passi
 
 Through practical sessions, authentic coursework tasks and other learning activities, students are:
 
-<ol type="a">  
+<ol style="{type=&quot;a&quot;}">  
 &nbsp;&nbsp;<li>Coffee</li>  
 &nbsp;&nbsp;<li>Tea</li>  
 &nbsp;&nbsp;<li>Milk</li>  
