@@ -24,7 +24,8 @@ In QTSS, we place the well-being of our students at the centre and focus on 4 di
 <ul>
 <li>	Class Mentor Contact Time (CMCT) provide the platform for CMs to conduct school-based programmes, for e.g. Growth Mindset and just-in-time well-being packages <br>
 </li><li>	Start Right and Finish Strong Programmes are facilitated at the start and end of each term to help students set goals and review their progress
-</li></ul>
+</li>
+</ul>
 
 
 **<u>Supportive Social and Physical Environment</u>**
@@ -32,28 +33,37 @@ In QTSS, we place the well-being of our students at the centre and focus on 4 di
 <li>	Regular Quest Check-ins are conducted to build positive Teacher-Student Relationship (TSR) <br>
 </li><li>	Student surveys, for e.g. well-being and check -in surveys and social network analysis, are administered regularly to understand the needs and emotional state of students as well as understand peer relationships within the class  <br>
 </li><li>	Class of Excellence (COE) Challenge helps to nurture a positive class culture for learning and affirm classes which have performed well. 
-</li></ul>
+</li>
+</ul>
 
 
 **<u>Student Voice and Choice</u>**
+
 <ul>
 	
-<li>	Students are active participants in their own learning and well-being <br>
-</li><li>	[Student Voice](https://www.queenstownsec.moe.edu.sg/student-voices/) is a digital platform to encourage student voice for school matters and helping them feel connected and valued in the school
-</li></ul>
+<li>Students are active participants in their own learning and well-being <br>
+</li><li>[Student Voice](https://www.queenstownsec.moe.edu.sg/student-voices/) is a digital platform to encourage student voice for school matters and helping them feel connected and valued in the school
+	
+</li>
+</ul>
 	
 **<u>Effective Partnership</u>**
+
 <ul>
+	
 <li>	Families and communities collaborate as partners with the school to support student learning, safety and well-being <br>
 </li><li>	Parent Engagement sessions and Parent-Teacher Meetings are organised to communicate level outcomes and focus at each level  and to inform parents of the academic progress of students<br>
 </li><li>	The school also leverages on external agencies e.g. Family Service Centres to complement school’s support for students
-</li></ul>
+</li>
+</ul>
 
 
 ##### **Key Learning Experiences**
 
 **WHOLE SCHOOL**
+
 <ul>
+	
 <li>	Quest Check-ins 
 </li><li>	Start Right and Finish Strong Programmes
 </li><li>	School-based Programmes, for e.g. Growth Mindset and just-in-time well-being packages. 
@@ -66,7 +76,7 @@ In QTSS, we place the well-being of our students at the centre and focus on 4 di
 
 <ul>
 	
-**<li>School Counselling:** 
+<li>**School Counselling:** 
 Counselling is a collaborative process in which the school counsellors facilitate the expansion of the student’s view of life, enlarge his/her repertoire of coping resources and enable him/her to make choices for change in himself/herself, the situation and the environment, without destructive consequences to self or others. Students who experience difficulties in issues such as academic stress, anxiety, peer or family relationships may be referred for counselling support. 
 
 **</li><li>Student Welfare:**
