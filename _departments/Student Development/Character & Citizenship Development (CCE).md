@@ -65,9 +65,9 @@ The programmes are conducted in partnership with the other stakeholders in and o
 **WHOLE SCHOOL**<br>
 
 <ul>
-<li>Discussion of Contemporary Issues<br>
-</li><li>Classroom CCE Lessons<br>
-</li><li>Commemorative Events: Total Defence Day; International Friendship Day; Racial Harmony Day; National Day<br>
+<li>Discussion of Contemporary Issues
+</li><li>Classroom CCE Lesson
+</li><li>Commemorative Events: Total Defence Day; International Friendship Day; Racial Harmony Day; National Day
 </li><li>Learning Journeys<br>
 </li><li>Peer Support Skills<br>
 </li><li>Student Leadership Development 
@@ -76,7 +76,9 @@ The programmes are conducted in partnership with the other stakeholders in and o
 
 
 **TARGETED SUPPORT** <br>
-•	Student Leadership Development (Tier 2 &amp; 3) Programmes
+<ul>
+<li>Student Leadership Development (Tier 2 &amp; 3) Programmes
+</li></ul>
 
 
 **<u>Student Leadership</u>** <br>
