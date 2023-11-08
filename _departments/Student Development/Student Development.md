@@ -26,6 +26,8 @@ Develop every Queenstownian into having a sense of belonging and forging positiv
 	
 ##### **Key Learning Experiences**
 	
-• Character &amp; Citizenship Development (CCE)<br>
-• Education &amp; Career Guidance (ECG) <br>
-• Student Well-Being
+<ul>	
+<li>Character &amp; Citizenship Development (CCE)<br>
+</li><li>Education &amp; Career Guidance (ECG) <br>
+</li><li> Student Well-Being
+<ul></ul></li></ul>
