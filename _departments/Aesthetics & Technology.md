@@ -30,6 +30,7 @@ c) Fostering the understanding of national identity and appreciation of cultural
 </ul>
 
 
+
 <u>Design &amp; Technology (D &amp; T)</u>
 
 Building on students’ innate ability to sketch and construct and grow their confidence to use these abilities to create and innovate via authentic coursework learning tasks with the practice of safe working habits.
@@ -62,6 +63,7 @@ Through practical sessions, authentic coursework tasks and other learning activi
 &nbsp;&nbsp;<li>Tea</li>  
 &nbsp;&nbsp;<li>Milk</li>  
 </ol>
+
 a) &nbsp; Developing confidence, pride and tenacity through exploring real-world design opportunities.<br>
 b) &nbsp; Developing the quality of mindfulness, empathy and sensitivity through improving aspects of their environment in everyday life.<br>
 c) &nbsp; Embracing complexities, uncertainties and the inherent social dimension of the design process when exploring design opportunity vis-à-vis design ideas.<br>
