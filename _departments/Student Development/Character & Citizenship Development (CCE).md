@@ -9,6 +9,7 @@ Character &amp; Citizenship Education (CCE)
 ===========================
 
 
+
 ##### **The Quest to...**
 
 
@@ -62,14 +63,14 @@ The programmes are conducted in partnership with the other stakeholders in and o
 
 ##### **Key Learning Experiences**
 
-**WHOLE SCHOOL**<br>
+**WHOLE SCHOOL**
 
 <ul>
 <li>Discussion of Contemporary Issues
 </li><li>Classroom CCE Lesson
 </li><li>Commemorative Events: Total Defence Day; International Friendship Day; Racial Harmony Day; National Day
-</li><li>Learning Journeys<br>
-</li><li>Peer Support Skills<br>
+</li><li>Learning Journeys
+</li><li><a href="Peer Support &amp; Relations">Peer Support Skills</a>
 </li><li>Student Leadership Development 
 
 </li></ul>
