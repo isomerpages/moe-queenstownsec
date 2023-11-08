@@ -75,7 +75,8 @@ Introduced in 2015, Student Welfare Officers (SWOs) support vulnerable students 
 **</li><li>Special Educational Needs:**
 Special Educational Needs Officers (SENO) support students with special educational needs (SEN). They provide targeted learning and behaviour support through individual or small group intervention and/or skills training and/or in-class support based on the needs of students with SEN. Their support is invaluable in enabling students to achieve their goals. In addition, they reach out to families of students with SEN to build home-school partnerships and strengthen the support for students.
 	
-</li></ul>
+</li>
+</ul>
 
 
 <img src="/images/swbmerge33.png" style="width:110%"> <br>
