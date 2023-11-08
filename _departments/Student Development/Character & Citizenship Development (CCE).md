@@ -63,12 +63,17 @@ The programmes are conducted in partnership with the other stakeholders in and o
 ##### **Key Learning Experiences**
 
 **WHOLE SCHOOL**<br>
-•	Discussion of Contemporary Issues<br>
-•	Classroom CCE Lessons<br>
-•	Commemorative Events: Total Defence Day; International Friendship Day; Racial Harmony Day; National Day<br>
-•	Learning Journeys<br>
-•	Peer Support Skills<br>
-•	Student Leadership Development 
+
+<ul>
+<li>Discussion of Contemporary Issues<br>
+</li><li>Classroom CCE Lessons<br>
+</li><li>Commemorative Events: Total Defence Day; International Friendship Day; Racial Harmony Day; National Day<br>
+</li><li>Learning Journeys<br>
+</li><li>Peer Support Skills<br>
+</li><li>Student Leadership Development 
+
+</li></ul>
+
 
 **TARGETED SUPPORT** <br>
 •	Student Leadership Development (Tier 2 &amp; 3) Programmes
