@@ -70,7 +70,7 @@ The programmes are conducted in partnership with the other stakeholders in and o
 </li><li>Classroom CCE Lesson
 </li><li>Commemorative Events: Total Defence Day; International Friendship Day; Racial Harmony Day; National Day
 </li><li>Learning Journeys
-</li><li><a href="Peer Support &amp; Relations">Peer Support Skills</a>
+</li><li><a href="https://www.queenstownsec.moe.edu.sg/student-development/cce/#test">Peer Support Skills</a>
 </li><li>Student Leadership Development 
 
 </li></ul>
@@ -88,7 +88,7 @@ Learners who demonstrate competency in self-mastery, with an inclination towards
 The Student Leadership Development Programme in QTSS aspires to equip all our learners with the skills and knowledge to continue soaring high and help others soar in the face of challenges posed by the unknown future.
 
 
-**<u>Peer Support &amp; Relations</u>**<br>
+**<u><a name="test">Peer Support &amp; Relations</a></u>**<br>
 Recognising the role that quality relationships plays in ensuring the readiness of our Queenstownians to learn and grow, QTSS invests significant resources in strengthening the Peer Support Programmes. Queenstownians are equipped with knowledge in the 3 domains of peer support – Peer Bonding, Peer Helping and Peer Influencing – and opportunities are provided to allow for the development of positive relationships between the peers. The presence of positive relationships creates a strong culture of care which ensures that Queenstownians feel a greater sense of belonging and therein being more resilient in navigating the challenges.
 While all Queenstownians play a part in providing basic peer support to one another, those who are deemed to demonstrate a stronger disposition in showing empathy and caring for others are identified and trained with additional knowledge and skills to effect the 3 domains of peer support. This group of Queenstownians will be charged with being the champions of strengthening the caring culture in QTSS, and influencing their peers and juniors to promote positive mindset and mental well-being both online and offline. A safe and caring community where every Queenstownian feels accepted and supported, is one where Queenstownians will then flourish and grow to be future-ready.
 
