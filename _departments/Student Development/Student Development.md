@@ -21,7 +21,8 @@ Develop every Queenstownian into having a sense of belonging and forging positiv
 	</li><li>Building students’ positive self-concept and embrace a growth mindset
   </li><li>Building students’ beliefs and role-modelling of school values
       
-</li></ul>
+</li>
+</ul>
 
 	
 ##### **Key Learning Experiences**
@@ -30,5 +31,5 @@ Develop every Queenstownian into having a sense of belonging and forging positiv
 <li>Character &amp; Citizenship Development (CCE)<br>
 </li><li>Education &amp; Career Guidance (ECG) <br>
 </li><li> Student Well-Being
-<ul>
-</ul></li></ul>
+	
+</li></ul>
