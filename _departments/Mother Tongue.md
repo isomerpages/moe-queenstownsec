@@ -51,23 +51,28 @@ Empower every Queenstownian to embrace and speak our mother tongue language with
 </li><li> Naanum Oru Padaippaali Writing Competition (National)
 </li><li> Fiesta Bahasa 2023 (National)
 </li><li> 1,2,3 Aksi Short Skit Competition (National)
-
+	</li></ul>
+	
 
 **LOWER SECONDARY**
 
-• &nbsp; Reading Programme<br>
-• &nbsp; Vocabulary Competition (Internal)<br>
-•	&nbsp; Recitation Competition (Internal &amp; National)<br>
-•	&nbsp; Author-in-residence (MOE)<br>
-•	&nbsp; Cultural Performance Exposure Programme
+<ul>
+<li> Reading Programme
+</li><li> Vocabulary Competition (Internal)
+</li><li> Recitation Competition (Internal &amp; National)
+</li><li> Author-in-residence (MOE)
+</li><li> Cultural Performance Exposure Programme
+</li></ul>
 
 
 **UPPER SECONDARY**
 
-•	&nbsp; Reading Programme<br>
-•	&nbsp; Idioms Competition (Internal) <br>
-•	&nbsp; Broadcast Script writing Competition (Internal &amp; National)<br>
-•	&nbsp; Intensive MTL Programme 
+<ul>
+<li>Reading Programme
+</li><li>Idioms Competition (Internal) 
+</li><li> Broadcast Script writing Competition (Internal &amp; National)
+</li><li> Intensive MTL Programme 
+</li></ul>
 
 
 
@@ -76,4 +81,4 @@ Empower every Queenstownian to embrace and speak our mother tongue language with
 
 • &nbsp; Fiesta Bahasa 2023 (National) – Second Prize<br>
 •	&nbsp; 1,2,3 Aksi Short Skit Competition (National) – Third Prize<br>
-• &nbsp; Naanum Oru Padaippaali Writing Competition (National) – Shortlisted Award</li></ul>
+• &nbsp; Naanum Oru Padaippaali Writing Competition (National) – Shortlisted Award
