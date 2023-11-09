@@ -42,10 +42,12 @@ Develop every Queenstownian into a critical thinker, deeply rooted in our countr
 
 **WHOLE SCHOOL**
 
+<ul>
 <li> Local Field Studies and Learning Journeys 
 </li><li> NLB Prove it! Competition 
 </li><li> NLB Historical Scene Investigation Competition
 </li><li> Geography Challenge 
+</li></ul>
 
 
 <center>
@@ -67,4 +69,4 @@ Sec 2 students with Mdm Wong outside the Battlebox Visitor Centre
 
 Sec 1 geography students honing their sketching skills at the field site in Lorong Halus
 
-</center></li>
+</center>
