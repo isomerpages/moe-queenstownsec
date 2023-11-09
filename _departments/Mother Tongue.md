@@ -45,11 +45,12 @@ Empower every Queenstownian to embrace and speak our mother tongue language with
 
 **WHOLE SCHOOL**
 
-•	&nbsp; Mother Tongue Language (MTL) Fortnight Programme<br>
-•	&nbsp; MT &amp; Maker Club Programme<br>
-•	&nbsp; Naanum Oru Padaippaali Writing Competition (National)<br>
-•	&nbsp; Fiesta Bahasa 2023 (National)<br>
-•	&nbsp; 1,2,3 Aksi Short Skit Competition (National)
+<ul>
+<li> Mother Tongue Language (MTL) Fortnight Programme
+</li><li> MT &amp; Maker Club Programme
+</li><li> Naanum Oru Padaippaali Writing Competition (National)
+</li><li> Fiesta Bahasa 2023 (National)
+</li><li> 1,2,3 Aksi Short Skit Competition (National)
 
 
 **LOWER SECONDARY**
@@ -75,4 +76,4 @@ Empower every Queenstownian to embrace and speak our mother tongue language with
 
 • &nbsp; Fiesta Bahasa 2023 (National) – Second Prize<br>
 •	&nbsp; 1,2,3 Aksi Short Skit Competition (National) – Third Prize<br>
-• &nbsp; Naanum Oru Padaippaali Writing Competition (National) – Shortlisted Award
+• &nbsp; Naanum Oru Padaippaali Writing Competition (National) – Shortlisted Award</li></ul>
