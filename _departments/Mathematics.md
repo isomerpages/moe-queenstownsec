@@ -17,19 +17,26 @@ Develop every Queenstownian into an independent learner, and a precise and resil
 
 <u>Using pedagogical practices in teaching towards Big Ideas in Mathematics:</u>
 
-•	&nbsp; Diagrams<br>
-• &nbsp; Equivalence<br>
-• &nbsp; Functions <br>
-•	&nbsp; Invariance<br>
-• &nbsp; Measures<br>
-•	&nbsp; Models<br>
-• &nbsp; Notations <br>
-•	&nbsp; Proportionality<br>
+<ul>
+<li> Diagrams
+</li><li> Equivalence
+</li><li> Functions 
+</li><li> Invariance
+</li><li> Measures
+</li><li> Models
+</li><li> Notations 
+</li><li> Proportionality
+	
+</li></ul>
+
 
 <u>Solving Problems in Real World Context (PRWC) Tasks: </u>
 
-• &nbsp; Providing students with authentic context to work with to raise their competencies in abstracting and reasoning, representing and communicating, applying and modelling.<br>
-• &nbsp; Using Computational Thinking to approach PRWC questions
+<ul>
+	
+<li> Providing students with authentic context to work with to raise their competencies in abstracting and reasoning, representing and communicating, applying and modelling.
+</li><li> Using Computational Thinking to approach PRWC questions
+</li></ul>
 
 	
 ##### **Key Learning Experiences**	
