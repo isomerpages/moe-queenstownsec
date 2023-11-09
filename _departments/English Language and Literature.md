@@ -63,7 +63,7 @@ respectful communicator, discerning reader and confident enquirer.
 #### **Key Achievements**
 
 <ul>
-<li> Participation in National Secondary Schools debating championship<br>
+<li> Participation in National Secondary Schools debating championship
 </li><li> Participation in training workshops conducted by the National Debate Team coaches
 </li></ul>
 
