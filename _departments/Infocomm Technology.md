@@ -14,13 +14,15 @@ Develop every Queenstownian into a future-ready individual who flourishes throug
 
 ##### **Key Approaches** 
 
+<ul>
 
+<li> Using data-informed practices to reinvent how teachers teach and students learn 
+</li><li> Leveraging on technology to provide more opportunities for students to learn independently and work collaboratively with others
+</li><li> Leveraging on technology to build students’ ownership of their learning
+</li><li> Inspiring life-long learning
 
-•	&nbsp; Using data-informed practices to reinvent how teachers teach and students learn <br>
-•	&nbsp; Leveraging on technology to provide more opportunities for students to learn independently and work collaboratively with others<br>
-•	&nbsp; Leveraging on technology to build students’ ownership of their learning<br>
-•	&nbsp; Inspiring life-long learning
-
+	</li></ul>
+	
 
 ![](/images/Picture1.png)
 
@@ -31,13 +33,18 @@ Develop every Queenstownian into a future-ready individual who flourishes throug
 
 **WHOLE SCHOOL**
 
-•	&nbsp; National Digital Learning Programme (NDLP): Every student owns a school-prescribed Personal Learning Device (PLD)
+<ul>
+<li> National Digital Learning Programme (NDLP): Every student owns a school-prescribed Personal Learning Device (PLD)
+</li></ul>
 
+	
 ![](/images/Picture3.jpg)
 
-<br>
-•	&nbsp; ICT Digital Literacy Programme
+<ul>
+<li> ICT Digital Literacy Programme
+</li></ul>
 
+	
 ![](/images/NDLP%20DL.jpg)
 In Secondary One, students learnt to use CANVA to create posters. They then apply the acquired skill to to create posters to advocate their cause for their Community Youth Leadership (CYL) Projects. (CANVA).
 ![](/images/Picture4.png)
