@@ -17,7 +17,8 @@ Character &amp; Citizenship Education (CCE)
 	<li>Develop every Queenstownian to be an individual of good character with resilience who is future-ready and participates actively as a citizen.
 	</li><li>Guide every Queenstownian to be the best version of himself/herself while strengthening their self-concept and preparing them for the world through imbuing in them the R2ICE values and 21CC.
       
-</li></ul>
+</li>
+</ul>
 
 
 
@@ -44,7 +45,7 @@ True to our philosophy, where the unique worth of every individual is cherished,
 <ul> 
 	<li> Students are strongly encouraged to contribute their voices in classroom discussions as well as other areas 
 where they are able to apply what they learnt during CCE. 
-		</li><li> Positive relationships between them and their peers and staff are also nurtured and sustained, which goes a long way in helping our Queenstownians internalise the multiple facets of their Character and Citizenship Education.
+	</li><li> Positive relationships between them and their peers and staff are also nurtured and sustained, which goes a long way in helping our Queenstownians internalise the multiple facets of their Character and Citizenship Education.
 				
 </li>
 </ul>
@@ -57,7 +58,8 @@ where they are able to apply what they learnt during CCE.
 <li>Equipping students with the necessary head knowledge regarding values, skills and competencies to become a better version of themselves <br>
 </li><li>Providing students with safe and authentic learning experiences to make sense of the world around them and apply their knowledge <br>
 </li><li>Giving students the opportunities to internalize their learning
-</li></ul>
+</li>
+</ul>
 
 
 The programmes are conducted in partnership with the other stakeholders in and outside of school, to enable  Queenstownians to enjoy a positive and meaningful relationship with others in the community.
