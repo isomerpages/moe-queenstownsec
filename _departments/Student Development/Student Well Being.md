@@ -42,7 +42,10 @@ In QTSS, we place the well-being of our students at the centre and focus on 4 di
 <ul>
 	
 <li>Students are active participants in their own learning and well-being <br>
-</li><li>[Student Voice](https://www.queenstownsec.moe.edu.sg/student-voices/) is a digital platform to encourage student voice for school matters and helping them feel connected and valued in the school
+	
+
+	
+</li><li> <a href="https://www.queenstownsec.moe.edu.sg/student-voices/">Student Voice</a> is a digital platform to encourage student voice for school matters and helping them feel connected and valued in the school
 	
 </li>
 </ul>
