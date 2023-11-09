@@ -78,7 +78,9 @@ Empower every Queenstownian to embrace and speak our mother tongue language with
 
 ### **Key Achievements**
 
-
-• &nbsp; Fiesta Bahasa 2023 (National) – Second Prize<br>
-•	&nbsp; 1,2,3 Aksi Short Skit Competition (National) – Third Prize<br>
-• &nbsp; Naanum Oru Padaippaali Writing Competition (National) – Shortlisted Award
+<ul>
+<li> Fiesta Bahasa 2023 (National) – Second Prize
+</li><li> 1,2,3 Aksi Short Skit Competition (National) – Third Prize
+</li><li> Naanum Oru Padaippaali Writing Competition (National) – Shortlisted Award
+	
+</li></ul>
