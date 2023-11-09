@@ -18,22 +18,32 @@ The three “IN”s, inspire, inquire and innovate, represent the **vision of sc
 
 <u>INspired by Science</u>
 
-•	&nbsp; Enjoying learning Science, and being fascinated by how everyday phenomena have scientific connections and how Science helps solve many of our global challenges.<br>
-•	&nbsp; Regarding Science as relevant and meaningful, and appreciating how Science and Technology have transformed the world and improved our lives. <br>
-•	&nbsp; Seeing Science-related careers as a viable profession to serve the good of society.
+<ul>
+	
+<li> Enjoying learning Science, and being fascinated by how everyday phenomena have scientific connections and how Science helps solve many of our global challenges.
+</li><li> Regarding Science as relevant and meaningful, and appreciating how Science and Technology have transformed the world and improved our lives. 
+</li><li> Seeing Science-related careers as a viable profession to serve the good of society.
+	
+</li></ul>
 
 	
-<u>INquire like Scientists</u><br>
+<u>INquire like Scientists</u>
 
-•	&nbsp; Having a strong foundation in Science, and possessing the spirit of scientific inquiry. <br>
-•	&nbsp; Engaging confidently in the Practices of Science, grounded in the knowledge, issues and questions that relate to the roles played by Science in daily life, society and the environment.<br>
-•	&nbsp; Discerning, weighing alternatives and evaluating claims and ideas critically, based on logical scientific evidence and arguments, and yet being able to suspend judgement where there is lack of evidence.
+<ul>
+<li> Having a strong foundation in Science, and possessing the spirit of scientific inquiry. 
+</li><li> Engaging confidently in the Practices of Science, grounded in the knowledge, issues and questions that relate to the roles played by Science in daily life, society and the environment.
+</li><li> Discerning, weighing alternatives and evaluating claims and ideas critically, based on logical scientific evidence and arguments, and yet being able to suspend judgement where there is lack of evidence.
 
+</li></ul>
 
+	
 <u>INnovate using Science</u><br>
 
-•	&nbsp; Applying and experiencing the potential of Science to generate creative solutions to solve real-world problems, ranging from those affecting everyday lives to complex problems affecting humanity. <br>
-•	&nbsp; Making contributions towards STEM research, innovation and enterprise.
+<ul>
+<li> Applying and experiencing the potential of Science to generate creative solutions to solve real-world problems, ranging from those affecting everyday lives to complex problems affecting humanity. 
+</li><li> Making contributions towards STEM research, innovation and enterprise.
+
+</li></ul>
 
 	
 ##### **Key Learning Experiences**
@@ -41,27 +51,34 @@ The three “IN”s, inspire, inquire and innovate, represent the **vision of sc
 
 **LOWER SECONDARY**
 
-•	&nbsp; Science Centre Singapore – Lecture Demonstration, Practical Lab Session
+<ul>
+<li> Science Centre Singapore – Lecture Demonstration, Practical Lab Session
+</li></ul>
 
 
 **UPPER SECONDARY**
 
-•	&nbsp; Plant Visit to The Polyolefin Company<br>
-•	&nbsp; Work Experience Programme at The Polyolefin Company<br>
-•	&nbsp; Lee Kong Chian Natural History Museum Marine Ecology Workshop<br>
-•	&nbsp; Learning Journey to National Kidney Foundation<br>
-•	&nbsp; Industrial Visits (e.g. ChemGallery @ Jurong Island, Asia Pacific Brewery, etc.)
+<ul>
+<li> Plant Visit to The Polyolefin Company
+</li><li> Work Experience Programme at The Polyolefin Company
+</li><li> Lee Kong Chian Natural History Museum Marine Ecology Workshop
+</li><li> Learning Journey to National Kidney Foundation
+</li><li> Industrial Visits (e.g. ChemGallery @ Jurong Island, Asia Pacific Brewery, etc.)
+
+</li></ul>
 
 
 ##### **Key Achievements**
 
+<ul>
+<li> 43rd C.B. Paul Science Quiz 2022: Gold Award – Kieren Cheong Jia Shen; Bronze Award – Carissa Tang Qi Ruan; Merit Award – Fang Jiani, Isabeth Wang Yu Qi
+</li><li> 44th C.B. Paul Science Quiz 2023: Merit Award – Eden Wong)
+</li><li> Singapore Junior Physics Olympiad 2022: Honourable Mention – Nathan Chew Wei Zhi, Raiyan Zaman Kabbo, Tao Yan Fai
+</li><li> Singapore Junior Physics Olympiad 2023: Honourable Mention – Charles Ivan Augusto, Dai Siyuan, Darius Saputra, Darwyn Goh Hong Jun, Nathan Chew Wei Zhi, Raiyan Zaman Kabbo, Tao Yan Fai
+</li><li> Singapore Junior Chemistry Olympiad 2023: Merit Award – Darius Saputra, Tao Yan Fai
+</li><li> Singapore Junior Chemistry Olympiad 2023: Merit Award – Ishaan Veer Singh S/O Ranveer Singh, Dicky Dzulkarnain Bin Abdul Malik
 
-•	&nbsp; 43rd C.B. Paul Science Quiz 2022: Gold Award – Kieren Cheong Jia Shen; Bronze Award – Carissa Tang Qi Ruan; Merit Award – Fang Jiani, Isabeth Wang Yu Qi<br>
-•	&nbsp; 44th C.B. Paul Science Quiz 2023: Merit Award – Eden Wong)<br>
-•	&nbsp; Singapore Junior Physics Olympiad 2022: Honourable Mention – Nathan Chew Wei Zhi, Raiyan Zaman Kabbo, Tao Yan Fai<br>
-•	&nbsp; Singapore Junior Physics Olympiad 2023: Honourable Mention – Charles Ivan Augusto, Dai Siyuan, Darius Saputra, Darwyn Goh Hong Jun, Nathan Chew Wei Zhi, Raiyan Zaman Kabbo, Tao Yan Fai<br>
-•	&nbsp; Singapore Junior Chemistry Olympiad 2023: Merit Award – Darius Saputra, Tao Yan Fai<br>
-•	&nbsp; Singapore Junior Chemistry Olympiad 2023: Merit Award – Ishaan Veer Singh S/O Ranveer Singh, Dicky Dzulkarnain Bin Abdul Malik
+</li></ul>
 
 
 
