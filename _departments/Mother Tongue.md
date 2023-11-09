@@ -16,27 +16,30 @@ Empower every Queenstownian to embrace and speak our mother tongue language with
 
 **LOWER SECONDARY**
 
-<u>Joyful Learner, Cultural Explorer</u><br>
+<u>Joyful Learner, Cultural Explorer</u>
 
-•	&nbsp; Discovering the uniqueness of the language and culture<br>
-•	&nbsp; Developing the language skills – listening, speaking, reading &amp; writing<br>
-•	&nbsp; Forming good habits and values<br>
-•	&nbsp; Building vocabulary<br>
-• &nbsp; Appreciating reading a range of texts
+<ul>
+	
+<li> Discovering the uniqueness of the language and culture
+</li><li> Developing the language skills – listening, speaking, reading &amp; writing
+</li><li> Forming good habits and values
+</li><li> Building vocabulary
+</li><li> Appreciating reading a range of texts
+</li></ul>
 
 
 **UPPER SECONDARY**
 
 <u>Proficient Users, Cultural Ambassador </u><br>
 
-
-•	&nbsp; Developing a stronger cultural identity that is uniquely Singaporean<br>
-•	&nbsp; Upholding and promoting the language and culture <br>
-•	&nbsp; Developing critical thinking skills with strong values as the foundation<br>
-•	&nbsp; Speaking and writing with confidence<br>
-•	&nbsp; Appreciating literary texts<br>
-•	&nbsp; Analysing problems and generating solutions to meet different needs
-
+<ul>
+<li> Developing a stronger cultural identity that is uniquely Singaporean
+</li><li> Upholding and promoting the language and culture 
+</li><li> Developing critical thinking skills with strong values as the foundation
+</li><li> Speaking and writing with confidence
+</li><li> Appreciating literary texts
+</li><li> Analysing problems and generating solutions to meet different needs
+</li></ul>
 
 ### **Key Learning Experiences**
 
@@ -73,4 +76,3 @@ Empower every Queenstownian to embrace and speak our mother tongue language with
 • &nbsp; Fiesta Bahasa 2023 (National) – Second Prize<br>
 •	&nbsp; 1,2,3 Aksi Short Skit Competition (National) – Third Prize<br>
 • &nbsp; Naanum Oru Padaippaali Writing Competition (National) – Shortlisted Award
-	
