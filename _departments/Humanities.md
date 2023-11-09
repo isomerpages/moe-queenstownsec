@@ -17,10 +17,12 @@ Develop every Queenstownian into a critical thinker, deeply rooted in our countr
 
 <u>Inculcating the joy of learning Humanities</u> through
 
-a) &nbsp; Exploring the world and relevance of learning Humanities <br>
-b) &nbsp; Inquiry-based Approach <br>
-c) &nbsp; Experiential Learning <br>
-d) &nbsp; Building 21st Century Competencies 
+<ul>
+<li> Exploring the world and relevance of learning Humanities 
+</li><li> Inquiry-based Approach 
+</li><li> Experiential Learning 
+</li><li> Building 21st Century Competencies 
+</li></ul>
 
 
 
@@ -28,21 +30,24 @@ d) &nbsp; Building 21st Century Competencies
 
 <u>Appreciating the importance of learning Humanities</u> through
 
-
-a) &nbsp; Building on the lower secondary skills <br>
-b) &nbsp; Inquiry-based Approach <br>
-c) &nbsp; Experiential Learning <br>
-d) &nbsp; Diving deep in the thinking and approach and   exam skills in Ace-ing for Humanities 
+<ul>
+<li> Building on the lower secondary skills
+</li><li> Inquiry-based Approach 
+</li><li> Experiential Learning
+</li><li> Diving deep in the thinking and approach and   exam skills in Ace-ing for Humanities 
+</li></ul>
 
 	
 ##### **Key Learning Experiences**
 
-**WHOLE SCHOOL**<br>
+**WHOLE SCHOOL**
 
-•	&nbsp; Local Field Studies and Learning Journeys <br>
-• &nbsp; NLB Prove it! Competition <br>
-• &nbsp; NLB Historical Scene Investigation Competition<br>
-•	&nbsp; Geography Challenge 
+<ul>
+<li> Local Field Studies and Learning Journeys 
+</li><li> NLB Prove it! Competition 
+</li><li> NLB Historical Scene Investigation Competition
+</li><li> Geography Challenge 
+</li></ul>
 
 
 <center>

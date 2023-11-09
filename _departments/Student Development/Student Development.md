@@ -16,12 +16,21 @@ Develop every Queenstownian into having a sense of belonging and forging positiv
 
 ##### **Key Approaches**
 
-•	&nbsp; Building a thriving QTSS community that promotes a high level of care and supports the learning of all students
-•	&nbsp; Building students’ positive self-concept and embrace a growth mindset<br>
-•	&nbsp; Building students’ beliefs and role-modelling of school values
+<ul>
+	<li>Building a thriving QTSS community that promotes a high level of care and supports the learning of all students
+ </li><li>Building students’ positive self-concept and embrace a growth mindset
+ </li><li>Building students’ beliefs and role-modelling of school values
+      
+</li>
+</ul>
 
-##### **Key Approaches**
-
-* Character &amp; Citizenship Development (CCE)
-* Education &amp; Career Guidance (ECG)
-* Student Well-Being
+	
+##### **Key Learning Experiences**
+	
+<ul>	
+<li>Character &amp; Citizenship Development (CCE)<br>
+</li><li>Education &amp; Career Guidance (ECG) <br>
+</li><li> Student Well-Being
+	
+</li>
+</ul>
