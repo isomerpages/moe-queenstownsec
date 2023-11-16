@@ -2,7 +2,11 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: markdown
 ---
+
+![](/images/2023_QTSS_Open_House.png)
+
 Announcements
 =============
 ##### **School Holiday Advisory**    
