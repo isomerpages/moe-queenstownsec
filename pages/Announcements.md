@@ -2,9 +2,10 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: markdown
 ---
 Announcements
-=============
+============
 ##### **School Holiday Advisory**    
 
 Dear Parents/Guardians,

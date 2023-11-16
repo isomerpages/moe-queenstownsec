@@ -18,6 +18,10 @@ sections:
           description: ""
           url: https://queenstownsecsch.wixsite.com/openhouse2022
       background: /images/QTSS_Website_Banner.jpeg
+  - infopic:
+      id: infopic
+      image: /images/2023_QTSS_Open_House.png
+      alt: .
   - infobar:
       title: Announcements
       button: Click
@@ -34,4 +38,5 @@ sections:
       url: /admission/
       image: /images/School Links/DSA_Pic3.png
       alt: alt text image
+      subtitle: .
 ---
