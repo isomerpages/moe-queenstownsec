@@ -37,4 +37,5 @@ sections:
       url: /admission/
       image: /images/School Links/DSA_Pic3.png
       alt: alt text image
+      subtitle: .
 ---
