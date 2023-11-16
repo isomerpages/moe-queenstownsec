@@ -21,6 +21,7 @@ sections:
   - infopic:
       id: infopic
       image: /images/2023_QTSS_Open_House.png
+      subtitle: .
   - infobar:
       title: Announcements
       button: Click
