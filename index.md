@@ -22,6 +22,7 @@ sections:
       id: infopic
       image: /images/2023_QTSS_Open_House.png
       alt: .
+      title: 2023 Open House e-Brochure
   - infobar:
       title: Announcements
       button: Click
