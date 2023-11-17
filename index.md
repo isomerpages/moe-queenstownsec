@@ -21,6 +21,7 @@ sections:
       title: 2023 Open House e-Brochure
       button: CLICK
       url: https://file.go.gov.sg/2023qtssopenhouse.pdf
+      alt: Join us for Open House
   - infobar:
       title: Announcements
       button: Click
