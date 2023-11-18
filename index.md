@@ -14,14 +14,14 @@ sections:
         - title: O & N Level Results 2022 (Key Information)
           description: ""
           url: /OnNlevelResults2022/
-        - title: Queenstown Sec Open House 2022
-          description: ""
-          url: https://queenstownsecsch.wixsite.com/openhouse2022
       background: /images/QTSS_Website_Banner.jpeg
   - infopic:
       id: infopic
-      image: /images/2023_QTSS_Open_House.png
-      alt: .
+      image: /images/2023_qtss_open_house2.png
+      title: 2023 Open House e-Brochure
+      button: CLICK
+      url: https://file.go.gov.sg/2023qtssopenhouse.pdf
+      alt: Join us for Open House
   - infobar:
       title: Announcements
       button: Click
