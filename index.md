@@ -18,11 +18,11 @@ sections:
   - infopic:
       id: infopic
       image: /images/2023_qtss_open_house2.png
-      title: 2023 Open House
+      title: e-Brochure
       button: CLICK
       url: https://file.go.gov.sg/2023qtssopenhouse.pdf
       alt: Join us for Open House
-      subtitle: e-Brochure
+      subtitle: 2023 Open House
   - infobar:
       title: Announcements
       button: Click
