@@ -20,7 +20,7 @@ sections:
       image: /images/2023_qtss_open_house2.png
       title: e-Brochure
       button: CLICK
-      url: https://file.go.gov.sg/2023qtssopenhouse.pdf
+      url: https://for.edu.sg/e-openhouse2023
       alt: Join us for Open House
       subtitle: 2023 Open House
   - infobar:
