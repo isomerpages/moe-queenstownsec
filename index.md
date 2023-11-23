@@ -17,7 +17,7 @@ sections:
       background: /images/QTSS_Website_Banner.jpeg
   - infopic:
       id: infopic
-      image: /images/2023_qtss_open_house2.png
+      image: /images/2023_QTSS_Open_House_updated.png
       title: e-Brochure
       button: CLICK
       url: https://go.gov.sg/openhouseqtss2023
