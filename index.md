@@ -8,6 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: test
+          description: ""
+          url: ""
         - title: Sec 1 Registration (2023 Intake)
           description: ""
           url: /lp-announcement/Sec1Registration-Dec2022/
