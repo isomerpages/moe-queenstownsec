@@ -9,7 +9,14 @@ School Booklist
 
 ### Booklist Download (AY 2024)
 
-Please note that **Sec 1** Book list 2024 is not out yet.
+
+#### Secondary 1
+
+* [Sec 1 G1](/files/Booklist/QTSS_2024_S1_G1.pdf)
+* [Sec 1 G2](/files/Booklist/QTSS_2024_S1_G2.pdf)
+* [Sec 1 G3](/files/Booklist/QTSS_2024_S1_G3.pdf)
+
+
 
 #### Secondary 2
 
