@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: test
+        - title: HIGHER MOTHER TONGUE LANGUAGES (FROM 2024)
           description: ""
           url: ""
         - title: Sec 1 Registration (2023 Intake)
