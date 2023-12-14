@@ -11,7 +11,7 @@ sections:
         - title: HIGHER MOTHER TONGUE LANGUAGES (FROM 2024)
           description: ""
           url: /sec1html/
-        - title: Sec 1 Registration (2023 Intake)
+        - title: Sec 1 Registration (2024 Intake)
           description: ""
           url: /lp-announcement/Sec1Registration-Dec2022/
         - title: O & N Level Results 2022 (Key Information)
