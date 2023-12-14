@@ -20,8 +20,7 @@ Non-Teaching Staff
 | Workshop Instructor |  Mr Ong Ah Beng | <a href="mailto: ong_ah_beng@moe.edu.sg"> ong_ah_beng@moe.edu.sg</a>      |
 | Lab Technician|  Mr Muhammad Firdaus Noah| <a href="mailto: muhd_firdaus_b_noah@moe.edu.sg"> muhd_firdaus_b_noah@moe.edu.sg</a>      |
 | Lab Technician|  Mr Luqmannulhakim Norman| <a href="mailto: luqmannulhakim_norman@moe.edu.sg"> luqmannulhakim_norman@moe.edu.sg</a>      |
-| Desktop Engineer|  Ms Rogani R Munusamy| <a href="mailto: g-ncs3508sde@ncs.com.sg"> g-ncs3508sde@ncs.com.sg</a>      |
- | Desktop Engineer|  Mr Aiman Bin Shamjafri| <a href="mailto: g-ncs3508sde@ncs.com.sg"> g-ncs3508sde@ncs.com.sg</a>      |
+| Desktop Engineer|  Mr Aiman Bin Shamjafri| <a href="mailto: g-ncs3508sde@ncs.com.sg"> g-ncs3508sde@ncs.com.sg</a>      |
 | OSO|  Ms Catherine d/o Anthony Samy| <a href="mailto: catherine_anthony_samy@moe.edu.sg"> catherine_anthony_samy@moe.edu.sg</a>      |
 | OSO|  Mr Kamaron Bin Yusof| |
 | OSO|  Mdm Lim Bee Hiang| |
