@@ -13,7 +13,7 @@ sections:
           url: /sec1html/
         - title: Sec 1 Registration (2024 Intake)
           description: ""
-          url: /lp-announcement/Sec1Registration-Dec2022/
+          url: /sec1registrationjan2024/
         - title: O & N Level Results 2022 (Key Information)
           description: ""
           url: /OnNlevelResults2022/
