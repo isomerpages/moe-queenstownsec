@@ -1,6 +1,6 @@
 ---
 title: Sec 1 Registration (2024 Intake)
-permalink: /sec1registration-jan2024/
+permalink: /sec1registration-2024/
 description: ""
 variant: tiptap
 ---

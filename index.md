@@ -13,7 +13,7 @@ sections:
           url: /sec1html/
         - title: Sec 1 Registration (2024 Intake)
           description: ""
-          url: /sec1registration-jan2024/
+          url: /sec1registration-2024/
         - title: N Level Results 2023 (Key Information)
           description: ""
           url: /nlevelresults2023/
