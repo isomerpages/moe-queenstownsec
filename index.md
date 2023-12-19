@@ -16,7 +16,7 @@ sections:
           url: /sec1registration-jan2024/
         - title: N Level Results 2023 (Key Information)
           description: ""
-          url: /OnNlevelResults2022/
+          url: /nlevelresults2023/
       background: /images/QTSS_Website_Banner.jpeg
   - infopic:
       id: infopic
