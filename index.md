@@ -14,7 +14,7 @@ sections:
         - title: Sec 1 Registration (2024 Intake)
           description: ""
           url: /sec1registration-jan2024/
-        - title: O & N Level Results 2022 (Key Information)
+        - title: N Level Results 2023 (Key Information)
           description: ""
           url: /OnNlevelResults2022/
       background: /images/QTSS_Website_Banner.jpeg
