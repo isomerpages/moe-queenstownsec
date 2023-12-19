@@ -16,5 +16,7 @@ For further enquiries, please call the General Office at 6474 1055, or send an e
 
 We trust that your child/ward will have an engaging learning experience in our school for the next 4 years. We thank you in advance for your partnership with us in your child’s/ward’s education.
 
-<font size="6px"><a style="text-decoration: none" href="[(/files/QTSS_Important_information_for_2024_Sec_1_students.pdf)]"><u>Click Here</u></a></font>
+   <a class="topic" href="/files/QTSS_Important_information_for_2024_Sec_1_students.pdf">HTML 5</a>
+
+<font size="6px"><a style="text-decoration: none" href="(/files/QTSS_Important_information_for_2024_Sec_1_students.pdf)"><u>Click Here</u></a></font>
  for e-Registration and Important Information for Secondary 1 students (2024 Intake).
