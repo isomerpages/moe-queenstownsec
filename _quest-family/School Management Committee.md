@@ -2,6 +2,7 @@
 title: School Management Committee
 permalink: /about-us/quest-family/school-management-committee/
 description: ""
+variant: markdown
 ---
 School Management Committee
 ===========================
@@ -21,6 +22,7 @@ School Management Committee
 | -------- | -------- | -------- |
 | Administration Manager   | Mr Arjuna Rahmat Basro   | <a href="mailto: arjuna_rahmat_basro@moe.edu.sg"> arjuna_rahmat_basro@moe.edu.sg</a>      |
 | Operations Manager   | Mr Liew Kheng Guan, Steven   | <a href="mailto: liew_kheng_guan_steven@moe.edu.sg"> liew_kheng_guan_steven@moe.edu.sg</a>      |
+| Operations Manager   | Mr Ramesh S/O K Samikanoo   | <a href="mailto: ramesh_so_k_samikanoo@moe.edu.sg"> ramesh_so_k_samikanoo@moe.edu.sg</a>      |
 | School Staff Developer   | Ms Pang Xue Yin| <a href="mailto: pang_xue_yin@moe.edu.sg"> pang_xue_yin@moe.edu.sg</a>      |
 | HOD English Language and Literature | Mdm Park Han Na   | <a href="mailto: park_han_na@moe.edu.sg"> park_han_na@moe.edu.sg</a>    |
 | HOD Mother Tongue Languages   | Mdm Tan Kah Geok | <a href="tan_kah_geok@moe.edu.sg"> tan_kah_geok@moe.edu.sg</a>      |
