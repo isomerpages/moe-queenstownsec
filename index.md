@@ -27,7 +27,7 @@ sections:
       title: Waitlist Form for Student Transfer
       id: infobar
       button: Click
-      url: p
+      url: /waitlistsec2-3/
   - infobar:
       title: Announcements
       button: Click
