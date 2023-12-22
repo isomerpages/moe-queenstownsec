@@ -18,14 +18,11 @@ sections:
           description: ""
           url: /nlevelresults2023/
       background: /images/QTSS_Website_Banner.jpeg
-  - infopic:
-      id: infopic
-      image: /images/2023_QTSS_Open_House_updated.png
-      title: e-Brochure
-      button: CLICK
-      url: https://go.gov.sg/openhouseqtss2023
-      alt: Join us for Open House
-      subtitle: 2023 Open House
+  - infobar:
+      title: 2024 Sec 1 Appeal for Transfer In
+      id: infobar
+      button: Click
+      url: /sec1appeal2024/
   - infobar:
       title: Announcements
       button: Click
