@@ -28,6 +28,7 @@ sections:
       id: infobar
       button: Click
       url: /waitlistsec2-3/
+      description: (For  Sec 2 & 3 Admissions only)
   - infobar:
       title: Announcements
       button: Click
