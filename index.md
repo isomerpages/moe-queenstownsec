@@ -22,7 +22,7 @@ sections:
       title: 2024 Sec 1 Appeal for Transfer In
       id: infobar
       button: Click
-      url: c
+      url: /sec1appeal2024/
   - infobar:
       title: Announcements
       button: Click
