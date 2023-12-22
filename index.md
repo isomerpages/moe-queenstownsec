@@ -24,6 +24,12 @@ sections:
       button: Click
       url: /sec1appeal2024/
   - infobar:
+      title: Waitlist Form for Student Transfer
+      id: infobar
+      button: Click
+      url: /waitlistsec2-3/
+      description: (For  Sec 2 & 3 Admissions only)
+  - infobar:
       title: Announcements
       button: Click
       url: /announcements/
