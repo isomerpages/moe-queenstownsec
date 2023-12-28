@@ -48,7 +48,6 @@ sections:
       subtitle: .
   - infobar:
       title: 2023 GCE N Level Examination Results
-      subtitle: Add informational text
       id: infobar
       button: Click
       url: d
