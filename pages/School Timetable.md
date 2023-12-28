@@ -17,4 +17,4 @@ Click the links below to view the timetable:
 
 * * *
 
-_Last updated on 28 Dec 2023
+Last updated on 28 Dec 2023
