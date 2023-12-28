@@ -33,7 +33,7 @@ sections:
       title: 2023 GCE N Level Examination Results
       id: infobar
       button: Click
-      url: d
+      url: /2023nlevelresults/
   - infobar:
       title: Announcements
       button: Click
