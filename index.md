@@ -30,6 +30,11 @@ sections:
       url: /waitlistsec2-3/
       description: (For  Sec 2 & 3 Admissions only)
   - infobar:
+      title: 2023 GCE N Level Examination Results
+      id: infobar
+      button: Click
+      url: d
+  - infobar:
       title: Announcements
       button: Click
       url: /announcements/
@@ -46,9 +51,4 @@ sections:
       image: /images/School Links/DSA_Pic3.png
       alt: alt text image
       subtitle: .
-  - infobar:
-      title: 2023 GCE N Level Examination Results
-      id: infobar
-      button: Click
-      url: d
 ---
