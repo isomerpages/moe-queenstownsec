@@ -13,8 +13,8 @@ Academic Year 2024 (Semester 1)
 Click the links below to view the timetable:
 
 
-[SEM 1 Timetable 2024](/files/2024_SEM_1_Timetable_FINALISED_CLASSES_28_12_2023.pdf)
 
+[SEM 1 Timetable 2024](/files/2024_SEM_1_Timetable_FINALISED_CLASSES_2_01_2024.pdf)
 * * *
 
-Last updated on 28 Dec 2023
+Last updated on 2 Jan 2024
