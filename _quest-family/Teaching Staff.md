@@ -25,8 +25,11 @@ variant: markdown
 | -------- | -------- | -------- |
 | Year Head    | Ms Han Chin Woon, Janice    | <a href="mailto: han_chin_woon_janice@moe.edu.sg">han_chin_woon_janice@moe.edu.sg</a>     |
 | Coordinator    | Mr Muhd Fazari Bin Othman  | <a href="mailto: fazari_othman_muhammad@moe.edu.sg">fazari_othman_muhammad@moe.edu.sg</a>    |
-| SH Student Management| Mdm Noorheriza B Mohd Aris| <a href="mailto: noorheriza_mohammed_aris@moe.edu.sg"> noorheriza_mohammed_aris@moe.edu.sg</a>   |
-| | | |
+| Sec 1 Level Mentor| Mdm Noorheriza B Mohd Aris| <a href="mailto: noorheriza_mohammed_aris@moe.edu.sg"> noorheriza_mohammed_aris@moe.edu.sg</a> 
+| Sec 1 Level Mentor| Mdm Chan Chu Yin| <a href="mailto: noorheriza_mohammed_aris@moe.edu.sg"> noorheriza_mohammed_aris@moe.edu.sg</a> 
+|  Sec  Level Mentor| Mdm Chan Chu Yin| <a href="mailto: noorheriza_mohammed_aris@moe.edu.sg"> noorheriza_mohammed_aris@moe.edu.sg</a> 
+|  
+
 
 #### Secondary One <br>
 
@@ -95,7 +98,7 @@ Mdm Liang Xingfen Michelle <a href="mailto: liang_xingfen@moe.edu.sg">(liang_xin
 
 | Appointment| Name | Email Address |
 | -------- | -------- | -------- |
-| Year Head     | Ms Kang Poh Geok    | <a href="mailto: kang_poh_geok@moe.edu.sg">kang_poh_geok@moe.edu.sg</a>    |
+| Year Head     | Miss Kang Poh Geok    | <a href="mailto: kang_poh_geok@moe.edu.sg">kang_poh_geok@moe.edu.sg</a>    |
 | Coordinator    | Ms Nur Haryani     | <a href="mailto: nur_haryani_mohamed_hatta@moe.edu.sg"> nur_haryani_mohamed_hatta@moe.edu.sg</a>  |
 | Level Mentor    | Mdm Cherlyn Tan Jin Ping   | <a href="mailto: cherlyn_tan_jin_ping@moe.edu.sg"> cherlyn_tan_jin_ping@moe.edu.sg</a>   |
 | Level Mentor   | Mdm Siti Nur Shahidah      | <a href="mailto: siti_nur_shahidah_mohd@moe.edu.sg"> siti_nur_shahidah_mohd@moe.edu.sg</a> |
