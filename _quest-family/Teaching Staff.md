@@ -87,8 +87,8 @@ Mr Chandragus Rinah <a href="mailto: chandragus_a@moe.edu.sg">(chandragus_a@moe.
 Mdm Xu Su <a href="mailto: xu_su@moe.edu.sg">(xu_su@moe.edu.sg)</a><br>
 
 **<u>2 Excellence (2 EX)</u>** <br>
-Mr Adrian Chia <a href="mailto: chia_wen_mien_adrian@moe.edu.sg">(chia_wen_mien_adrian@moe.edu.sg)</a><br>
-Mr Lim Jit Hiang <a href="mailto: lim_jit_hiang@moe.edu.sg">(lim_jit_hiang@moe.edu.sg)</a><br>
+Mdm Chen Cui Xia <a href="mailto: chen_cui_xia@moe.edu.sg">(chen_cui_xia@moe.edu.sg)</a><br>
+Mdm Liang Xingfen Michelle <a href="mailto: liang_xingfen@moe.edu.sg">(liang_xingfen@moe.edu.sg)</a><br>
 
 ![](/images/conceptphotos_top_ST1_1992.jpg)
 
