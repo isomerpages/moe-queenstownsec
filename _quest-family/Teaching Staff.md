@@ -109,23 +109,23 @@ Mdm Liang Xingfen Michelle <a href="mailto: liang_xingfen@moe.edu.sg">(liang_xin
 #### Secondary Three<br>
 
 **<u>3 Gratitude (3 GR)</u>** <br>
-Mrs Dass <a href="mailto: sakunthalai_surian@moe.edu.sg">(sakunthalai_surian@moe.edu.sg)</a><br>
-Mdm Qu Caiyan <a href="mailto: qu_caiyan@moe.edu.sg">(qu_caiyan@moe.edu.sg)</a><br>
-Miss Lee Mei Teng Finna <a href="mailto: lee_mei_teng_finna@moe.edu.sg">(lee_mei_teng_finna@moe.edu.sg)</a><br>
+Mr Leong Jun Yi Ian <a href="mailto: ian_leong@moe.edu.sg">(ian_leong@moe.edu.sg)</a><br>
+Miss Shermine Chan Pei Wen <a href="mailto: shermine_chan_pei_wen@moe.edu.sg">(shermine_chan_pei_wen@moe.edu.sg)</a><br>
+
 
 **<u>3 Aspire (3 AS)</u>** <br>
-Mdm Koh Gek Khim <a href="mailto: koh_gek_khim@moe.edu.sg">(koh_gek_khim@moe.edu.sg)</a><br>
-Mdm Stella Ng <a href="mailto: ng_kiat_ee_stella@moe.edu.sg">(ng_kiat_ee_stella@moe.edu.sg)</a><br>
+Miss Sim Zhi Xin <a href="mailto: sim_zhi_xin@moe.edu.sg">(sim_zhi_xin@moe.edu.sg)</a><br>
+Miss Siti Nur Aisyah Binte Shawall <a href="mailto: siti_nur_aisyah_shawall@moe.edu.sg">(siti_nur_aisyah_shawall@moe.edu.sg)</a><br>
 
 
 **<u>3 Respect (3 RP)</u>** <br>
-Ms Azlina <a href="mailto: azlina_ali@moe.edu.sg">(azlina_ali@moe.edu.sg)</a><br>
-Mr Matthias Wan <a href="mailto: wan_zi_cheng@moe.edu.sg">(wan_zi_cheng@moe.edu.sg)</a><br>
+Miss Ng Li Khoon Nancy <a href="mailto: ng_li_khoon@moe.edu.sg">(ng_li_khoon@moe.edu.sg)</a><br>
+Mr Ng Wern Chin Sean <a href="mailto: ng_wern_chin@moe.edu.sg">(ng_wern_chin@moe.edu.sg)</a><br>
 
 **<u>3 Resilience (3 RL)</u>** <br>
-Mdm Jayasolai <a href="mailto: jayasolai_a@moe.edu.sg">(jayasolai_a@moe.edu.sg)</a><br>
-Mr Saratkumar <a href="mailto: saratkumar_ganasekaran@moe.edu.sg">(saratkumar_ganasekaran@moe.edu.sg)</a><br>
-Mr Benedict See-Toh Kam Hung <a href="mailto: benedict_seetoh_kam_hung@moe.edu.sg>">(benedict_seetoh_kam_hung@moe.edu.sg)</a><br>
+Mr Fu Ruiqi <a href="mailto: fu_ruiqi@moe.edu.sg">(fu_ruiqi@moe.edu.sg)</a><br>
+Mdm Ng Lee Choo <a href="mailto: ong-ng_lee_choo@moe.edu.sg">(ong-ng_lee_choo@moe.edu.sg)</a><br>
+
 
 **<u>3 Integrity (3 IN)</u>** <br>
 Ms Noryanti <a href="mailto: noryanti_md_aris@moe.edu.sg">(noryanti_md_aris@moe.edu.sg)</a><br>
