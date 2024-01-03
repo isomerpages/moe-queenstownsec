@@ -155,17 +155,17 @@ Miss Azlina Binte Ali <a href="mailto: azlina_ali@moe.edu.sg">(azlina_ali@moe.ed
 Mr Wan Zi Cheng Matthias <a href="mailto: wan_zi_cheng@moe.edu.sg">(wan_zi_cheng@moe.edu.sg)</a><br>
 
 **<u>4 Resilience (4 RL)</u>** <br>
-Ms Nur Haryani <a href="mailto: nur_haryani_mohamed_hatta@moe.edu.sg">(nur_haryani_mohamed_hatta@moe.edu.sg)</a><br>
-Ms Law Geok Cheng <a href="mailto: law_geok_cheng@moe.edu.sg">(law_geok_cheng@moe.edu.sg)</a><br>
+Mdm Jayasolai <a href="mailto: jayasolai_a@moe.edu.sg">(jayasolai_a@moe.edu.sg)</a><br>
+Mdm Hor Kah Yan <a href="mailto: hor_kah_yan@moe.edu.sg">(hor_kah_yan@moe.edu.sg)</a><br>
 
 
 **<u>4 Integrity (4 IN)</u>** <br>
-Mdm Cynthia Chang <a href="mailto: chang_yee_ping_cynthia@moe.edu.sg">(chang_yee_ping_cynthia@moe.edu.sg)</a><br>
-Mdm Grace Khoo <a href="mailto: khoo_siew_hwee@moe.edu.sg">(khoo_siew_hwee@moe.edu.sg)</a><br>
+Miss Noryanti Binti Md Aris <a href="mailto: noryanti_md_aris@moe.edu.sg">(noryanti_md_aris@moe.edu.sg)</a><br>
+Mdm Tang Siow Leng <a href="mailto: tang_siow_leng@moe.edu.sg">(tang_siow_leng@moe.edu.sg)</a><br>
 
 **<u>4 Care (4 CA)</u>** <br>
-Mr Muhammad Fazari <a href="mailto: fazari_othman_muhammad@moe.edu.sg">(fazari_othman_muhammad@moe.edu.sg)</a><br>
-Mr Lim Li Cheng <a href="mailto: lim_li_cheng@moe.edu.sg">(lim_li_cheng@moe.edu.sg)</a><br>
+Mdm Chan Chu Yin <a href="mailto: chan_chu_yin@moe.edu.sg">(chan_chu_yin@moe.edu.sg)</a><br>
+Mr Chia Teck Seng <a href="mailto: chia_teck_seng@moe.edu.sg">(chia_teck_seng@moe.edu.sg)</a><br>
 
 **<u>4 Excellence (4 EX)</u>** <br>
 Mdm Farhati <a href="mailto: farhati_ahmad@moe.edu.sg">(farhati_ahmad@moe.edu.sg)</a><br>
