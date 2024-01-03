@@ -78,7 +78,6 @@ Mr Peng Boon Yen <a href="mailto: peng_boon_yen@moe.edu.sg">(peng_boon_yen@moe.e
 Mdm Pang Yuming Amy <a href="mailto: pang_yu_ming@moe.edu.sg">(pang_yu_ming@moe.edu.sg)</a><br>
 Mr Sean David <a href="mailto: sean_david@moe.edu.sg">(sean_david@moe.edu.sg)</a><br>
 
-
 **<u>2 Integrity (2 IN)</u>** <br>
 Mr Melvin Tan <a href="mailto: tan_wee_yau_melvin@moe.edu.sg">(tan_wee_yau_melvin@moe.edu.sg)</a><br>
 Mdm Rozita <a href="mailto: rozita_beram@moe.edu.sg">(rozita_beram@moe.edu.sg)</a><br>
