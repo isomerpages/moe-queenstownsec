@@ -168,15 +168,15 @@ Mdm Chan Chu Yin <a href="mailto: chan_chu_yin@moe.edu.sg">(chan_chu_yin@moe.edu
 Mr Chia Teck Seng <a href="mailto: chia_teck_seng@moe.edu.sg">(chia_teck_seng@moe.edu.sg)</a><br>
 
 **<u>4 Excellence (4 EX)</u>** <br>
-Mdm Farhati <a href="mailto: farhati_ahmad@moe.edu.sg">(farhati_ahmad@moe.edu.sg)</a><br>
-Mdm Yahida Yahya <a href="mailto: yahida_yahya@moe.edu.sg">(yahida_yahya@moe.edu.sg)</a><br>
-Mdm Michelle Phoo <a href="mailto: phoo_wey_wey@moe.edu.sg">(phoo_wey_wey@moe.edu.sg)</a><br>
+Mdm Minna Koh <a href="mailto: koh_minna@moe.edu.sg">(koh_minna@moe.edu.sg)</a><br>
+Mr Thomas Tan Wei Boon <a href="mailto: tan_wei_boon_thomas@moe.edu.sg">(tan_wei_boon_thomas@moe.edu.sg)</a><br>
+
 
 #### Secondary Five <br>
 
 **<u>5 Aspire (5 AS)</u>** <br>
 Ms Amanda Liu <a href="mailto: liu_yuanxin_amanda@moe.edu.sg">(liu_yuanxin_amanda@moe.edu.sg)</a><br>
-Miss Sim Zhi Xin <a href="mailto: sim_zhi_xin@moe.edu.sg">(sim_zhi_xin@moe.edu.sg)</a><br>
+
 
 
 <br>
