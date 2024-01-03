@@ -76,8 +76,8 @@ Mr Peng Boon Yen <a href="mailto: peng_boon_yen@moe.edu.sg">(peng_boon_yen@moe.e
 
 **<u>2 Resilience (2 RL)</u>** <br>
 Mdm Pang Yuming Amy <a href="mailto: pang_yu_ming@moe.edu.sg">(pang_yu_ming@moe.edu.sg)</a><br>
-Mr Fu Rui Qi <a href="mailto: fu_ruiqi@moe.edu.sg">(fu_ruiqi@moe.edu.sg)</a><br>
-Miss Jeanice Toh  <a href="mailto: jeanice_toh_yu_ling@moe.edu.sg">(jeanice_toh_yu_ling@moe.edu.sg)</a><br>
+Mr Sean David <a href="mailto: sean_david@moe.edu.sg">(sean_david@moe.edu.sg)</a><br>
+
 
 **<u>2 Integrity (2 IN)</u>** <br>
 Mr Melvin Tan <a href="mailto: tan_wee_yau_melvin@moe.edu.sg">(tan_wee_yau_melvin@moe.edu.sg)</a><br>
