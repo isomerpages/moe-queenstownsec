@@ -44,12 +44,12 @@ Mdm Chang Yee Ping Cynthia <a href="mailto: chang_yee_ping_cynthia@moe.edu.sg">(
 Ms Bairavanathan Deepa <a href="mailto: bairavanathan_deepa@moe.edu.sgg">(bairavanathan_deepa@moe.edu.sg)</a><br>
 
 **<u>1 Resilience (1 RL)</u>** <br>
-Mdm Amy Pang <a href="mailto: pang_yu_ming@moe.edu.sg">(pang_yu_ming@moe.edu.sg)</a><br>
-Mr Sean David  <a href="mailto: sean_david@moe.edu.sg">(sean_david@moe.edu.sg)</a><br>
+Mr Yuen Cheng Mun Jansen <a href="mailto: yuen_cheng_mun_jansen@moe.edu.sg">(yuen_cheng_mun_jansen@moe.edu.sg)</a><br>
+Mdm Vijayarani d/o Govindasamy  <a href="mailto: vijayarani_govindasamy@moe.edu.sg">(vijayarani_govindasamy@moe.edu.sg)</a><br>
 
 **<u>1 Integrity (1 IN)</u>** <br>
-Mdm Nur Shiqah <a href="mailto: nur_shiqah_hashim@moe.edu.sg">(nur_shiqah_hashim@moe.edu.sg)</a><br>
-Mr Perdana Putra <a href="mailto: pan_ping_rui_perdana@moe.edu.sg">(pan_ping_rui_perdana@moe.edu.sg)</a><br>
+Mr Lim Jit Hiang <a href="mailto: lim_jit_hiang@moe.edu.sg">(lim_jit_hiang@moe.edu.sg)</a><br>
+Ms Ng Kai Jun <a href="mailto: ng_kai_jun_a@moe.edu.sg">(ng_kai_jun_a@moe.edu.sg)</a><br>
 
 **<u>1 Care (1 CA)</u>** <br>
 Mr Chandragus Rinah <a href="mailto: chandragus_a@moe.edu.sg">(chandragus_a@moe.edu.sg)</a><br>
