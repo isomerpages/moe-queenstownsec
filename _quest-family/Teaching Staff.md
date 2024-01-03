@@ -2,6 +2,7 @@
 title: Teaching Staff
 permalink: /about-us/quest-family/teaching-staff/
 description: ""
+variant: markdown
 ---
 ### TEACHER LEADERS
 
@@ -31,15 +32,15 @@ description: ""
 #### Secondary One <br>
 
 **<u>1 Gratitude (1 GR)</u>** <br>
-Ms Ellie Doong <a href="mailto: doong_siew_gee_ellie@moe.edu.sg">(doong_siew_gee_ellie@moe.edu.sg)</a><br>
-Mr Chan Wei Lek, Alvin <a href="mailto: chan_wei_lek_alvin@moe.edu.sg">(chan_wei_lek_alvin@moe.edu.sg)</a><br>
+Ms Han Huixuan Dilys <a href="mailto: han_huixuan_dilys@moe.edu.sg">(han_huixuan_dilys@moe.edu.sg)</a><br>
+Mr Foo Chuan Yee Daniel <a href="mailto: foo_chuan_yee_daniel@moe.edu.sg">(foo_chuan_yee_daniel@moe.edu.sg)</a><br>
 
 **<u>1 Aspire (1 AS)</u>** <br>
-Mr Tay Yee Kai <a href="mailto: tay_yee_kai@moe.edu.sg">(tay_yee_kai@moe.edu.sg)</a><br>
-Ms Ow Hui Keng <a href="mailto: ow_hui_keng@moe.edu.sg">(ow_hui_keng@moe.edu.sg)</a><br>
+Mdm Amanda Liu <a href="mailto: liu_yuanxin_amanda@moe.edu.sg">(liu_yuanxin_amanda@moe.edu.sg)</a><br>
+Mr Ernest Tan Jing Heng <a href="mailto: ernest_tan_jing_heng_a@moe.edu.sg">(ernest_tan_jing_heng_a@moe.edu.sg)</a><br>
 
 **<u>1 Respect (1 RP)</u>** <br>
-Mr Peng Boon Yen <a href="mailto: boon_yen_peng@moe.edu.sg">(boon_yen_peng@moe.edu.sg)</a><br>
+Mdm Chang Yee Ping Cynthia <a href="mailto: boon_yen_peng@moe.edu.sg">(boon_yen_peng@moe.edu.sg)</a><br>
 Mr Nelaothaman <a href="mailto: nelaothaman_suppayan@moe.edu.sg">(nelaothaman_suppayan@moe.edu.sg)</a><br>
 
 **<u>1 Resilience (1 RL)</u>** <br>
