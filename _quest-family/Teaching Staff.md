@@ -79,8 +79,8 @@ Mdm Pang Yuming Amy <a href="mailto: pang_yu_ming@moe.edu.sg">(pang_yu_ming@moe.
 Mr Sean David <a href="mailto: sean_david@moe.edu.sg">(sean_david@moe.edu.sg)</a><br>
 
 **<u>2 Integrity (2 IN)</u>** <br>
-Mr Melvin Tan <a href="mailto: tan_wee_yau_melvin@moe.edu.sg">(tan_wee_yau_melvin@moe.edu.sg)</a><br>
-Mdm Rozita <a href="mailto: rozita_beram@moe.edu.sg">(rozita_beram@moe.edu.sg)</a><br>
+Mdm Nur Shiqah Binte Hashim <a href="mailto: nur_shiqah_hashim@moe.edu.sg">(nur_shiqah_hashim@moe.edu.sg)</a><br>
+Mr Perdana Putra <a href="mailto: perdana_putra_pan@moe.edu.sg">(perdana_putra_pan@moe.edu.sg)</a><br>
 
 **<u>2 Care (2 CA)</u>** <br>
 Mdm Neo Chai Meng <a href="mailto: neo_chai_meng@moe.edu.sg">(neo_chai_meng@moe.edu.sg)</a><br>
