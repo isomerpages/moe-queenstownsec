@@ -32,7 +32,7 @@ variant: markdown
 #### Secondary One <br>
 
 **<u>1 Gratitude (1 GR)</u>** <br>
-Ms Han Huixuan Dilys <a href="mailto: han_huixuan_dilys@moe.edu.sg">(han_huixuan_dilys@moe.edu.sg)</a><br>
+Miss Han Huixuan Dilys <a href="mailto: han_huixuan_dilys@moe.edu.sg">(han_huixuan_dilys@moe.edu.sg)</a><br>
 Mr Foo Chuan Yee Daniel <a href="mailto: foo_chuan_yee_daniel@moe.edu.sg">(foo_chuan_yee_daniel@moe.edu.sg)</a><br>
 
 **<u>1 Aspire (1 AS)</u>** <br>
@@ -49,26 +49,26 @@ Mdm Vijayarani d/o Govindasamy  <a href="mailto: vijayarani_govindasamy@moe.edu.
 
 **<u>1 Integrity (1 IN)</u>** <br>
 Mr Lim Jit Hiang <a href="mailto: lim_jit_hiang@moe.edu.sg">(lim_jit_hiang@moe.edu.sg)</a><br>
-Ms Ng Kai Jun <a href="mailto: ng_kai_jun_a@moe.edu.sg">(ng_kai_jun_a@moe.edu.sg)</a><br>
+Miss Ng Kai Jun <a href="mailto: ng_kai_jun_a@moe.edu.sg">(ng_kai_jun_a@moe.edu.sg)</a><br>
 
 **<u>1 Care (1 CA)</u>** <br>
-Mr Chandragus Rinah <a href="mailto: chandragus_a@moe.edu.sg">(chandragus_a@moe.edu.sg)</a><br>
-Mdm Xu Su <a href="mailto: xu_su@moe.edu.sg">(xu_su@moe.edu.sg)</a><br>
+Mdm Neo Chai Meng <a href="mailto: neo_chai_meng@moe.edu.sg">(neo_chai_meng@moe.edu.sg)</a><br>
+Miss Charis Cho <a href="mailto: charis_cho@moe.edu.sg">(charis_cho@moe.edu.sg)</a><br>
 
 
 **<u>1 Excellence (1 EX)</u>** <br>
-Ms Chen Cui Xia <a href="mailto: chen_cui_xia@moe.edu.sg">(chen_cui_xia@moe.edu.sg)</a><br>
-Mdm Michelle Liang <a href="mailto: liang_xingfen@moe.edu.sg">(liang_xingfen@moe.edu.sg)</a><br>
+Mdm Phoo Wey Wey <a href="mailto: phoo_wey_wey@moe.edu.sg">(phoo_wey_wey@moe.edu.sg)</a><br>
+Mr Kway Yuan Tern Kenneth <a href="kway_yuan_tern_kenneth@moe.edu.sg">(kway_yuan_tern_kenneth@moe.edu.sg)</a><br>
 
 #### Secondary Two<br>
 
 **<u>2 Gratitude (2 GR)</u>** <br>
-Mr Ian Leong <a href="mailto: ian_leong@moe.edu.sg">(ian_leong@moe.edu.sg)</a><br>
-Ms Shermaine Chan <a href="mailto: shermine_chan_pei_wen@moe.edu.sg">(shermine_chan_pei_wen@moe.edu.sg)</a><br>
+Mr Chan Wei Lek Alvin <a href="mailto: chan_wei_lek_alvin@moe.edu.sg">(chan_wei_lek_alvin@moe.edu.sg)</a><br>
+Miss Doong Siew Gee Ellie <a href="mailto: doong_siew_gee_ellie@moe.edu.sg">(doong_siew_gee_ellie@moe.edu.sg)</a><br>
 
 **<u>2 Aspire (2 AS)</u>** <br>
-Mr Daniel Foo <a href="mailto: foo_chuan_yee_daniel@moe.edu.sg">(foo_chuan_yee_daniel@moe.edu.sg)</a><br>
-Ms Siti Nur Aisyah <a href="mailto: siti_nur_aisyah_shawall@moe.edu.sg">(siti_nur_aisyah_shawall@moe.edu.sg)</a><br>
+Miss Ow Hui Keng <a href="mailto: ow_hui_keng@moe.edu.sg">(ow_hui_keng@moe.edu.sg)</a><br>
+Mr Tay Yee Kai <a href="mailto: tay_yee_kai@moe.edu.sg">(tay_yee_kai@moe.edu.sg)</a><br>
 
 **<u>2 Respect (2 RP)</u>** <br>
 Ms Nancy Ng <a href="mailto: ng_li_khoon@moe.edu.sg">(ng_li_khoon@moe.edu.sg)</a><br>
