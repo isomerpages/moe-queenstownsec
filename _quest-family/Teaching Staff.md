@@ -71,7 +71,7 @@ Miss Ow Hui Keng <a href="mailto: ow_hui_keng@moe.edu.sg">(ow_hui_keng@moe.edu.s
 Mr Tay Yee Kai <a href="mailto: tay_yee_kai@moe.edu.sg">(tay_yee_kai@moe.edu.sg)</a><br>
 
 **<u>2 Respect (2 RP)</u>** <br>
-Ms Nancy Ng <a href="mailto: ng_li_khoon@moe.edu.sg">(ng_li_khoon@moe.edu.sg)</a><br>
+Mr Lim Li Cheng <a href="mailto: lim_li_cheng@moe.edu.sg">(lim_li_cheng@moe.edu.sg)</a><br>
 Mr Sean Ng <a href="mailto: ng_wern_chin@moe.edu.sg">(ng_wern_chin@moe.edu.sg)</a><br>
 
 **<u>2 Resilience (2 RL)</u>** <br>
