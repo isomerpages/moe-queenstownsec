@@ -24,7 +24,7 @@ variant: markdown
 | Appointment | Name | Email Address |
 | -------- | -------- | -------- |
 | Year Head    | Ms Han Chin Woon, Janice    | <a href="mailto: han_chin_woon_janice@moe.edu.sg">han_chin_woon_janice@moe.edu.sg</a>     |
-| Assistant Year Head    | Mr Lee Wing Sheng   | <a href="mailto: lee_wing_sheng@moe.edu.sg">lee_wing_sheng@moe.edu.sg</a>    |
+| Coordinator    | Mr Muhd Fazari Bin Othman  | <a href="mailto: fazari_othman_muhammad@moe.edu.sg">fazari_othman_muhammad@moe.edu.sg</a>    |
 | SH Student Management| Mdm Noorheriza B Mohd Aris| <a href="mailto: noorheriza_mohammed_aris@moe.edu.sg"> noorheriza_mohammed_aris@moe.edu.sg</a>   |
 | | | |
 
