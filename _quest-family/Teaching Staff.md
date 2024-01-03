@@ -128,16 +128,16 @@ Mdm Ng Lee Choo <a href="mailto: ong-ng_lee_choo@moe.edu.sg">(ong-ng_lee_choo@mo
 
 
 **<u>3 Integrity (3 IN)</u>** <br>
-Ms Noryanti <a href="mailto: noryanti_md_aris@moe.edu.sg">(noryanti_md_aris@moe.edu.sg)</a><br>
-Mdm Tang Siow Leng <a href="mailto: tang_siow_leng@moe.edu.sg">(tang_siow_leng@moe.edu.sg)</a><br>
+Mr Melvin Tan Wee Yau <a href="mailto: tan_wee_yau_melvin@moe.edu.sg">(tan_wee_yau_melvin@moe.edu.sg)</a><br>
+Mdm Rozita Bte Beram <a href="mailto: rozita_beram@moe.edu.sg">(rozita_beram@moe.edu.sg)</a><br>
 
 **<u>3 Care (3 CA)</u>** <br>
-Ms Chan Chu Yin <a href="mailto: chan_chu_yin@moe.edu.sg">(chan_chu_yin@moe.edu.sg)</a><br>
-Mr Chia Teck Seng <a href="mailto: chia_teck_seng@moe.edu.sg">(chia_teck_seng@moe.edu.sg)</a><br>
+Mr Tan Jin Kiang Joel <a href="mailto: tan_jin_kiang_joel@moe.edu.sg">(tan_jin_kiang_joel@moe.edu.sg)</a><br>
+Mdm Lee Mei Teng Finna <a href="mailto: lee_mei_teng_finna@moe.edu.sg">(lee_mei_teng_finna@moe.edu.sg)</a><br>
 
 **<u>3 Excellence (3 EX)</u>** <br>
-Mdm Minna Koh <a href="mailto: koh_minna@moe.edu.sg">(koh_minna@moe.edu.sg)</a><br>
-Ms Germaine Jacolyn Peter <a href="mailto: germaine_jacolyn_peter@moe.edu.sg">(germaine_jacolyn_peter@moe.edu.sg)</a><br>
+Mr Chia Wen Mien Adrian <a href="mailto: chia_wen_mien_adrian@moe.edu.sg">(chia_wen_mien_adrian@moe.edu.sg)</a><br>
+Mdm Yahida Bte Yahya <a href="mailto: yahida_yahya@moe.edu.sg">(yahida_yahya@moe.edu.sg)</a><br>
 
 #### Secondary Four <br>
 
