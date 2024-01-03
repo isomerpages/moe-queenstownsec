@@ -38,7 +38,6 @@ School Management Committee
 | LT English Language and Literature&nbsp; | Mdm Sakunthalai d/o Surian&nbsp;&nbsp;&nbsp;&nbsp; | <a href="mailto: sakunthalai_surian@moe.edu.sg"> sakunthalai_surian@moe.edu.sg</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | Year Head (Lower Sec)| Mdm Han Chin Woon Janice  | <a href="han_chin_woon_janice@moe.edu.sg"> han_chin_woon_janice@moe.edu.sg</a>      |
 | Year Head (Upper Sec)| Ms Kang Poh Geok | <a href="kang_poh_geok@moe.edu.sg"> kang_poh_geok@moe.edu.sg</a>      |
-| Assistant Year Head| Mr Lee Wing Sheng | <a href="lee_wing_sheng@moe.edu.sg"> lee_wing_sheng@moe.edu.sg</a>      |
 | SH English Language| Mr Perdana Putra  | <a href="pan_ping_rui_perdana@moe.edu.sg"> pan_ping_rui_perdana@moe.edu.sg</a>      |
 | SH Mathematics| Mdm Jayasolai | <a href="jayasolai_a@moe.edu.sg"> jayasolai_a@moe.edu.sg</a>      |
 | SH History| Ms Azlina Bte Ali | <a href="azlina_ali@moe.edu.sg"> azlina_ali@moe.edu.sg</a>      |
