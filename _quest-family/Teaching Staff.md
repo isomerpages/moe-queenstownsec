@@ -148,11 +148,11 @@ Mdm Sakunthalai d/o Surian <a href="mailto: sakunthalai_surian@moe.edu.sg">(saku
 
 **<u>4 Aspire (4 AS)</u>** <br>
 Mdm Koh Gek Khim <a href="mailto: koh_gek_khim@moe.edu.sgg">(koh_gek_khim@moe.edu.sg)</a><br>
-Mdm Stella Ng Kiat Ee <a href="mailto: ng_kai_jun_a@moe.edu.sg">(ng_kai_jun_a@moe.edu.sg)</a><br>
+Mdm Stella Ng Kiat Ee <a href="mailto: ng_kiat_ee_stella@moe.edu.sg">(ng_kiat_ee_stella@moe.edu.sg)</a><br>
 
 **<u>4 Respect (4 RP)</u>** <br>
-Mr Thomas Tan <a href="mailto: tan_wei_boon_thomas@moe.edu.sg">(tan_wei_boon_thomas@moe.edu.sg)</a><br>
-Miss Yong Tai Si <a href="mailto: yong_tai_si@moe.edu.sg">(yong_tai_si@moe.edu.sg)</a><br>
+Miss Azlina Binte Ali <a href="mailto: azlina_ali@moe.edu.sg">(azlina_ali@moe.edu.sg)</a><br>
+Mr Wan Zi Cheng Matthias <a href="mailto: wan_zi_cheng@moe.edu.sg">(wan_zi_cheng@moe.edu.sg)</a><br>
 
 **<u>4 Resilience (4 RL)</u>** <br>
 Ms Nur Haryani <a href="mailto: nur_haryani_mohamed_hatta@moe.edu.sg">(nur_haryani_mohamed_hatta@moe.edu.sg)</a><br>
