@@ -40,7 +40,7 @@ Mdm Amanda Liu <a href="mailto: liu_yuanxin_amanda@moe.edu.sg">(liu_yuanxin_aman
 Mr Ernest Tan Jing Heng <a href="mailto: ernest_tan_jing_heng_a@moe.edu.sg">(ernest_tan_jing_heng_a@moe.edu.sg)</a><br>
 
 **<u>1 Respect (1 RP)</u>** <br>
-Mdm Chang Yee Ping Cynthia <a href="mailto: boon_yen_peng@moe.edu.sg">(boon_yen_peng@moe.edu.sg)</a><br>
+Mdm Chang Yee Ping Cynthia <a href="mailto: chang_yee_ping_cynthia@moe.edu.sg">(chang_yee_ping_cynthia@moe.edu.sg)</a><br>
 Mr Nelaothaman <a href="mailto: nelaothaman_suppayan@moe.edu.sg">(nelaothaman_suppayan@moe.edu.sg)</a><br>
 
 **<u>1 Resilience (1 RL)</u>** <br>
