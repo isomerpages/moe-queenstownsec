@@ -83,8 +83,8 @@ Mdm Nur Shiqah Binte Hashim <a href="mailto: nur_shiqah_hashim@moe.edu.sg">(nur_
 Mr Perdana Putra <a href="mailto: perdana_putra_pan@moe.edu.sg">(perdana_putra_pan@moe.edu.sg)</a><br>
 
 **<u>2 Care (2 CA)</u>** <br>
-Mdm Neo Chai Meng <a href="mailto: neo_chai_meng@moe.edu.sg">(neo_chai_meng@moe.edu.sg)</a><br>
-Mr Tan Jin Kiang Joel <a href="mailto: tan_jin_kiang_joel@moe.edu.sg">(tan_jin_kiang_joel@moe.edu.sg)</a><br>
+Mr Chandragus Rinah <a href="mailto: chandragus_a@moe.edu.sg">(chandragus_a@moe.edu.sg)</a><br>
+Mdm Xu Su <a href="mailto: xu_su@moe.edu.sg">(xu_su@moe.edu.sg)</a><br>
 
 **<u>2 Excellence (2 EX)</u>** <br>
 Mr Adrian Chia <a href="mailto: chia_wen_mien_adrian@moe.edu.sg">(chia_wen_mien_adrian@moe.edu.sg)</a><br>
