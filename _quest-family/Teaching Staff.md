@@ -26,8 +26,9 @@ variant: markdown
 | Year Head    | Ms Han Chin Woon, Janice    | <a href="mailto: han_chin_woon_janice@moe.edu.sg">han_chin_woon_janice@moe.edu.sg</a>     |
 | Coordinator    | Mr Muhd Fazari Bin Othman  | <a href="mailto: fazari_othman_muhammad@moe.edu.sg">fazari_othman_muhammad@moe.edu.sg</a>    |
 | Sec 1 Level Mentor| Mdm Noorheriza B Mohd Aris| <a href="mailto: noorheriza_mohammed_aris@moe.edu.sg"> noorheriza_mohammed_aris@moe.edu.sg</a> 
-| Sec 1 Level Mentor| Mdm Chan Chu Yin| <a href="mailto: noorheriza_mohammed_aris@moe.edu.sg"> noorheriza_mohammed_aris@moe.edu.sg</a> 
-|  Sec  Level Mentor| Mdm Chan Chu Yin| <a href="mailto: noorheriza_mohammed_aris@moe.edu.sg"> noorheriza_mohammed_aris@moe.edu.sg</a> 
+| Sec 1 Level Mentor| Mdm Chan Chu Yin| <a href="mailto: chan_chu_yin@moe.edu.sg"> chan_chu_yin@moe.edu.sg</a> 
+| Sec 2 Level Mentor| Mdm Germaine Jacolyn Peter - Huang| <a href="mailto: noorheriza_mohammed_aris@moe.edu.sg"> noorheriza_mohammed_aris@moe.edu.sg</a> 
+| Sec 2 Level Mentor| Mdm Siti Nurbaizura Binte Punawan| <a href="mailto: siti_nurbaizura_punawan@moe.edu.sg"> siti_nurbaizura_punawan@moe.edu.sg</a> 
 |  
 
 
