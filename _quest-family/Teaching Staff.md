@@ -175,7 +175,7 @@ Mr Thomas Tan Wei Boon <a href="mailto: tan_wei_boon_thomas@moe.edu.sg">(tan_wei
 #### Secondary Five <br>
 
 **<u>5 Aspire (5 AS)</u>** <br>
-Ms Amanda Liu <a href="mailto: liu_yuanxin_amanda@moe.edu.sg">(liu_yuanxin_amanda@moe.edu.sg)</a><br>
+Mdm Khoo Siew Hwee Grace <a href="mailto: khoo_siew_hwee@moe.edu.sg">(khoo_siew_hwee@moe.edu.sg)</a><br>
 
 
 
