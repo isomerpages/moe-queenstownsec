@@ -142,13 +142,13 @@ Mdm Yahida Bte Yahya <a href="mailto: yahida_yahya@moe.edu.sg">(yahida_yahya@moe
 #### Secondary Four <br>
 
 **<u>4 Gratitude (4 GR)</u>** <br>
-Mdm Hor Kah Yan <a href="mailto: hor_kah_yan@moe.edu.sg">(hor_kah_yan@moe.edu.sg)</a><br>
-Mdm Kousalya <a href="mailto: sundaram_kousalya@moe.edu.sg">(sundaram_kousalya@moe.edu.sg)</a><br>
+Mdm Qu Caiyan <a href="mailto: qu_caiyan@moe.edu.sgg">(qu_caiyan@moe.edu.sg)</a><br>
+Mdm Sakunthalai d/o Surian <a href="mailto: sakunthalai_surian@moe.edu.sg">(sakunthalai_surian@moe.edu.sg)</a><br>
 
 
 **<u>4 Aspire (4 AS)</u>** <br>
-Mr Jansen Yuen <a href="mailto: yuen_cheng_mun_jansen@moe.edu.sg">(yuen_cheng_mun_jansen@moe.edu.sg)</a><br>
-Ms Ng Kai Jun <a href="mailto: ng_kai_jun_a@moe.edu.sg">(ng_kai_jun_a@moe.edu.sg)</a><br>
+Mdm Koh Gek Khim <a href="mailto: koh_gek_khim@moe.edu.sgg">(koh_gek_khim@moe.edu.sg)</a><br>
+Mdm Stella Ng Kiat Ee <a href="mailto: ng_kai_jun_a@moe.edu.sg">(ng_kai_jun_a@moe.edu.sg)</a><br>
 
 **<u>4 Respect (4 RP)</u>** <br>
 Mr Thomas Tan <a href="mailto: tan_wei_boon_thomas@moe.edu.sg">(tan_wei_boon_thomas@moe.edu.sg)</a><br>
