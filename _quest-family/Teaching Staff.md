@@ -14,8 +14,7 @@ variant: markdown
 | ST Malay Language  | Mdm Yahida Yahya     | <a href="mailto: yahida_yahya@moe.edu.sg"> yahida_yahya@moe.edu.sg</a>      |
 | ST Design &amp; Technology  | Mr Ng Wern Chin Sean     | <a href="mailto: ng_wern_chin@moe.edu.sg"> ng_wern_chin@moe.edu.sg </a>      |
 | ST Mathematics  | Mdm Neo Chai Meng    | <a href="mailto: neo_chai_meng@moe.edu.sg"> neo_chai_meng@moe.edu.sg</a>      |
-| ST Chinese Language  | Ms Law Geok Cheng    | <a href="mailto: law_geok_cheng@moe.edu.sg"> law_geok_cheng@schools.gov.sg</a>      |
-| | | |
+|
 
 ![](/images/conceptphotos_top_ST1_1849.jpg)
 ### **CLASS MENTOR LIST (SEM 2 2023)**
