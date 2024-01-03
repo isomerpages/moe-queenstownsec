@@ -20,6 +20,7 @@ Non-Teaching Staff
 | CSO |  Ms Fauziah Bte Hamid | <a href="mailto: fauziah_hamid@schools.gov.sg"> fauziah_hamid@schools.gov.sg</a>      |
 | Workshop Instructor |  Mr Mohamad Yazid Hassan| <a href="mailto: mohamad_yazid_hassan@moe.edu.sg"> mohamad_yazid_hassan@moe.edu.sg</a>      |
 | Workshop Instructor |  Mr Ong Ah Beng | <a href="mailto: ong_ah_beng@moe.edu.sg"> ong_ah_beng@moe.edu.sg</a>      |
+| Workshop Instructor |  Mr Mohamed Rasid Bin Asbu | <a href="mailto: mohamed_rasid_asbu@moe.edu.sg"> mohamed_rasid_asbu@moe.edu.sg</a>      |
 | Lab Technician|  Mr Muhammad Firdaus Noah| <a href="mailto: muhd_firdaus_b_noah@moe.edu.sg"> muhd_firdaus_b_noah@moe.edu.sg</a>      |
 | Lab Technician|  Mr Luqmannulhakim Norman| <a href="mailto: luqmannulhakim_norman@moe.edu.sg"> luqmannulhakim_norman@moe.edu.sg</a>      |
  | Desktop Engineer|  Mr Aiman Bin Shamjafri| <a href="mailto: g-ncs3508sde@ncs.com.sg"> g-ncs3508sde@ncs.com.sg</a>      |
