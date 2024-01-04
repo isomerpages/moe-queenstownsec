@@ -2,6 +2,7 @@
 title: PLD Initiatives
 permalink: /parent-links/pld-initiatives/
 description: ""
+variant: markdown
 ---
 PLD Initiatives
 ===============
@@ -16,5 +17,5 @@ MOE has rolled out a Personal Learning Device (PLD) Initiative that requires eve
 ![](/images/NDLP%20DL.jpg)
 
 
-# **2023**
+# **2024**
 1) [Parent Engagement Slides 2023](/files/Parent-Engagement-Deck_07-Jan-2023.pdf)
