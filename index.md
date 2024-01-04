@@ -14,9 +14,9 @@ sections:
         - title: Sec 1 Registration (2024 Intake)
           description: ""
           url: /sec1registration-2024/
-        - title: N Level Results 2023 (Key Information)
+        - title: 2024 PLD Initiatives
           description: ""
-          url: /nlevelresults2023/
+          url: https://www.queenstownsec.moe.edu.sg/parent-links/pld-initiatives/
       background: /images/QTSS_Website_Banner.jpeg
   - infobar:
       title: 2024 Sec 1 Appeal for Transfer In
