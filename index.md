@@ -15,7 +15,7 @@ sections:
           description: ""
           url: /sec1registration-2024/
         - title: 2024 PLD Initiatives
-          description: Key Highlight description
+          description: ""
           url: https://www.queenstownsec.moe.edu.sg/parent-links/pld-initiatives/
       background: /images/QTSS_Website_Banner.jpeg
   - infobar:
