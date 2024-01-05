@@ -3,6 +3,7 @@ title: Red Cross
 permalink: /cca/uniform-groups/red-cross/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/CCA/EUA-Award-Gold-e1515400451212.jpg)
 
@@ -13,8 +14,8 @@ Red Cross Youth
 ----------------------
 
 *   Ms Ng Li Khoon Nancy – OIC
-*   Ms Tan Jin Ping Cherlyn - 2IC
-*   Ms Koh Gek Khim
+*   Mdm Tan Jin Ping Cherlyn - 2IC
+*   Mdm Koh Gek Khim
 
 **Awards**
 ----------
