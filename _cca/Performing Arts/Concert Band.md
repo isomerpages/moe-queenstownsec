@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /cca/performing-art/concert-band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/CCA/band.png)
 
@@ -13,8 +14,8 @@ Concert Band
 **Teachers-in-Charge**
 ----------------------
 
-*   Ms Liu Yuanxin Amanda – OIC
-*   Mdm Yeo Gek Eng
+*   Mdm Liu Yuanxin Amanda – OIC
+*   Mdm Chen Cui Xia
 *   Mdm Neo Chai Meng
 
 **Awards**
