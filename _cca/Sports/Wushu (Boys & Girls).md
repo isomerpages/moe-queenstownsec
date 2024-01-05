@@ -5,24 +5,4 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-![](/images/CCA/wushu.png)
-
-Wushu
-=====
-
-**Teachers-in-Charge**
-----------------------
-
-*   Mr Lee Wing Sheng - OIC
-*   Ms Law Geok Cheng (Ms)
-
-**Awards**
-----------
-
-*   National School Games ‘B’ & ‘C’ Boys & Girls Participation
-*   Taiji Quan ‘C’ Girls Taiji Sword ‘C’ Girls Participation,  4th in both discipline
-
-**More Information about the CCA**
-----------------------------------
-
-Wushu has provided an opportunity for students to enhance their ability, both physically and mentally. Our Wushu students participated in various activities such as training, performances and competitions which help them to develop greater confidence and skills. They have showed their resilience and positive attitude in CCA, which also enable them to maximize their ability to serve the school, community and society.
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/wushu.png"></div><h1>Wushu</h1><h2><strong>Teachers-in-Charge</strong></h2><ul data-tight="true" class="tight"><li><p>Mr Chia Wen Mien, Adrian - OIC</p></li><li><p>Mdm Nur Haryani Bte Mohamed Hatta</p></li></ul><h2><strong>Awards</strong></h2><ul data-tight="true" class="tight"><li><p>National School Games ‘B’ &amp; ‘C’ Boys &amp; Girls Participation</p></li><li><p>Taiji Quan ‘C’ Girls Taiji Sword ‘C’ Girls Participation,&nbsp; 4th in both discipline</p></li></ul><h2><strong>More Information about the CCA</strong></h2><p>As a performance sport, Wushu has always put up groups performances during celebratory events whether in school or for other organisations. Wushu CCA is glad to have welcomed many passionate Secondary One students this year, and alongside with the more experienced members, are raring to represent the school in competitions and public performances.&nbsp;&nbsp;</p><p>The have represented the school to participate in the following events and activities:</p><p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chinese New Year Concert performance&nbsp;</p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chinese New Year Carnival 2023&nbsp;</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National School Games (NSG) Wushu Competition 2023&nbsp;</p><p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speech and Prize Giving Day performance&nbsp;</p><p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore National Wushu Championship 2023&nbsp;</p><p></p><h2><strong>Achievements</strong></h2><ul data-tight="true" class="tight"><li><p>National School Games ‘B’ Division Girls Tajiquan – 4th Lim Kang Yee Carine&nbsp;</p></li></ul><p></p>
