@@ -2,21 +2,6 @@
 title: PLD Initiatives
 permalink: /parent-links/pld-initiatives/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-PLD Initiatives
-===============
-
-![](/images/Parents/PLD%201.png)
-
-
-MOE has rolled out a Personal Learning Device (PLD) Initiative that requires every secondary student to have access to his/her own Personal Learning Device (PLD). The aims are to enhance teaching and learning, support development of self-directedness, collaborative skills and digital literacies.  Details of the PLD Initiatives can found below:
-
-### ICT DIGITAL ITERACY PROGRAMME@QTSS
-----------------------------------
-![](/images/NDLP%20DL.jpg)
-
-
-# **2024**
-1) PowerPoint on [2024 QTSS PLD Initiatives - Parent Engagement Session](/files/PLD/2024%20qtss%20pld%20initiatives%20-%20parent%20engagement.pdf)
-2) [PLD Purchase Form](https://go.gov.sg/pdlpadmin )
+<h1>PLD Initiatives</h1><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/PLD%201.png"></div><p>MOE has rolled out a Personal Learning Device (PLD) Initiative that requires every secondary student to have access to his/her own Personal Learning Device (PLD). The aims are to enhance teaching and learning, support development of self-directedness, collaborative skills and digital literacies.&nbsp; Details of the PLD Initiatives can found below:</p><h3>ICT DIGITAL ITERACY PROGRAMME@QTSS</h3><hr><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDLP%20DL.jpg"></div><h1><strong>2024</strong></h1><ol data-tight="true" class="tight"><li><p>PowerPoint on <a href="/files/PLD/2024%20qtss%20pld%20initiatives%20-%20parent%20engagement.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 QTSS PLD Initiatives - Parent Engagement Session</a></p><p></p></li><li><p><a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank">PLD Purchase Form</a></p></li></ol><p></p>
