@@ -28,4 +28,3 @@ The pathways that allow these outcome to materialize, are via our three key prog
 (2) 3D printing where students make use of CAD drawing (computer aided design) such as Tinkercad, to generate prototype in PLA (polylactic acid) material. <br>
 (3) Traditional hands-on making, using cardboard, acrylic, wood, recycle material, to create products. 
 The lower secondary classes are taught Micro-bit and 3D printing via vendor support, while upper secondary classes engage in both teacher led projects and self-initiated projects, after gaining experience from the lower secondary learning.  
-Our club sessions are held every Wednesday afternoon, in the Design studios. 
