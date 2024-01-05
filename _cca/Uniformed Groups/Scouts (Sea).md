@@ -3,6 +3,7 @@ title: Scouts (Sea)
 permalink: /cca/uniform-groups/sea-scouts/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/CCA/scout.png)
 
@@ -15,6 +16,7 @@ Scouts (Sea)
 *   Ms Doong Siew Gee Ellie – OC
 *   Mr Chandragus Rinah – 2IC
 *   Mr Peng Boon Yen
+*   Kuay Yuan Tern, Kenneth
 
 **Awards**
 ----------
