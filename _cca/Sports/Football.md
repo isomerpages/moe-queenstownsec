@@ -19,30 +19,6 @@ Football
 *   Mdm Germaine Jacolyn Peter - Huang
 *   Mdm Tan Guek Hong Peggy
 
-**Vision**
-----------
-
-*   A true gentleman and excellent sportsman through the game of football
-
-**Mission**
------------
-
-*   Providing all football CCA players platforms of opportunities and exposure through game competitions.
-*   Develop football CCA players maximising their playing potential.
-*   Create interest and sustainability in football for football CCA pupils
-
-**Goals**
----------
-
-*   B-Division team to be in the top four of the South Zone Inter-Schools B-Division Tournament.
-*   B-Division Team to qualify for the National Champions League Inter-schools Competition.
-*   C-Division team to be in the top four in the group in the qualifying stages of the South Zone Inter-Schools C-Division Tournament.
-*   C-Division Team to qualify for the National League 1 Inter-schools Competition.
-
-**Awards** 
------------
-
-*   National School Games, South Zone ‘B’ Division Quarter-Final
 
 **More Information on the CCA**
 -------------------------------
