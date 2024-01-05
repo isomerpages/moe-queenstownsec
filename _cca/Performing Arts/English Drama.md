@@ -3,6 +3,7 @@ title: English Drama
 permalink: /cca/performing-art/drama-club/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/CCA/drama.png)
 
@@ -13,7 +14,7 @@ English Drama
 ----------------------
 
 *   Mr Yuen Cheng Mun Jansen – OIC
-*   Mdm Grace Khoo
+*   Mdm Khoo Siew Hwee Grace
 
 **Awards**
 ----------
