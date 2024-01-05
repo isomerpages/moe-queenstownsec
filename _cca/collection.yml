@@ -2,8 +2,8 @@ collections:
   cca:
     output: true
     order:
-      - Important Sec 1 CCA Information.md
       - CCA Grades (LEAPS 2).md
+      - Important Sec 1 CCA Information.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/Girl Guides.md
