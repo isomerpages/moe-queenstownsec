@@ -3,6 +3,7 @@ title: Strategy Games
 permalink: /cca/club-societies/thinkers-club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ![](/images/CCA/strategygames.jpg)
 
@@ -13,8 +14,8 @@ Strategy Games
 **Teachers-in-Charge**
 ----------------------
 
-*   Mdm Farhati Ahmad – I/C
-*   Mdm Rozita Bte Beram
+*   Mdm Rozita Bte Beram (OIC)
+*   Ng Kiat Ee Stella
 
 **Awards**
 ----------
