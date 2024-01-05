@@ -22,7 +22,7 @@ Concert Band
 **Awards**
 ----------
 
-*   Certificate of Distinction
+*   Singapore Youth Festival 2023 Art Presentation: Certificate of Distinction
 
 **More information on the CCA**
 -------------------------------
