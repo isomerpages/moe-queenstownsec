@@ -19,23 +19,18 @@ Basketball (Boys & Girls)
 *   Mdm Tan Guek Hong Peggy
 
 
-**Awards**
-----------
-
-*   National School Games, South Zone ‘B’ Division Participation
-
-**Activities**
---------------
-
-March & June holiday residential training camps
 
 **More Information on the CCA**
 -------------------------------
 
-With a strong belief in hardwork over talent, the Queenstown basketball team goes through rigorous trainings three times per week. These trainings even continued through the June and December holidays. In each training session, the boys are motivated to break through their own limits and strive for excellence.
+In 2023, the QTSS Basketball Team lived by their motto "Together" in an exciting season. The B division team commenced with an impressive unbeaten streak, progressing to the South Zone quarter-finals through exceptional teamwork. 
+In the quarter-finals, they faced formidable opponents, securing victories but narrowly missed the semi-finals due to a single loss. Their journey was a testament to the underdog spirit, marked by unwavering determination. 
+While the season didn't conclude with a fairy-tale ending, it was a year of indelible memories and strengthened bonds. The boys displayed passion, camaraderie, and learned crucial life lessons. 
+Despite the outcome, 2023 was a year to cherish for the QTSS Basketball Team. Their unity and "Together" spirit will continue to drive them towards future successes, whatever challenges they may encounter.
 
-2017 started with the South Zone ‘B’ Division competition. Our boys fought fearlessly when facing challenging opponents. The boys gave all they have in each game and our pursuit for the championship only came to halt when we played with the 2016 first runner-up Anglo-Chinese School (Barker Road).
 
-In order to prepare for the ‘C’ Division games in July, our ‘C’ Division boys trained hard through the June holidays and participated in the T-Net competition. T-Net served as a great exposure to our boys and helped us to be mentally-prepared. With continuous reflection of their own performance and great determination, our boys came in as one of the top 4 teams.
 
-2018 had been a fruitful year for the team. We believe that with the same amount of effort, we will be able to push for new frontiers in 2019!
+**Accomplishments**
+----------
+* National School Games Championship B Division Boys South Zone 2023 – Quarter Finals
+*  National School Games Championship C Division Boys South Zone 2023 – Quarter Finals 
