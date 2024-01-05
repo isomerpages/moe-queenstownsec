@@ -31,12 +31,3 @@ Our girls put in much time and effort towards the preparation of the Singapore Y
 4.	Speech Day Concert <br>
 5.	Deepavali School Concert
 
-
-**Join Us!**
-------------
-
-We are constantly looking for students who:
-
-1.  Are disciplined, with a good attitude
-2.  Has knowledge of basic dance techniques.
-3.  Interested in developing flexibility and refinement in body and mind.
