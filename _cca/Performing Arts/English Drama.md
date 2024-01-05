@@ -19,7 +19,7 @@ English Drama
 **Awards**
 ----------
 
-*   Singapore Youth Festival 2023 Art Presentation: Certificate of Participation
+*   Singapore Youth Festival 2023 Art Presentation: Certificate of Accomplishment
 
 **More Information on the CCA**
 -------------------------------
