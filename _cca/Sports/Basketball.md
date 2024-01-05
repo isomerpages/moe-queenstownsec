@@ -3,6 +3,7 @@ title: Basketball
 permalink: /cca/sports-and-games/basketball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/CCA/basketball1.png)
 
@@ -12,9 +13,11 @@ Basketball
 **Teachers-in-Charge**
 ----------------------
 
-*   Mr Tan Wee Yau Melvin – I/C
-*   Mr Yuen Wei Wen Paul
-*   Miss Chan Chu Ying
+*   Mr Tan Wee Yau Melvin – OIC
+*   Mdm Chan Chu Ying - OIC
+*   Mdm Lee Mei Teng Finna
+*   Mdm Tan Guek Hong Peggy
+
 
 **Awards**
 ----------
