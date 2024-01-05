@@ -3,6 +3,7 @@ title: Girl Guides
 permalink: /cca/uniform-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/CCA/girlguides.png)
 
@@ -12,9 +13,10 @@ Girl Guides
 **Teachers-in-Charge**
 ----------------------
 
-*   Mdm Jaslyn Shalini  – OIC
+*   Han Huixuan Dilys  – OIC
 *   Mdm Siti Nur Shahidah Binte Mohd Ismail  -2IC
-*   Miss Germaine Jacolyn Peter
+*   Miss Sim Zhi Xin
+*   Miss Charis Cho
 
 **Awards**
 ----------
