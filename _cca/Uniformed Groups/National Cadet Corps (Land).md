@@ -3,6 +3,7 @@ title: National Cadet Corps (Land)
 permalink: /cca/uniform-groups/ncc-land/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/CCA/ncc.png)
 
@@ -17,7 +18,7 @@ National Cadet Corps (Land)
 *   Mr Lim Li Cheng – 2IC
 *   Ms Noorheriza B Mohd Aris
 *   Mr Muhammad Fazari Othman
-*   Mr Ong Yen Siong Benedict
+
 
 **Awards**
 ----------
