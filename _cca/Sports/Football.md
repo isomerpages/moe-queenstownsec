@@ -3,6 +3,7 @@ title: Football
 permalink: /cca/sports-and-games/soccer/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/CCA/football.png)
 
@@ -13,9 +14,10 @@ Football
 ----------------------
 
 
-*   Mr Tan Wee Boon, Thomas
-*   Miss Siti Nur Aisyah Binte Shawall (Miss)
-*   Mr Nelaothaman S/O Suppayan
+*   Mr Thomas Tan Wee Boon - (OIC) 
+*   Miss Siti Nur Aisyah Binte Shawall - OIC
+*   Mdm Germaine Jacolyn Peter - Huang
+*   Mdm Tan Guek Hong Peggy
 
 **Vision**
 ----------
