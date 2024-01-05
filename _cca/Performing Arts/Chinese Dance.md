@@ -19,12 +19,18 @@ Chinese Dance
 **Awards**
 ----------
 
-*   Singapore Youth Festival 2023 Art Presentation: Certificate of Accomplishment
+*   Singapore Youth Festival 2023 Art Presentation:&nbsp;Certificate&nbsp;of Accomplishment
 
 **More Information on the CCA**
 -------------------------------
 
-The Quest Dance – Chinese continues to nurture new talent with the admission of Secondary 1 members into our fold. Some of the new cohort have dance background and this adds strength to our dance troupe. In their two years with us, students develop grace and skill as dancers, assets to their future endeavours. We also strive to develop values through dance such as the importance of self- discipline and punctuality. It has been a year filled with opportunities for growth and service to the community. Here are some of the highlights.
+Our girls put in much time and effort towards the preparation of the Singapore Youth Festival 2023 Art Presentation. The hard work and practices gel the members closer, and the girls build deeper friendship among themselves. Our dance troupe was both excited and glad that we were able to participate in both internal and external performance for our fellow schoolmate and members of the public. These are the activities and events that we have participated: <br>
+1.	Chinese New Year Concert (School) <br>
+2.	Chinese Dance Day Camp in School <br>
+3.	Singapore Youth Festival Arts Presentation (Certificate of Accomplishment) <br>
+4.	Speech Day Concert <br>
+5.	Deepavali School Concert
+
 
 **Join Us!**
 ------------
