@@ -26,6 +26,6 @@ Strategy Games Club aims to build and sharpen decision making skills through pla
 Competitions:
 Every year, we participate in national and zonal scrabble competitions to compete with other schools for the championship titles. This year, for the Super Zonal Competition 2023 in March 2023, we sent two teams, one team for C division and one team for B division. Our B division won the championship and the C division put up a good fight. 
 
-In September 2023, we send four teams, 2 teams for B division and 2 teams for C division for the Super Zonal Scrabble (SZS) 2023.
+In September 2023, we send four teams, 2 teams for B division and 2 teams for C division for the Super Zonal Scrabble (SZS).
 
 Our C division Team 1 and B division Team 1 won the south division championship titles respectively.
