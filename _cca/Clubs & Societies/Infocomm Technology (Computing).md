@@ -3,6 +3,7 @@ title: Infocomm Technology (Computing)
 permalink: /cca/club-societies/infocomm-club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ![](/images/CCA/infocommclub.jpg)
 
@@ -12,9 +13,10 @@ Infocomm Technology (Computing)
 **Teachers-in-Charge**
 ----------------------
 
-*   Mr Chia Wen Mien Adrian – OIC
-*   Mdm Ng Kiat Ee Stella
-*   Mr Fu Ruiqi
+*   Foo Chuan Yee Daniel – OIC
+*   Mr Sean David - OIC
+*   Mr Fu Ruiqi 
+*   Mdm Bairavanathan Deepa
 
 **Information:**
 ----------------
