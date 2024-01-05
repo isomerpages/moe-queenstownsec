@@ -3,6 +3,7 @@ title: Chinese Dance
 permalink: /cca/performing-art/chinese-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/CCA/chinesedance.png)
 
@@ -18,7 +19,7 @@ Chinese Dance
 **Awards**
 ----------
 
-*    Certificate  of Accomplishment
+*   Singapore Youth Festival 2023 Art Presentation: Certificate of Accomplishment
 
 **More Information on the CCA**
 -------------------------------
