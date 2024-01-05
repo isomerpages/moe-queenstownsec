@@ -32,6 +32,6 @@ The post-Covid league format gave opportunities for the players to compete in mo
 Looking ahead to the next NSG, the boys has begun to step up their training to build themselves up physically, improve individual ball skills and teamwork with the aim of going further in the league, and more importantly, to grow as a student-athlete and beyond. 
 
 Our Motto:
-ONE HEART, ONE FAMILY 
+ONE HEART, ONE FAMILY <br>
 Our Belief:
-TEAM : Team Effort Achieve Miracles 
+**TEAM** - **T**eam **E**ffort **A**chieve **M**iracles 
