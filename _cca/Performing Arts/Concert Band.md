@@ -15,8 +15,9 @@ Concert Band
 ----------------------
 
 *   Mdm Liu Yuanxin Amanda – OIC
-*   Mdm Chen Cui Xia
 *   Mdm Neo Chai Meng
+*   Mdm Chen Cui Xia
+
 
 **Awards**
 ----------
