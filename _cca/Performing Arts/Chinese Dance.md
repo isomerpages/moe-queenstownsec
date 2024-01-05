@@ -16,10 +16,7 @@ Chinese Dance
 *   Mdm Tang Siow Leng – OIC
 *   Mdm Xu Su
 
-**Awards**
-----------
 
-*   Singapore Youth Festival 2023 Art Presentation:&nbsp;Certificate&nbsp;of Accomplishment
 
 **More Information on the CCA**
 -------------------------------
@@ -31,3 +28,7 @@ Our girls put in much time and effort towards the preparation of the Singapore Y
 4.	Speech Day Concert <br>
 5.	Deepavali School Concert
 
+**Achievements**
+----------
+
+*   Singapore Youth Festival 2023 Art Presentation:&nbsp;Certificate&nbsp;of Accomplishment
