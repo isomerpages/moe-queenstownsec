@@ -3,6 +3,7 @@ title: Scouts (Sea)
 permalink: /cca/uniform-groups/sea-scouts/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/CCA/scout.png)
 
@@ -15,23 +16,16 @@ Scouts (Sea)
 *   Ms Doong Siew Gee Ellie – OC
 *   Mr Chandragus Rinah – 2IC
 *   Mr Peng Boon Yen
+*   Kuay Yuan Tern Kenneth
 
-**Awards**
-----------
-
-Frank Coopers Sands Award  –  Gold 
+ 
 
 **More information on the CCA**
 -------------------------------
 
-“Be Prepared” is the motto of all Scouts. Each scout is trained to be prepared while carrying out scouting activities e.g. outdoor cooking, pioneering, kayaking, camping, sailing, doing community service.
+2023 was a busy and exciting year for our scouts. The Sec 1s were introduced to scouting during the Sec 1 Experience where they enjoyed popcorn while listening to scouting stories by the campfire. During the Recruit Training Camp, the scouts had an opportunity to bond over camping in tents, cooking together and building gadgets. This year our scouts experienced a physical leadership camp at Sarimbun and attended campfires, gangshows and other regular scouting activities. Our scouts also spent eight sessions at Sentosa honing their skills with the various sea sports offered. Queenstown Secondary hosted the South Area Field Day and the units that came all enjoyed themselves tremendously taking part in the games. There were tours to Navy@Vivo, Changi Naval Base and also the Farewell to our Chief Scout President Halimah. And last but not least, we had a bumper crop of seven scouts who achieved the Chief Commisioner’s Award this year. 
 
-Scouting builds character, social skills, leadership skills and life skills in all scouts. It also allows promising scouts to attain the pinnacle award (Chief Commissioner’s Award) in the scout section.
+**Achievement**
+----------
 
-The scouts are able to come this far, and learn and grow this much with the extra care, help and blessing from the following people:
-
-*   Old boys that put in considerable time and effort for all the troop’s activities;
-*   Parents that never fail to lend their helping hand and give words of encouragement to their children, and,
-*   South Area commissioners from The Singapore Scout Association for their dedication and support in youth leadership and development.
-
-With such strong support, the troop will only grow stronger in spirit and strength. Queenstown03 Scouts forever!
+* Frank Coopers Sands Award:  Gold

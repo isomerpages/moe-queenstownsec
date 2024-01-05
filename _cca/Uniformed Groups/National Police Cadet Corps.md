@@ -3,6 +3,7 @@ title: National Police Cadet Corps
 permalink: /cca/uniform-groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/CCA/npcc.png)
 
@@ -12,10 +13,10 @@ National Police Cadet Corps
 **Teachers-in-Charge**
 ----------------------
 
-*   Mdm Liang Xingfen Michelle – OIC
-*   Mr Chia Teck Seng - 2IC
-*   Ms Chan Pei Wen Shermine
+*   Mr Chia Teck Seng - OIC
+*   Ms Chan Pei Wen Shermine - 2IC
 *   Mr Saratkumar Ganasekaran
+*   Mr Ernest Tan Jing Heng
 
 **Awards**
 ----------

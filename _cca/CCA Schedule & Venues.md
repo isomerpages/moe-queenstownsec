@@ -2,11 +2,12 @@
 title: CCA Schedule & Venues
 permalink: /cca-scheduled-venues/
 description: ""
+variant: markdown
 ---
 CCA Schedule & Venues
 =====================
 
-Click [Here](/files/cca%20schedule%20%202023%20sem%202.pdf) for the 2023 CCA schedule
+Click [Here](/files/CCA_Schedule__2024_SEM_1.pdf) for the 2024 CCA schedule
 
 ------------------
-Updated on 30 June 2023
+Updated on 5 Jan 2024

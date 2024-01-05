@@ -3,6 +3,7 @@ title: Football
 permalink: /cca/sports-and-games/soccer/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/CCA/football.png)
 
@@ -13,38 +14,24 @@ Football
 ----------------------
 
 
-*   Mr Tan Wee Boon, Thomas
-*   Miss Siti Nur Aisyah Binte Shawall (Miss)
-*   Mr Nelaothaman S/O Suppayan
+*   Mr Thomas Tan Wee Boon - (OIC) 
+*   Miss Siti Nur Aisyah Binte Shawall - OIC
+*   Mdm Germaine Jacolyn Peter - Huang
+*   Mdm Tan Guek Hong Peggy
 
-**Vision**
-----------
-
-*   A true gentleman and excellent sportsman through the game of football
-
-**Mission**
------------
-
-*   Providing all football CCA players platforms of opportunities and exposure through game competitions.
-*   Develop football CCA players maximising their playing potential.
-*   Create interest and sustainability in football for football CCA pupils
-
-**Goals**
----------
-
-*   B-Division team to be in the top four of the South Zone Inter-Schools B-Division Tournament.
-*   B-Division Team to qualify for the National Champions League Inter-schools Competition.
-*   C-Division team to be in the top four in the group in the qualifying stages of the South Zone Inter-Schools C-Division Tournament.
-*   C-Division Team to qualify for the National League 1 Inter-schools Competition.
-
-**Awards** 
------------
-
-*   National School Games, South Zone ‘B’ Division Quarter-Final
 
 **More Information on the CCA**
 -------------------------------
 
-The ‘B’ boys were placed in a tough group with soccer powerhouses Beatty Secondary School and Serangoon Gardens Secondary School. They battled hard throughout the entire competition but were unable to progress past the group stage this year.
+The vision of a QTSS Footballer is one who is, and has IQ; ‘I’ for Identity and ‘Q’ for Qualities. A QTSS Footballer’s identity is firstly a **QTSS student**, followed by being a **Sportsman** before even being a **Footballer** who learns and develop the qualities of exemplary **Attitude, Behaviour and Character/Commitment (ABCs)**. 
 
-The ‘C’ Boys performed well in the group stage and emerged as runners up to progress into the Quarter-final. Pitted against strong opponents from Queensway Secondary School and Serangoon Gardens Secondary School, the boys fought valiantly and were unfortunate to lose out on a berth in the semi-final.
+The preparation for 2023 National School Games (NSG) started in the second half of 2022. The boys bonded together and put their heart and soul in training with the aim to bring glory to the school.  The B Division players had the privilege to play a friendly match at the iconic National Stadium. This experience of playing at the national Stadium boosted their confidence and morale.  
+
+The post-Covid league format gave opportunities for the players to compete in more games beyond group stages. The team gave their best effort and competed fairly against their opponents demonstrating sportsmanship, commitment and the core values of respect and resilience.  
+
+Looking ahead to the next NSG, the boys has begun to step up their training to build themselves up physically, improve individual ball skills and teamwork with the aim of going further in the league, and more importantly, to grow as a student-athlete and beyond. 
+
+Our Motto:
+ONE HEART, ONE FAMILY <br>
+Our Belief:
+**TEAM** - **T**eam **E**ffort **A**chieve **M**iracles 
