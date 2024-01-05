@@ -16,7 +16,7 @@ Scouts (Sea)
 *   Ms Doong Siew Gee Ellie – OC
 *   Mr Chandragus Rinah – 2IC
 *   Mr Peng Boon Yen
-*   Kuay Yuan Tern, Kenneth
+*   Kuay Yuan Tern Kenneth
 
 **Awards**
 ----------
