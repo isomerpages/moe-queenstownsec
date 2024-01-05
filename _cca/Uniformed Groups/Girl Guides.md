@@ -18,10 +18,7 @@ Girl Guides
 *   Ms Sim Zhi Xin
 *   Ms Charis Cho
 
-**Awards**
-----------
 
-Puan Noor Aishah Honour Award – Silver
 
 **More information about the CCA**
 ----------------------------------
@@ -37,3 +34,9 @@ In April, our unit participated in the annual South Division Day, a gathering of
 As a result of the students’ hard work, this year, our unit celebrates the attainment of the Puan Noor Aishah Award (PNA) – Gold. The PNA recognises the unit’s contribution to the school, community, and Girl Guides Singapore. It was the first time in a few years that we have achieved the Gold award, and we are proud of the unit’s accomplishment that testifies of our students’ excellence. 
  
 In December, the girls experienced a 2-day Girl Guides Camp planned by the student leaders. This camp brought back customary activities from pre-COVID-19 days such as a CSI investigation where the girls put their analytical skills to the test by solving the case, with our leaders taking on the role of various characters in the crime scene. We also conducted outdoor cooking and water bomb challenge. Overall, the girls had to step out of their comfort zone to take initiative in looking out for one another but it was a fruitful experience. 
+
+
+**Achievements**
+----------
+
+Puan Noor Aishah Award (PNA) – Gold
