@@ -12,7 +12,7 @@ Digital Media Club
 
 
 
-#### Teachers-in-Charge:
+## Teachers-in-Charge:
 Mr Daniel Foo – OIC <br>
 Mr Sean David – OIC <br>
 Mr Fu Ruiqi – AV OIC <br>
