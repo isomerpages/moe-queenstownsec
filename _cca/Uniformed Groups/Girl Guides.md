@@ -15,8 +15,8 @@ Girl Guides
 
 *   Han Huixuan Dilys  – OIC
 *   Mdm Siti Nur Shahidah Binte Mohd Ismail  -2IC
-*   Miss Sim Zhi Xin
-*   Miss Charis Cho
+*   Ms Sim Zhi Xin
+*   Ms Charis Cho
 
 **Awards**
 ----------
