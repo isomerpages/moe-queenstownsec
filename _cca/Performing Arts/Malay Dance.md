@@ -3,6 +3,7 @@ title: Malay Dance
 permalink: /cca/performing-art/malay-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/CCA/malaydance.jpg)
 
@@ -18,14 +19,13 @@ Malay Dance
 **Awards**
 ----------
 
-*  Certificate of Distinction
+* Singapore Youth Festival 2023 Art Presentation: Certificate of Distinction
 
 **More Information on the CCA**
 -------------------------------
 
-Malay Dance has given me great experiences and different opportunities to explore the world of Malay cultural dance. Through dancing I am able to know what I am capable of and learn more of my strengths and weaknesses. After almost 5 years in QTSS, I found a new passion which is dancing.
+Being in a Performing Art CCA during Covid 19, our dancers were greatly affected due to lack of exposure to external performances. As we moved towards post-covid era, we have heightened our involvement and the students have benefited exponentially with the rigour of the performing art scene. 
 
-For the future I am looking forward to learn more on Malay Contemporary Dance and other types of dances.
+Starting with internal performances during Chinese New Year concert to Hari Raya concert and then celebrating our Queenstownian’s success during Speech Day and to round up our yearly school event, we gave an energetic dance performance during Deepavali concert. 
 
-Catch a snippet of our Malay Dance and Drama Club CCAs at the following link:  
-[http://video.xin.msn.com/watch/okto/after-school-webisode-8-queenstown-secondary-school/1pbmd27wa](http://video.xin.msn.com/watch/okto/after-school-webisode-8-queenstown-secondary-school/1pbmd27wa)
+Our very own Questari dancers put up a great performance during SYF 2023 to bring home the Certificate of Accomplishment with the guidance of our dedicated instructor Cikgu Arif Mustafar. This performance gave the dancers the opportunity to showcase their dance on a competitive platform. We were honoured when some of our Questari dancers were invited to participate in the Opening of Singapore Youth Festival 2023 celebrations to a joint performance with our school concert band at the Esplanade Indoor Theatre. 2023 has indeed given our students an edge in the performing arena. 
