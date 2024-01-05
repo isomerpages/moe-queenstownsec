@@ -7,7 +7,7 @@ variant: markdown
 ---
 ![](/images/CCA/basketball1.png)
 
-Basketball
+Basketball (Boys & Girls)
 ==========
 
 **Teachers-in-Charge**
