@@ -13,6 +13,3 @@ variant: markdown
 
 
 
-
-<br><br><br>
-Updated 10 Jan 2024
