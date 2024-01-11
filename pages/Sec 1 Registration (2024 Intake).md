@@ -1,7 +1,0 @@
----
-title: Sec 1 Registration (2024 Intake)
-permalink: /sec1registration-2024/
-description: ""
-variant: tiptap
----
-<p><strong>2024 Secondary One Registration Information</strong></p><p>Dear Parents/ Guardians and Secondary 1 students,</p><p>Welcome to Queenstown Secondary School (QTSS)! We are delighted to have your child/ward in our school. We have put together the necessary materials to get you started for Secondary 1 Registration Exercise.</p><p>The Secondary One Registration process will be conducted online, so the Secondary One students are&nbsp;<strong>not required</strong>&nbsp;to report in person on Registration Day. <strong>Please complete the e-Registration below.</strong> You will be informed of your child’s form class from 29 December 2023 onwards via PG.</p><p>For further enquiries, please call the General Office at 6474 1055, or send an email to Ms Janice Han, Year Head (Lower Secondary) at <a rel="noopener noreferrer nofollow" target="_blank">han_chin_woon_janice@moe.edu.sg</a>&nbsp;.</p><p>We trust that your child/ward will have an engaging learning experience in our school for the next 4 years. We thank you in advance for your partnership with us in your child’s/ward’s education.</p><h4><a href="/files/QTSS_Important_information_for_2024_Sec_1_students_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here </a><strong>For e-Registration and Important Information for Secondary 1 students (2024 Intake).</strong></h4><p></p>
