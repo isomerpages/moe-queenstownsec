@@ -11,9 +11,6 @@ sections:
         - title: HIGHER MOTHER TONGUE LANGUAGES (FROM 2024)
           description: ""
           url: /sec1html/
-        - title: Sec 1 Registration (2024 Intake)
-          description: ""
-          url: /sec1registration-2024/
         - title: 2024 PLD Initiatives
           description: ""
           url: https://www.queenstownsec.moe.edu.sg/parent-links/pld-initiatives/
