@@ -1,0 +1,91 @@
+logo: /images/cropped-QTSS_Logo_V2_400x100.png
+links:
+  - title: About US
+    url: /about-us/discover-quest/principals-message/
+    sublinks:
+      - title: Discover Quest
+        url: /about-us/discover-quest/principals-message/
+      - title: Our Pride
+        url: /media-highlights/
+      - title: Quest Family
+        url: /about-us/quest-family/school-management-committee/
+  - title: Departments
+    url: /aesthetics-technology/
+    sublinks:
+      - title: Aesthetics & Technology
+        url: /aesthetics-technology/
+      - title: English Language & Literature
+        url: /english/
+      - title: Humanities
+        url: /humanities/
+      - title: Mathematics
+        url: /mathematics/
+      - title: Mother Tongue
+        url: /mother-tongue/
+      - title: Physical Education
+        url: /physical-education/
+      - title: Science
+        url: /science/
+      - title: Infocomm Technology
+        url: /it-mrl/
+      - title: Student Management
+        url: /discipline/
+      - title: Student Development
+        url: /student-development/
+  - title: CCA
+    collection: cca
+  - title: Programmes
+    collection: programmes
+  - title: Students
+    url: /quick-links/student-links/school-rules/
+    sublinks:
+      - title: School Rules
+        url: /quick-links/student-links/school-rules/
+      - title: School Timetable
+        url: /quick-links/student-links/school-timetable/
+      - title: Student Voice
+        url: /student-voices/
+      - title: Assessment Matters
+        url: /quick-links/student-links/assessment-matters/
+      - title: SLS Helpline
+        url: /student-learning-space/
+      - title: Student Links
+        url: /quick-links/student-links/
+      - title: Student Handbook
+        url: /quick-links/student-links/student-handbook/
+  - title: Parents
+    url: /parent-engagement-session/
+    sublinks:
+      - title: Sec 1 Appeal for Transfer In
+        url: /sec1appeal2024/
+      - title: Waitlist for Student Transfer
+        url: /waitlistsec2-3/
+      - title: Parent Engagement Session
+        url: /parent-engagement-session/
+      - title: PLD Initiatives
+        url: /parent-links/pld-initiatives/
+      - title: Parents Gateway (PG)
+        url: /student-development/school-home-collaboration/parents-gateway-pg-mobile-app/
+      - title: Parent Support Group
+        url: /student-development/school-home-collaboration/parent-support-group/
+      - title: School Booklist
+        url: /parent-links/school-booklist/
+      - title: School Rules
+        url: /quick-links/student-links/school-rules/
+      - title: School Uniforms
+        url: /parent-links/school-uniforms/
+      - title: Schoolbag.edu.sg
+        url: https://www.schoolbag.edu.sg/
+      - title: Parent Links
+        url: /parent-links/
+  - title: School Links
+    url: /quick-links/teacher-links/
+    sublinks:
+      - title: Teacher Links
+        url: /quick-links/teacher-links/
+      - title: Direct School Admission
+        url: /admission/
+      - title: Contact Us
+        url: /about-us/contact-page/
+      - title: School Calendar
+        url: /quick-links/student-links/calendar/

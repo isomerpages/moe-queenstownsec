@@ -1,0 +1,21 @@
+---
+title: School Timetable
+permalink: /quick-links/student-links/school-timetable/
+description: ""
+variant: markdown
+---
+School Timetable
+================
+
+Academic Year 2024 (Semester 1)
+-------------------------------
+
+Click the links below to view the timetable:
+
+[SEM 1 Timetable 2024](/files/2024_SEM_1_Timetable_FINALISED_CLASSES_15_JAN_2024.pdf)
+
+
+* * *
+
+Last updated on 16 Jan 2024
+

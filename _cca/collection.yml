@@ -1,0 +1,34 @@
+collections:
+  cca:
+    output: true
+    order:
+      - CCA Grades (LEAPS 2).md
+      - Important Sec 1 CCA Information.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups.md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/National Cadet Corps (Land).md
+      - Uniformed Groups/National Police Cadet Corps.md
+      - Uniformed Groups/Red Cross Youth.md
+      - Uniformed Groups/Scouts (Sea).md
+      - Sports/.keep
+      - Sports/Sports and Games.md
+      - Sports/Basketball (Boys & Girls).md
+      - Sports/Football.md
+      - Sports/Table Tennis (Boys & Girls).md
+      - Sports/Volleyball (Boys & Girls).md
+      - Sports/Wushu (Boys & Girls).md
+      - Performing Arts/.keep
+      - Performing Arts/Performing Arts.md
+      - Performing Arts/Digital Media Club.md
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Concert Band.md
+      - Performing Arts/English Drama.md
+      - Performing Arts/Malay Dance.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Club & Societies.md
+      - Clubs & Societies/Infocomm Technology (Computing).md
+      - Clubs & Societies/Design and Innovation.md
+      - Clubs & Societies/Strategy Games.md
+      - CCA Schedule & Venues.md

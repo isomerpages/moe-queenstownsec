@@ -1,0 +1,8 @@
+collections:
+  our-pride:
+    output: true
+    order:
+      - Media Highlights.md
+      - CCA Achievements/.keep
+      - CCA Achievements/CCA Achievements.md
+      - Newsworthy Alumni.md

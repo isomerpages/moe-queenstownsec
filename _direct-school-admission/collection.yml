@@ -1,0 +1,11 @@
+collections:
+  direct-school-admission:
+    output: true
+    order:
+      - DSA.md
+      - Community Youth Leadership Programme.md
+      - Applied Learning Programme.md
+      - Basketball.md
+      - Volleyball.md
+      - Concert Band.md
+      - Malay Dance.md

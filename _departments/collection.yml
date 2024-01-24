@@ -1,0 +1,18 @@
+collections:
+  departments:
+    output: true
+    order:
+      - Aesthetics & Technology.md
+      - English Language and Literature.md
+      - Humanities.md
+      - Mathematics.md
+      - Mother Tongue.md
+      - Physical Education.md
+      - Science.md
+      - Infocomm Technology.md
+      - Student Development/Student Development.md
+      - Student Development/.keep
+      - Student Development/Character & Citizenship Development (CCE).md
+      - Student Development/Education & Career Guidance (ECG).md
+      - Student Development/Student Well Being.md
+      - Student Management.md
