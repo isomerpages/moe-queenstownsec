@@ -37,12 +37,6 @@ sections:
       button: Click
       url: /2023nlevelresults/
   - infopic:
-      title: Full SBB Pilot in Queenstown Secondary School in 2020
-      button: CLICK
-      alt: Image alt text
-      url: /full-subject-based-banding-full-sbb/
-      image: /images/Programmes/full sbb.png
-  - infopic:
       title: Direct School Admission
       button: CLICK
       url: /admission/
