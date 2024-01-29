@@ -36,10 +36,6 @@ sections:
       id: infobar
       button: Click
       url: /2023nlevelresults/
-  - infobar:
-      title: Announcements
-      button: Click
-      url: /announcements/
   - infopic:
       title: Full SBB Pilot in Queenstown Secondary School in 2020
       button: CLICK
