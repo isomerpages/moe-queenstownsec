@@ -16,13 +16,6 @@ sections:
           url: https://www.queenstownsec.moe.edu.sg/parent-links/pld-initiatives/
       background: /images/QTSS_Website_Banner.jpeg
   - infobar:
-      title: Annoucements
-      subtitle: Our Latest News
-      id: infobar
-      description: test
-      button: View More
-      url: test
-  - infobar:
       title: 2023 GCE O Level Exam Results Release
       id: infobar
       button: Click
@@ -43,4 +36,9 @@ sections:
       id: infobar
       button: Click
       url: /2023nlevelresults/
+  - resources:
+      title: Annoucements
+      subtitle: Our Latest News
+      id: resources
+      button: View More
 ---
