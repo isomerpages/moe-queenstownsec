@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: HIGHER MOTHER TONGUE LANGUAGES (FROM 2024)
+        - title: Full SBB Pilot in Queenstown Secondary School in 2020
           description: ""
-          url: /sec1html/
+          url: /full-subject-based-banding-full-sbb/
         - title: 2024 PLD Initiatives
           description: ""
           url: https://www.queenstownsec.moe.edu.sg/parent-links/pld-initiatives/
