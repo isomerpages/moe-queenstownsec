@@ -2,13 +2,13 @@ title: Queenstown Secondary School
 url: https://www.queenstownsec
 favicon: /images/QTSS_Logo2-247x300.png
 colors:
-  primary-color: "#2f7cbf"
-  secondary-color: "#953923"
+  primary-color: "#00838f"
+  secondary-color: "#00838f"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#00838f"
     - title: media-color-two
-      color: "#9b442f"
+      color: "#00838f"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
