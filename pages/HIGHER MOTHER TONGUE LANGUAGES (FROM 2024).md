@@ -1,6 +1,6 @@
 ---
 title: HIGHER MOTHER TONGUE LANGUAGES (FROM 2024)
-permalink: /sec1html/
+permalink: /sec1hmtl/
 variant: markdown
 description: ""
 ---

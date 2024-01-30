@@ -8,49 +8,16 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: HIGHER MOTHER TONGUE LANGUAGES (FROM 2024)
+        - title: Full SBB Pilot in Queenstown Secondary School in 2020
           description: ""
-          url: /sec1html/
+          url: /full-subject-based-banding-full-sbb/
         - title: 2024 PLD Initiatives
           description: ""
           url: https://www.queenstownsec.moe.edu.sg/parent-links/pld-initiatives/
       background: /images/QTSS_Website_Banner.jpeg
-  - infobar:
-      title: 2023 GCE O Level Exam Results Release
-      id: infobar
-      button: Click
-      url: /2023olevelresults/
-  - infobar:
-      title: 2024 Sec 1 Appeal for Transfer In
-      id: infobar
-      button: Click
-      url: /sec1appeal2024/
-  - infobar:
-      title: Waitlist Form for Student Transfer
-      id: infobar
-      button: Click
-      url: /waitlistsec2-3/
-      description: (For  Sec 2 & 3 Admissions only)
-  - infobar:
-      title: 2023 GCE N Level Examination Results
-      id: infobar
-      button: Click
-      url: /2023nlevelresults/
-  - infobar:
+  - resources:
       title: Announcements
-      button: Click
-      url: /announcements/
-  - infopic:
-      title: Full SBB Pilot in Queenstown Secondary School in 2020
-      button: CLICK
-      alt: Image alt text
-      url: /full-subject-based-banding-full-sbb/
-      image: /images/Programmes/full sbb.png
-  - infopic:
-      title: Direct School Admission
-      button: CLICK
-      url: /admission/
-      image: /images/School Links/DSA_Pic3.png
-      alt: alt text image
-      subtitle: .
+      subtitle: Our Latest News
+      id: resources
+      button: View More
 ---
