@@ -71,7 +71,7 @@ The programmes are conducted in partnership with the other stakeholders in and o
 
 <ul>
 <li>Discussion of Contemporary Issues
-</li><li>Classroom CCE Lesson
+</li><li>Classroom CCE Lesson <a href="https://staging.d33coz43hxnqna.amplifyapp.com/student-development/social-emotional-development/sexuality-education/">(including Sexuality Education)</a>
 </li><li>Commemorative Events: Total Defence Day; International Friendship Day; Racial Harmony Day; National Day
 </li><li>Learning Journeys
 </li><li><a href="#test">Peer Support Skills</a>
