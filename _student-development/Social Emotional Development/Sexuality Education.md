@@ -119,6 +119,7 @@ for all levels in Term 1. <br>
 	
 
 **13.**&nbsp;Parents can contact the school at&nbsp;qtss@moe.edu.sg&nbsp;or 64741055 for discussion or to seek clarification about the school’s sexuality education programme with Mr Tan Chee Tiong (HOD CCE) or Mdm Tang Siow Leng (SEd Coordinator).<br>
-	
-	
-Last updated: 31 July 2023
+
+**14.** Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+
+Last updated: 31 Jan 2024
