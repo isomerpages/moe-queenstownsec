@@ -114,12 +114,11 @@ Sense and Sexuality (2nd&nbsp;Edition)**
 	
 	
 **12.**&nbsp;Parents who wish to opt their children out of the&nbsp;**eTeens&nbsp;programme**&nbsp;need to complete an opt-out form. This form has been disseminated via the Parents Gateway 
-for all levels in Term 1. <br>
+to the parents of Secondary 3 students in Term 1. <br>
 	
 	
 
 **13.**&nbsp;Parents can contact the school at&nbsp;qtss@moe.edu.sg&nbsp;or 64741055 for discussion or to seek clarification about the school’s sexuality education programme with Mr Tan Chee Tiong (HOD CCE) or Mdm Tang Siow Leng (SEd Coordinator).<br>
 
-**14.** Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
 
 Last updated: 31 Jan 2024
