@@ -40,8 +40,8 @@ description: ""
 <p><strong><u>Application Procedure</u></strong>
 </p>
 <p></p>
-<p>1. Download and complete the <u>Application Form</u> (insert link). You
-may also request for a hardcopy from the School’s General Office.</p>
+<p>1. Download and complete the <a href="/files/FormBF7_Application_for_Sch_Canteen_Stall.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>.
+You may also request for a hardcopy from the School’s General Office.</p>
 <p></p>
 <p>2. Attached the following documents together with the application form</p>
 <p></p>
