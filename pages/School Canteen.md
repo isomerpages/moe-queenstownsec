@@ -36,7 +36,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>Application Procedure</u></strong>
 </p>
 <p></p>
