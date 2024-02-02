@@ -75,7 +75,7 @@ via email <u>OR</u> to the School General Office</p>
 </p>
 <p>Redhill MRT (Walk 15 minutes from station)</p>
 <p>Queenstown MRT (Walk 15 minutes from station)</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>Criteria</u></strong>
 </p>
 <p></p>
@@ -89,7 +89,7 @@ quality food with prices determined in consultation with the school.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to provide cooked food that
 meets the health / nutritional standards set by the Health Promotion Board
 (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines
-Click this Link (insert this link: <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">Healthy Meals in Schools Programme (</a>
+Click this Link (insert this link: <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">Healthy Meals in Schools Programme (</a> 
 <a rel="noopener noreferrer nofollow" target="_blank">hpb.gov.sg</a><a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">)</a>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to maintain high standard of
