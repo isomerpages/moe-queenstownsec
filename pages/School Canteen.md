@@ -25,7 +25,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Halal / Muslim</p>
+<p>Halal / Muslim Cooked Food</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15 April 2024</p>
@@ -37,7 +37,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-&nbsp;
+<p>&nbsp;</p>
 <p><strong><u>Application Procedure</u></strong>
 </p>
 <p></p>
