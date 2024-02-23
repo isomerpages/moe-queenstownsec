@@ -2,6 +2,7 @@
 title: Vision, Mission & Values
 permalink: /about-us/discover-quest/school-vision/
 description: ""
+variant: markdown
 ---
 Vision, Mission &amp; Values
 ========================
@@ -21,9 +22,9 @@ Committed to Serve. <br>
 
 
 
-**_Leaders for Tomorrow –_**&nbsp;<u>Tomorrow</u>&nbsp;refers to a future state that is marked by unpredictability – a “VUCA” environment that is Volatile, Uncertain, Complex and Ambiguous. We aim to equip every student with the knowledge, skills and values to enable our students to be a&nbsp;leader&nbsp;who is reflective, passionate, adaptable, innovative and confident. With the knowledge, skills, values and leadership qualities, our students will be able to meet the demands of a “VUCA” environment and thrive in the future world.&nbsp;&nbsp;
+**_Leaders for Tomorrow –_**&nbsp;<u>Tomorrow</u>&nbsp;refers to a future state that is marked by unpredictability – a “VUCA” environment that is Volatile, Uncertain, Complex and Ambiguous. We aim to develop every student to be Flourishing Learner and Future-Oriented Leader. A Flourishing Learner has a positive self-concept, is self-directed and joyful in his/her learning, and embraces a growth mindset. A Future-Oriented Leader is anchored in values and equipped with 21st Century Competencies (21CC) and future literacies to enable them to adapt to future uncertainties and take effective actions to contribute to the betterment of the community and environment.
 
-**_Anchored in Values –_**&nbsp;<u>Values</u>&nbsp;refer to the values of Resilience, Respect, Integrity, Care and Excellence.&nbsp;&nbsp; We aim to instil in our students the values so that they will be able to make ‘right’ decisions in difficult and challenging situations.
+**_Anchored in Values –_**&nbsp;<u>Values</u>&nbsp;Values refer to the values of Resilience, Respect, Integrity, Care and Excellence. We aim to instil in our students t﻿he values to guide them in their decisions amidst a globalised and changing world.
 
 **_Committed to Serve –_**&nbsp;<u>Serve</u>&nbsp;refer to the desire to actively contribute to the society. In alignment with our school motto of ‘Dare to Serve’, we want our students to be committed to make a positive and lasting contributions to the society upholding the Singapore Spirit.
 
