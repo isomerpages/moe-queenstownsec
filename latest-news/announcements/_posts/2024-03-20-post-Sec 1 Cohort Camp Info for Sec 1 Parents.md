@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Sec 1 Camp Info: <a href="/files/Briefing_Slides_for_QTSS_SEC_1_Cohort_Camp_6_to_9_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Camp Briefing Info</a>
+</p>
