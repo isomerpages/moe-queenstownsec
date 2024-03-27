@@ -7,11 +7,11 @@ variant: markdown
 Student Voice
 =============
 
-<p><a href="https://forms.office.com/pages/responsepage.aspx?id=hnxLG73YSEGBuO4nD50nQTh4qyIhVEZLuZmykuE9-zBUQ1RYWUI3MDhGVEY1N0FSWUhNMUNMQ1EwNC4u">
+<p><a href="https://forms.moe.edu.sg/forms/op9K3e">
 <img src="/images/Students/Student%20Wellbeing.png" style="width:250px;height:190px;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://forms.moe.edu.sg/forms/J9GQne">
+<p><a href="https://forms.moe.edu.sg/forms/eD6AAJ">
 <img src="/images/Students/Classy%20Movement.png" style="width:250px;height:210px;margin-left:15px;" align="right">
 </a></p>
 
@@ -24,6 +24,6 @@ Student Voice
 <img src="/images/Students/School%20Facilities.png" style="width:250px;height:190px;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://forms.office.com/pages/responsepage.aspx?id=hnxLG73YSEGBuO4nD50nQTh4qyIhVEZLuZmykuE9-zBUQ0JaWkNaNzlXWVZJQUROWlY3Rkw2OURaNC4u">
+<p><a href="https://forms.moe.edu.sg/forms/J9BOpo">
 <img src="/images/Students/General%20Feedback.png" style="width:190px;height:220px;margin-left:15px;" align="right">
 </a></p>
