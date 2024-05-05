@@ -244,3 +244,34 @@ requirements, and the programme available to develop the area of talent.</p>
 ![](/images/3.jpg)<br>
 ![](/images/4.jpg)
 
+<b>‘C’ Girls 2023, Champions</b>
+
+![](/images/5.jpg)
+<br>
+![](/images/6.jpg)
+<br>
+![](/images/7.jpg)
+<br>
+
+<b>‘C’ Division Boys 2023: 2nd Runner Up </b>
+
+![](/images/8.jpg)
+<br>
+![](/images/9.jpg)
+<br>
+
+<b>2024 Photos:
+National School games: ‘B’ Girls 2024, 3rd Runner up</b>
+
+![](/images/10.jpg)
+<br>
+![](/images/11.jpg)
+<br>
+
+<b>‘B’ Boys 2024, 2nd Runner up</b>
+![](/images/12.jpg)
+<br>
+![](/images/13.jpg)
+
+
+
