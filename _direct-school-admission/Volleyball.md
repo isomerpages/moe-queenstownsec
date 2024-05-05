@@ -178,7 +178,7 @@ requirements, and the programme available to develop the area of talent.</p>
 <p>South Zone 3<sup>rd</sup>
 </p>
 <p></p>
-<p>National Quarter finalist South Zone 3<sup>rd </sup>
+<p>National Quarter finalist South Zone 3<sup>rd</sup>
 </p>
 <p>South Zone 1<sup>st</sup>
 </p>
