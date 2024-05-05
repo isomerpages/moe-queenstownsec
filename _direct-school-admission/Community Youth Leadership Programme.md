@@ -75,6 +75,3 @@ or click [here](https://www.queenstownsec.moe.edu.sg/special-programs/learning-f
 ![](/images/l4.png)
 ![](/images/l5.png)
 ![](/images/l6.png)
-
-
-
