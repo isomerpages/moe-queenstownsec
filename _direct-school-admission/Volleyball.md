@@ -167,8 +167,7 @@ requirements, and the programme available to develop the area of talent.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Girls</p>
-<p>&nbsp;</p>
-<p>&nbsp;Boys</p>
+<p>Boys</p>
 <p></p>
 <p>&nbsp;</p>
 <p>Girls</p>
@@ -176,7 +175,6 @@ requirements, and the programme available to develop the area of talent.</p>
 <td rowspan="1" colspan="1">
 <p>South Zone 3<sup>rd</sup>
 </p>
-<p>&nbsp;</p>
 <p>National Quarter finalist</p>
 <p>South Zone 3<sup>rd</sup>
 </p>
