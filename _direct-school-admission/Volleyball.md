@@ -168,10 +168,9 @@ requirements, and the programme available to develop the area of talent.</p>
 <td rowspan="1" colspan="1">
 <p>Girls</p>
 <p>&nbsp;</p>
+<p>&nbsp;Boys</p>
 <p></p>
-<p>Boys</p>
 <p>&nbsp;</p>
-<p></p>
 <p>Girls</p>
 </td>
 <td rowspan="1" colspan="1">
