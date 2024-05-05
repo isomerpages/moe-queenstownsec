@@ -2,7 +2,7 @@
 title: Volleyball
 permalink: /quick-links/school-links/volleyball/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h1>Volleyball</h1>
 <p><strong>Direct School Admission 2024 (Volleyball)</strong>
@@ -164,15 +164,55 @@ requirements, and the programme available to develop the area of talent.</p>
 <p>&nbsp;</p>
 <p>B-Div
 <br>
-<br>C-Div (Semester 2)</p>
+<br>C-Div</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Girls</p>
+<p></p>
+<p>Boy</p>
+<p></p>
+<p></p>
+<p></p>
 <p>Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>South Zone 3rd &amp; National Quarter Finalist</p>
+<p>South Zone 3<sup>rd</sup> 
+</p>
+<p></p>
+<p>National Quarter finalist South Zone 3<sup>rd</sup>
+</p>
+<p></p>
+<p>South Zone 1<sup>st</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
