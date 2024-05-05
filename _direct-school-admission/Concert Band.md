@@ -135,3 +135,16 @@ Theatre</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture150.jpg">
 </div>
 <p></p>
+<p><strong>SYF Celebrates 2023</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF1.jpg">
+</div>
+<p><strong>Quest Arts Festival 2024</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF2.jpg">
+</div>
+<p></p>
