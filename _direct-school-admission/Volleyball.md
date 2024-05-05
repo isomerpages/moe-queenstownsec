@@ -172,18 +172,19 @@ requirements, and the programme available to develop the area of talent.</p>
 <p>Boy</p>
 <p></p>
 <p></p>
-<p></p>
 <p>Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>South Zone 3<sup>rd</sup> 
+<p>South Zone 3<sup>rd</sup>
 </p>
 <p></p>
-<p>National Quarter finalist South Zone 3<sup>rd</sup>
+<p>National Quarter finalist South Zone 3<sup>rd </sup>
 </p>
-<p></p>
 <p>South Zone 1<sup>st</sup>
 </p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -203,16 +204,24 @@ requirements, and the programme available to develop the area of talent.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NSG (Volleyball)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>B-Div</p>
 <p></p>
+<p>C-Div (Semester 2)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Boys</p>
 <p></p>
+<p>Girls</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>South Zone 3<sup>rd</sup>
+</p>
 <p></p>
+<p>South Zone 4<sup>th</sup>
+</p>
 </td>
 </tr>
 </tbody>
