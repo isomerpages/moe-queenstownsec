@@ -2,7 +2,7 @@
 title: Volleyball
 permalink: /quick-links/school-links/volleyball/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h1>Volleyball</h1>
 <p><strong>Direct School Admission 2024 (Volleyball)</strong>
@@ -161,30 +161,28 @@ requirements, and the programme available to develop the area of talent.</p>
 <p>NSG (Volleyball)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>B-Div
+<p>&nbsp;B-Div
 <br>
 <br>C-Div</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Girls</p>
+<p>&nbsp;</p>
 <p></p>
-<p>Boy</p>
-<p></p>
+<p>Boys</p>
+<p>&nbsp;</p>
 <p></p>
 <p>Girls</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>South Zone 3<sup>rd</sup>
 </p>
-<p></p>
-<p>National Quarter finalist South Zone 3<sup>rd</sup>
+<p>&nbsp;</p>
+<p>National Quarter finalist</p>
+<p>South Zone 3<sup>rd</sup>
 </p>
-<p>South Zone 1<sup>st</sup>
+<p>&nbsp;South Zone 1<sup>st</sup>
 </p>
-<p></p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
