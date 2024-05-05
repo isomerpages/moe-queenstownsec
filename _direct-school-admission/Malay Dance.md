@@ -32,16 +32,17 @@ Selection Criteria
 The selection criteria and process for Malay Dance will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec
 Application Procedure
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2024, 11am to 1 June 2024, 3pm. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec.
-Our activities
 
-2023
-School Performance
+<b><u>Our Activities</u></b>
+
+<b>2023</b><br>
+<b><u>School Performance<br></u></b>
 CNY concert 2023
 
 One Raya @QTSS
 
-2024
-School Performance
+<b>2024</b><br>
+<b><u>School Performance<br></u></b>
 CNY concert 2024
 
 Hari Raya Concert 2024
@@ -57,5 +58,3 @@ Singapore Youth Festival Competition
 2019 - Certificate of Distinction
 2021 - Certificate of Distinction
 2023 – Certificate of Achievement
-
-
