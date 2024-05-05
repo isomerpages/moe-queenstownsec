@@ -29,7 +29,7 @@ Students who are successfully admitted to the school via DSA are expected to hon
 <br>
 
 Selection Criteria
-The selection criteria and process for Malay Dance will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec
+The selection criteria and process for Malay Dance will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 Application Procedure
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2024, 11am to 1 June 2024, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec).
 
