@@ -2,7 +2,7 @@
 title: Volleyball
 permalink: /quick-links/school-links/volleyball/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h1>Volleyball</h1>
 <p><strong>Direct School Admission 2024 (Volleyball)</strong>
@@ -48,24 +48,29 @@ requirements, and the programme available to develop the area of talent.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 <p><strong>Year</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 <p><strong>Division(SZ)/Category</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 <p><strong>Gender</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 <p><strong>Achievement</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 <p><strong>2021</strong>
 </p>
 </td>
@@ -81,20 +86,25 @@ requirements, and the programme available to develop the area of talent.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 <p>NSG (Volleyball)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 <p>B-Div</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 <p>Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>South Zone Champions</p>
+<p>&nbsp;</p>
+<p>South Zone Champion</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 <p><strong>2022</strong>
 </p>
 </td>
@@ -110,27 +120,28 @@ requirements, and the programme available to develop the area of talent.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 <p>NSG (Volleyball)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B-Div</p>
 <p>&nbsp;</p>
-<p>C-Div</p>
+<p>B-Div
+<br>C-Div</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Boys</p>
 <p>&nbsp;</p>
-<p>Girls</p>
+<p>Boys
+<br>Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>South Zone 3<sup>rd</sup>
-</p>
-<p>South Zone 3<sup>rd</sup>
-</p>
+<p>&nbsp;</p>
+<p>South Zone 3rd
+<br>South Zone 3rd</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 <p><strong>2023</strong>
 </p>
 </td>
@@ -146,73 +157,24 @@ requirements, and the programme available to develop the area of talent.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 <p>NSG (Volleyball)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B-Div</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>C-Div</p>
+<p>B-Div
+<br>
+<br>C-Div (Semester 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Girls</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Boys</p>
 <p>&nbsp;</p>
 <p>Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>South Zone 3<sup>rd</sup> &amp; National Quarter finalist</p>
-<p>South Zone 3<sup>rd</sup>
-</p>
-<p>South Zone 1<sup>st</sup>
-</p>
 <p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2024</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NSG (Volleyball)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>B-Div</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>C-Div (Semester 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Boys</p>
-<p>&nbsp;</p>
-<p>Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>South Zone 3<sup>rd</sup>
-</p>
-<p>South Zone 4<sup>th</sup>
-</p>
-<p>&nbsp;</p>
+<p>South Zone 3rd &amp; National Quarter Finalist</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
