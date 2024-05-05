@@ -52,9 +52,9 @@ Quest Art Festival 2024 (QAF)
 QTSS Speech Day Celebration 2024
 
 
-Our Achievements
-Singapore Youth Festival Competition
-2017 - Certificate of Distinction
-2019 - Certificate of Distinction
-2021 - Certificate of Distinction
+<b>Our Achievements<br></b>
+<b><u>Singapore Youth Festival Competition<br></u></b>
+2017 - Certificate of Distinction<br>
+2019 - Certificate of Distinction<br>
+2021 - Certificate of Distinction<br>
 2023 – Certificate of Achievement
