@@ -2,11 +2,12 @@
 title: Community Youth Leadership Programme
 permalink: /quick-links/school-links/learning-for-life-programme/
 description: ""
+variant: markdown
 ---
 Community Youth Leadership Programme
 ====================================
 
-**Direct School Admission 2023**
+**Direct School Admission 2024**
 
 **‘Dare to Serve – QUEST Community Youth Leaders’**
 
@@ -62,4 +63,18 @@ c. **<u> Mentorship</u>&nbsp;&nbsp;**
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;i. 1-1 mentorship by Teachers in the CYL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 		
-![](/images/School%20Links/Learning%20for%20Life.jpg)
+Students who are admitted to QTSS via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from years 1-4.
+
+Follow us on Instagram @[qtss_studentcouncil](https://www.instagram.com/qtss_studentcouncil/),
+or click [here](https://www.queenstownsec.moe.edu.sg/special-programs/learning-for-life-programme-llp/) for more information on our Learning for Life Programme.
+
+<u><b>Photos</b></u>
+![](/images/l1.png)
+![](/images/l2.png)
+![](/images/l3.png)
+![](/images/l4.png)
+![](/images/l5.png)
+![](/images/l6.png)
+
+
+
