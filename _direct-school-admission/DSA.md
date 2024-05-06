@@ -23,7 +23,7 @@ The talent areas offered by Queenstown Secondary School for Direct School Admiss
     
 *   Concert Band&nbsp;
     
-*   Malay Dance
+*   Malay Dance&nbsp;
 
 
 ----------------
