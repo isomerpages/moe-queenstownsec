@@ -7,7 +7,7 @@ variant: markdown
 Applied Learning Programme
 ==========================
 
-**Direct School Admission 2025**&nbsp;&nbsp;
+**Direct School Admission 2024**&nbsp;&nbsp;
 
 **Applied Learning Programme – Environmental Sustainability**&nbsp;
 
@@ -91,9 +91,4 @@ These three themes, which are aligned with the Singapore Green Plan 2030, are cr
 
 We welcome students who are passionate about <b><u>environmental advocacy</u></b> to apply for the DSA Exercise. Interested students should be keen to adopt an interdisciplinary approach in solving geographical issues.
 
-Successful applicants will have the privilege of participating in the school’s DSA Talent Development Programme which will include progressive exposure to issues related to the environment and sustainability. They will take on the role of <b><u>ALP Ambassadors</u></b>, undertaking projects that advocate for environmental sustainability at the upper secondary level. In the process, students will also acquire effective communication and presentation skills as they build their confidence to advocate for a good cause in their area of passion. 
-
-
-
-
-
+Successful applicants will have the privilege of participating in the school’s DSA Talent Development Programme which will include progressive exposure to issues related to the environment and sustainability. They will take on the role of <b><u>ALP Ambassadors</u></b>, undertaking projects that advocate for environmental sustainability at the upper secondary level. In the process, students will also acquire effective communication and presentation skills as they build their confidence to advocate for a good cause in their area of passion.
