@@ -22,7 +22,8 @@ Non-Teaching Staff
 | STEM Instructor |  Mr Mohamed Rasid Bin Asbu | <a href="mailto: mohamed_rasid_asbu@moe.edu.sg"> mohamed_rasid_asbu@moe.edu.sg</a>      |
 | STEM Instructor|  Mr Muhammad Firdaus Noah| <a href="mailto: muhd_firdaus_b_noah@moe.edu.sg"> muhd_firdaus_b_noah@moe.edu.sg</a>      |
 | STEM Instructor|  Mr Luqmannulhakim Norman| <a href="mailto: luqmannulhakim_norman@moe.edu.sg"> luqmannulhakim_norman@moe.edu.sg</a>      |
- | Desktop Engineer|  Mr Aiman Bin Shamjafri| <a href="mailto: g-ncs3508sde@ncs.com.sg"> g-ncs3508sde@ncs.com.sg</a>      |
+ | Desktop Engineer|  Mr Aiman Bin Shamjafri| <a href="mailto: aiman.bin.shamjafri@ncs.com.sg"> aiman.bin.shamjafri@ncs.com.sg</a>      |
+ | Desktop Engineer|  Ms Nur Shafika Irasha Binti Sandusi| <a href="mailto: shafika.sandusi@ncs.com.sg"> shafika.sandusi@ncs.com.sg</a>      |
 | OSO|  Ms Catherine d/o Anthony Samy| <a href="mailto: catherine_anthony_samy@moe.edu.sg"> catherine_anthony_samy@moe.edu.sg</a>      |
 | OSO|  Mr Kamaron Bin Yusof| |
 | OSO|  Mdm Lim Bee Hiang| |
