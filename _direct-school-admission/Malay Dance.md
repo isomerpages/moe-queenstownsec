@@ -57,20 +57,11 @@ related to the talent they are selected for from year 1 – 4.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ML2.jpg">
 </div>
-<p>
-<br>
-</p>
-<p>Selection Criteria The selection criteria and process for Malay Dance
-will be updated from early-May. For more information on DSA-Sec, please
-refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a> Application
-Procedure Application for DSA-Sec can be submitted through the online DSA-Sec
-Portal. The application is free-of-charge and will be open from 5 May 2024,
-11am to 1 June 2024, 3pm. For more details, please refer to MOE website
-– <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+<p></p>
 <p><strong><u>Our Activities</u></strong>
 </p>
 <p><strong>2023</strong> 
-<br><strong><u>School Performance<br></u></strong> CNY concert 2023</p>
+<br><strong><u>School Performance<br></u></strong>CNY concert 2023</p>
 <p>One Raya @QTSS</p>
 <p><strong>2024</strong> 
 <br><strong><u>School Performance<br></u></strong> CNY concert 2024</p>
