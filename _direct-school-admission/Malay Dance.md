@@ -69,10 +69,10 @@ Portal. The application is free-of-charge and will be open from 5 May 2024,
 – <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p><strong><u>Our Activities</u></strong>
 </p>
-<p><strong>2023</strong>
+<p><strong>2023</strong> 
 <br><strong><u>School Performance<br></u></strong> CNY concert 2023</p>
 <p>One Raya @QTSS</p>
-<p><strong>2024</strong>
+<p><strong>2024</strong> 
 <br><strong><u>School Performance<br></u></strong> CNY concert 2024</p>
 <p>Hari Raya Concert 2024</p>
 <p>Quest Art Festival 2024 (QAF)</p>
