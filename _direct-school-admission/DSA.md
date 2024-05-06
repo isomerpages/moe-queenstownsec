@@ -41,7 +41,7 @@ The talent areas offered by Queenstown Secondary School for Direct School Admiss
 5.	Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
 
 ## **DSA Selection Criteria &amp; Process**
-![](/images/dsa_2023_updated.png)
+![](/images/DSA.png)
 
 **Useful MOE weblinks**
 
