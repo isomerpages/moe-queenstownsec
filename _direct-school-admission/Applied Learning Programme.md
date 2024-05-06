@@ -155,11 +155,9 @@ are critical for Singapore’s continued development. We leverage current
 and relevant learning content to design engaging packages that help our
 students apply their knowledge of Geography and Science to solve a real-world
 issue.</p>
-<p>&nbsp;</p>
 <p>We welcome students who are passionate about <strong>environmental advocacy</strong> to
 apply for the DSA Exercise. Interested students should be keen to adopt
 an interdisciplinary approach in solving geographical issues.</p>
-<p>&nbsp;</p>
 <p>Successful applicants will have the privilege of participating in the
 school’s DSA Talent Development Programme which will include progressive
 exposure to issues related to the environment and sustainability. They
