@@ -37,7 +37,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal Noodles or Halal Western Cuisine. Applicants may propose other halal
-menu for school</p>
+menu for school's review</p>
 </td>
 </tr>
 </tbody>
