@@ -7,7 +7,12 @@ description: ""
 <p><strong>SCHOOL CANTEEN ADVERTISEMENT</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -25,13 +30,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Halal / Muslim Cooked Food</p>
+<p>Halal / Muslim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 April 2024</p>
+<p>30 Aug 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Halal Noodles or Halal Western Cuisine.</p>
+<p>Halal Noodles or Halal Western Cuisine. Applicants may propose other halal
+menu for school</p>
 </td>
 </tr>
 </tbody>
@@ -61,7 +67,7 @@ via email <u>OR</u> to the School General Office</p>
 <p></p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Address: 1 Strathmore Road, Singapore
 148800</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact No: +65 474 1055</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact No: (+65) 6474 1055</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a rel="noopener noreferrer nofollow" target="_blank">qtss@moe.edu.sg</a>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact Person: Mr Arjuna&nbsp;</p>
