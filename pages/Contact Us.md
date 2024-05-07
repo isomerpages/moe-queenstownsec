@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /about-us/contact-page/
 description: ""
+variant: markdown
 ---
 Contact Us
 ==========
@@ -12,9 +13,9 @@ Contact Us
 **Address:**&nbsp;Queenstown Secondary School  
 1 Strathmore Road Singapore 148800
 
-**Telephone:**&nbsp;65 6474 1055
+**Telephone:**&nbsp;(+65) 6474 1055
 
-**Fax:**&nbsp;65 6474 1295
+**Fax:**&nbsp;(+65) 6474 1295
 
 **Email:**&nbsp; <a href="mailto:qtss@moe.edu.sg">qtss@moe.edu.sg</a>
 
