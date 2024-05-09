@@ -1,7 +1,7 @@
 ---
 title: School Canteen
 permalink: /schoolcanteen/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p><strong>SCHOOL CANTEEN ADVERTISEMENT</strong>
