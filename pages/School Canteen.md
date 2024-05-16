@@ -1,7 +1,7 @@
 ---
 title: School Canteen
-permalink: /schoolcanteen/
-variant: markdown
+permalink: /quick-links/schoolcanteen/
+variant: tiptap
 description: ""
 ---
 <p><strong>SCHOOL CANTEEN ADVERTISEMENT</strong>
@@ -33,7 +33,7 @@ description: ""
 <p>Halal / Muslim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Aug 2024</p>
+<p>30 August 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal Noodles or Halal Western Cuisine. Applicants may propose other halal
