@@ -75,7 +75,7 @@ Mr Tay Yee Kai <a href="mailto: tay_yee_kai@moe.edu.sg">(tay_yee_kai@moe.edu.sg)
 
 **<u>2 Respect (2 RP)</u>** <br>
 Mr Lim Li Cheng <a href="mailto: lim_li_cheng@moe.edu.sg">(lim_li_cheng@moe.edu.sg)</a><br>
-Mr Peng Boon Yen <a href="mailto: peng_boon_yen@moe.edu.sg">(peng_boon_yen@moe.edu.sg)</a><br>
+Mr Peng Boon Yen <a href="mailto: boon_yen_peng@moe.edu.sg">(boon_yen_peng@moe.edu.sg)</a><br>
 
 **<u>2 Resilience (2 RL)</u>** <br>
 Mdm Pang Yuming Amy <a href="mailto: pang_yu_ming@moe.edu.sg">(pang_yu_ming@moe.edu.sg)</a><br>
