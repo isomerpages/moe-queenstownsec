@@ -23,8 +23,8 @@ variant: markdown
 
 | Appointment | Name | Email Address |
 | -------- | -------- | -------- |
-| Year Head    | Ms Han Chin Woon, Janice    | <a href="mailto: han_chin_woon_janice@moe.edu.sg">han_chin_woon_janice@moe.edu.sg</a>     |
-| Coordinator (Sec 1)    | Mr Muhd Fazari Bin Othman  | <a href="mailto: fazari_othman_muhammad@moe.edu.sg">fazari_othman_muhammad@moe.edu.sg</a>    |
+| Year Head (Lower Sec)    | Ms Han Chin Woon, Janice    | <a href="mailto: han_chin_woon_janice@moe.edu.sg">han_chin_woon_janice@moe.edu.sg</a>     |
+| Acting Assistant Year Head (Lower Sec)   | Mr Muhd Fazari Bin Othman  | <a href="mailto: fazari_othman_muhammad@moe.edu.sg">fazari_othman_muhammad@moe.edu.sg</a>    |
 | Sec 1 Level Mentor| Mdm Noorheriza B Mohd Aris| <a href="mailto: noorheriza_mohammed_aris@moe.edu.sg"> noorheriza_mohammed_aris@moe.edu.sg</a> 
 | Sec 1 Level Mentor| Mdm Chan Chu Yin| <a href="mailto: chan_chu_yin@moe.edu.sg"> chan_chu_yin@moe.edu.sg</a> 
 | Sec 2 Level Mentor| Mdm Germaine Jacolyn Peter - Huang| <a href="mailto: noorheriza_mohammed_aris@moe.edu.sg"> noorheriza_mohammed_aris@moe.edu.sg</a> 
@@ -99,8 +99,8 @@ Mdm Liang Xingfen Michelle <a href="mailto: liang_xingfen@moe.edu.sg">(liang_xin
 
 | Appointment| Name | Email Address |
 | -------- | -------- | -------- |
-| Year Head     | Miss Kang Poh Geok    | <a href="mailto: kang_poh_geok@moe.edu.sg">kang_poh_geok@moe.edu.sg</a>    |
-| Coordinator (Sec 3)   | Ms Nur Haryani  Bte Mohamed Hatta   | <a href="mailto: nur_haryani_mohamed_hatta@moe.edu.sg"> nur_haryani_mohamed_hatta@moe.edu.sg</a>  |
+| Year Head (Upper Sec)    | Miss Kang Poh Geok    | <a href="mailto: kang_poh_geok@moe.edu.sg">kang_poh_geok@moe.edu.sg</a>    |
+| Acting Assistant Year Head (Lower Sec)  | Ms Nur Haryani  Bte Mohamed Hatta   | <a href="mailto: nur_haryani_mohamed_hatta@moe.edu.sg"> nur_haryani_mohamed_hatta@moe.edu.sg</a>  |
 | Sec 3 Level Mentor   | Mr Saratkumar    | <a href="mailto: saratkumar_ganasekaran@moe.edu.sg"> saratkumar_ganasekaran@moe.edu.sg</a> |
 | Sec 3 Level Mentor   | Mdm Siti Nur Shahidah Binte Mohd Ismail    | <a href="mailto: siti_nur_shahidah_mohd@moe.edu.sg"> siti_nur_shahidah_mohd@moe.edu.sg</a> |
 | Sec 4 and Sec 5 Level Mentor    | Mdm Cherlyn Tan Jin Ping   | <a href="mailto: cherlyn_tan_jin_ping@moe.edu.sg"> cherlyn_tan_jin_ping@moe.edu.sg</a>   |
