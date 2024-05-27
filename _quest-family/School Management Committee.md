@@ -26,7 +26,7 @@ School Management Committee
 | School Staff Developer   | Ms Pang Xue Yin| <a href="mailto: pang_xue_yin@moe.edu.sg"> pang_xue_yin@moe.edu.sg</a>      |
 | HOD English Language and Literature | Mdm Park Han Na   | <a href="mailto: park_han_na@moe.edu.sg"> park_han_na@moe.edu.sg</a>    |
 | HOD Mother Tongue Languages   | Mdm Tan Kah Geok | <a href="tan_kah_geok@moe.edu.sg"> tan_kah_geok@moe.edu.sg</a>      |
-| HOD Mathematics | Mdm Grace Choy Pui Man | <a href="grace_choy_pui_man@moe.edu.sg"> grace_choy_pui_man@moe.edu.sg</a>      |
+| HOD Mathematics | Mdm Choy Pui Man Grace | <a href="grace_choy_pui_man@moe.edu.sg"> grace_choy_pui_man@moe.edu.sg</a>      |
 | HOD Science  | Mdm Chee Danjie Jacqueline | <a href="chee_danjie_jacqueline@moe.edu.sg"> chee_danjie_jacqueline@moe.edu.sg</a>      |
 | HOD Humanities   | Ms Chua Siew Hui   | <a href="mailto: chua_siew_hui@moe.edu.sg"> chua_siew_hui@moe.edu.sg</a>      |
 | HOD Aesthetics &amp; Technology   | Mr Khoo Gay Min | <a href="khoo_gay_min@moe.edu.sg"> khoo_gay_min@moe.edu.sg</a>      |
