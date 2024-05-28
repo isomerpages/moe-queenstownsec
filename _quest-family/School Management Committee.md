@@ -34,7 +34,7 @@ School Management Committee
 | HOD Character and Citizenship Education | Mr Tan Chee Tiong | <a href="tan_chee_tiong@moe.edu.sg"> tan_chee_tiong@moe.edu.sg</a>     
 | HOD Student Management | Mdm Siti Nurbaizura Binte Punawan | <a href="siti_nurbaizura_punawan@moe.edu.sg"> siti_nurbaizura_punawan@moe.edu.sg</a>      |
 | HOD Special Education Needs | Ms Leuar Woan Khi | <a href="leuar_woan_khi@moe.gov.sg"> leuar_woan_khi@moe.edu.sg</a>      |
-| HOD Information &amp; Communication Technology and Knowledge Mangement | Ms Ang Huan Ting | <a href="ang_huan_ting@moe.gov.sg"> ang_huan_ting@moe.edu.sg</a>      |
+| HOD Information &amp; Communication Technology and Knowledge Management | Ms Ang Huan Ting | <a href="ang_huan_ting@moe.gov.sg"> ang_huan_ting@moe.edu.sg</a>      |
 | MTT Physical Education&nbsp; | Mr Tan Seck Heong&nbsp;&nbsp;&nbsp;&nbsp; | <a href="mailto: tan_seck_heong@moe.edu.sg"> tan_seck_heong@moe.edu.sg </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | LT English Language and Literature&nbsp; | Mdm Sakunthalai d/o Surian&nbsp;&nbsp;&nbsp;&nbsp; | <a href="mailto: sakunthalai_surian@moe.edu.sg"> sakunthalai_surian@moe.edu.sg</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | Year Head (Lower Sec)| Mdm Han Chin Woon Janice  | <a href="han_chin_woon_janice@moe.edu.sg"> han_chin_woon_janice@moe.edu.sg</a>      |
