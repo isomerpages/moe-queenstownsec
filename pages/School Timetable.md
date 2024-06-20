@@ -7,7 +7,7 @@ variant: markdown
 School Timetable
 ================
 
-Academic Year 2024 (Semester 1)
+Academic Year 2024 (Semester 2)
 -------------------------------
 
 Click the links below to view the timetable:
