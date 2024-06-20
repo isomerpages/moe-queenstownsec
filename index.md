@@ -11,7 +11,7 @@ sections:
         - title: Full SBB Pilot in Queenstown Secondary School in 2020
           description: ""
           url: /full-subject-based-banding-full-sbb/
-        - title: 2024 PLD Initiatives
+        - title: 2024 PLD Initiative
           description: ""
           url: https://www.queenstownsec.moe.edu.sg/parent-links/pld-initiatives/
       background: /images/QTSS_Website_Banner.jpeg
