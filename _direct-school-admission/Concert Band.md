@@ -2,7 +2,7 @@
 title: Concert Band
 permalink: /direct-school-admission/permalink/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p><strong>Direct School Admission 2024 (Concert Band)</strong>
 </p>
