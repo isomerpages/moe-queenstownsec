@@ -21,6 +21,7 @@ School Management Committee
 | Appointment |Name | Email Address |
 | -------- | -------- | -------- |
 | Administration Manager   | Mr Arjuna Rahmat Basro   | <a href="mailto: arjuna_rahmat_basro@moe.edu.sg"> arjuna_rahmat_basro@moe.edu.sg</a>      |
+| Administration Manager   | Ms Lau Shu Mei   | <a href="mailto: lau_shu_mei_a@moe.edu.sg"> lau_shu_mei_a@moe.edu.sg</a>      |
 | Operations Manager   | Mr Liew Kheng Guan, Steven   | <a href="mailto: liew_kheng_guan_steven@moe.edu.sg"> liew_kheng_guan_steven@moe.edu.sg</a>      |
 | Operations Manager   | Mr Ramesh S/O K Samikanoo   | <a href="mailto: ramesh_so_k_samikanoo@moe.edu.sg"> ramesh_so_k_samikanoo@moe.edu.sg</a>      |
 | School Staff Developer   | Ms Pang Xue Yin| <a href="mailto: pang_xue_yin@moe.edu.sg"> pang_xue_yin@moe.edu.sg</a>      |
