@@ -12,9 +12,10 @@ Academic Year 2024 (Semester 2)
 
 Click the links below to view the timetable:
 
-[2024 Sem 2 Timetable](/files/2024_SEM_2_Timetable_Classes_updated.pdf)
+[2024 Sem 2 Timetable](/files/2024_SEM_2_Timetable_Classes_Updated_8_07_2024.pdf)
+
 
 
 * * *
 
-Last updated on  20 June  2024
+Last updated on  5 July 2024
