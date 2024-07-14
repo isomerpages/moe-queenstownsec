@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/letter_to_parents_for_MOC_2025_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter to Parents for MOE-OBS Challenge Programme 2025</a> 
+<p><a href="/files/letter_to_parents_for_MOC_2025_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter to Parents for MOE-OBS Challenge Programme 2025</a>
 </p>
 </li>
 <li>
