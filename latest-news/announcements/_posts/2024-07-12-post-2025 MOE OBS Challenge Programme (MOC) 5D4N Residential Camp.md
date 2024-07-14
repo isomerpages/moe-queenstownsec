@@ -11,14 +11,19 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Letter to Parents for MOE-OBS Challenge Programme 2025 (to be updated).</p>
+<p><a href="/files/letter_to_parents_for_MOC_2025_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter to Parents for MOE-OBS Challenge Programme 2025</a> 
+</p>
 </li>
 <li>
 <p><a href="/files/Parents_Briefing_Slides__2025_MOC_.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents briefing slides</a> /
-<a href="https://www.youtube.com/watch?v=bQGAvhsvs3k" rel="noopener noreferrer nofollow" target="_blank">video</a>&nbsp;(video link to be updated)</p>
+<a href="https://www.youtube.com/watch?v=bQGAvhsvs3k" rel="noopener noreferrer nofollow" target="_blank">video</a>&nbsp;</p>
 </li>
 <li>
 <p><a href="/files/eReg_Guide_for_Parents__2025_MOC_.pdf" rel="noopener noreferrer nofollow" target="_blank">eRegistration guide</a>
+</p>
+</li>
+<li>
+<p>eRegistration link - <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025moeobs-queenstownss</a>
 </p>
 </li>
 </ol>
