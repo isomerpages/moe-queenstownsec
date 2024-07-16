@@ -16,7 +16,7 @@ variant: tiptap
 </li>
 <li>
 <p><a href="/files/Parents_Briefing_Slides__2025_MOC_.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents briefing slides</a> /
-<a href="https://www.youtube.com/watch?v=bQGAvhsvs3k" rel="noopener noreferrer nofollow" target="_blank">video</a>&nbsp;</p>
+<a href="https://youtu.be/5sRPoYHSlNo" rel="noopener noreferrer nofollow" target="_blank">video</a>&nbsp;</p>
 </li>
 <li>
 <p><a href="/files/eReg_Guide_for_Parents__2025_MOC_.pdf" rel="noopener noreferrer nofollow" target="_blank">eRegistration guide</a>
