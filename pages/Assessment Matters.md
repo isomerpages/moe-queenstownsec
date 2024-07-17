@@ -16,7 +16,3 @@ Assessment Matters
 [Sec 2 Term 3 Assessment Information](/files/Sec_2_Term_3_Assessment_Information.pdf)
 
 [Sec 3 Term 3 Assessment Information](/files/Sec_3_Term_3_Assessment_Information.pdf)
-
-
-
-
