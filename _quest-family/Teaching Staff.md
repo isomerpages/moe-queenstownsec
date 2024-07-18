@@ -35,8 +35,8 @@ variant: markdown
 #### Secondary One <br>
 
 **<u>1 Gratitude (1 GR)</u>** <br>
-Miss Han Huixuan Dilys <a href="mailto: han_huixuan_dilys@moe.edu.sg">(han_huixuan_dilys@moe.edu.sg)</a><br>
-Mr Foo Chuan Yee Daniel <a href="mailto: foo_chuan_yee_daniel@moe.edu.sg">(foo_chuan_yee_daniel@moe.edu.sg)</a><br>
+Miss Charmaine Ng <a href="mailto: charmaine_ng_hui_min@moe.edu.sg">(charmaine_ng_hui_min@moe.edu.sg)</a><br>
+Mr Johnson Ong <a href="mailto: johnson_ong@moe.edu.sg">(johnson_ong@moe.edu.sg)</a><br>
 
 **<u>1 Aspire (1 AS)</u>** <br>
 Mdm Amanda Liu <a href="mailto: liu_yuanxin_amanda@moe.edu.sg">(liu_yuanxin_amanda@moe.edu.sg)</a><br>
@@ -124,7 +124,7 @@ Mr Ng Wern Chin Sean <a href="mailto: ng_wern_chin@moe.edu.sg">(ng_wern_chin@moe
 
 **<u>3 Resilience (3 RL)</u>** <br>
 Mr Fu Ruiqi <a href="mailto: fu_ruiqi@moe.edu.sg">(fu_ruiqi@moe.edu.sg)</a><br>
-Mdm Ng Lee Choo <a href="mailto: ong-ng_lee_choo@moe.edu.sg">(ong-ng_lee_choo@moe.edu.sg)</a><br>
+Mdm Siti Suminah <a href="mailto: siti_suminah@moe.edu.sg">(siti_suminah@moe.edu.sg)</a><br>
 
 
 **<u>3 Integrity (3 IN)</u>** <br>
