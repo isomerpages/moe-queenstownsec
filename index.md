@@ -20,4 +20,8 @@ sections:
       subtitle: Our Latest News
       id: resources
       button: View More
+  - infopic:
+      id: infopic
+      alt: Image alt text
+      image: /images/QTSS_Follow_Us.png
 ---
