@@ -23,4 +23,5 @@ sections:
   - infopic:
       id: infopic
       alt: Image alt text
+      image: /images/QTSS_Follow_Us.png
 ---
