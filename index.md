@@ -20,4 +20,7 @@ sections:
       subtitle: Our Latest News
       id: resources
       button: View More
+  - infopic:
+      id: infopic
+      alt: Image alt text
 ---
