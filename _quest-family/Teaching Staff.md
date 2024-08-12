@@ -132,7 +132,7 @@ Mr Melvin Tan Wee Yau <a href="mailto: tan_wee_yau_melvin@moe.edu.sg">(tan_wee_y
 Mdm Rozita Bte Beram <a href="mailto: rozita_beram@moe.edu.sg">(rozita_beram@moe.edu.sg)</a><br>
 
 **<u>3 Care (3 CA)</u>** <br>
-Mr Tan Jin Kiang Joel <a href="mailto: tan_jin_kiang_joel@moe.edu.sg">(tan_jin_kiang_joel@moe.edu.sg)</a><br>
+Miss Yeo Su Shan <a href="mailto: yeo_su_shan@moe.edu.sg">(yeo_su_shan@moe.edu.sg)</a><br>
 Mdm Lee Mei Teng Finna <a href="mailto: lee_mei_teng_finna@moe.edu.sg">(lee_mei_teng_finna@moe.edu.sg)</a><br>
 
 **<u>3 Excellence (3 EX)</u>** <br>
