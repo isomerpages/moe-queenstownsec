@@ -20,8 +20,3 @@ Assessment Matters
 [Sec 2 End of Year 2024 Exam Timetable](/files/EOY_2024_Sec_2_Exam_Timetable.pdf)
 
 [Sec 3 End of Year 2024 Exam Timetable](/files/EOY_2024_Sec_3_Exam_Timetable.pdf)
-
-
-
-
-
