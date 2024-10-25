@@ -11,7 +11,6 @@ Non-Teaching Staff
 | -------- | -------- | -------- |
 | Admin Manager| Mr Arjuna Rahmat Basro| <a href="mailto: arjuna_rahmat_basro@schools.gov.sg"> arjuna_rahmat_basro@schools.gov.sg</a>      |
 | Admin Manager| Ms Lau Shu Mei| <a href="mailto: Lau_Shu_Mei_A@schools.gov.sg"> Lau_Shu_Mei_A@schools.gov.sg</a>      |
-|Operation Manager| Mr Liew Kheng Guan, Steven| <a href="mailto: liew_kheng_guan_steven@schools.gov.sg"> liew_kheng_guan_steven@schools.gov.sg</a>  
 | Operation Manager| Mr Ramesh S/O K Samikanoo| <a href="mailto: ramesh_so_k_samikanoo@schools.gov.sg"> ramesh_so_k_samikanoo@schools.gov.sg</a>
 | ICT Associate|  Mr Chua Zhen An| <a href="mailto: chua_zhen_an@schools.gov.sg"> chua_zhen_an@schools.gov.sg</a>      |
 | Admin Executive|  Ms Choo Siew Phin| <a href="mailto: choo_siew_phin@schools.gov.sg"> choo_siew_phin@schools.gov.sg</a>      |
