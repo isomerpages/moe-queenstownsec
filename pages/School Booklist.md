@@ -7,7 +7,7 @@ variant: markdown
 School Booklist
 ===============
 
-### Booklist Download (AY 2024)
+### Booklist Download (AY 2025)
 
 
 #### Secondary 1
