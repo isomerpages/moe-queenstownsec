@@ -44,6 +44,45 @@ the region and build valuable networks.</p>
 </div>
 <p></p>
 <p></p>
+<p><strong>Environmental Sustainability: Engaged Learning</strong>
+</p>
+<p>1) Sec 1 – Field Trip to Lower Seletar Reservoir</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sw11.png">
+</div>
+<p>2)&nbsp;Sec 2 – Exploring Alternative Sources of Energy</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sse3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/op0.png">
+</div>
+<p>3) Sec 3 – Learning Journey / Work Experience to/at The Polyolefin Company&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ik.png">
+</div>
+<p>4) Sustainability Champions – Green Enrichment Workshop (conducted by
+NUS Lecturer from College of Design and Engineering) [happening on 1 Nov]</p>
+<p><strong>Social Sustainability: Students’ work from our Sec 3 capstone project</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/re.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ki.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yt.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
