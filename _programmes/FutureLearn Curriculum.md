@@ -35,6 +35,17 @@ autonomy to choose project topics based on their passions and interests.</p>
 the opportunity to join overseas immersion trips. The QUEST Global programme
 provides the overseas experience, helping students to better understand
 the region and build valuable networks.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/09.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ss2.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
