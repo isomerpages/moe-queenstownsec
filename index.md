@@ -15,6 +15,7 @@ sections:
           description: ""
           url: https://www.queenstownsec.moe.edu.sg/parent-links/pld-initiatives/
       background: /images/updated.png
+      variant: image
   - resources:
       title: Announcements
       subtitle: Our Latest News
