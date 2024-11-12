@@ -14,7 +14,7 @@ sections:
         - title: 2024 PLD Initiative
           description: ""
           url: https://www.queenstownsec.moe.edu.sg/parent-links/pld-initiatives/
-      background: /images/openhouse2024.png
+      background: /images/Presentation11.png
       variant: center
   - resources:
       title: Announcements
