@@ -156,8 +156,10 @@ event production through his creativity and innovation.</p>
 </p>
 <p></p>
 <p></p>
+
+<p>&nbsp; &nbsp; &nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture82.jpg">
+<img style="width:180px;height:250px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture82.jpg">
 </div>
 <p>Our Alumnus, Dr Siva Gopal Thaiyalan, is a Senior Lecturer at the S R
 Nathan School of Human Development at the Singapore University of Social
@@ -177,8 +179,9 @@ PhD in 2020.</p>
 experiential learning and youth development.</p>
 <p></p>
 <p></p>
+<p>&nbsp; &nbsp; &nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture91.jpg">
+<img style="width:250px;height:250px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture91.jpg">
 </div>
 <p>Our esteemed alumna, Ms Joyce Hiew, has built an impressive career in
 the hospitality industry. Despite challenging life circumstances, she overcame
