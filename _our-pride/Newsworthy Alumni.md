@@ -62,6 +62,13 @@ charitable causes. As a Queen’s Scout and businessman, his guiding philosophy
 is to leave this world a better, more peaceful and happier place for future
 generations.
 <br>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture55.png">
+</div>
+<p>
 <br>Mr Leong served 30 years in the Singapore Armed Forces and retired as
 Brigadier General. His past experience includes roles as the Military Adviser
 to the Permanent Mission of United Nations in peacekeeping and disaster
