@@ -85,20 +85,20 @@ relevant career tips and expand their professional network.</p>
 <p>
 <br><em>Information from:</em>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><em>Information from:</em>
-<br>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/business/companies-markets/singapore-based-start-up-rwdc-industries-aims-to-eliminate-single-use</a>
+<p>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/business/companies-markets/singapore-based-start-up-rwdc-industries-aims-to-eliminate-single-use</a>
 </p>
 <p>- <a href="https://www.fintechfestival.sg/speakers/spkr9402-roland-wee" rel="noopener noreferrer nofollow" target="_blank">https://www.fintechfestival.sg/speakers/spkr9402-roland-wee</a>
 </p>
 <p>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=c3P1Cp6zcww</a>
 </p>
 <p>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/wuluclub/posts/goh-loo-member-mr-roland-wee-in-the-business-times-on-6-may-2020roland-wee-co-fo/1096660774042788/</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>
+<br>
 </p>
 <p></p>
 <p><em><a href="https://staging.d33coz43hxnqna.amplifyapp.com/archive/" rel="noopener noreferrer nofollow" target="_blank">Our Archive</a></em>
