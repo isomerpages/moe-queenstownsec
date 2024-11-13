@@ -65,8 +65,9 @@ generations.
 </p>
 <p></p>
 <p></p>
+<p>&nbsp; &nbsp; &nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture55.png">
+<img style="width:180px;height:180px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture55.png">
 </div>
 <p>
 <br>Mr Leong served 30 years in the Singapore Armed Forces and retired as
