@@ -97,6 +97,11 @@ relevant career tips and expand their professional network.</p>
 <p>- <a rel="noopener noreferrer nofollow" target="_blank">https://nexleaders.com/our-experts-old2024/lawrence-leong/</a>
 <br>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture65.png">
+</div>
 <p>Mr Lim Song Joo, an esteemed alumnus of our School, has amassed over 25
 years of experience in the Technology and Finance sectors. Throughout his
 career, he has held numerous management positions, overseeing technology
