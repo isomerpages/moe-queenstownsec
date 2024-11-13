@@ -11,7 +11,7 @@ variant: markdown
 <hr>
 <h3>Interview with The CEO Magazine</h3>
 <div class="isomer-image-wrapper">
-<img style="width:180px;height:180px;margin-left:10px;" height="auto" width="100%" src="/images/Our%20Pride/Alumni%202.png">
+<img style="width:200px;height:200px;margin-left:10px;" height="auto" width="100%" src="/images/Our%20Pride/Alumni%202.png">
 </div>
 <p>Our alumnus, Mr Ronald Goh, is Managing Director of Electronics and Engineering
 (E&amp;E). Building on his family’s legacy, he embraces the unique challenges
@@ -36,7 +36,7 @@ in 2015.
 </p>
 <p></p>
 <p></p>
-<p>&nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; </p>
 <div class="isomer-image-wrapper">
 <img style="width:180px;height:180px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
@@ -76,7 +76,7 @@ generations.
 <p></p>
 <p>&nbsp; &nbsp; &nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width:180px;height:180px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture55.png">
+<img style="width:200px;height:200px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture55.png">
 </div>
 <p>
 <br>Mr Leong served 30 years in the Singapore Armed Forces and retired as
