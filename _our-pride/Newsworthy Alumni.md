@@ -177,6 +177,23 @@ PhD in 2020.</p>
 experiential learning and youth development.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture91.jpg">
+</div>
+<p>Our esteemed alumna, Ms Joyce Hiew, has built an impressive career in
+the hospitality industry. Despite challenging life circumstances, she overcame
+numerous obstacles to achieve success on her own terms.</p>
+<p>Ms Hiew began her career as part of the Singapore Airlines cabin crew,
+gaining invaluable experience in customer service and excellence. Later,
+she ventured into the food and beverage industry, where she continues to
+make strides as the owner of Bibik Caterers Pte. Ltd. and Okasa Sushi Restaurant.</p>
+<p>We are also proud to announce that Ms Hiew is one of our mentors for the
+inaugural Career Mentoring @ QUEST program, guiding alumni with valuable
+career insights and helping them expand their professional networks.</p>
+<p>Information from: <a href="https://www.linkedin.com/in/joyce-hiew-8638b178/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/in/joyce-hiew-8638b178/?originalSubdomain=sg</a>
+</p>
+<p></p>
+<p></p>
 <p>
 <br>
 </p>
