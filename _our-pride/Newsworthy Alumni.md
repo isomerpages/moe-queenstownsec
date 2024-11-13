@@ -32,7 +32,43 @@ in 2015.
 <br>
 <br>To find out more, read the full interview with The CEO Magazine&nbsp;
 <a href="https://www.theceomagazine.com/executive-interviews/it-electronics/ronald-goh/" rel="noopener nofollow" target="_blank">Here</a>.</p>
-<p><em>*photo was</em>&nbsp;taken&nbsp;<em>from CEO Magazine:&nbsp;https://www.theceomagazine.com/executive-interviews/it-electronics/ronald-goh/</em>
+<p><em>*photo was</em>&nbsp;taken&nbsp;<em>from CEO Magazine:&nbsp;<a href="https://www.theceomagazine.com/executive-interviews/it-electronics/ronald-goh/" rel="noopener noreferrer nofollow" target="_blank">https://www.theceomagazine.com/executive-interviews/it-electronics/ronald-goh/</a></em>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
+</div>
+<p>Our alumnus, Mr Roland Wee, is the founder and chairman of the MEI Engineering
+Group. An engineer by training, he designed and constructed sophisticated
+facilities on a turnkey basis for many large multinational companies throughout
+the Asia Pacific region since 1973.</p>
+<p>He has also served on the Boards of Singapore PowerGas and subsidiaries
+of DBS Land, and SembCorp.
+<br>
+<br>Mr Wee co-founded RWDC Industries Limited in 2015, a Singapore-based biotech
+startup to develop fully biodegradable PHA polymers - a groundbreaking,
+eco-friendly solution to save the planet and eliminate microplastics from
+harming the human body.</p>
+<p>When Mr Wee turned 80 in October 2024, he co-founded and launched the
+Somatic Health Group that leverages AI-powered technologies for safety
+and health rehabilitation for patients and around the globe. He says that
+this is something that we can use for ourselves, for our friends, relatives
+and society at large.</p>
+<p>Driven by a deep commitment to giving back to society, Mr Wee has been
+an active member of the Singapore Rotary Club for many years to support
+charitable causes. As a Queen’s Scout and businessman, his guiding philosophy
+is to leave this world a better, more peaceful and happier place for future
+generations.
+<br>
+<br>
+</p>
+<p><em>Information from:</em>
+<br>
+<br>
+</p>
+<p></p>
+<p></p>
+<p></p>
 <p><em><a href="https://staging.d33coz43hxnqna.amplifyapp.com/archive/" rel="noopener noreferrer nofollow" target="_blank">Our Archive</a></em>
 </p>
