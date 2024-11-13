@@ -63,7 +63,16 @@ is to leave this world a better, more peaceful and happier place for future
 generations.
 <br>
 </p>
-<p></p>
+<p><em>Information from:</em>
+</p>
+<p>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/business/companies-markets/singapore-based-start-up-rwdc-industries-aims-to-eliminate-single-use</a>
+</p>
+<p>- <a href="https://www.fintechfestival.sg/speakers/spkr9402-roland-wee" rel="noopener noreferrer nofollow" target="_blank">https://www.fintechfestival.sg/speakers/spkr9402-roland-wee</a>
+</p>
+<p>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=c3P1Cp6zcww</a>
+</p>
+<p>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/wuluclub/posts/goh-loo-member-mr-roland-wee-in-the-business-times-on-6-may-2020roland-wee-co-fo/1096660774042788/</a>
+</p>
 <p></p>
 <p>&nbsp; &nbsp; &nbsp;</p>
 <div class="isomer-image-wrapper">
@@ -83,15 +92,7 @@ the Deputy CEO Development, Mandai Wildlife Group.</p>
 for the inaugural Career Mentoring @ QUEST in 2024, for alumni to learn
 relevant career tips and expand their professional network.</p>
 <p>
-<br><em>Information from:</em>
-</p>
-<p>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/business/companies-markets/singapore-based-start-up-rwdc-industries-aims-to-eliminate-single-use</a>
-</p>
-<p>- <a href="https://www.fintechfestival.sg/speakers/spkr9402-roland-wee" rel="noopener noreferrer nofollow" target="_blank">https://www.fintechfestival.sg/speakers/spkr9402-roland-wee</a>
-</p>
-<p>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=c3P1Cp6zcww</a>
-</p>
-<p>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/wuluclub/posts/goh-loo-member-mr-roland-wee-in-the-business-times-on-6-may-2020roland-wee-co-fo/1096660774042788/</a>
+<br>
 </p>
 <p></p>
 <p></p>
