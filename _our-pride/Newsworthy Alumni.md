@@ -134,6 +134,25 @@ to nurture innovation and creativity among students.</p>
 </p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture72.png">
+</div>
+<p>Our alumnus, Mr Picasso Tan, is the director of Picasso International
+Productions (PIP), a premier event company serving a diverse international
+clientele across Singapore and abroad. Mr Tan has spearheaded numerous
+national events in Singapore, including the conceptualisation and choreography
+of several National Day Parades, as well as the design of the 1996 World
+Trade Organisation Ministerial Meeting’s closing ceremony.</p>
+<p>Mr Tan, an Asian Wushu champion and multiple SEA Games gold medalist,
+represented Singapore in Wushu for 11 years, earning numerous medals along
+the way. One of his crowning achievements was leading the Singapore Wushu
+team to an impressive seven gold medals at the 1993 SEA Games held in Singapore.</p>
+<p>Driven by his strong strive towards excellence, Mr Tan crafts unique,
+unforgettable experiences for each event, continually raising the bar in
+event production through his creativity and innovation.</p>
+<p>Information from: <a href="https://pip.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pip.sg/</a>
+</p>
+<p></p>
 <p></p>
 <p>
 <br>
