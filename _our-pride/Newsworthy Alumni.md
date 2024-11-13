@@ -62,7 +62,20 @@ charitable causes. As a Queen’s Scout and businessman, his guiding philosophy
 is to leave this world a better, more peaceful and happier place for future
 generations.
 <br>
-<br>
+<br>Mr Leong served 30 years in the Singapore Armed Forces and retired as
+Brigadier General. His past experience includes roles as the Military Adviser
+to the Permanent Mission of United Nations in peacekeeping and disaster
+relief. He also joined the Singapore Tourism Board to help develop new
+tourism initiatives, including taking on the role of Project Director for
+the inaugural Formula One Night Rice. In addition, he founded 3QUENSZ,
+a platform devoted to coaching and mentoring young leaders, further exemplifying
+his dedication to nurturing and empowering the next generation. He is currently
+the Deputy CEO Development, Mandai Wildlife Group.</p>
+<p>We are also proud to share that Mr Leong is our distinguished panellist
+for the inaugural Career Mentoring @ QUEST in 2024, for alumni to learn
+relevant career tips and expand their professional network.</p>
+<p>
+<br><em>Information from:</em>
 </p>
 <p></p>
 <p></p>
