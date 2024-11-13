@@ -37,7 +37,7 @@ in 2015.
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
 <p>Our alumnus, Mr Roland Wee, is the founder and chairman of the MEI Engineering
 Group. An engineer by training, he designed and constructed sophisticated
