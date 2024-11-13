@@ -136,8 +136,10 @@ to nurture innovation and creativity among students.</p>
 </p>
 <p></p>
 <p></p>
+
+<p>&nbsp; &nbsp; &nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture72.png">
+<img style="width:180px;height:250px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture72.png">
 </div>
 <p>Our alumnus, Mr Picasso Tan, is the director of Picasso International
 Productions (PIP), a premier event company serving a diverse international
