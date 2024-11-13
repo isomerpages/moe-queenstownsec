@@ -97,7 +97,36 @@ relevant career tips and expand their professional network.</p>
 <p>- <a rel="noopener noreferrer nofollow" target="_blank">https://nexleaders.com/our-experts-old2024/lawrence-leong/</a>
 <br>
 </p>
-<p></p>
+<p>Mr Lim Song Joo, an esteemed alumnus of our School, has amassed over 25
+years of experience in the Technology and Finance sectors. Throughout his
+career, he has held numerous management positions, overseeing technology
+asset financing, client management and global strategy across both global
+and Asia Pacific regions.</p>
+<p>As a dedicated changemaker, Mr Lim is committed to giving back to the
+community through various roles such as mentoring, investing in start-ups,
+and training professionals and consultants. He actively contributes to
+government-linked organizations such as Enterprise Singapore, raiSE, and
+Institutions of Higher Learning (IHLs), delivering impactful initiatives
+to enhance the ecosystem. Mr Lim also trains Certified Consultants for
+Enterprise Singapore and is recognized as a key partner in the innovation
+and entrepreneurship ecosystem, including grants, training, and investments.</p>
+<p>A strong advocate for youth empowerment, Mr Lim champions initiatives
+that promote values, life goals, mental wellness, and self-care, fostering
+a more cohesive, inclusive, and caring society. He advocates for holistic
+values in our youths as their foundation strength into adulthood.</p>
+<p>Mr Lim is recognized as an Academic Fellow (Entrepreneurship Development)
+by ICMCI, an international institution of Certified Consultants with members
+from over 50 countries. In 2023, he was nominated for the Presidents’ Award
+Social Enterprise Champion (Individual) and emerged as one of the top two
+finalists, receiving recognition from President Tharman at the Istana.</p>
+<p>Mr Lim serves as the patron of our school's Design &amp; Innovation Club,
+where he provides guidance and supports the school’s Maker Education efforts
+to nurture innovation and creativity among students.</p>
+<p>Information from:</p>
+<p>- <a href="https://iie.smu.edu.sg/mentor/lim-song-joo" rel="noopener noreferrer nofollow" target="_blank">https://iie.smu.edu.sg/mentor/lim-song-joo</a>
+</p>
+<p>- <a href="https://www.bwgcircles.com/about" rel="noopener noreferrer nofollow" target="_blank">https://www.bwgcircles.com/about</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
