@@ -11,7 +11,7 @@ variant: markdown
 <hr>
 <h3>Interview with The CEO Magazine</h3>
 <div class="isomer-image-wrapper">
-<img style="width:180px;height:180px;margin-right:10px;" height="auto" width="100%" src="/images/Our%20Pride/Alumni%202.png">
+<img style="width:180px;height:180px;margin-left:10px;" height="auto" width="100%" src="/images/Our%20Pride/Alumni%202.png">
 </div>
 <p>Our alumnus, Mr Ronald Goh, is Managing Director of Electronics and Engineering
 (E&amp;E). Building on his family’s legacy, he embraces the unique challenges
