@@ -99,7 +99,6 @@ relevant career tips and expand their professional network.</p>
 </p>
 <p></p>
 <p></p>
-
 <p>&nbsp; &nbsp; &nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width:250px;height:200px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture65.png">
@@ -136,7 +135,6 @@ to nurture innovation and creativity among students.</p>
 </p>
 <p></p>
 <p></p>
-
 <p>&nbsp; &nbsp; &nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width:180px;height:250px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture72.png">
@@ -156,6 +154,27 @@ unforgettable experiences for each event, continually raising the bar in
 event production through his creativity and innovation.</p>
 <p>Information from: <a href="https://pip.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pip.sg/</a>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture82.jpg">
+</div>
+<p>Our Alumnus, Dr Siva Gopal Thaiyalan, is a Senior Lecturer at the S R
+Nathan School of Human Development at the Singapore University of Social
+Sciences. Dr Thaiyalan began his career as a teacher and later became a
+Senior Curriculum Specialist for Character and Citizenship Education at
+the Ministry of Education in Singapore. He was involved in setting up the
+Service-Learning Club at the National Institute of Education and led three
+Youth Expeditions Projects (YEP) to Sikkim and Sri Lanka.</p>
+<p>Dr Thaiyalan received the Ministry of Education’s Overseas Graduate Scholarship
+to pursue the Master of Education in Youth Development Leadership at the
+University of Minnesota in the USA in 2011. In 2015, he was awarded the
+Asia Pacific Leadership Fellowship at the East-West Center in Honolulu,
+Hawaii, and in 2016, he was awarded the Victoria Doctoral Scholarship at
+the Victoria University of Wellington in New Zealand and completed his
+PhD in 2020.</p>
+<p>Dr Thaiyalan’s research interest lies at the nexus of citizenship education,
+experiential learning and youth development.</p>
 <p></p>
 <p></p>
 <p>
