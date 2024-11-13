@@ -91,7 +91,10 @@ the Deputy CEO Development, Mandai Wildlife Group.</p>
 <p>We are also proud to share that Mr Leong is our distinguished panellist
 for the inaugural Career Mentoring @ QUEST in 2024, for alumni to learn
 relevant career tips and expand their professional network.</p>
-<p>
+<p><em>Information from:</em>
+<br>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/in/lawrence-leong-73461b3b/?originalSubdomain=sg</a>
+</p>
+<p>- <a rel="noopener noreferrer nofollow" target="_blank">https://nexleaders.com/our-experts-old2024/lawrence-leong/</a>
 <br>
 </p>
 <p></p>
