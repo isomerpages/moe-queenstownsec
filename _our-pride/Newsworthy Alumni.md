@@ -36,9 +36,7 @@ in 2015.
 </p>
 <p></p>
 <p></p>
-
-&nbsp;
-&nbsp;
+<p>&nbsp; &nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width:180px;height:180px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
@@ -67,11 +65,14 @@ generations.
 <br>
 </p>
 <p><em>Information from:</em>
-<br>
-<br>
+<br>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/business/companies-markets/singapore-based-start-up-rwdc-industries-aims-to-eliminate-single-use</a>
 </p>
-<p></p>
-<p></p>
+<p>- <a href="https://www.fintechfestival.sg/speakers/spkr9402-roland-wee" rel="noopener noreferrer nofollow" target="_blank">https://www.fintechfestival.sg/speakers/spkr9402-roland-wee</a>
+</p>
+<p>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=c3P1Cp6zcww</a>
+</p>
+<p>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/wuluclub/posts/goh-loo-member-mr-roland-wee-in-the-business-times-on-6-may-2020roland-wee-co-fo/1096660774042788/</a>
+</p>
 <p></p>
 <p><em><a href="https://staging.d33coz43hxnqna.amplifyapp.com/archive/" rel="noopener noreferrer nofollow" target="_blank">Our Archive</a></em>
 </p>
