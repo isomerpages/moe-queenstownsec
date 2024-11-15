@@ -2,14 +2,14 @@
 title: Newsworthy Alumni
 permalink: /our-pride/newsworthy-alumni/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h1>Newsworthy Alumni</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Pride/Alumni%201.jpg">
 </div>
 <hr>
-<h3>Interview with The CEO Magazine</h3>
+<h3>Mr Ronald Goh</h3>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:200px;margin-left:10px;" height="auto" width="100%" src="/images/Our%20Pride/Alumni%202.png">
 </div>
@@ -36,7 +36,7 @@ in 2015.
 </p>
 <p></p>
 <p></p>
-<p>&nbsp; &nbsp; &nbsp; </p>
+<h3>Mr Lawrence Leong</h3>
 <div class="isomer-image-wrapper">
 <img style="width:180px;height:180px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
@@ -65,13 +65,13 @@ generations.
 </p>
 <p><em>Information from:</em>
 </p>
-<p>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/business/companies-markets/singapore-based-start-up-rwdc-industries-aims-to-eliminate-single-use</a>
+<p>- <em><a rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/business/companies-markets/singapore-based-start-up-rwdc-industries-aims-to-eliminate-single-use</a></em>
 </p>
-<p>- <a href="https://www.fintechfestival.sg/speakers/spkr9402-roland-wee" rel="noopener noreferrer nofollow" target="_blank">https://www.fintechfestival.sg/speakers/spkr9402-roland-wee</a>
+<p><em>- <a href="https://www.fintechfestival.sg/speakers/spkr9402-roland-wee" rel="noopener noreferrer nofollow" target="_blank">https://www.fintechfestival.sg/speakers/spkr9402-roland-wee</a></em>
 </p>
-<p>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=c3P1Cp6zcww</a>
+<p><em>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=c3P1Cp6zcww</a></em>
 </p>
-<p>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/wuluclub/posts/goh-loo-member-mr-roland-wee-in-the-business-times-on-6-may-2020roland-wee-co-fo/1096660774042788/</a>
+<p><em>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/wuluclub/posts/goh-loo-member-mr-roland-wee-in-the-business-times-on-6-may-2020roland-wee-co-fo/1096660774042788/</a></em>
 </p>
 <p></p>
 <p>&nbsp; &nbsp; &nbsp;</p>
@@ -92,14 +92,12 @@ the Deputy CEO Development, Mandai Wildlife Group.</p>
 for the inaugural Career Mentoring @ QUEST in 2024, for alumni to learn
 relevant career tips and expand their professional network.</p>
 <p><em>Information from:</em>
-<br>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/in/lawrence-leong-73461b3b/?originalSubdomain=sg</a>
+<br><em>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/in/lawrence-leong-73461b3b/?originalSubdomain=sg</a></em>
 </p>
-<p>- <a rel="noopener noreferrer nofollow" target="_blank">https://nexleaders.com/our-experts-old2024/lawrence-leong/</a>
-<br>
+<p><em>- <a rel="noopener noreferrer nofollow" target="_blank">https://nexleaders.com/our-experts-old2024/lawrence-leong/</a><br></em>
 </p>
 <p></p>
-<p></p>
-<p>&nbsp; &nbsp; &nbsp;</p>
+<h3>Mr Lim Song Joo</h3>
 <div class="isomer-image-wrapper">
 <img style="width:250px;height:200px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture65.png">
 </div>
@@ -128,14 +126,15 @@ finalists, receiving recognition from President Tharman at the Istana.</p>
 <p>Mr Lim serves as the patron of our school's Design &amp; Innovation Club,
 where he provides guidance and supports the school’s Maker Education efforts
 to nurture innovation and creativity among students.</p>
-<p>Information from:</p>
-<p>- <a href="https://iie.smu.edu.sg/mentor/lim-song-joo" rel="noopener noreferrer nofollow" target="_blank">https://iie.smu.edu.sg/mentor/lim-song-joo</a>
+<p><em>Information from:</em>
 </p>
-<p>- <a href="https://www.bwgcircles.com/about" rel="noopener noreferrer nofollow" target="_blank">https://www.bwgcircles.com/about</a>
+<p><em>- <a href="https://iie.smu.edu.sg/mentor/lim-song-joo" rel="noopener noreferrer nofollow" target="_blank">https://iie.smu.edu.sg/mentor/lim-song-joo</a></em>
+</p>
+<p><em>- <a href="https://www.bwgcircles.com/about" rel="noopener noreferrer nofollow" target="_blank">https://www.bwgcircles.com/about</a></em>
 </p>
 <p></p>
 <p></p>
-<p>&nbsp; &nbsp; &nbsp;</p>
+<h3>Mr Picasso Tan</h3>
 <div class="isomer-image-wrapper">
 <img style="width:180px;height:250px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture72.png">
 </div>
@@ -152,12 +151,11 @@ team to an impressive seven gold medals at the 1993 SEA Games held in Singapore.
 <p>Driven by his strong strive towards excellence, Mr Tan crafts unique,
 unforgettable experiences for each event, continually raising the bar in
 event production through his creativity and innovation.</p>
-<p>Information from: <a href="https://pip.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pip.sg/</a>
+<p><em>Information from: <a href="https://pip.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pip.sg/</a></em>
 </p>
 <p></p>
 <p></p>
-
-<p>&nbsp; &nbsp; &nbsp;</p>
+<h3>Dr Siva Gopal Thaiyalan &nbsp;</h3>
 <div class="isomer-image-wrapper">
 <img style="width:180px;height:250px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture82.jpg">
 </div>
@@ -179,7 +177,7 @@ PhD in 2020.</p>
 experiential learning and youth development.</p>
 <p></p>
 <p></p>
-<p>&nbsp; &nbsp; &nbsp;</p>
+<h3>Ms Joyce Hiew &nbsp; &nbsp;</h3>
 <div class="isomer-image-wrapper">
 <img style="width:250px;height:250px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture91.jpg">
 </div>
@@ -193,7 +191,7 @@ make strides as the owner of Bibik Caterers Pte. Ltd. and Okasa Sushi Restaurant
 <p>We are also proud to announce that Ms Hiew is one of our mentors for the
 inaugural Career Mentoring @ QUEST program, guiding alumni with valuable
 career insights and helping them expand their professional networks.</p>
-<p>Information from: <a href="https://www.linkedin.com/in/joyce-hiew-8638b178/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/in/joyce-hiew-8638b178/?originalSubdomain=sg</a>
+<p><em>Information from: <a href="https://www.linkedin.com/in/joyce-hiew-8638b178/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/in/joyce-hiew-8638b178/?originalSubdomain=sg</a></em>
 </p>
 <p></p>
 <p></p>
