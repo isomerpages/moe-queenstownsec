@@ -36,7 +36,7 @@ in 2015.
 </p>
 <p></p>
 <p></p>
-<h3>Mr Lawrence Leong</h3>
+<h3>Mr Roland Wee</h3>
 <div class="isomer-image-wrapper">
 <img style="width:180px;height:180px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
@@ -74,7 +74,7 @@ generations.
 <p><em>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/wuluclub/posts/goh-loo-member-mr-roland-wee-in-the-business-times-on-6-may-2020roland-wee-co-fo/1096660774042788/</a></em>
 </p>
 <p></p>
-<p>&nbsp; &nbsp; &nbsp;</p>
+<h3>Mr Lawrence Leong</h3>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:200px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture55.png">
 </div>
