@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Partnerships.md
       - FutureLearn Curriculum.md
       - Talent Development.md
       - QTSS rHBL SIL.md
