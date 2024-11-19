@@ -90,9 +90,11 @@ of professionals from Rockwell Automation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partnerships_7.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partnerships_6.jpg">
 </div>
+<p></p>
 <p><u>5. Quest for an Inclusive and Environmentally Sustainable World – Work Attachment and Learning Journey to </u><strong><u>IKEA</u></strong>
 </p>
 <p>Partnering with IKEA, a world-renowned furniture brand that champions
