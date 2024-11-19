@@ -59,7 +59,7 @@ and nurtured<strong>.</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
 </div>
 <hr>
 <p><strong>Key Learning Experiences</strong>
