@@ -17,12 +17,8 @@ their strengths and interests.</p>
 <hr>
 <p><strong>Key Learning Experiences: Examples of Learning Journeys and Work Attachment</strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p><u>Quest for an Environmentally Sustainable world – Work Attachment and Learning Journey to</u><strong><u> The Polyolefin Company</u></strong>
+<p><u>1. Quest for an Environmentally Sustainable world - Work Attachment and Learning Journey to </u><strong><u>The Polyolefin Company</u></strong>
 </p>
-</li>
-</ol>
 <p>The Polyolefin Company, which focuses on manufacturing and sales of Low
 Density Polyethlyene (LDPE) and Polypropylene (PP)<sup>1</sup>, offers
 Queenstownians a glimpse into the petrochemical world where the chemistry
