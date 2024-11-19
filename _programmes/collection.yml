@@ -2,8 +2,8 @@ collections:
   programmes:
     output: true
     order:
-      - Partnerships.md
       - FutureLearn Curriculum.md
       - Talent Development.md
+      - Partnerships.md
       - QTSS rHBL SIL.md
       - Full Subject Based Banding (Full SBB).md
