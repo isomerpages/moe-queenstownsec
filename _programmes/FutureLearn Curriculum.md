@@ -36,9 +36,8 @@ the opportunity to join overseas immersion trips. The QUEST Global programme
 provides the overseas experience, helping students to better understand
 the region and build valuable networks.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/09.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image__16_.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/df.png">
 </div>
