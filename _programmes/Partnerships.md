@@ -35,15 +35,12 @@ their experience and learning by going through a full-day work attachment.
 During the work attachment, they interacted with the engineers at TPC,
 gaining invaluable insights into the rigour and satisfaction derived from
 the role of creating products used widely.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partnerships_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/partnerships_1.jpg">
-</div>
 <p><sup>1</sup>  <a rel="noopener noreferrer nofollow" target="_blank">https://www.tpc.com.sg/2.12_OurBusiness.html</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture36.png">
+</div>
+<p></p>
 <p><u>2. Quest for an Informed world – Learning Journey to</u><strong><u> Star International</u></strong>
 </p>
 <p>With 7 distinct brands and presence in more than 30 countries worldwide,
@@ -69,11 +66,7 @@ of food sciences in an authentic setting when the company shared about
 the considerations behind its menu evolution, balancing taste with nutrition,
 in response to changes in consumer demands.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partnerships_4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partnerships_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture37.png">
 </div>
 <p><u>4. Quest for a Safe World – Learning Journey to </u><strong><u>Rockwell Automation</u></strong>
 </p>
@@ -89,11 +82,7 @@ experience the production process through the use of augmented reality
 before wrapping up the learning journey with a Q&amp;A session with a panel
 of professionals from Rockwell Automation.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partnerships_7.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partnerships_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture38.png">
 </div>
 <p></p>
 <p><u>5. Quest for an Inclusive and Environmentally Sustainable World – Work Attachment and Learning Journey to </u><strong><u>IKEA</u></strong>
@@ -112,8 +101,7 @@ our students to appreciate how the design thinking process that they have
 learnt in the classroom is practiced in the actual design and manufacturing
 industry; resulting in IKEA addressing the diverse needs of their consumers,
 ranging from age to affordability and lifestyle preferences.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partnerships_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture39.png">
 </div>
 <p></p>
