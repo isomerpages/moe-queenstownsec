@@ -82,22 +82,22 @@ will be ready for student and staff use in 2025.</p>
 <p><u>The Library: Before Renovation</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/lil.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/lil.png">
 </div>
 <p></p>
 <p><u>Learning Commons: After Renovation</u>
 </p>
 <p>3D rendering of the Main Areas @ the Learning Commons</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LI2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/LI2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LI3.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/LI3.png">
 </div>
-<p>New Meeting &amp; Study Areas @ the Learning Commons</p>
 <p></p>
+<p>New Meeting &amp; Study Areas @ the Learning Commons</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_20_134748.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_20_134748.png">
 </div>
 <p></p>
 <p></p>
