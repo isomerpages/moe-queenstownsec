@@ -25,4 +25,13 @@ sections:
       id: infopic
       alt: Image alt text
       image: /images/QTSS_Follow_Us.png
+  - infopic:
+      title: Learning Spaces @ QTSS
+      id: infopic
+      description: From 2022, our school embarked on a project to reimagine and
+        redesign learning spaces.
+      button: view more
+      url: JJK
+      image: /images/Picture101.jpg
+      alt: Image alt text
 ---
