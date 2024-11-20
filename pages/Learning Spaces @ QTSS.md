@@ -81,10 +81,10 @@ these rooms have become a favourite among students. The Learning Commons
 will be ready for student and staff use in 2025.</p>
 <p><u>The Library: Before Renovation</u>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LI1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/lil.png">
 </div>
+<p></p>
 <p><u>Learning Commons: After Renovation</u>
 </p>
 <p>3D rendering of the Main Areas @ the Learning Commons</p>
