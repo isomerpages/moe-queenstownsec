@@ -97,9 +97,6 @@ the region and build valuable networks.</p>
 </table>
 <p></p>
 <p>2)&nbsp;Sec 2 – Exploring Alternative Sources of Energy</p>
-<p></p>
-<p>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sec 2 – Exploring Alternative Sources
-of Energy</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -230,7 +227,7 @@ the hawkers</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/cc.png">
 </div>
 <p>&nbsp;</p>
 </td>
@@ -238,13 +235,57 @@ the hawkers</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ki.png">
-</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(b)&nbsp;&nbsp; Vlog created by our students to promote hawker culture</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yt.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dd.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ee.png">
+</div>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(c)&nbsp;&nbsp; Considerations behind the poster designed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture35.png">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
