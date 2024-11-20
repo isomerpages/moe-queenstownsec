@@ -53,7 +53,7 @@ to understand how companies are innovating to overcome the challenges they
 face, in this instance, the use of technology to overcome manpower shortage.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partnerships_3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Partnerships_3.jpg">
 </div>
 <p><u>3. Quest for a Healthy world – Learning Journey to </u><strong><u>Elsie’s Kitchen</u></strong>
 </p>
