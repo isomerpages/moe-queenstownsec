@@ -31,7 +31,7 @@ sections:
       description: From 2022, our school embarked on a project to reimagine and
         redesign learning spaces.
       button: view more
-      url: JJK
+      url: /learning-spaces-qtss/
       image: /images/Picture101.jpg
       alt: Image alt text
 ---
