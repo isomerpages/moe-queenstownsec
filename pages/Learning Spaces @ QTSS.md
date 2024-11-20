@@ -97,7 +97,7 @@ will be ready for student and staff use in 2025.</p>
 <p>New Meeting &amp; Study Areas @ the Learning Commons</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_20_134748.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_20_134748.png">
 </div>
 <p></p>
 <p></p>
