@@ -57,9 +57,8 @@ impact on the community.</p>
 <p>This comprehensive approach ensures each student’s unique worth is recognised
 and nurtured<strong>.</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Talent_Development_Diagram_Final.jpg">
 </div>
 <hr>
 <p><strong>Key Learning Experiences</strong>
