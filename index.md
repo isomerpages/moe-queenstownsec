@@ -31,6 +31,15 @@ sections:
       image: /images/foyer1.png
       alt: Image alt text
   - infopic:
+      title: QTSS Memories
+      id: infopic
+      description: A collection of our students' memories as they reflect on their
+        QTSS journey.
+      button: VIEW MORE
+      url: https://www.queenstownsec/qtss-memories/
+      image: /images/Picture2.jpg
+      alt: Image alt text
+  - infopic:
       id: infopic
       alt: Image alt text
       image: /images/QTSS_Follow_Us.png
