@@ -96,19 +96,11 @@ demanding level.</p>
 </li>
 </ul>
 <h5><strong>Key Achievements</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>Singapore Math Kangaroo Contest (SMKC): 2 Silver awards, 10 Bronze awards
-and 2 Honourable Mentions</p>
-</li>
-<li>
-<p>Singapore &amp; Asian School Math Olympiad (SASMO): 2 Silver awards, 3
-Bronze awards and 7 Honourable Mentions</p>
-</li>
-<li>
-<p>Singapore Mathematical Olympiad (SMO): 3 Honourable Mentions</p>
-</li>
-</ul>
+<p><strong>Singapore Math Kangaroo Contest (SMKC)</strong>: 10 Bronze awards,
+3 Silver awards, 2 Gold Awards and 6 Honourable Mentions</p>
+<p><strong>Singapore &amp; Asian School Math Olympiad (SASMO)</strong>: 6
+Bronze awards, 1 Silver award, 1 Gold award and 9 &nbsp;Honourable Mentions</p>
+<p><strong>Singapore Mathematical Olympiad (SMO)</strong>: 7 Honourable Mentions</p>
 <div class="isomer-image-wrapper">
 <img style="width:65%" height="auto" width="100%" src="/images/Departments/maths205.png">
 </div>
