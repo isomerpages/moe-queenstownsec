@@ -36,7 +36,7 @@ sections:
       description: A collection of our students' memories as they reflect on their
         QTSS journey.
       button: VIEW MORE
-      url: https://www.queenstownsec.moe.edu.sg/qtss-memories
+      url: https://www.queenstownsec/qtss-memories/
       image: /images/Picture2.jpg
       alt: Image alt text
   - infopic:
