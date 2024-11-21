@@ -143,7 +143,7 @@ students to develop a growth mindset by actively learning from their mistakes
 and reflecting on their learning. At the same time, teachers guide and
 stretch individual learners based on their strength and readiness to learn,
 bringing out the best in the students.</p>
-<h5><strong>Key Learning Experiences </strong></h5>
+<h5><strong>Key Learning Experiences</strong></h5>
 <p><strong>WHOLE SCHOOL</strong>
 </p>
 <p>Maker Education Programme</p>
