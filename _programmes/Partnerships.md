@@ -14,6 +14,7 @@ and work attachment programmes. Through these opportunities, students have
 a clearer understanding of how their knowledge and skills are applied in
 the job setting and make informed career choices which are aligned with
 their strengths and interests.
+<br>
 <br>At the same time, we believe in the importance of community partnerships
 to foster stronger connections and personal growth. These initiatives are
 designed for students to work with diverse groups of people and examine
