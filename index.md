@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: 2024 Open House e-Brochure
       id: infopic
-      description: Find out more about what sets QTSS apart from the rest.
+      description: Find out more about what sets QTSS apart.
       button: view more
       url: /2024-qtss-openhouse/
       image: /images/open_house_main_pic.jpg
