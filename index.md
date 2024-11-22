@@ -23,7 +23,6 @@ sections:
       button: View More
   - infopic:
       title: 2024 Open House e-Brochure
-      subtitle: Add an image and text
       id: infopic
       description: Find out more about what sets QTSS apart from the rest.
       button: view more
