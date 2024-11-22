@@ -716,7 +716,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Inter-School National Schools Scrabble Championship 2023:
 <br>'B' Division Individual (Bowl)
-<br>'B' Dvision Team A (Cup)
+<br>'B' Division Team A (Cup)
 <br>
 <br>Super Zonal Scrabble Competition:
 <br>'C' Division Team
@@ -731,15 +731,16 @@ variant: tiptap
 <p></p>
 <p></p>
 <p></p>
-<p>4th - Shun Yunji</p>
-<p></p>
+<p>
+<br>4th - Shun Yunji</p>
 <p>4th</p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<p>2nd</p>
+<p>
+<br>2nd</p>
 <p></p>
 <p>1st</p>
 </td>
@@ -752,6 +753,7 @@ variant: tiptap
 <p>#Clickart Photography Showcase 2023 – by S2 Cluster
 <br>
 <br>
+<br>
 <br>‘Our Schools, Our Stories’ Photo &amp; Video Contest 2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -760,6 +762,7 @@ variant: tiptap
 <br>Megan Ng
 <br>Kylie Tan
 <br>Raiyan Mahzuz
+<br>
 <br>
 <br>
 <br>Participation
