@@ -22,6 +22,15 @@ sections:
       id: resources
       button: View More
   - infopic:
+      title: 2024 Open House e-Brochure
+      subtitle: Add an image and text
+      id: infopic
+      description: Find out more about what sets QTSS apart from the rest.
+      button: view more
+      url: /2024-qtss-openhouse/
+      image: /images/open_house_main_pic.jpg
+      alt: Image alt text
+  - infopic:
       title: Learning Spaces @ QTSS
       id: infopic
       description: From 2022, our school embarked on a project to reimagine and
