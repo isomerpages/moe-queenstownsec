@@ -974,6 +974,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <p>
+<br>
 <br>Carine Lim Kang Yee
 <br>5th &amp; 8th</p>
 </td>
@@ -1019,7 +1020,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>
 <br>
 <br>Melissa Boo: Participation
 <br>Teo Sze Quyen: Participation</p>
