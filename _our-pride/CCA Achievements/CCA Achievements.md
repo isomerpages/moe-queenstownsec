@@ -1214,7 +1214,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Strategy Games</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1223,15 +1223,6 @@ variant: tiptap
 <br>'B' Div (Team) Category
 <br>'C Div (Team) Category
 <br>
-<br>Schools Scrabble Games e-Series
-<br>
-<br>‘B’ Division (Individual) Category
-<br>
-<br>Super Zonal Scrabble Competition
-<br>
-<br>'C' Division (Team) Category
-<br>'B' Division (Team) Category
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1239,25 +1230,46 @@ variant: tiptap
 <p></p>
 <p></p>
 <p></p>
-<p></p>
+<p>
+<br>
+</p>
 <p>Merit in Cup for both divisions
 <br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Schools Scrabble Games e-Series
+<br>
+<br>‘B’ Division (Individual) Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>
 <br>
 <br>
 <br>
 </p>
-<p></p>
-<p></p>
-<p></p>
 <p>4th in Cup
 <br>4th in Plate
-<br>2nd in Bowl
+<br>2nd in Bowl</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Super Zonal Scrabble Competition
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>SZ Champion
+<br>'C' Division (Team) Category
+<br>'B' Division (Team) Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>SZ Champion
 <br>
 <br>
 <br>Merit</p>
