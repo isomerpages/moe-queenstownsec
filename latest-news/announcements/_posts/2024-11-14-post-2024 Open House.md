@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><a href="/files/2024_QTSS_Open_House_e_brochure.pdf" rel="noopener nofollow" target="_blank">Download the 2024 QTSS Open House e Brochure</a>
+</p>
 <p>Join us for QTSS Open House!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ophouse.jpg">
