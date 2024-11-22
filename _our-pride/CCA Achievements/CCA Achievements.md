@@ -731,16 +731,15 @@ variant: tiptap
 <p></p>
 <p></p>
 <p></p>
+<p>4th - Shun Yunji</p>
 <p>
-<br>4th - Shun Yunji</p>
-<p>4th</p>
+<br>4th</p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<p>
-<br>2nd</p>
+<p>2nd</p>
 <p></p>
 <p>1st</p>
 </td>
@@ -885,8 +884,8 @@ variant: tiptap
 <br>‘C’ Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd Runner-Up
-<br>National: Participation
+<p>2nd Runner-Up,
+<br>National Participation
 <br>
 </p>
 </td>
@@ -903,8 +902,8 @@ variant: tiptap
 <br>‘B’ Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SZ 3rd Position
-<br>National: Quarter-Finalist</p>
+<p>SZ 3rd Position,
+<br>National Quarter-Finalist</p>
 </td>
 </tr>
 <tr>
@@ -914,8 +913,8 @@ variant: tiptap
 <br>‘C’ Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Champion
-<br>National: Quarter-Finalist
+<p>Champion,
+<br>National Quarter-Finalist
 <br>
 </p>
 </td>
@@ -974,7 +973,6 @@ variant: tiptap
 <p></p>
 <p></p>
 <p>
-<br>
 <br>Carine Lim Kang Yee
 <br>5th &amp; 8th</p>
 </td>
@@ -1020,6 +1018,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
+<br>
 <br>
 <br>Melissa Boo: Participation
 <br>Teo Sze Quyen: Participation</p>
@@ -1231,9 +1230,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <p>
-<br>
-</p>
-<p>Merit in Cup for both divisions
+<br>Merit in Cup for both divisions
 <br>
 </p>
 </td>
@@ -1264,7 +1261,6 @@ variant: tiptap
 <br>'B' Division (Team) Category</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p></p>
 <p></p>
 <p></p>
