@@ -2,8 +2,8 @@ collections:
   quest-family:
     output: true
     order:
-      - Alumni.md
       - School Advisory Committee.md
+      - Alumni.md
       - School Management Committee.md
       - Teaching Staff.md
       - School Counsellor and Allied Educator (AED).md
