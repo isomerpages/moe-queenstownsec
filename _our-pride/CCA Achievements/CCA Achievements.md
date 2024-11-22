@@ -345,7 +345,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games, South Zone ‘C’ Division</p>
+<p>National School Games, South Zone
+<br>
+<br>‘C’ Division</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3
@@ -594,7 +596,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong>UNIFORM GROUP 2023 RESULTS </strong>
+<p><strong>UNIFORM GROUP 2023 RESULTS</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -848,7 +850,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games, South Zone ‘C’ Division</p>
+<p>National School Games, South Zone
+<br>
+<br>‘C’ Division</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -1104,7 +1108,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong>UNIFORM GROUP 2024 RESULTS </strong>
+<p><strong>UNIFORM GROUP 2024 RESULTS</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -1282,22 +1286,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maker’s Club</p>
+<p>Design and Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Design For Good Youth Competition</p>
+<p>MOH's 'Live On Festival Design Competition'</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation
 <br>
-<br>(Pending results)</p>
+<br>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p><strong>SPORTS 2022 RESULTS</strong>
+<p><strong>SPORTS 2024 RESULTS</strong>
 </p>
+</li>
+</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1328,7 +1335,7 @@ variant: tiptap
 <br>‘B’ Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participation
+<p>SZ Quarterfinals
 <br>
 </p>
 </td>
@@ -1340,9 +1347,24 @@ variant: tiptap
 <br>‘C’ Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3
+<p>League 4
 <br>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball
+<br>
+<br>(Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games, South Zone
+<br>
+<br>'C' Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Participation</p>
 </td>
 </tr>
 <tr>
@@ -1357,15 +1379,17 @@ variant: tiptap
 <br>‘B’ Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Quarter-Final</p>
+<p>League 2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games, South Zone ‘C’ Division</p>
+<p>National School Games, South Zone
+<br>
+<br>‘C’ Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3
+<p>League 4 Runner-Up
 <br>
 </p>
 </td>
@@ -1382,7 +1406,7 @@ variant: tiptap
 <br>‘B’ Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SZ 3rd position</p>
+<p>SZ 3rd position, National Top 16</p>
 </td>
 </tr>
 <tr>
@@ -1392,7 +1416,7 @@ variant: tiptap
 <br>‘C’ Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3
+<p>League 4
 <br>
 </p>
 </td>
@@ -1409,7 +1433,7 @@ variant: tiptap
 <br>‘B’ Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participation</p>
+<p>SZ 3rd position, National Quarterfinals</p>
 </td>
 </tr>
 <tr>
@@ -1419,7 +1443,7 @@ variant: tiptap
 <br>‘C’ Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3
+<p>League 4 Runner-Up
 <br>
 </p>
 </td>
@@ -1431,23 +1455,19 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>National School Games, South Zone ‘B’ Boys
 <br>
-<br>
-<br>National School Games, South Zone ‘B’ Girls
-<br>
 <br>National School Games, South Zone ‘C’ Boys
 <br>
-<br>
 </p>
+<p>National School Games, South Zone ‘C’ Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participation
+<p>First Round
 <br>
 <br>
 <br>
-<br>1st Participation
+<br>First Round (won 1st game in QTSS history)
 <br>
-<br>
-<br>1st Participation</p>
+<br>League 4 Runner-Up</p>
 </td>
 </tr>
 <tr>
@@ -1457,87 +1477,26 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>National School Games
 <br>
-<br>‘B’ &amp; ‘C’ Boys &amp; Girls
+<br>Quanshu Team Event
 <br>
-<br>Taiji Quan ‘C’ Girls
-<br>Taiji Sword ‘C’ Girls
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation
-<br>
-<br>
-<br>
-<br>Carine Lim Kang Yee
-<br>4th in both discipline</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Swimming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games
-<br>
-<br>
-<br>200m Boys ‘C’ Breaststroke
-<br>50m Boys ‘C’ Freestyle
+<br>Taiji Quan
+<br>Taiji Sword
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>Gordon Syn
-<br>6th position
-<br>3rd position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Track &amp; Field</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games
+<p></p>
+<p></p>
+<p></p>
+<p>1st Participation
 <br>
 <br>
-<br>‘C’ Girls 100m
-<br>
-<br>‘C’ Girls 400m
-<br>
-<br>‘C’ Girls 800m</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>Melissa Boo: Participation
-<br>
-<br>Teo Sze Quyen: Semi-Finals
-<br>
-<br>Teo Sze Quyen – Finals</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Artistic Gymnastics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games
-<br>
-<br>‘C’ Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Alicia Lee:
-<br>
-<br>Participation</p>
+<br>5th
+<br>8th</p>
 </td>
 </tr>
 </tbody>
 </table>
-</li>
-</ul>
 <p></p>
 <p></p>
 <p></p>
