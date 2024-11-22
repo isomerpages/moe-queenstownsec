@@ -107,13 +107,28 @@ and manufacturing, and eventually retail. These valuable experiences enabled
 our students to appreciate how the design thinking process that they have
 learnt in the classroom is practiced in the actual design and manufacturing
 industry; resulting in IKEA addressing the diverse needs of their consumers,
-ranging from age to affordability and lifestyle preferences.
-<br>
-</p>
+ranging from age to affordability and lifestyle preferences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture39.png">
 </div>
 <p>
+<br><strong>Key Learning Experiences: Career Mentoring</strong>
+<br>
+<br>On 16 November 2024, we kicked off our first Career Mentoring @ QUEST
+session at the newly-renovated library. It was inspiring to see senior
+alumni spanning from the 1970s to 2000s return to share their stories and
+career advice with the junior alumni.
+<br>&nbsp;
+<br>The panel and group mentoring sessions sparked meaningful discussions
+about navigating the evolving career landscape and cultivating timeless
+competencies. But the session wasn’t just about learning — it was also
+about building connections and bridging generations to strengthen our QUEST
+community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/career_mentoring_final.png">
+</div>
+<p>
+<br>
 <br><strong>Key Learning Experiences: Examples of Community Projects</strong>
 <br>
 <br>1. <u>Quest for an Inclusive World – </u><strong><u>MINDS Lee Kong Chian Gardens Schools</u></strong>
