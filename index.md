@@ -26,7 +26,7 @@ sections:
       id: infopic
       description: Find out more about what makes QTSS unique.
       button: view more
-      url: /2024-qtss-openhouse/
+      url: https://www.queenstownsec.moe.edu.sg/2024-open-house/
       image: /images/open_house_main_pic.jpg
       alt: Image alt text
   - infopic:
