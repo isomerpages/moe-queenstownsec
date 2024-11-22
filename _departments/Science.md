@@ -132,14 +132,10 @@ Tao Yan Fai</p>
 S/O Ranveer Singh, Dicky Dzulkarnain Bin Abdul Malik</p>
 </li>
 <li>
-<p>45th International<a rel="noopener noreferrer nofollow" target="_blank"> C.B. Paul Science Quiz 2024</a>
-</p>
+<p>Singapore Junior Physics Olympiad 2024: 1 Silver, 2&nbsp; Honourable Mentions</p>
 </li>
 <li>
-<p>Singapore Junior Physics Olympiad 2024</p>
-</li>
-<li>
-<p>Singapore Junior Chemistry Olympiad 2024</p>
+<p>Singapore Junior Chemistry Olympiad 2024: 4 Merit Awards</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
