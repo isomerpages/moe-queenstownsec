@@ -20,13 +20,13 @@ School Booklist
 
 #### Secondary 2
 
-- [Sec 2 G1](/files/QTSS_2025_S2_G1.pdf)
+- [Sec 2 G1](/files/QTSS_2025_S2_G1_amended.pdf)
 - [Sec 2 G2](/files/QTSS_2025_S2_G2.pdf)
 - [Sec 2 G3](/files/QTSS_2025_S2_G3.pdf)
 
 #### Secondary 3
 
-- [Sec 3 EXP](/files/QTSS_2025_S3_EXP.pdf)
+- [Sec 3 EXP](/files/QTSS_2025_S3_EXP_amended.pdf)
 - [Sec 3 NA](/files/QTSS_2025_S3_NA.pdf)
 - [Sec 3 NT](/files/QTSS_2025_S3_NT.pdf)
 
