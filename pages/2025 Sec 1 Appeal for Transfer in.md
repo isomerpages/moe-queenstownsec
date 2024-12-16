@@ -1,5 +1,5 @@
 ---
-title: 2025 Sec 1 Appeal for Transfer In
+title: 2025 Sec 1 Appeal for Transfer in
 permalink: /sec1appeal2025/
 variant: tiptap
 description: ""
