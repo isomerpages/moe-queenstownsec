@@ -12,9 +12,9 @@ School Booklist
 
 #### Secondary 1
 
-- [Sec 1 G1](/files/QTSS_2025_S1_G1.pdf)
-- [Sec 1 G2](/files/QTSS_2025_S1_G2.pdf)
-- [Sec 1 G3](/files/QTSS_2025_S1_G3.pdf)
+* [Sec 1 G1](/files/QTSS_2025_S1_G1_amended.pdf)
+* [Sec 1 G2](/files/QTSS_2025_S1_G2_amended.pdf)
+* [Sec 1 G3](/files/QTSS_2025_S1_G3_amended.pdf)
 
 
 
