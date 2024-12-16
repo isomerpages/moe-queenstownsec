@@ -7,3 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>The attached file contains essential information to guide the students
+to select and apply courses after their N level exams. Please click <a href="/files/20241216_For_Website__N_Levels_Release_2024.pdf" rel="noopener nofollow" target="_blank">Here</a>
+</p>
