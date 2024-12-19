@@ -41,8 +41,8 @@ such as Virtual Reality to make learning immersive, interactive, and effective.<
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>National Digital Learning Programme (NDLP): Every student owns a school-prescribed
-Personal Learning Device (PLD)</p>
+<p><strong>National Digital Learning Programme (NDLP):</strong> Every student
+owns a school-prescribed Personal Learning Device (PLD)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -50,8 +50,8 @@ Personal Learning Device (PLD)</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>ICT Digital Literacy Programme: Curated programmes for each level, with
-opportunities for real-world applications.</p>
+<p><strong>ICT Digital Literacy Programme: </strong>Curated programmes for
+each level, with opportunities for real-world applications.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
