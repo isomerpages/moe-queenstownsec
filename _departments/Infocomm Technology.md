@@ -50,7 +50,8 @@ Personal Learning Device (PLD)</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>ICT Digital Literacy Programme</p>
+<p>ICT Digital Literacy Programme: Curated programmes for each level, with
+opportunities for real-world applications.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
