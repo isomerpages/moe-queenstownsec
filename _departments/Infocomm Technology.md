@@ -22,21 +22,21 @@ learn independently and work collaboratively with others</p>
 <p>Leveraging on technology to build students’ ownership of their learning</p>
 </li>
 </ul>
-<p>Inspiring life-long learning</p><pre><code>&lt;/li&gt;&lt;/ul&gt;</code></pre>
+<h4>Inspiring life-long learning</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
 </div>
-<h5><strong>Teaching and Learning Practices</strong></h5>
+<h4>Teaching and Learning Practices</h4>
 <p>The ICT department seeks to integrate ICT into curriculum, pedagogy and
 assessment of subject disciplines. The design of ICT-enriched learning
 experiences provides opportunities for students to engage in collaborative
 learning, research and acquire 21<sup>st</sup> Century Competencies. In
 designated prototype classrooms, teachers experiment with technologies
 such as Virtual Reality to make learning immersive, interactive, and effective.</p>
-<h5><strong>Key Learning Experiences</strong></h5>
+<h4>Key Learning Experiences</h4>
 <p><strong>WHOLE SCHOOL</strong>
 </p>
 <ul data-tight="true" class="tight">
