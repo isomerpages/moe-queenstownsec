@@ -54,34 +54,8 @@ Personal Learning Device (PLD)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDLP%20DL.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/ICT_Page_Learning_with_Tech.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
-<p>Secondary 1 National Digital Explorer Programme: All Secondary 1 students
-participate in the National Digital Explorer (NDE) initiative. NDE is a
-nationwide digital literacy initiative designed to empower students to
-learn real-world skills that enable them to think critically and be more
-productive learners. As part of this initiative, students are equipped
-with key skills and knowledge on the effective use of office productivity
-tools. They will then be able to apply the skills learnt in various curricular
-and co-curricular projects throughout their Secondary school journey.</p>
-</li>
-<li>
-<p>Secondary 2 Video Creation: In Secondary 2, students are exposed to storyboarding
-and video creation tools. Subsequently, for their Community Youth Leadership
-project, they will create videos to document and showcase their CYL journey.</p>
-</li>
-<li>
-<p>Secondary 3 e-Portfolio Creation: All Secondary 3 students undergo a workshop
-where they learn how to build their own website using Google Sites and
-the suite of tools designed to empower students to harness their creativity.
-Students build their digital portfolio, documenting their skills and competencies
-and then showcase their products. The digital portfolio helps students
-be successful with their Early Admissions Exercise applications for tertiary
-education.</p>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.png">
 </div>
