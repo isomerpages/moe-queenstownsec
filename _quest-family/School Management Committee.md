@@ -284,7 +284,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Sec)</p>
+<p>Year Head (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Han Chin Woon Janice</p>
@@ -296,7 +296,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Sec)</p>
+<p>Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kang Poh Geok</p>
