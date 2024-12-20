@@ -233,9 +233,7 @@ variant: tiptap
 <br>Mr Yuen Cheng Mun Jansen <a href="mailto: yuen_cheng_mun_jansen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(yuen_cheng_mun_jansen@moe.edu.sg)</a>
 <br>Mdm Vijayarani d/o Govindasamy <a href="mailto: vijayarani_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(vijayarani_govindasamy@moe.edu.sg)</a>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong><u>2 Integrity (2 IN)</u></strong> 
 <br>Miss Ng Kai Jun <a href="mailto: ng_kai_jun_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(ng_kai_jun_a@moe.edu.sg)</a>
 </p>
