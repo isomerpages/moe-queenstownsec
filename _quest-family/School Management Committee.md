@@ -238,18 +238,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Nurbaizura Binte Punawan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="siti_nurbaizura_punawan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurbaizura_punawan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD Special Education Needs</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -265,7 +253,7 @@ variant: tiptap
 <p>HOD Information &amp; Communication Technology and Knowledge Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Huan Ting</p>
+<p>Mdm Ang Huan Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="ang_huan_ting@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_huan_ting@moe.edu.sg</a>
@@ -320,7 +308,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Acting Assistant Year Head (Lower Sec)</p>
+<p>Assistant Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Fazari Bin Othman</p>
@@ -332,7 +320,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Acting Assistant Year Head (Upper Sec)</p>
+<p>Assistant Year Head (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Haryani Bte Mohamed Hatta</p>
