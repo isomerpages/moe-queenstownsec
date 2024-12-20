@@ -148,10 +148,10 @@ variant: tiptap
 <p>Sec 1 Level Mentor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noorheriza B Mohd Aris</p>
+<p>Mdm Chan Chu Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: noorheriza_mohammed_aris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noorheriza_mohammed_aris@moe.edu.sg</a>
+<p><a href="mailto:chan_chu_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_chu_yin@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
@@ -160,10 +160,10 @@ variant: tiptap
 <p>Sec 2 Level Mentor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chan Chu Yin</p>
+<p>Mdm Noorheriza B Mohd Aris</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: chan_chu_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_chu_yin@moe.edu.sg</a>
+<p><a href="mailto: noorheriza_mohammed_aris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noorheriza_mohammed_aris@moe.edu.sg</a>
 </p>
 </td>
 </tr>
