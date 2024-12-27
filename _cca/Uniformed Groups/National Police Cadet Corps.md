@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/npcc.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1np.jpg">
 </div>
 <h1>National Police Cadet Corps</h1>
 <h2><strong>Teachers-in-Charge</strong></h2>
