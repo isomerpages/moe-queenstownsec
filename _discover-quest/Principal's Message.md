@@ -2,6 +2,106 @@
 title: Principal's Message
 permalink: /about-us/discover-quest/principals-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<h1>Principal’s Message</h1><div class="isomer-image-wrapper"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/P-SHC.jpg"></div><p><strong><u>Principal’s address 2024</u></strong><br><br><strong>Welcome to Queenstown Secondary School!</strong><br><br>As I embark on my third year at Queenstown Secondary School (QTSS), I continue to be inspired by the deep sense of love that permeates our school community. In my interactions with staff, Queenstownians, alumni, parents, and members of the School Advisory Committee, it is evident that QTSS holds a special place in the hearts of many.<br></p><p>In QTSS, I am fortunate to work alongside a strong core of dedicated key personnel as well as teaching and non-teaching staff, many of whom have served as steadfast stalwarts. Indeed, connecting through the generations of school staff is our school’s philosophy – we believe in the unique worth of the individual, the enhancement of his well-being, and the symbiotic relation between himself and society.</p><p><em><u>The unique worth of the individual</u></em></p><p>Over the past two years, I have had individual chats with every graduating Queenstownian to hear their dreams and hopes for their future. These exchanges have been both humbling and inspiring, as these Queenstownians passionately shared about their diverse interests that drive them to make positive changes for themselves and those around them. Their enthusiasm for life and self-belief instill in me the confidence that they will undoubtedly achieve success on their own terms and time. Through their stories, it is evident that while each student might have faced unique challenges in their quest to learn, they are grateful for the tireless encouragement and motivation from their teachers to overcome these challenges. I am confident that this growth mindset and resilience will propel Queenstownians toward success in the future.</p><p><em><u>The symbiotic relation between the individual and society</u></em></p><p>In my message last year, I wrote about the rapid emergence of AI and its impact on shaping the landscape of the future, underscoring therefore the importance of orienting our Queenstownians for the future. Simultaneously, the COVID-19 pandemic has acted as a profound disruptor, compelling various sectors to challenge the status quo. The pace of change in the working world is accelerating, necessitating our Queenstownians to cultivate new mindsets and acquire new skillsets for sustained success.</p><p>To that end of ensuring that our Queenstownians are well-prepared for the fast-evolving world of learning and working, the school has significantly expanded our Educational and Career Guidance programme, for one, by forging partnerships with industry leaders such as IKEA, Singapore Hilton Hotels, The Polyolefin Company, Seagate, Micron, the Maritime and Port Authority, Elsie’s Kitchen, Tetra Pak, Swedish Chamber of Commerce, as well as esteemed educational partners like Ngee Ann Polytechnic and the National University of Singapore (Residential College 4). Working with and learning from these partners will afford our Queenstownians a broader perspective of the world and provide a keener awareness of the opportunities that they will gain from focusing on learning well in school.</p><p>Furthermore, given the rapid pace of technological development, it is now more imperative than ever that our school’s Total Curriculum remains dedicated to fostering in our Queenstownians a growth mindset and competencies that are distinctly human and challenging for machines to replicate or attain. The acquisition of 21st Century Competencies, especially adaptive thinking and inventive thinking, communication, and collaborative skills, along with future literacies such as digital literacy and sustainability literacy, is crucial to ensure that our Queenstownians are prepared, not just for life in school, but also for the school of life.</p><p><em><u>The enhancement of the individual’s well-being</u></em></p><p>Key to the effectiveness of our Total Curriculum is our thriving school community. One example of this is a school-wide peer support and buddy system through which Queenstownians care and look out for each other. This was featured previously in the <a href="https://www.schoolbag.edu.sg/story/helping-kids-feel-good-about-themselves" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education (MOE)'s Schoolbag newsletter</a>. Strong teacher-student and student-student relationships are foundational in creating a positive learning environment. In our school, form teachers are known as Class Mentors (CMs), assuming the crucial role of significant adults in our students’ lives. Our CMs invest time in building strong relationships with Queenstownians to ensure their well-being and guide them to be anchored in our school values. Queenstownians are also placed in the same mixed form classes throughout their years in our school, allowing them to build deep relationships with their CMs and classmates.</p><p>Finally, our school motto, “Berani Berkhidmat – Dare to Serve”, has left an indelible mark on generations of Queenstownians, inspiring them to embody this call to service and leadership. I am dedicated to nurturing and amplifying our staff and Queenstownians’ ‘Dare to Serve’ spirit.</p><p>I look forward to journeying through 2024 with our QTSS community!</p><p>Berani Berkhidmat,<br>Mr Sim How Chong<br>Principal</p><p></p><p></p>
+<h1>Principal’s Message</h1>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/P-SHC.jpg">
+</div>
+<p><strong><u>Principal’s Message 2025</u></strong>
+</p>
+<p><strong>Fostering a Thriving QTSS Community to Nurture Flourishing Learners and Future-Oriented Leaders</strong>
+</p>
+<p></p>
+<p>Dear QTSS Community,</p>
+<p>It gives me immense pride and joy to share our school’s progress and aspirations
+as we foster a nurturing environment where Queenstownians can learn, grow
+and thrive. At the heart of our work is a shared vision of cultivating <strong>Leaders for Tomorrow, </strong>who
+are<strong> Anchored in Values </strong>and<strong> Committed to Serve.</strong> Every
+initiative that we embark on is guided by this purpose, as we equip Queenstownians
+for success academically, socially and emotionally. My colleagues’ efforts
+in implementing our strategic initiatives have led to stellar progress
+in our academic and co-curricular outcomes, which I have shared regularly
+in my termly letters to parents.</p>
+<p>This is the start of my 4<sup>th</sup> year in Queenstown Secondary School
+and I would like to highlight the school’s key efforts in building a Thriving
+QTSS Community, Flourishing Learners and Future-Oriented Leaders and I
+invite you to visit our school website for the detailed updates.</p>
+<p></p>
+<p><strong>Our Commitment to Engaged Learning</strong>
+</p>
+<p>In a fast-moving world of learning and working, we recognise the importance
+of providing a holistic education that orients our Queenstownians for the
+future. As such, we have been steadily evolving our curriculum as well
+as our teaching and learning practices to engage our students in their
+learning. Our <strong>Total Curriculum </strong>integrates academic excellence
+with character and citizenship<strong> </strong>education, placing<strong> </strong>a
+deliberate emphasis on developing 21<sup>st</sup> Century Competencies (21CC)
+such as adaptive thinking and effective communication.</p>
+<p>Since 2022, the school has embarked on a journey to reimagine learning
+spaces so as to support engaged learning for our Queenstownians. Some of
+the <strong>reimagined physical spaces</strong> include the upgraded school
+foyer, library, indoor sports hall as well as the introduction of prototype
+classrooms. Coupled with the enhanced use of educational technology, and
+the forward-looking <strong>FutureLearn Curriculum</strong>, we are creating
+authentic opportunities for Queenstownians to learn, explore, and flourish
+in an increasingly complex and interconnected world.</p>
+<p></p>
+<p><strong>Stretching Potential through Talent Development</strong>
+</p>
+<p>We believe every student is a unique individual with strengths and potential
+waiting to be discovered. To nurture these talents, we offer targeted programmes
+such as <strong>subject-based</strong>  <strong>talent development</strong> plans
+and the <strong>QUEST Global programme</strong>.</p>
+<p>In 2024, we expanded our students’ horizons with enriching trips to Vietnam
+and Thailand, underscoring our dedication to providing Queenstownians with
+international exposure. Looking ahead to 2025 and beyond, we plan to extend
+these opportunities to countries such as Japan, Indonesia, and China.</p>
+<p>These experiences not only cultivate 21CC but also allow our students
+to build friendships across borders, appreciate the unique strengths and
+opportunities of other countries, and gain a global perspective. Upon returning
+to Singapore, our Queenstownians carry with them a renewed appreciation
+for Singapore’s role as a global hub and a strengthened resolve to contribute
+to the nation’s continued growth.</p>
+<p></p>
+<p><strong>Nurturing Growth through Student Well-being</strong>
+</p>
+<p>Student well-being remains as the cornerstone of meaningful and effective
+learning. Our <strong><a href="https://www.queenstownsec.moe.edu.sg/student-development/student-well-being/" rel="noopener noreferrer nofollow" target="_blank">Student Well-being Framework</a></strong> is
+dedicated to fostering a culture of care and connection by nurturing supportive
+relationships among students, teachers, and the wider community.</p>
+<p>Through our Community Youth Leadership initiatives, Queenstownians engage
+in meaningful projects that extend beyond the classroom, making positive
+contributions to the society. I am proud of their achievements, as <a href="https://www.straitstimes.com/singapore/scrunchies-pouches-keychains-students-make-items-to-raise-funds-for-st-school-pocket-money-fund" rel="noopener noreferrer nofollow" target="_blank">highlighted in </a><strong><em><a href="https://www.straitstimes.com/singapore/scrunchies-pouches-keychains-students-make-items-to-raise-funds-for-st-school-pocket-money-fund" rel="noopener noreferrer nofollow" target="_blank">The Straits Times</a></em></strong>.
+By prioritising emotional resilience, mental health and helping students
+find meaning in their lives, we empower our Queenstownians to face challenges
+with confidence and courage.</p>
+<p></p>
+<p><strong>Harnessing the Power of Partnership</strong>
+</p>
+<p>Our shared success is made possible by the strong partnerships between
+our school, parents, alumni, industry leaders such as IKEA, Singapore Hilton
+Hotels, Rockwell Automation, Abbott Manufacturing, City Development Limited,
+Elsie’s Kitchen, The Polyolefin Company, ASTAR Singapore, Elmich Ptd Ltd,
+as well as Educational Partners such as NUS, NP and the wider community.
+Our Alumni Association<strong> </strong>has also stepped forward to provide <strong>Career Mentoring</strong> for
+Queenstownians, offering timeless and timely advice on career guidance.</p>
+<p>Many of these partnerships have been fostered through our <strong>Parent Support Group</strong>, <strong>Alumni Association</strong>,
+and <strong>School Advisory Committee</strong>, enabling the school to offer
+a meaningful and impactful <strong>Educational Career Guidance Programme</strong> for
+our Queenstownians. Your unwavering support has been instrumental in creating
+an ecosystem where every Queenstownian can thrive, realise their fullest
+potential and graduate with the confidence that they can contribute to
+the betterment of others, embodying our school’s motto of Berani Berkhidmat.&nbsp;</p>
+<p></p>
+<p><strong>Looking Ahead</strong>
+</p>
+<p>We have embarked on a remarkable journey of transformation and while we
+celebrate our achievements, our focus remains firmly on the road ahead.
+With your continued partnership, I am confident that we, as a <strong>thriving QTSS Community</strong>,
+will continue to nurture our Queenstownians to be<strong> flourishing learners </strong>and<strong> future-oriented leaders!</strong>
+</p>
+<p></p>
+<p>Berani Berkhidmat,
+<br>Mr Sim How Chong
+<br>Principal</p>
