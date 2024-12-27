@@ -90,3 +90,56 @@ students.</p>
 <img style="width:110%" height="auto" width="100%" src="/images/swbgrad.png">
 </div>
 <p></p>
+<p><strong>Key Learning Experiences</strong>
+</p>
+<p><strong>Whole School</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Quest Check-ins</p>
+</li>
+<li>
+<p>Start Right and Finish Strong Programmes</p>
+</li>
+<li>
+<p>School-based Programmes, for e.g. Growth Mindset and just-in-time well-being
+packages.</p>
+</li>
+<li>
+<p>Student Surveys</p>
+</li>
+<li>
+<p>Class of Excellence (COE) Challenge</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Targeted Support and Intervention</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>School Counselling:</strong>
+</p>
+<p>Counselling is a collaborative process in which the school counsellor
+facilitates the expansion of the student’s view of life, enlarges his/her
+repertoire of coping resources and enables him/her to make choices for
+change in himself/herself, the situation and the environment, without destructive
+consequences to self or others. Students who experience difficulties in
+issues such as academic stress, anxiety, peer or family relationships may
+be referred for counselling support.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Student Welfare:</strong>
+</p>
+<p>Introduced in 2015, Student Welfare Officer (SWO) supports vulnerable
+students whose schooling is affected by disadvantaged backgrounds. SWO
+reaches out to students who are irregular in school and helps to reintegrate
+chronic absentees back to school. Community resources are often mobilised
+to mitigate the risks and support the needs of the students and their families.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Special Educational Needs:</strong>
+</p>
+<p>Special Educational Needs Officers (SENO) support students with special
+educational needs (SEN). They provide targeted learning and behaviour support
+through individual or small group intervention and/or skills training and/or
+in-class support based on the needs of students with SEN. Their support
+is invaluable in enabling students to achieve their goals. In addition,
+they reach out to families of students with SEN to build home-school partnerships
+and strengthen the support for students.</p>
+<p></p>
+<p></p>
+<p></p>
