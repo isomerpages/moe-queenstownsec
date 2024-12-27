@@ -46,7 +46,6 @@ classrooms. Coupled with the enhanced use of educational technology, and
 the forward-looking <strong>FutureLearn Curriculum</strong>, we are creating
 authentic opportunities for Queenstownians to learn, explore, and flourish
 in an increasingly complex and interconnected world.</p>
-<p></p>
 <p><strong>Stretching Potential through Talent Development</strong>
 </p>
 <p>We believe every student is a unique individual with strengths and potential
@@ -72,11 +71,11 @@ dedicated to fostering a culture of care and connection by nurturing supportive
 relationships among students, teachers, and the wider community.</p>
 <p>Through our Community Youth Leadership initiatives, Queenstownians engage
 in meaningful projects that extend beyond the classroom, making positive
-contributions to the society. I am proud of their achievements, as <a href="https://www.straitstimes.com/singapore/scrunchies-pouches-keychains-students-make-items-to-raise-funds-for-st-school-pocket-money-fund" rel="noopener nofollow" target="_blank">highlighted in The Straits Times</a>.
+contributions to the society. I am proud of their achievements, as <a href="https://www.straitstimes.com/singapore/scrunchies-pouches-keychains-students-make-items-to-raise-funds-for-st-school-pocket-money-fund" rel="noopener noreferrer nofollow" target="_blank">highlighted in </a><strong><em><a href="https://www.straitstimes.com/singapore/scrunchies-pouches-keychains-students-make-items-to-raise-funds-for-st-school-pocket-money-fund" rel="noopener noreferrer nofollow" target="_blank">The Straits Times</a></em></strong>.
 By prioritising emotional resilience, mental health and helping students
 find meaning in their lives, we empower our Queenstownians to face challenges
-with confidence and courage.</p>
-<p></p>
+with confidence and courage.<strong>&nbsp;</strong>
+</p>
 <p><strong>Harnessing the Power of Partnership</strong>
 </p>
 <p>Our shared success is made possible by the strong partnerships between
