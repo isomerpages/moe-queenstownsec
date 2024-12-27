@@ -27,7 +27,7 @@ in my termly letters to parents.</p>
 and I would like to highlight the school’s key efforts in building a Thriving
 QTSS Community, Flourishing Learners and Future-Oriented Leaders and I
 invite you to visit our school website for the detailed updates.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Our Commitment to Engaged Learning</strong>
 </p>
 <p>In a fast-moving world of learning and working, we recognise the importance
@@ -46,10 +46,7 @@ classrooms. Coupled with the enhanced use of educational technology, and
 the forward-looking <strong>FutureLearn Curriculum</strong>, we are creating
 authentic opportunities for Queenstownians to learn, explore, and flourish
 in an increasingly complex and interconnected world.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Stretching Potential through Talent Development</strong>
 </p>
 <p>We believe every student is a unique individual with strengths and potential
@@ -66,7 +63,7 @@ opportunities of other countries, and gain a global perspective. Upon returning
 to Singapore, our Queenstownians carry with them a renewed appreciation
 for Singapore’s role as a global hub and a strengthened resolve to contribute
 to the nation’s continued growth.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Nurturing Growth through Student Well-being</strong>
 </p>
 <p>Student well-being remains as the cornerstone of meaningful and effective
@@ -79,8 +76,7 @@ contributions to the society. I am proud of their achievements, as <a href="http
 By prioritising emotional resilience, mental health and helping students
 find meaning in their lives, we empower our Queenstownians to face challenges
 with confidence and courage.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Harnessing the Power of Partnership</strong>
 </p>
 <p>Our shared success is made possible by the strong partnerships between
@@ -97,7 +93,7 @@ our Queenstownians. Your unwavering support has been instrumental in creating
 an ecosystem where every Queenstownian can thrive, realise their fullest
 potential and graduate with the confidence that they can contribute to
 the betterment of others, embodying our school’s motto of Berani Berkhidmat.&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Looking Ahead</strong>
 </p>
 <p>We have embarked on a remarkable journey of transformation and while we
@@ -105,7 +101,7 @@ celebrate our achievements, our focus remains firmly on the road ahead.
 With your continued partnership, I am confident that we, as a <strong>thriving QTSS Community</strong>,
 will continue to nurture our Queenstownians to be<strong> flourishing learners </strong>and<strong> future-oriented leaders!</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p>Berani Berkhidmat,
 <br>Mr Sim How Chong
 <br>Principal</p>
