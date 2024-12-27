@@ -30,8 +30,7 @@ e.g. Growth Mindset and just-in-time well-being packages.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start Right and Finish Strong Programmes
 are facilitated at the start and end of each term to help students set
 goals and review their progress.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Student Voice &amp; Choice</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are active participants
@@ -41,15 +40,13 @@ agency.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://staging.d33coz43hxnqna.amplifyapp.com/student-voices/" rel="noopener noreferrer nofollow" target="_blank">Student Voice</a> is
 a digital platform to encourage student voice for school matters and helping
 them feel connected and valued in the school.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Positive Relationships</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Regular Quest Check-ins are conducted
 to build positive Teacher-Student Relationship (TSR).</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peer support and networks are also
 strengthened within and beyond the class to foster a deeper sense of belonging.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Safe and Inclusive Environment</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student surveys e.g. well-being
@@ -61,7 +58,7 @@ helps to nurture a positive class culture for learning and affirm classes
 which have performed well.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Diverse student needs are supported
 and students are empowered through opportunities to pursue their passions.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Collaborative Partnership</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Families and communities collaborate
