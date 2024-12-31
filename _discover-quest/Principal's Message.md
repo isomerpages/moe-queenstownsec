@@ -40,17 +40,17 @@ deliberate emphasis on developing 21<sup>st</sup> Century Competencies (21CC)
 such as adaptive thinking and effective communication.</p>
 <p>Since 2022, the school has embarked on a journey to reimagine learning
 spaces so as to support engaged learning for our Queenstownians. Some of
-the <strong>reimagined physical spaces</strong> include the upgraded school
-foyer, library, indoor sports hall as well as the introduction of prototype
-classrooms. Coupled with the enhanced use of educational technology, and
-the forward-looking <strong>FutureLearn Curriculum</strong>, we are creating
-authentic opportunities for Queenstownians to learn, explore, and flourish
-in an increasingly complex and interconnected world.</p>
+the <strong><a href="https://www.queenstownsec.moe.edu.sg/learning-spaces-qtss/" rel="noopener nofollow" target="_blank">reimagined physical spaces</a></strong> include
+the upgraded school foyer, library, indoor sports hall as well as the introduction
+of prototype classrooms. Coupled with the enhanced use of educational technology,
+and the forward-looking <strong><a href="https://www.queenstownsec.moe.edu.sg/futurelearn-curriculum/" rel="noopener nofollow" target="_blank">FutureLearn Curriculum</a></strong>,
+we are creating authentic opportunities for Queenstownians to learn, explore,
+and flourish in an increasingly complex and interconnected world.</p>
 <p><strong>Stretching Potential through Talent Development</strong>
 </p>
 <p>We believe every student is a unique individual with strengths and potential
 waiting to be discovered. To nurture these talents, we offer targeted programmes
-such as <strong>subject-based</strong>  <strong>talent development</strong> plans
+such as <strong><a href="https://www.queenstownsec.moe.edu.sg/talent-development/" rel="noopener nofollow" target="_blank">subject-based talent development</a></strong> plans
 and the <strong>QUEST Global programme</strong>.</p>
 <p>In 2024, we expanded our students’ horizons with enriching trips to Vietnam
 and Thailand, underscoring our dedication to providing Queenstownians with
@@ -85,9 +85,9 @@ Elsie’s Kitchen, The Polyolefin Company, ASTAR Singapore, Elmich Ptd Ltd,
 as well as Educational Partners such as NUS, NP and the wider community.
 Our Alumni Association<strong> </strong>has also stepped forward to provide <strong>Career Mentoring</strong> for
 Queenstownians, offering timeless and timely advice on career guidance.</p>
-<p>Many of these partnerships have been fostered through our <strong>Parent Support Group</strong>, <strong>Alumni Association</strong>,
-and <strong>School Advisory Committee</strong>, enabling the school to offer
-a meaningful and impactful <strong>Educational Career Guidance Programme</strong> for
+<p>Many of these partnerships have been fostered through our <strong><a href="https://www.queenstownsec.moe.edu.sg/student-development/school-home-collaboration/parent-support-group/" rel="noopener nofollow" target="_blank">Parent Support Group</a></strong>, <strong><a href="https://www.queenstownsec.moe.edu.sg/quest-alumni/" rel="noopener nofollow" target="_blank">Alumni Association</a></strong>,
+and <strong><a href="https://www.queenstownsec.moe.edu.sg/school-advisory-committee/" rel="noopener nofollow" target="_blank">School Advisory Committee</a></strong>,
+enabling the school to offer a meaningful and impactful <strong><a href="https://www.queenstownsec.moe.edu.sg/student-development/ecg/" rel="noopener nofollow" target="_blank">Educational Career Guidance Programme</a></strong> for
 our Queenstownians. Your unwavering support has been instrumental in creating
 an ecosystem where every Queenstownian can thrive, realise their fullest
 potential and graduate with the confidence that they can contribute to
