@@ -2,6 +2,7 @@ collections:
   discover-quest:
     output: true
     order:
+      - Principal Message/Principal's Message 2024.md
       - Principal Message/Principal's Message 2025.md
       - Principal Message/.keep
       - Vision, Mission & Values.md
