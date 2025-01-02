@@ -99,7 +99,7 @@ the betterment of others, embodying our school’s motto of Berani Berkhidmat.&n
 celebrate our achievements, our focus remains firmly on the road ahead.
 With your continued partnership, I am confident that we, as a <strong>thriving QTSS Community</strong>,
 will continue to nurture our Queenstownians to be<strong> flourishing learners </strong>and<strong> future-oriented leaders </strong>(Find
-out more about our 2024 journey <a href="https://staging-lite.d2lt7css3pbj0c.amplifyapp.com/principal-message-2024/" rel="noopener nofollow" target="_blank">here</a>)<strong>!</strong>
+out more about our 2024 journey <a href="https://www.queenstownsec/principalmessage2024/" rel="noopener nofollow" target="_blank">here</a>)<strong>!</strong>
 </p>
 <p>Berani Berkhidmat,
 <br>Mr Sim How Chong
