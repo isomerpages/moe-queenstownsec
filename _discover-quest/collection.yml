@@ -2,8 +2,8 @@ collections:
   discover-quest:
     output: true
     order:
-      - Principal Message 2024/Principal's Message.md
-      - Principal Message 2024/.keep
+      - Principal Message/Principal's Message.md
+      - Principal Message/.keep
       - Vision, Mission & Values.md
       - Our Heritage.md
       - School Crest, Creed & Song.md
