@@ -5,4 +5,5 @@ description: ""
 variant: markdown
 ---
 # Student Handbook
-- [Student Handbook 2024](/files/QTSS_Handbook_2024_FINAL.pdf)
+
+*  [Student Handbook 2025](/files/QTSS_Student_Handbook_2025_Final.pdf)
