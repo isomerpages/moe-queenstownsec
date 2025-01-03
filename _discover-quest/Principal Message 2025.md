@@ -1,9 +1,8 @@
 ---
-title: Principal's Message 2025
-permalink: /about-us/discover-quest/principals-message/
-description: ""
+title: Principal Message 2025
+permalink: /principal-message-2025/
 variant: tiptap
-third_nav_title: Principal Message
+description: ""
 ---
 <h1>Principal’s Message</h1>
 <div class="isomer-image-wrapper">
@@ -100,7 +99,7 @@ the betterment of others, embodying our school’s motto of Berani Berkhidmat.&n
 celebrate our achievements, our focus remains firmly on the road ahead.
 With your continued partnership, I am confident that we, as a <strong>thriving QTSS Community</strong>,
 will continue to nurture our Queenstownians to be<strong> flourishing learners </strong>and<strong> future-oriented leaders </strong>(Find
-out more about our 2024 journey <a href="https://www.queenstownsec/principal-s-message-2024/" rel="noopener nofollow" target="_blank">here</a>)<strong>!</strong>
+out more about our 2024 journey <a href="/files/Principal_Message_2024_FINAL_1.pdf" rel="noopener nofollow" target="_blank">here</a>)<strong>!</strong>
 </p>
 <p>Berani Berkhidmat,
 <br>Mr Sim How Chong
