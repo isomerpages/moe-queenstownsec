@@ -151,7 +151,7 @@ variant: tiptap
 <p>Mdm Chan Chu Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_chu_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_chu_yin@moe.edu.sg</a> 
+<p><a href="mailto:chan_chu_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_chu_yin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -203,8 +203,8 @@ variant: tiptap
 <br>Miss Yeo Siew Yun Elssa (<a href="mailto:elssa_yeo_siew_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">elssa_yeo_siew_yun@moe.edu.sg</a>)</p>
 <p></p>
 <p><strong><u>1 Care (1 CA)</u></strong> 
-<br>Mr Perdana Putra <a href="mailto:%20perdana_putra_pan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(perdana_putra_pan@moe.edu.sg)</u></a>
-<br>Mdm Li Min (<a href="mailto:elssa_yeo_siew_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_min@moe.edu.sg</a>)</p>
+<br>Mr Perdana Putra <a href="mailto:%20pan_ping_rui_perdana@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(pan_ping_rui_perdana@moe.edu.sg)</u></a>
+<br>Mdm Li Min (<a href="mailto:li_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_min@moe.edu.sg</a>)</p>
 <p></p>
 <p><strong><u>1 Excellence (1 EX)</u></strong> 
 <br>Miss Azlina Binte Ali <a href="mailto:%20azlina_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(azlina_ali@moe.edu.sg)</u></a>
