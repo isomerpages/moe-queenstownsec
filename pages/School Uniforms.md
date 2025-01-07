@@ -2,6 +2,7 @@
 title: School Uniforms
 permalink: /parent-links/school-uniforms/
 description: ""
+variant: markdown
 ---
 School Uniforms
 ===============
@@ -13,14 +14,7 @@ Please refer to the guide
 
 **Supplier Information** 
 
-For PE Attire:  
-My Uniform Shop (ASIA) Pte Ltd,  
-209 New Upper Changi Road, #03-651,  
-Singapore 460209  
-Tel: 62766689  
-Website: [www.myuniformshop.com.sg](http://www.myuniformshop.com.sg/)
-
-For school uniform:  
+For School Uniform and PE Attire:  
 Pacific Bookstores Pte Ltd (same as current school book vendor)  
 Email address : [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com)
 
