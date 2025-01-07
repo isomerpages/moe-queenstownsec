@@ -16,6 +16,7 @@ variant: tiptap
 <br>Tel: 69298012</p>
 <p>Email address :&nbsp;<a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
 </p>
+<p></p>
 <p><strong>Sale of School Uniform/PE Attire During School Term</strong>
 </p>
 <p>School uniforms can be purchased from the school bookshop.</p>
