@@ -2,32 +2,23 @@
 title: School Uniforms
 permalink: /parent-links/school-uniforms/
 description: ""
+variant: tiptap
 ---
-School Uniforms
-===============
-**Updated Footwear policy**
-
-Please refer to the guide
-[Updated Footwear Policy](/files/Footwear%20Policy.pdf)
-
-
-**Supplier Information** 
-
-For PE Attire:  
-My Uniform Shop (ASIA) Pte Ltd,  
-209 New Upper Changi Road, #03-651,  
-Singapore 460209  
-Tel: 62766689  
-Website: [www.myuniformshop.com.sg](http://www.myuniformshop.com.sg/)
-
-For school uniform:  
-Pacific Bookstores Pte Ltd (same as current school book vendor)  
-Email address : [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com)
-
-**Sale of School Uniform/PE Attire During School Term** 
-
-School uniforms can be purchased from the school bookshop.
-
--------
-
-Last updated on 4-Mar-2022
+<h1>School Uniforms</h1>
+<p><strong>Updated Footwear policy</strong>
+</p>
+<p>Please refer to the guide <a href="/files/Footwear%20Policy.pdf" rel="noopener noreferrer nofollow" target="_blank">Updated Footwear Policy</a>
+</p>
+<p><strong>Supplier Information</strong>
+</p>
+<p>For School Uniform and PE Attire:</p>
+<p>Pacific Bookstores Pte Ltd (same as current school book vendor)</p>
+<p>Tel: 69298012</p>
+<p>Email address :&nbsp;<a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
+</p>
+<p></p>
+<p><strong>Sale of School Uniform/PE Attire During School Term</strong>
+</p>
+<p>School uniforms can be purchased from the school bookshop.</p>
+<hr>
+<p>Last updated on 7 Jan 2025</p>
