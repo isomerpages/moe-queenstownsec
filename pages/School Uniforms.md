@@ -16,6 +16,7 @@ Please refer to the guide
 
 For School Uniform and PE Attire:  
 Pacific Bookstores Pte Ltd (same as current school book vendor)  
+Tel: 69298012
 Email address : [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com)
 
 **Sale of School Uniform/PE Attire During School Term** 
@@ -24,4 +25,4 @@ School uniforms can be purchased from the school bookshop.
 
 -------
 
-Last updated on 4-Mar-2022
+Last updated on 7 Jan 2025
