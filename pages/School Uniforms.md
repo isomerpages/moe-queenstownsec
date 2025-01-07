@@ -4,25 +4,20 @@ permalink: /parent-links/school-uniforms/
 description: ""
 variant: tiptap
 ---
-School Uniforms
-===============
-**Updated Footwear policy**
-
-Please refer to the guide
-[Updated Footwear Policy](/files/Footwear%20Policy.pdf)
-
-
-**Supplier Information** 
-
-For School Uniform and PE Attire:  
-Pacific Bookstores Pte Ltd (same as current school book vendor)  
-Tel: 69298012
-Email address : [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com)
-
-**Sale of School Uniform/PE Attire During School Term** 
-
-School uniforms can be purchased from the school bookshop.
-
--------
-
-Last updated on 7 Jan 2025
+<h1>School Uniforms</h1>
+<p><strong>Updated Footwear policy</strong>
+</p>
+<p>Please refer to the guide <a href="/files/Footwear%20Policy.pdf" rel="noopener noreferrer nofollow" target="_blank">Updated Footwear Policy</a>
+</p>
+<p><strong>Supplier Information</strong>
+</p>
+<p>For School Uniform and PE Attire:
+<br>Pacific Bookstores Pte Ltd (same as current school book vendor)
+<br>Tel: 69298012</p>
+<p>Email address :&nbsp;<a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
+</p>
+<p><strong>Sale of School Uniform/PE Attire During School Term</strong>
+</p>
+<p>School uniforms can be purchased from the school bookshop.</p>
+<hr>
+<p>Last updated on 7 Jan 2025</p>
