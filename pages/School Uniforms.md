@@ -11,9 +11,9 @@ variant: tiptap
 </p>
 <p><strong>Supplier Information</strong>
 </p>
-<p>For School Uniform and PE Attire:
-<br>Pacific Bookstores Pte Ltd (same as current school book vendor)
-<br>Tel: 69298012</p>
+<p>For School Uniform and PE Attire:</p>
+<p>Pacific Bookstores Pte Ltd (same as current school book vendor)</p>
+<p>Tel: 69298012</p>
 <p>Email address :&nbsp;<a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
 </p>
 <p></p>
