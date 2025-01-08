@@ -406,6 +406,161 @@ variant: tiptap
 <p><strong><u>5 Aspire (5 AS)</u></strong> 
 <br>Mdm Cherlyn Tan <a href="mailto:%20cherlyn_tan_jin_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(cherlyn_tan_jin_ping@moe.edu.sg)<br></a>
 </p>
+<h4>Other Teach Staff</h4>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sairi Bakiri <a href="mailto:chang_kah_ken_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(</a>
+<a href="mailto:sairi_bakiri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sairi_bakiri@moe.edu.sg)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A&amp;T</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chang Kah Ken <a href="mailto:chang_kah_ken_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(chang_kah_ken_a@moe.edu.sg)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A&amp;T</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Siew Kim Dora <a href="mailto:ong_siew_kim_dora_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_siew_kim_dora_b@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A&amp;T</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hannah Yeo Phaik Choo <a href="mailto:hannah_yeo_phaik_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(hannah_yeo_phaik_choo@moe.edu.sg)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zhao Feng <a href="mailto:zhao_fang_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(zhao_fang_c@moe.edu.sg)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kok Chooi Peng, Claire <a href="mailto:kok_chooi_peng_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(kok_chooi_peng_b@moe.edu.sg)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Qu Cai Yan <a href="mailto:qu_caiyan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(qu_caiyan@moe.edu.sg)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Teck Soon <a href="mailto:tan_teck_soon_a_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(tan_teck_soon_a_1@moe.edu.sg)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sundaram Kousalya <a href="mailto:sundaram_kousalya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(sundaram_kousalya@moe.edu.sg)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Phoa Hua Liew <a href="mailto:phoa_hua_liew_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(phoa_hua_liew_b@moe.edu.sg)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yeo Wanyi <a href="mailto:yeo_wanyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(yeo_wanyi@moe.edu.sg)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lau Chor Keng <a href="mailto:lau_chor_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(lau_chor_keng@moe.edu.sg)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Low Kai Syang Jeffrey <a href="mailto:low_kai_syang_jeffrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(low_kai_syang_jeffrey@moe.edu.sg)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wu Men Yen <a href="mailto:wu_men_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(wu_men_yen@moe.edu.sg)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Humanities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Guek Hong Peggy <a href="mailto:tan_guek_hong_peggy_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(tan_guek_hong_peggy_a@moe.edu.sg)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Koh Swee Thiam Dan <a href="mailto:dan_kst@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(dan_kst@moe.edu.sg)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
