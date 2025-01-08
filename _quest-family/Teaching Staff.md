@@ -406,6 +406,11 @@ variant: tiptap
 <p><strong><u>5 Aspire (5 AS)</u></strong> 
 <br>Mdm Cherlyn Tan <a href="mailto:%20cherlyn_tan_jin_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(cherlyn_tan_jin_ping@moe.edu.sg)<br></a>
 </p>
+<h4>Other Teach Staff </h4>
+<p></p>
+<p>Mr Sairi Bakiri <a href="mailto:%20cherlyn_tan_jin_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(</a>
+<a href="mailto:sairi_bakiri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sairi_bakiri@moe.edu.sg</a><a href="mailto:%20cherlyn_tan_jin_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">)</a>
+</p>
 <p>
 <br>
 </p>
