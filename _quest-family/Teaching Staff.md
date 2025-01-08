@@ -406,11 +406,156 @@ variant: tiptap
 <p><strong><u>5 Aspire (5 AS)</u></strong> 
 <br>Mdm Cherlyn Tan <a href="mailto:%20cherlyn_tan_jin_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(cherlyn_tan_jin_ping@moe.edu.sg)<br></a>
 </p>
-<h4>Other Teach Staff </h4>
+<h4>Other Teach Staff</h4>
 <p></p>
-<p>Mr Sairi Bakiri <a href="mailto:%20cherlyn_tan_jin_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(</a>
-<a href="mailto:sairi_bakiri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sairi_bakiri@moe.edu.sg</a><a href="mailto:%20cherlyn_tan_jin_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">)</a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sairi Bakiri <a href="mailto:chang_kah_ken_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(</a>
+<a href="mailto:sairi_bakiri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sairi_bakiri@moe.edu.sg)</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A&amp;T</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chang Kah Ken <a href="mailto:chang_kah_ken_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(chang_kah_ken_a@moe.edu.sg)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A&amp;T</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Siew Kim Dora <a href="mailto:ong_siew_kim_dora_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_siew_kim_dora_b@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A&amp;T</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hannah Yeo Phaik Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zhao Feng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kok Chooi Peng, Claire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Qu Cai Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Teck Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sundaram Kousalya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Phoa Hua Liew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yeo Wanyi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lau Chor Keng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Low Kai Syang Jeffrey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wu Men Yen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Humanities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Guek Hong Peggy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Swee Thiam Dan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tay Siew Mei, Janice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
