@@ -444,7 +444,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hannah Yeo Phaik Choo</p>
+<p>Ms Hannah Yeo Phaik Choo <a href="mailto:hannah_yeo_phaik_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(hannah_yeo_phaik_choo@moe.edu.sg)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -452,7 +453,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zhao Feng</p>
+<p>Ms Zhao Feng <a href="mailto:zhao_fang_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(zhao_fang_c@moe.edu.sg)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mother Tongue</p>
@@ -460,7 +462,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kok Chooi Peng, Claire</p>
+<p>Ms Kok Chooi Peng, Claire <a href="mailto:kok_chooi_peng_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(kok_chooi_peng_b@moe.edu.sg)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mother Tongue</p>
@@ -468,7 +471,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Qu Cai Yan</p>
+<p>Mdm Qu Cai Yan <a href="mailto:qu_caiyan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(qu_caiyan@moe.edu.sg)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mother Tongue</p>
@@ -476,7 +480,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Teck Soon</p>
+<p>Mr Tan Teck Soon <a href="mailto:tan_teck_soon_a_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(tan_teck_soon_a_1@moe.edu.sg)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mother Tongue</p>
@@ -484,7 +489,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sundaram Kousalya</p>
+<p>Mdm Sundaram Kousalya <a href="mailto:sundaram_kousalya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(sundaram_kousalya@moe.edu.sg)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mother Tongue</p>
@@ -492,7 +498,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Phoa Hua Liew</p>
+<p>Mdm Phoa Hua Liew <a href="mailto:phoa_hua_liew_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(phoa_hua_liew_b@moe.edu.sg)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mother Tongue</p>
@@ -500,7 +507,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yeo Wanyi</p>
+<p>Ms Yeo Wanyi <a href="mailto:yeo_wanyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(yeo_wanyi@moe.edu.sg)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mathematics</p>
@@ -508,7 +516,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lau Chor Keng</p>
+<p>Mr Lau Chor Keng <a href="mailto:lau_chor_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(lau_chor_keng@moe.edu.sg)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mathematics</p>
@@ -516,7 +525,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Low Kai Syang Jeffrey</p>
+<p>Mr Low Kai Syang Jeffrey <a href="mailto:low_kai_syang_jeffrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(low_kai_syang_jeffrey@moe.edu.sg)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Science</p>
@@ -524,7 +534,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wu Men Yen</p>
+<p>Mr Wu Men Yen <a href="mailto:wu_men_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(wu_men_yen@moe.edu.sg)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Humanities</p>
@@ -532,7 +543,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Guek Hong Peggy</p>
+<p>Ms Tan Guek Hong Peggy <a href="mailto:tan_guek_hong_peggy_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(tan_guek_hong_peggy_a@moe.edu.sg)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Physical Education</p>
@@ -540,7 +552,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Koh Swee Thiam Dan</p>
+<p>Mr Koh Swee Thiam Dan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Physical Education</p>
@@ -548,7 +560,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tay Siew Mei, Janice</p>
+<p>Ms Tay Siew Mei, Janice</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
