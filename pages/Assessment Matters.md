@@ -9,7 +9,7 @@ Assessment Matters
 
 #### 2025 Term 1 Assessment Infomation
 
-[Sec 1 Assessment Information](/files/Sec_1_Term_1_Assessment_Information_2025_1.pdf)
+[Sec 1 Assessment Information](/files/Sec_1_Term_1_Assessment_Information_2025_.pdf)
 
 [Sec 2 Assessment Information](/files/Sec_2_Term_1_Assessment_Information_2025_1.pdf)
 
