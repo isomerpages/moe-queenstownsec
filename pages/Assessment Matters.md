@@ -7,19 +7,14 @@ variant: markdown
 Assessment Matters
 ============
 
-#### End of Year 2024 Exam Timetable and Scheme of Assessment
+#### 2025 Term 1 Assessment Infomation
 
-[Sec 1 End of Year 2024 Scheme of Assessment](/files/EOY_2024_Sec_1_Scheme_of_Assessment_1.pdf)
+[Sec 1 Assessment Information](/files/Sec_1_Term_1_Assessment_Information_2025_1.pdf)
 
-[Sec 2 End of Year 2024 Scheme of Assessment](/files/EOY_2024_Sec_2_Scheme_of_Assessment_1.pdf)
+[Sec 2 Assessment Information](/files/Sec_2_Term_1_Assessment_Information_2025_1.pdf)
 
-[Sec 3 End of Year 2024 Scheme of Assessment](/files/EOY_2024_Sec_3_Scheme_of_Assessment.pdf)
+[Sec 3 Assessment Information](/files/Sec_3_Term_1_Assessment_Information_2025_1.pdf)
 
-[Sec 1 End of Year 2024 Exam Timetable](/files/EOY_2024_Sec_1_Exam_Timetable_1.pdf)
+[Sec 4 Assessment Information](/files/Sec_4_Term_1_Assessment_Information_2025_1.pdf)
 
-[Sec 2 End of Year 2024 Exam Timetable](/files/EOY_2024_Sec_2_Exam_Timetable.pdf)
-
-[Sec 3 End of Year 2024 Exam Timetable](/files/EOY_2024_Sec_3_Exam_Timetable_2.pdf)
-
-
-
+[Sec 5 Assessment Information](/files/Sec_5_Term_1_Assessment_Information_2025_1.pdf)
