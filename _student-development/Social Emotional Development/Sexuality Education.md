@@ -615,10 +615,9 @@ the end of Term 2.</p>
 the&nbsp;<strong>eTeens&nbsp;programme</strong>&nbsp;need to complete an
 opt-out form. This form has been disseminated via the Parents Gateway to
 the parents of Secondary 3 students in Term 1.</p>
-<p><strong>13.</strong>&nbsp;Parents can contact the school at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">qtss@moe.edu.sg</a>&nbsp;or
-64741055 for discussion or to seek clarification about the school’s sexuality
-education programme with Mr Tan Chee Tiong (HOD CCE) or Mdm Tang Siow Leng
-(SEd Coordinator).</p>
+<p><strong>13.</strong>&nbsp;Parents can contact the school at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">qtss@moe.edu.sg</a>&nbsp;or 64741055
+for discussion or to seek clarification about the school’s sexuality education
+programme with Mr Tan Chee Tiong (HOD CCE) or Mdm Tang Siow Leng (SEd Coordinator).</p>
 <p>Last updated: 31 Jan 2025</p>
 <p>&nbsp;</p>
 <p></p>
