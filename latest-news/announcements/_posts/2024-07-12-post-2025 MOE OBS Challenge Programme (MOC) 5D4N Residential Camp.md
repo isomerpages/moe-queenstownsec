@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>eRegistration link - <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025moeobs-queenstownss</a>
+<p>eRegistration link - <a href="https://go.gov.sg/2025moeobs-queenstownss" rel="noopener nofollow" target="_blank">https://go.gov.sg/2025moeobs-queenstownss</a>
 </p>
 </li>
 </ol>
