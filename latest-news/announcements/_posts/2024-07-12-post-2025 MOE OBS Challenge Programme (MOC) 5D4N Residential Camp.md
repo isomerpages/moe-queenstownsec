@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>eRegistration link - <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025moeobs-queenstownss</a>
+<p>eRegistration link - <a href="https://go.gov.sg/2025moeobs-queenstownss" rel="noopener nofollow" target="_blank">https://go.gov.sg/2025moeobs-queenstownss</a>
 </p>
 </li>
 </ol>
@@ -39,19 +39,19 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>MOC website - <a rel="noopener noreferrer nofollow" target="_blank">https://www.nyc.gov.sg/moc</a>
+<p>MOC website - <a href="https://www.nyc.gov.sg/moc" rel="noopener nofollow" target="_blank">https://www.nyc.gov.sg/moc</a>
 </p>
 </li>
 <li>
-<p>FAQ page - <a rel="noopener noreferrer nofollow" target="_blank">https://ask.gov.sg/obs</a>
+<p>FAQ page - <a href="https://ask.gov.sg/obs" rel="noopener nofollow" target="_blank">https://ask.gov.sg/obs</a>
 </p>
 </li>
 <li>
-<p>List of non-admissible conditions and other information - <a rel="noopener noreferrer nofollow" target="_blank">https://file.go.gov.sg/moeobs-importantnotes.pdf</a>
+<p>List of non-admissible conditions and other information - <a href="https://file.go.gov.sg/moeobs-importantnotes.pdf" rel="noopener nofollow" target="_blank">https://file.go.gov.sg/moeobs-importantnotes.pdf</a>
 </p>
 </li>
 <li>
-<p>Packing list - <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mocpackinglist</a>
+<p>Packing list - <a href="https://go.gov.sg/mocpackinglist" rel="noopener nofollow" target="_blank">https://go.gov.sg/mocpackinglist</a>
 </p>
 </li>
 </ol>
