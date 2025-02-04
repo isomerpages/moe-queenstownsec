@@ -13,6 +13,3 @@ variant: markdown
 #### Sec 3 - [Parents Engagement Slides](/files/2025_Sec_3_Parents_Engagement_Slides_school_website.pdf)
 
 #### Sec 4 & Sec 5 - [Parents Engagement Slides](/files/2025_Sec_4_5_Parents_Engagement_Slides_Website.pdf)
-
-
-
