@@ -208,7 +208,7 @@ variant: tiptap
 <p></p>
 <p><strong><u>1 Excellence (1 EX)</u></strong> 
 <br>Miss Azlina Binte Ali <a href="mailto:%20azlina_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(azlina_ali@moe.edu.sg)</u></a>
-<br>Mr Zhong Shu Hao (<a href="mailto:zhong_shu_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhong_shu_hao@moe.edu.sg</a>)</p>
+<br>Mr Zhong Shu Hao (<a href="mailto:zhong_shu_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhong_shuhao@moe.edu.sg</a>)</p>
 <p></p>
 <p><strong><u>1 Service (1 SE)</u></strong> 
 <br>Mr Ernest Tan Jing Heng <a href="mailto:%20ernest_tan_jing_heng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(ernest_tan_jing_heng_a@moe.edu.sg)</u></a>
