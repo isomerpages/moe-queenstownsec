@@ -130,6 +130,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Wee Lieh Max</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_wee_lieh_max@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_wee_lieh_max@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
