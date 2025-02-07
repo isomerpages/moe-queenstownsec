@@ -1,6 +1,6 @@
 ---
-title: Quest Alumni
-permalink: /quest-alumni/
+title: Quest Community
+permalink: /quest-community/
 variant: tiptap
 description: ""
 ---
