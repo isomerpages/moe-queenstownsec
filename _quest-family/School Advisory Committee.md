@@ -17,8 +17,8 @@ as well as our distinguished alumni.</p>
 <p>The current 2023 – 2024 SAC has established the SAC scholarship for academically
 deserving Secondary 1 students who chose to enroll in Queenstown Secondary
 School. They were instrumental in the reimagining and transforming of the
-school’s learning spaces, including the redesign and renovation of the
-school’s Learning Commons (previously known as the library).</p>
+school’s learning spaces, including the school’s Learning Commons (previously
+known as the library).</p>
 <p>The outgoing 2023 – 2024 SAC members are:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SS1.png">
