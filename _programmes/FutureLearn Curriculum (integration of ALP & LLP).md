@@ -10,8 +10,8 @@ description: ""
 at equipping students with 21<sup>st</sup> century competencies (21<sup>st</sup> CC)
 and future literacies – sustainability and digital literacy. To provide
 a more cohesive learning experience, we have synergised our Applied Learning
-and Learning for Life Programmes and aligned our Maker Education: Design
-Challenges under the broad theme of “Sustainability”.</p>
+and Learning for Life Programmes (ALP and LLP) and aligned our Maker Education:
+Design Challenges under the broad theme of “Sustainability”.</p>
 <p><strong>FutureLearn Objectives</strong>
 </p>
 <p>Through FutureLearn, we want our students to:</p>
