@@ -1,5 +1,5 @@
 collections:
-  quest-family:
+  quest-community:
     output: true
     order:
       - Quest Community.md
