@@ -2,7 +2,7 @@ collections:
   programmes:
     output: true
     order:
-      - FutureLearn Curriculum.md
+      - FutureLearn Curriculum (integration of ALP & LLP).md
       - Talent Development.md
       - Partnerships.md
       - QTSS rHBL SIL.md
