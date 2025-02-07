@@ -25,7 +25,6 @@ school’s Learning Commons (previously known as the library).</p>
 </div>
 <p>The incoming 2025 – 2026 SAC members are:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SS_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_updated.png">
 </div>
-<p></p>
 <p></p>
