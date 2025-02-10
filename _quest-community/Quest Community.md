@@ -1,6 +1,6 @@
 ---
 title: Quest Community
-permalink: /quest-community/
+permalink: /about-us/quest-community/school-management-committee/
 variant: tiptap
 description: ""
 ---
