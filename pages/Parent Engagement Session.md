@@ -10,6 +10,8 @@ variant: markdown
 
 #### Sec 1 - [Parents Engagement Slides](/files/2025_Sec_1_Parents__Engagement_Session_Main_Final.pdf)
 
+#### Sec 2 - [Parents Engagement Slides](/files/2025_Sec_2_Parents_Engagement_Slides_website.pdf)
+
 #### Sec 3 - [Parents Engagement Slides](/files/2025_Sec_3_Parents_Engagement_Slides_school_website.pdf)
 
 #### Sec 4 & Sec 5 - [Parents Engagement Slides](/files/2025_Sec_4_5_Parents_Engagement_Slides_Website.pdf)
