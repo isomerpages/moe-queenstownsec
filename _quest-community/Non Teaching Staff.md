@@ -109,6 +109,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>CSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Boo Kim Mong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:boo_kim_mong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">boo_kim_mong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>STEM Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -152,6 +164,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: luqmannulhakim_norman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">luqmannulhakim_norman@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Rashid Bin Ismail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rashid_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rashid_ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>
