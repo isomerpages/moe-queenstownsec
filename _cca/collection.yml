@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA Schedule & Venues.md
       - CCA Grades (LEAPS 2).md
       - Important Sec 1 CCA Information.md
       - Uniformed Groups/.keep
@@ -30,4 +31,3 @@ collections:
       - Clubs & Societies/Club & Societies.md
       - Clubs & Societies/Design and Innovation.md
       - Clubs & Societies/Strategy Games.md
-      - CCA Schedule & Venues.md
