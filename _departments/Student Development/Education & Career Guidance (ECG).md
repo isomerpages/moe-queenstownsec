@@ -31,7 +31,7 @@ In summary, the ECG programmes look at:
 </li></ul>
 
 
-The programmes are conducted in partnership with multiple in-house and industrial partners
+The programmes are conducted in [partnership](https://www.queenstownsec.moe.edu.sg/partnerships/) with multiple in-house and industrial partners.
 
 	
 ##### **Key Learning Experiences**
