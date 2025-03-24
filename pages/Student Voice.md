@@ -20,7 +20,7 @@ Student Voice
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/Students/Student%20Voices%20Banner.png" style="width:85%">
 
 	
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfQ4b-6hBu6H-pvVCt8idUvSOTQNTSOerPoUbgb79vbdA8bSQ/viewform">
+<p><a href="https://go.gov.sg/qtssfmr">
 <img src="/images/Students/School%20Facilities.png" style="width:250px;height:190px;margin-right:15px;" align="left">
 </a></p>
 
