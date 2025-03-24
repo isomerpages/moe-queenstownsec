@@ -225,6 +225,8 @@ variant: tiptap
 <p></p>
 <p><strong><u>2 Aspire (2 AS)</u></strong> 
 <br>Mdm Amanda Liu <a href="mailto: liu_yuanxin_amanda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(liu_yuanxin_amanda@moe.edu.sg)</a>
+<br>Ms Pravenisa D/O B Viswambharan <a href="mailto: johnson_ong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(</a><a href="mailto:pravenisa_b_viswambharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pravenisa_b_viswambharan@moe.edu.sg</a>
+<a href="mailto: johnson_ong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">)</a>
 </p>
 <p></p>
 <p><strong><u>2 Respect (2 RP)</u></strong> 
@@ -238,8 +240,12 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong><u>2 Integrity (2 IN)</u></strong> 
-<br>Miss Ng Kai Jun <a href="mailto: ng_kai_jun_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(ng_kai_jun_a@moe.edu.sg)</a>
+<br>Miss Ng Kai Jun <a href="mailto: ng_kai_jun_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(ng_kai_jun_a@moe.edu.sg)</a>Mr
+Yuen Cheng
+<br>Mr Goh Yan Cong Benjamin <a href="mailto: vijayarani_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(</a><a href="mailto:goh_yan_cong_benjamin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_yan_cong_benjamin@moe.edu.sg</a>
+<a href="mailto: vijayarani_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">)</a>
 </p>
+<p></p>
 <p></p>
 <p><strong><u>2 Care (2 CA)</u></strong> 
 <br>Miss Charis Cho <a href="mailto: charis_cho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(charis_cho@moe.edu.sg)</a>
@@ -247,7 +253,11 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong><u>2 Excellence (2 EX)</u></strong> 
-<br>Mdm Phoo Wey Wey <a href="mailto: phoo_wey_wey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(phoo_wey_wey@moe.edu.sg)</a>
+<br>Mdm Phoo Wey Wey <a href="mailto: phoo_wey_wey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(phoo_wey_wey@moe.edu.sg)</a>Miss
+Charis Cho <a href="mailto: charis_cho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(charis_cho@moe.edu.sg)</a>
+<br>Ms Beh Su En, Priscilla <a href="mailto:%20jayasolai_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(</u></a><a href="mailto:beh_su_en_priscilla@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">beh_su_en_priscilla@moe.edu.sg</a>
+<a href="mailto:%20jayasolai_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>)</u>
+</a>
 <br>
 </p>
 <div class="isomer-image-wrapper">
