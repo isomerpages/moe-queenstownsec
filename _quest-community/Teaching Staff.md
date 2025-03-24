@@ -191,7 +191,7 @@ variant: tiptap
 <p></p>
 <p><strong><u>1 Respect (1 RP)</u></strong> 
 <br>Mdm Minna Koh <a href="mailto:%20koh_minna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(koh_minna@moe.edu.sg)</u></a>
-</p>
+<br>Mr Daniel Lee Jia Xin (<a href="mailto:daniel_lee_jia_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_lee_jia_xin@moe.edu.sg</a>)</p>
 <p></p>
 <p><strong><u>1 Resilience (1 RL)</u></strong> 
 <br>Mdm Tang Siow Leng <a href="mailto:%20tang_siow_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(tang_siow_leng@moe.edu.sg)</u></a>
@@ -212,6 +212,9 @@ variant: tiptap
 <p></p>
 <p><strong><u>1 Service (1 SE)</u></strong> 
 <br>Mr Ernest Tan Jing Heng <a href="mailto:%20ernest_tan_jing_heng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(ernest_tan_jing_heng_a@moe.edu.sg)</u></a>
+<br>Ms Huldah Anna Lee Qian Ai <a href="mailto:%20ernest_tan_jing_heng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(Huldah Lee </u></a>
+<a href="mailto:huldah_anna_lee_qian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>huldah_anna_lee_qian@moe.edu.sg</u>
+</a><a href="mailto:%20ernest_tan_jing_heng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>)</u></a>
 </p>
 <p></p>
 <h4>Secondary Two<br></h4>
