@@ -240,8 +240,7 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong><u>2 Integrity (2 IN)</u></strong> 
-<br>Miss Ng Kai Jun <a href="mailto: ng_kai_jun_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(ng_kai_jun_a@moe.edu.sg)</a>Mr
-Yuen Cheng
+<br>Miss Ng Kai Jun <a href="mailto: ng_kai_jun_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(ng_kai_jun_a@moe.edu.sg)</a> 
 <br>Mr Goh Yan Cong Benjamin <a href="mailto: vijayarani_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(</a><a href="mailto:goh_yan_cong_benjamin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_yan_cong_benjamin@moe.edu.sg</a>
 <a href="mailto: vijayarani_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">)</a>
 </p>
