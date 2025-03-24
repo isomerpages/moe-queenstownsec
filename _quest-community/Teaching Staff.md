@@ -253,8 +253,7 @@ Yuen Cheng
 </p>
 <p></p>
 <p><strong><u>2 Excellence (2 EX)</u></strong> 
-<br>Mdm Phoo Wey Wey <a href="mailto: phoo_wey_wey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(phoo_wey_wey@moe.edu.sg)</a>Miss
-Charis Cho <a href="mailto: charis_cho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(charis_cho@moe.edu.sg)</a>
+<br>Mdm Phoo Wey Wey <a href="mailto: phoo_wey_wey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(phoo_wey_wey@moe.edu.sg)</a>
 <br>Ms Beh Su En, Priscilla <a href="mailto:%20jayasolai_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(</u></a><a href="mailto:beh_su_en_priscilla@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">beh_su_en_priscilla@moe.edu.sg</a>
 <a href="mailto:%20jayasolai_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>)</u>
 </a>
