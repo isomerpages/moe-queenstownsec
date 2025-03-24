@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><a href="/files/XC_STUDENT_BRIEFING_UPLOAD.pdf" rel="noopener nofollow" target="_blank">Cross Country Briefing 2025 - For Parents &amp; Students</a>
+</p>
