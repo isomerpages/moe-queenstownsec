@@ -2,10 +2,10 @@ collections:
   quest-community:
     output: true
     order:
-      - Parent Support Group.md
       - Quest Alumni Association.md
       - School Advisory Committee.md
       - School Management Committee.md
       - Teaching Staff.md
       - School Counsellor and Allied Educator (AED).md
       - Non Teaching Staff.md
+      - Parent Support Group.md
