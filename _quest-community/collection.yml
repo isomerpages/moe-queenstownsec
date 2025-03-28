@@ -2,7 +2,7 @@ collections:
   quest-community:
     output: true
     order:
-      - Quest Community.md
+      - Quest Alumni Association.md
       - School Advisory Committee.md
       - School Management Committee.md
       - Teaching Staff.md
