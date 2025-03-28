@@ -1,6 +1,6 @@
 ---
 title: School Advisory Committee
-permalink: /school-advisory-committee/
+permalink: /about-us/quest-community/school-advisory-committee/
 variant: tiptap
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
 title: Teaching Staff
-permalink: /about-us/quest-family/teaching-staff/
+permalink: /about-us/quest-community/teaching-staff/
 description: ""
 variant: tiptap
 ---

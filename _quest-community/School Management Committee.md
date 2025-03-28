@@ -1,6 +1,6 @@
 ---
 title: School Management Committee
-permalink: /about-us/quest-family/school-management-committee/
+permalink: /about-us/quest-community/school-management-committee/
 description: ""
 variant: tiptap
 ---

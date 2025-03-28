@@ -1,6 +1,6 @@
 ---
-title: Quest Community
-permalink: /about-us/quest-community/school-management-committee/
+title: Quest Alumni Association
+permalink: /about-us/quest-community/quest-alumni-association/
 variant: tiptap
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
 title: Non Teaching Staff
-permalink: /about-us/quest-family/non-teaching-staff/
+permalink: /about-us/quest-community/non-teaching-staff/
 description: ""
 variant: tiptap
 ---
