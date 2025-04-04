@@ -58,7 +58,7 @@ menu for school's review.</p>
 <p><strong><u>Application Procedure</u></strong>
 </p>
 <p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  1. Download and complete the <a href="/files/Application_for_Canteen_Stall_FormBF7___QTSS__Ver_Sep_2023_.pdf" rel="noopener nofollow" target="_blank">Application Form</a>.
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Download and complete the <a href="/files/Application_for_Canteen_Stall_FormBF7___QTSS__Ver_Sep_2023_.pdf" rel="noopener nofollow" target="_blank">Application Form</a>.
 You may also request for a hardcopy from the School’s General Office.</p>
 <p></p><p>
 &nbsp;&nbsp; &nbsp;&nbsp; 2. Attach the following documents together
@@ -66,7 +66,7 @@ with the application form:</p>
 <p>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  a. Photocopy of applicant’s NRIC (front and back);&nbsp;&nbsp;</p>
 <p>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;b. List of proposed menu and pricing for all items; and&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;c. Photocopy of relevant certificates such as Food Safety Course, etc.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit the completed application form
+<p>&nbsp;&nbsp; &nbsp;&nbsp; 3. Submit the completed application form
 and documents by closing date via email&nbsp;<u>OR</u>&nbsp;to the School
 General Office.</p>
 <p></p>
