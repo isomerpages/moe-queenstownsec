@@ -66,12 +66,12 @@ You may also request for a hardcopy from the School’s General Office.</p>
 <li>
 <p>Attach the following documents together with the application form:</p>
 <p></p>
-<p>a. Photocopy of applicant’s NRIC (front and back);&nbsp;&nbsp;</p>
 </li>
 </ol>
-<p>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; b. List of proposed menu and pricing
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Photocopy of applicant’s NRIC (front and back);</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. List of proposed menu and pricing
 for all items; and&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;c. Photocopy of relevant certificates
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Photocopy of relevant certificates
 such as Food Safety Course, etc.</p>
 <ol start="3" data-tight="true" class="tight">
 <li>
