@@ -1,7 +1,7 @@
 ---
 title: School Canteen
 permalink: /quick-links/schoolcanteen/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p><strong>SCHOOL CANTEEN ADVERTISEMENT</strong>
@@ -58,17 +58,26 @@ menu for school's review.</p>
 <p><strong><u>Application Procedure</u></strong>
 </p>
 <p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Download and complete the <a href="/files/Application_for_Canteen_Stall_FormBF7___QTSS__Ver_Sep_2023_.pdf" rel="noopener nofollow" target="_blank">Application Form</a>.
+<ol data-tight="true" class="tight">
+<li>
+<p>Download and complete the <a href="/files/Application_for_Canteen_Stall_FormBF7___QTSS__Ver_Sep_2023_.pdf" rel="noopener nofollow" target="_blank">Application Form</a>.
 You may also request for a hardcopy from the School’s General Office.</p>
-<p></p><p>
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;2. Attach the following documents together
-with the application form:</p>
-<p>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  a. Photocopy of applicant’s NRIC (front and back);&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;b. List of proposed menu and pricing for all items; and&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;c. Photocopy of relevant certificates such as Food Safety Course, etc.</p>
-<p>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;3. Submit the completed application form
-and documents by closing date via email&nbsp;<u>OR</u>&nbsp;to the School
-General Office.</p>
+</li>
+<li>
+<p>Attach the following documents together with the application form:</p>
+<p></p>
+</li>
+</ol>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Photocopy of applicant’s NRIC (front and back);<p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. List of proposed menu and pricing
+for all items; and&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Photocopy of relevant certificates
+such as Food Safety Course, etc.</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Submit the completed application form and documents by closing date via
+email&nbsp;<u>OR</u>&nbsp;to the School General Office.</p>
+</li>
+</ol>
 <p></p>
 <p><strong>School General Office</strong>
 </p>
