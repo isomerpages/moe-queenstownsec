@@ -18,11 +18,7 @@ as well as our distinguished alumni.</p>
 Secondary 1 students who chose to enroll in Queenstown Secondary School.
 They were instrumental in the reimagining and transforming of the school’s
 learning spaces, including the school’s Learning Commons (previously known
-as the library).</p>
-<p>The outgoing 2023 – 2024 SAC members are:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SS1.png">
-</div>
+as the library) and the piloting of the prototype classroom.</p>
 <p>The incoming 2025 – 2026 SAC members are:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_updated.png">
