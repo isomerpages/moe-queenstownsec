@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Media Highlights.md
-      - CCA Achievements/.keep
       - Newsworthy Alumni.md
