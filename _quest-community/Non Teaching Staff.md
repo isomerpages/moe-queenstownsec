@@ -148,6 +148,18 @@ variant: tiptap
 <p>STEM Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Rashid Bin Ismail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Rashid_Ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rashid_Ismail@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Muhammad Firdaus Noah</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -254,6 +266,28 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Noormah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Receptionist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ramliza Bte Othman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Librarian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Haryante Bte Othman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
