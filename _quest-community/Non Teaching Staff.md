@@ -239,10 +239,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>OSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tamilmohan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
