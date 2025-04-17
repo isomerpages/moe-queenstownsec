@@ -110,5 +110,145 @@ description: ""
             <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%&quot;">The Alumni was officially registered in 1977, making it one of the earliest Alumni of any local secondary school, apart from the colonial era schools. Our pioneering Alumni are the pillars of the nation building days, helping to shape the nation’s success that we know today.</span></p>
          </td>
       </tr>
+<tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes">
+         <td style="width:127.35pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="170">
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><b><span style="“font-size:14.0pt;line-height:107%;mso-ansi-language:EN-SG&quot;" lang="EN-SG">DARE TO SERVE</span></b></p>
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%;mso-ansi-language:EN-SG&quot;" lang="EN-SG">The Alumnus Pledge</span></p>
+         </td>
+         <td style="width:20.0cm;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="756">
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%;mso-ansi-language:EN-SG&quot;" lang="EN-SG">I strive to be the best that I can be, to serve the Alumni, the School, the Quest Community and our Society.</span></p>
+         </td>
+<td style="width:20.0cm;border:solid windowtext 1.0pt;
+            border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+            solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="756">
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%&quot;">The QUEST Alumni was founded by the pioneer batch of 1959 and it has held strong till this present day.</span></p>
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%&quot;">The Alumni was officially registered in 1977, making it one of the earliest Alumni of any local secondary school, apart from the colonial era schools. Our pioneering Alumni are the pillars of the nation building days, helping to shape the nation’s success that we know today.</span></p>
+         </td>
+      </tr>
+<tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes">
+         <td style="width:127.35pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="170">
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><b><span style="“font-size:14.0pt;line-height:107%;mso-ansi-language:EN-SG&quot;" lang="EN-SG">DARE TO SERVE</span></b></p>
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%;mso-ansi-language:EN-SG&quot;" lang="EN-SG">The Alumnus Pledge</span></p>
+         </td>
+         <td style="width:20.0cm;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="756">
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%;mso-ansi-language:EN-SG&quot;" lang="EN-SG">I strive to be the best that I can be, to serve the Alumni, the School, the Quest Community and our Society.</span></p>
+         </td>
+<td style="width:20.0cm;border:solid windowtext 1.0pt;
+            border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+            solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="756">
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%&quot;">The QUEST Alumni was founded by the pioneer batch of 1959 and it has held strong till this present day.</span></p>
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%&quot;">The Alumni was officially registered in 1977, making it one of the earliest Alumni of any local secondary school, apart from the colonial era schools. Our pioneering Alumni are the pillars of the nation building days, helping to shape the nation’s success that we know today.</span></p>
+         </td>
+      </tr>
+<tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes">
+         <td style="width:127.35pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="170">
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><b><span style="“font-size:14.0pt;line-height:107%;mso-ansi-language:EN-SG&quot;" lang="EN-SG">DARE TO SERVE</span></b></p>
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%;mso-ansi-language:EN-SG&quot;" lang="EN-SG">The Alumnus Pledge</span></p>
+         </td>
+         <td style="width:20.0cm;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="756">
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%;mso-ansi-language:EN-SG&quot;" lang="EN-SG">I strive to be the best that I can be, to serve the Alumni, the School, the Quest Community and our Society.</span></p>
+         </td>
+<td style="width:20.0cm;border:solid windowtext 1.0pt;
+            border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+            solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="756">
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%&quot;">The QUEST Alumni was founded by the pioneer batch of 1959 and it has held strong till this present day.</span></p>
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%&quot;">The Alumni was officially registered in 1977, making it one of the earliest Alumni of any local secondary school, apart from the colonial era schools. Our pioneering Alumni are the pillars of the nation building days, helping to shape the nation’s success that we know today.</span></p>
+         </td>
+      </tr>
+<tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes">
+         <td style="width:127.35pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="170">
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><b><span style="“font-size:14.0pt;line-height:107%;mso-ansi-language:EN-SG&quot;" lang="EN-SG">DARE TO SERVE</span></b></p>
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%;mso-ansi-language:EN-SG&quot;" lang="EN-SG">The Alumnus Pledge</span></p>
+         </td>
+         <td style="width:20.0cm;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="756">
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%;mso-ansi-language:EN-SG&quot;" lang="EN-SG">I strive to be the best that I can be, to serve the Alumni, the School, the Quest Community and our Society.</span></p>
+         </td>
+<td style="width:20.0cm;border:solid windowtext 1.0pt;
+            border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+            solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="756">
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%&quot;">The QUEST Alumni was founded by the pioneer batch of 1959 and it has held strong till this present day.</span></p>
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%&quot;">The Alumni was officially registered in 1977, making it one of the earliest Alumni of any local secondary school, apart from the colonial era schools. Our pioneering Alumni are the pillars of the nation building days, helping to shape the nation’s success that we know today.</span></p>
+         </td>
+      </tr>
+<tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes">
+         <td style="width:127.35pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="170">
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><b><span style="“font-size:14.0pt;line-height:107%;mso-ansi-language:EN-SG&quot;" lang="EN-SG">DARE TO SERVE</span></b></p>
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%;mso-ansi-language:EN-SG&quot;" lang="EN-SG">The Alumnus Pledge</span></p>
+         </td>
+         <td style="width:20.0cm;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="756">
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%;mso-ansi-language:EN-SG&quot;" lang="EN-SG">I strive to be the best that I can be, to serve the Alumni, the School, the Quest Community and our Society.</span></p>
+         </td>
+<td style="width:20.0cm;border:solid windowtext 1.0pt;
+            border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+            solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="756">
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%&quot;">The QUEST Alumni was founded by the pioneer batch of 1959 and it has held strong till this present day.</span></p>
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%&quot;">The Alumni was officially registered in 1977, making it one of the earliest Alumni of any local secondary school, apart from the colonial era schools. Our pioneering Alumni are the pillars of the nation building days, helping to shape the nation’s success that we know today.</span></p>
+         </td>
+      </tr>
+<tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes">
+         <td style="width:127.35pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="170">
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><b><span style="“font-size:14.0pt;line-height:107%;mso-ansi-language:EN-SG&quot;" lang="EN-SG">DARE TO SERVE</span></b></p>
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%;mso-ansi-language:EN-SG&quot;" lang="EN-SG">The Alumnus Pledge</span></p>
+         </td>
+         <td style="width:20.0cm;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="756">
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%;mso-ansi-language:EN-SG&quot;" lang="EN-SG">I strive to be the best that I can be, to serve the Alumni, the School, the Quest Community and our Society.</span></p>
+         </td>
+<td style="width:20.0cm;border:solid windowtext 1.0pt;
+            border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+            solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="756">
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%&quot;">The QUEST Alumni was founded by the pioneer batch of 1959 and it has held strong till this present day.</span></p>
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%&quot;">The Alumni was officially registered in 1977, making it one of the earliest Alumni of any local secondary school, apart from the colonial era schools. Our pioneering Alumni are the pillars of the nation building days, helping to shape the nation’s success that we know today.</span></p>
+         </td>
+      </tr>
+<tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes">
+         <td style="width:127.35pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="170">
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><b><span style="“font-size:14.0pt;line-height:107%;mso-ansi-language:EN-SG&quot;" lang="EN-SG">DARE TO SERVE</span></b></p>
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%;mso-ansi-language:EN-SG&quot;" lang="EN-SG">The Alumnus Pledge</span></p>
+         </td>
+         <td style="width:20.0cm;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="756">
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%;mso-ansi-language:EN-SG&quot;" lang="EN-SG">I strive to be the best that I can be, to serve the Alumni, the School, the Quest Community and our Society.</span></p>
+         </td>
+<td style="width:20.0cm;border:solid windowtext 1.0pt;
+            border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+            solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="756">
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%&quot;">The QUEST Alumni was founded by the pioneer batch of 1959 and it has held strong till this present day.</span></p>
+            <p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="“font-size:14.0pt;line-height:107%&quot;">The Alumni was officially registered in 1977, making it one of the earliest Alumni of any local secondary school, apart from the colonial era schools. Our pioneering Alumni are the pillars of the nation building days, helping to shape the nation’s success that we know today.</span></p>
+         </td>
+      </tr>
    </tbody>
 </table>
