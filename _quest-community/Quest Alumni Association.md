@@ -4,23 +4,24 @@ permalink: /about-us/quest-community/quest-alumni-association/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Inception / History</strong>	</h4>
+<h4><strong>Inception / History</strong></h4>
 <p>The QUEST Alumni was founded by the pioneer batch of 1959 and it has held
 strong till this present day.</p>
 <p>The Alumni was officially registered in 1977, making it one of the earliest
 Alumni of any local secondary school, apart from the colonial era schools.
 Our pioneering Alumni are the pillars of the nation building days, helping
 to shape the nation’s success that we know today.</p>
-<h4>Our Goals	</h4>
+<h4>Our Goals</h4>
 <p>To build an inclusive network of Alumni based on the spirit of Dare to
 Serve to support the students, co-create opportunities for our members
 and to improve lives in the community.</p>
-<p>Our Alumni The Alumni offers a broad network and global reach for career,
-social or advisory to peers and students. Many of our Alumni are shining
-luminaries in our society. They hold leadership positions in the corporate,
-government, social sectors. Several Ministers and Civil Service Leaders
-have emerged from this humble school, reflecting the good foundation and
-grounded values that has shaped their pathway to success.</p>
+<h4>Our Alumni </h4>
+<p>The Alumni offers a broad network and global reach for career, social
+or advisory to peers and students. Many of our Alumni are shining luminaries
+in our society. They hold leadership positions in the corporate, government,
+social sectors. Several Ministers and Civil Service Leaders have emerged
+from this humble school, reflecting the good foundation and grounded values
+that has shaped their pathway to success.</p>
 <p>There are also those who built their own business legacy through hard
 work, diligence and sheer perseverance, and eked out their own success
 stories from humble beginnings. Within our ever-growing Alumni base of
@@ -34,14 +35,13 @@ future.</p>
 <p>Last but not least, a Queenstown Alumni never refuses the opportunity
 to come back and support our Alma Mater School, continuing the legacy left
 by our pioneers - Dare to Serve - for School, for Members, for Community.</p>
-<p>DARE TO SERVE</p>
+<h4>DARE TO SERVE</h4>
 <p>The Alumnus Pledge I strive to be the best that I can be, to serve the
 Alumni, the School, the Quest Community and our Society.</p>
-<p>New page: QUEST Alumni – Alumni Committee Members Profile</p>
-<p>Alumnus Role Introduction</p>
-<p>Mr. WEE Beng Sing, Roland</p>
-<p>(Class of 1961) President Mr Wee is the Chairman of MEI Engineering Group,
-serving multi-national clients across Asia Pacific.</p>
+<h3><strong>QUEST Alumni – Alumni Committee Members Profile</strong></h3>
+<h4><strong>Mr. WEE Beng Sing, Roland (Class of 1961) President</strong></h4>
+<p>Mr Wee is the Chairman of MEI Engineering Group, serving multi-national
+clients across Asia Pacific.</p>
 <p>He is sought after for his expertise in engineering and facilities constructions,
 and he consults for numerous complicated projects throughout his career.
 He sits on several boards such as Singapore PowerGas, subsidiaries of DBS
@@ -55,10 +55,11 @@ to help Queenstownians (today’s students) be better equipped to face the
 challenges of tomorrow.</p>
 <p>As president of the Alumni, he hopes to provide his wealth of experience
 and connections to help all alumni succeed in their endeavours.</p>
-<p>Mr. GOH, Ronald</p>
-<p>(Class of 1962) Vice President Mr. Goh’s secondary educational path began
-at QSTS, where he laid the foundation for a technical journey that would
-eventually take him to great heights.</p>
+<p>Mr. GOH, Ronald (Class of 1962)</p>
+<p>Vice President</p>
+<p>Mr. Goh’s secondary educational path began at QSTS, where he laid the
+foundation for a technical journey that would eventually take him to great
+heights.</p>
 <p>As Chairman of the E&amp;E Group of Companies, he has completed numerous
 prestigious projects and is a respected name in the industry.</p>
 <p>Mr. Goh’s involvement with the QSTS Alumni Association (QUEST) reflects
