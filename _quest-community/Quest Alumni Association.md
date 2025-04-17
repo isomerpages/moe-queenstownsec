@@ -53,17 +53,13 @@ for social causes, selflessly giving back to the School and the Alumni
 to uplift the students’ lives and give a hand to the less fortunate amongst
 us.
 <br>
-<br>
 </p>
 <p>The Alumni has worked hand in hand with the School to support and improve
 the lives and journey of the students, helping to nurture talents of the
 future.</p>
 <p>Last but not least, a Queenstown Alumni never refuses the opportunity
 to come back and support our Alma Mater School, continuing the legacy left
-by our pioneers - Dare to Serve - for School, for Members, for Community.
-<br>
-<br>
-</p>
+by our pioneers - Dare to Serve - for School, for Members, for Community.</p>
 </td>
 </tr>
 <tr>
