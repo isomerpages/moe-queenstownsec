@@ -98,9 +98,9 @@ and fundings.</p>
 Ubin overnight geography trips, and explorations at St John Island.</p>
 <p>He hopes to guide and mentor juniors to avoid the pitfalls he experienced
 while he was a youth.</p>
-<p>Dr. HUI Chee Wah</p>
-<p>(Class of 1980) Hon Treasurer Dr Hui ran his private clinic for close
-to 20 years before joining the Nuffield Dental Group in 2019.</p>
+<h4><strong>Dr. HUI Chee Wah (Class of 1980)</strong><br><strong>Hon Treasurer </strong></h4>
+<p>Dr Hui ran his private clinic for close to 20 years before joining the
+Nuffield Dental Group in 2019.</p>
 <p>He recalls fondly his days at QSTS, where dedicated teachers made a huge
 impact on his formative years. He felt that the teachers are the most impactful
 influence on his Queenstownian days. He not only improved his grades from
@@ -109,10 +109,10 @@ the nurturing environment QSTS has provided for him to succeed in life.</p>
 <p>Annually, he sets aside personal time to join mission trips to underdeveloped
 countries to provide pro bono dental care.</p>
 <p>As an Alumni, he hopes to be able to give back and help others succeed.</p>
-<p>Mr. TAN Wee Tin</p>
-<p>(Class of 1959) Hon Auditor Dr Tan Wee Tin is the Inaugural batch of students
-in Queenstown in 1956 graduating in 1959. He also co-founded the QUEST
-Alumni in 1977.</p>
+<p></p>
+<h4><strong>Mr. TAN Wee Tin (Class of 1959)</strong><br><strong>Hon Auditor </strong></h4>
+<p>Dr Tan Wee Tin is the Inaugural batch of students in Queenstown in 1956
+graduating in 1959. He also co-founded the QUEST Alumni in 1977.</p>
 <p>He remembered vividly having to switch to 3 other schools while the actual
 school was being built.</p>
 <p>Despite financial hardship, he doubled down on his studies and was duly
@@ -124,23 +124,21 @@ own Accountancy Practice in 1970 that’s still in operation today.</p>
 <p>An active alumnus, he has been serving on the School Advisory Board for
 over a decade, donated generously to the school and is a supportive force
 behind the Alumni through its ups and downs.</p>
-<p>Mr. TAN Chiew Koon</p>
-<p>(Class of 1962) Hon Auditor Mr Tan enjoyed an illustrious career in his
-various positions with Shell. He led and headed up some of the most important
-and groundbreaking projects during his time for Shell when Asia was booming
-(&amp; Singapore was heavily invested in the Petroleum and Petrochemical
-Sectors).</p>
+<h4><strong>Mr. TAN Chiew Koon (Class of 1962)</strong><br><strong>Hon Auditor </strong></h4>
+<p>Mr Tan enjoyed an illustrious career in his various positions with Shell.
+He led and headed up some of the most important and groundbreaking projects
+during his time for Shell when Asia was booming (&amp; Singapore was heavily
+invested in the Petroleum and Petrochemical Sectors).</p>
 <p>As a Student Leader at Queenstown, he championed for social causes without
 hesitation. The school provided him with the foundation values to advocate
 for those who have less.</p>
 <p>Mr Tan has actively served in the Alumni since 1995, and he felt the Alumni,
 with its vast connections, will be a great platform for all Queenstownians
 to help one another in career opportunities, mentoring or business collaborations.</p>
-<p>Mr. LIM Hong Tan</p>
-<p>(Class of 1968) Committee Member Mr Lim is undoubtedly the 1st generation
-of Geek. He completed his A Levels in QSTS in 1968. He graduated with a
-1st Class Honours in Mechanical Engineer and (a latter) MBA from the National
-University of Singapore.</p>
+<h4><strong>Mr. LIM Hong Tan (Class of 1968)</strong><br><strong>Committee Member </strong></h4>
+<p>Mr Lim is undoubtedly the 1st generation of Geek. He completed his A Levels
+in QSTS in 1968. He graduated with a 1st Class Honours in Mechanical Engineer
+and (a latter) MBA from the National University of Singapore.</p>
 <p>He has served on numerous Technical Boards and Advisory Councils in the
 early days of IT and Technology Strategy.</p>
 <p>He managed technology deployment in both government and private organisations.
