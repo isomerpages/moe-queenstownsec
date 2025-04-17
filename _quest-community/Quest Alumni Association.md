@@ -25,7 +25,7 @@ description: ""
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="756"><p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="font-size:16.0pt;line-height:107%;mso-ansi-language:EN-SG" lang="EN-SG">I strive to be the best that I can be, to serve the Alumni, the School, the Quest Community and our Society.</span></p></td></tr></tbody></table>
 
-<br>
+<br><br> 
 
 <table style="width:680.15pt;border-collapse:collapse;border:none;mso-border-alt:
  solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="907" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:22.7pt"><td style="width:124.7pt;border:solid windowtext 1.0pt;mso-border-alt:
