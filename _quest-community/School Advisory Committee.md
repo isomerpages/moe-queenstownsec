@@ -14,7 +14,7 @@ our students’ learning experiences, guiding students to live out the school’
 motto ‘Berani Berkhidmat – Dare to Serve’.</p>
 <p>Our SAC comprises members from the business, social and community sectors,
 as well as our distinguished alumni.</p>
-<p>The 2023 – 2024 SAC established the SAC scholarship for academically deserving
+<p>The SAC previously established the SAC scholarship for academically deserving
 Secondary 1 students who chose to enroll in Queenstown Secondary School.
 They were instrumental in the reimagining and transforming of the school’s
 learning spaces, including the school’s Learning Commons (previously known
@@ -75,7 +75,7 @@ as the library) and the piloting of the prototype classroom.</p>
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr William Leong</p>
+<p>Mr William Leong Siew Khuen, PBM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Businessman and Grassroot Leader</p>
@@ -181,7 +181,7 @@ Research Fellow at the Asia Research Institute</p>
 <p>Businessman and Grassroot Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Owner of Enjoy Interrnational Pte Ltd&nbsp;</p>
+<p>Owner of Enjoy International Pte Ltd&nbsp;</p>
 </td>
 </tr>
 </tbody>
