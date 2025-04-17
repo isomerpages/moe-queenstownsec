@@ -127,7 +127,6 @@ challenges of tomorrow.</p>
 <p></p>
 <p>As president of the Alumni, he hopes to provide his wealth of experience
 and connections to help all alumni succeed in their endeavours.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -158,7 +157,6 @@ leave a lasting impact.
 <br>
 <br>Despite his successes, he remained low-profile and he steps up to help
 others in a heartbeat.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -185,7 +183,6 @@ of the Singapore real estate landscape.</p>
 the Alumni for more than 25 years. He enjoys giving back to his alma mater
 and will continue to do so. He is a shining example of the School motto
 - Dare to Serve.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -217,7 +214,6 @@ Ubin overnight geography trips, and explorations at St John Island.</p>
 <p></p>
 <p>He hopes to guide and mentor juniors to avoid the pitfalls he experienced
 while he was a youth.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -244,7 +240,6 @@ the nurturing environment QSTS has provided for him to succeed in life.</p>
 countries to provide pro bono dental care.</p>
 <p></p>
 <p>As an Alumni, he hopes to be able to give back and help others succeed.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -275,7 +270,6 @@ own Accountancy Practice in 1970 that’s still in operation today.</p>
 <p>An active alumnus, he has been serving on the School Advisory Board for
 over a decade, donated generously to the school and is a supportive force
 behind the Alumni through its ups and downs.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -301,7 +295,6 @@ for those who have less.</p>
 <p>Mr Tan has actively served in the Alumni since 1995, and he felt the Alumni,
 with its vast connections, will be a great platform for all Queenstownians
 to help one another in career opportunities, mentoring or business collaborations.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -332,7 +325,6 @@ and provide support for corporations.</p>
 <p></p>
 <p>He hopes to contribute to the Alumni to help the school and students become
 meaningful members of the society.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -361,7 +353,6 @@ at Queenstown.</p>
 <p></p>
 <p>He now volunteers actively with HPB, IMDA, Team Nila as a way of contributing
 back to society.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -391,7 +382,6 @@ group. Many are in their final twilight years and the gathering brought
 joy and camaraderie.</p>
 <p></p>
 <p>He brings a kind and caring heart to the Alumni.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -420,7 +410,6 @@ intelligence and IT systems.</p>
 <p>He enjoys meeting people and finds alumni a meaningful avenue to contribute
 back to the school. He enjoys interacting with the younger generation to
 pass on the life experiences he accumulated throughout his career.</p>
-<p></p>
 </td>
 </tr>
 </tbody>
