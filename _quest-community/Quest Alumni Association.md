@@ -75,8 +75,7 @@ the Quest Community and our Society.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>New page: QUEST Alumni</strong>  <strong>– Alumni Committee Members Profile</strong>
-</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
