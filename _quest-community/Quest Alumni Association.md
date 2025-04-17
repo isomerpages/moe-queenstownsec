@@ -83,7 +83,7 @@ of the Singapore real estate landscape.</p>
 the Alumni for more than 25 years. He enjoys giving back to his alma mater
 and will continue to do so. He is a shining example of the School motto
 - Dare to Serve.</p>
-<h4><strong>Mr. LIM Song Joo (Class of 1981) Asst Hon Secretary </strong></h4>
+<h4><strong>Mr. LIM Song Joo (Class of 1981) Asst Hon Secretary</strong></h4>
 <p>Mr Song Joo (SJ Lim) has 30 years of experience in the Technology and
 Financing sector. He held many functional and management roles across NMCs
 like GE Capital, Macquarie Bank, Hitachi, amongst others before running
