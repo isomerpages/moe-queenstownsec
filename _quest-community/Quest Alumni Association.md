@@ -70,9 +70,9 @@ both professionally and personally; his legacy continues to inspire and
 leave a lasting impact.</p>
 <p>Despite his successes, he remained low-profile and he steps up to help
 others in a heartbeat.</p>
-<p>Mr. LEE Wah, Steven (Class of 1971) Hon Secretary Mr Lee is a long serving
-civil employee with the Land Survey Office (currently the Singapore Land
-Authority).</p>
+<h4><strong>Mr. LEE Wah, Steven (Class of 1971)</strong><br><strong>Hon Secretary</strong></h4>
+<p>Mr Lee is a long serving civil employee with the Land Survey Office (currently
+the Singapore Land Authority).</p>
 <p>Throughout his illustrious career at SLA, he was instrumental in bringing
 about real impact in his work as Singapore was modernising the real estate
 environment. As part of the regulatory team, the contribution he made to
@@ -83,7 +83,7 @@ of the Singapore real estate landscape.</p>
 the Alumni for more than 25 years. He enjoys giving back to his alma mater
 and will continue to do so. He is a shining example of the School motto
 - Dare to Serve.</p>
-<p>Mr. LIM Song Joo (SJ)</p>
+<h4><strong>Mr. LIM Song Joo Asst Hon Secretary (Class of 1981)</strong></h4>
 <p>(Class of 1981) Asst Hon Secretary Mr Song Joo (SJ Lim) has 30 years of
 experience in the Technology and Financing sector. He held many functional
 and management roles across NMCs like GE Capital, Macquarie Bank, Hitachi,
