@@ -175,10 +175,10 @@ Combined Schools and National levels.</p>
 group. Many are in their final twilight years and the gathering brought
 joy and camaraderie.</p>
 <p>He brings a kind and caring heart to the Alumni.</p>
-<p>Mr. LEE, Aloysius</p>
-<p>(Class of 1978) Committee Member Mr Lee went to SAJC, did his BEng at
-NUS and MSc at NTU. Queenstown scouting, his CCA, guides his journey in
-life to always be prepared, persevere, and take pride in all endeavours.</p>
+<h4><strong>Mr. LEE, Aloysius (Class of 1978)</strong><br><strong>Committee Member</strong></h4>
+<p>Mr Lee went to SAJC, did his BEng at NUS and MSc at NTU. Queenstown scouting,
+his CCA, guides his journey in life to always be prepared, persevere, and
+take pride in all endeavours.</p>
 <p>Throughout his 35-year career, including 16 years tenure in China, Aloysius
 has led and helped transformed many multi-national companies in the electronics
 and high-tech precision manufacturing sector, such as semiconductors, precision
