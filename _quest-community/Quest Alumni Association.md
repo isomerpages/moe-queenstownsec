@@ -84,10 +84,10 @@ the Alumni for more than 25 years. He enjoys giving back to his alma mater
 and will continue to do so. He is a shining example of the School motto
 - Dare to Serve.</p>
 <h4><strong>Mr. LIM Song Joo Asst Hon Secretary (Class of 1981)</strong></h4>
-<p>(Class of 1981) Asst Hon Secretary Mr Song Joo (SJ Lim) has 30 years of
-experience in the Technology and Financing sector. He held many functional
-and management roles across NMCs like GE Capital, Macquarie Bank, Hitachi,
-amongst others before running his own group of companies from 2012.</p>
+<p>Mr Song Joo (SJ Lim) has 30 years of experience in the Technology and
+Financing sector. He held many functional and management roles across NMCs
+like GE Capital, Macquarie Bank, Hitachi, amongst others before running
+his own group of companies from 2012.</p>
 <p>As a serial entrepreneur, he led 3 investments to successful exits, and
 is currently invested in AI, Medtech, IT Services and Edutech start-ups.</p>
 <p>Since 2016, he has designed and run Entrepreneurship programs and collaboratively
