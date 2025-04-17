@@ -11,11 +11,11 @@ strong till this present day.</p>
 Alumni of any local secondary school, apart from the colonial era schools.
 Our pioneering Alumni are the pillars of the nation building days, helping
 to shape the nation’s success that we know today.</p>
-<h4>Our Goals</h4>
+<h4><strong>Our Goals</strong></h4>
 <p>To build an inclusive network of Alumni based on the spirit of Dare to
 Serve to support the students, co-create opportunities for our members
 and to improve lives in the community.</p>
-<h4>Our Alumni </h4>
+<h4><strong>Our Alumni</strong></h4>
 <p>The Alumni offers a broad network and global reach for career, social
 or advisory to peers and students. Many of our Alumni are shining luminaries
 in our society. They hold leadership positions in the corporate, government,
@@ -35,7 +35,7 @@ future.</p>
 <p>Last but not least, a Queenstown Alumni never refuses the opportunity
 to come back and support our Alma Mater School, continuing the legacy left
 by our pioneers - Dare to Serve - for School, for Members, for Community.</p>
-<h4>DARE TO SERVE</h4>
+<h4><strong>DARE TO SERVE</strong></h4>
 <p>The Alumnus Pledge I strive to be the best that I can be, to serve the
 Alumni, the School, the Quest Community and our Society.</p>
 <h3><strong>QUEST Alumni – Alumni Committee Members Profile</strong></h3>
@@ -55,8 +55,7 @@ to help Queenstownians (today’s students) be better equipped to face the
 challenges of tomorrow.</p>
 <p>As president of the Alumni, he hopes to provide his wealth of experience
 and connections to help all alumni succeed in their endeavours.</p>
-<p>Mr. GOH, Ronald (Class of 1962)</p>
-<p>Vice President</p>
+<h4><strong>Mr. GOH, Ronald (Class of 1961) </strong><br><strong>Vice</strong> <strong>President</strong></h4>
 <p>Mr. Goh’s secondary educational path began at QSTS, where he laid the
 foundation for a technical journey that would eventually take him to great
 heights.</p>
@@ -196,4 +195,5 @@ pass on the life experiences he accumulated throughout his career.</p>
 <br>
 <br>
 </p>
+<h4></h4>
 <p></p>
