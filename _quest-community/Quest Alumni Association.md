@@ -161,13 +161,13 @@ drowning if not for his bestie saving him) as the highlight of his time
 at Queenstown.</p>
 <p>He now volunteers actively with HPB, IMDA, Team Nila as a way of contributing
 back to society.</p>
-<p>Mr. WOO Kam Mun</p>
-<p>(Class of 1975) Committee Member Mr Woo is a career officer with MINDEF
-until he left the service in 2005. As an outstanding Military Officer,
-he was selected to attend a prestigious Overseas Graduate Scholarship and
-was interviewed by the legendary LG Winston Choo. He had to decline the
-offer as he prioritises his family duties. He’s a filial son who wished
-to be with his ailing dad rather than pursue his career advancement.</p>
+<h4><strong>Mr. WOO Kam Mun (Class of 1975)</strong><br><strong>Committee Member</strong></h4>
+<p>Mr Woo is a career officer with MINDEF until he left the service in 2005.
+As an outstanding Military Officer, he was selected to attend a prestigious
+Overseas Graduate Scholarship and was interviewed by the legendary LG Winston
+Choo. He had to decline the offer as he prioritises his family duties.
+He’s a filial son who wished to be with his ailing dad rather than pursue
+his career advancement.</p>
 <p>He remembers his time at Queenstown Secondary where he excelled at representing
 the school in various sports like badminton and won various awards at the
 Combined Schools and National levels.</p>
