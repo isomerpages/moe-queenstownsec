@@ -2,6 +2,7 @@
 title: Full Subject Based Banding (Full SBB)
 permalink: /full-subject-based-banding-full-sbb/
 description: ""
+variant: markdown
 ---
 Full Subject-Based Banding (Full SBB)
 =====================================
@@ -25,39 +26,12 @@ Queenstown Secondary School is one of the 28 secondary schools selected by the M
 
 ![](/images/Programmes/full%20sbb%202.png)
 
+Since 2020, our students have been enrolled in mixed-form classes, where individuals from diverse backgrounds come together to learn from and with one another. This approach fosters strong and positive relationships with class mentors and classmates over their schooling years.
 
-**Full SBB Pilot in Queenstown Secondary School in 2020**
+For academic subjects, students attend lessons in subject-specific groups based on their academic readiness (G1, G2 and G3) and attend lessons for common curriculum subjects with classmates in their mixed form class. 
 
-As part of the pilot, our school will implement reorganised form classes at Secondary 1.
+For lower secondary levels, the common curriculum consists of Character and Citzenship Education, Design and Technology, Nutrition and Food Science, Art, Music, Applied Learning Programme, Learning for Life and Physical Education. 
 
-**This is applicable to Secondary 1 students entering our school in 2020.**
+For upper secondary levels, the common curriculum consists of Character and Citizenship Education, Physical Education and FutureLearn Curriculum. 
 
-Our reorganised form classes will enable students of varying academic abilities and backgrounds to come together to contribute valuable differences in perspective and create broader opportunities for learning amongst peers.
-
-Students will attend lessons for academic subjects in subject classes groups according to their academic abilities (Express/Normal Academic/Normal Technical Level)
-
-<center> 
-English  <br>
-Mathematics <br> 
-Science  <br>
-Mother Tongue Language
-</center>
-	
-and attend lessons for common curriculum subjects with classmates in their mixed form class.
-
-<center>
-Character and Citizenship Education  <br>
-Design and Technology  <br>
-Food and Consumer Education  <br>
-Art  <br>
-Music  <br>
-Physical Education
-</center>
-
-Our school’s participation as a Full SBB pilot school will leverage existing strengths. Queenstown has been a SBB prototype school&nbsp;since 2014, and we have put in place sound and effective processes to help us cater to different learner needs in the classroom. As part of our total curriculum framework, we also offer strong socio-emotional support structures as well as service and leadership programmes to ensure the holistic development and well-being of each student.
-
-Currently, many of our SBB students continue on to take out-of-stream subjects at the upper secondary level. With the strong foundation established by taking SBB subjects, many do well in their national examinations and progress to the post-secondary education pathway of their choice. They even go on to win awards such as the Lee Kuan Yew Award for Outstanding Normal Course students.
-
-At Queenstown, we remain committed to providing a conducive environment for all students to thrive. We are confident that the Full SBB Pilot will build on our existing strengths and will enable us to develop Queenstownians who embody our school’s vision of ‘Leaders for Tomorrow, Anchored in Values, Committed to Serve.’
-
-For more information on how our school would implement Full SBB, you can contact us at&nbsp;[qtss@moe.edu.sg](mailto:qtss@moe.edu.sg). The school will also be engaging parents of cohorts of students who are involved in the pilot in 2019/2020.
+Due to our school’s experience as a Full pilot SBB pilot school since 2020, the school has established sound and effective processes to cater to different learner readiness and needs. As part of our total curriculum framework, the school offers strong socio-emotional support structures as well as programmes to ensure our students flourish and are oriented towards the future. 
