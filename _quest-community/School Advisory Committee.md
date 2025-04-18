@@ -149,7 +149,7 @@ Office</p>
 <p>Mrs Lim Sen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Businessman</p>
+<p>Businesswoman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Owner of Chin Yuan Metal Ptd Ltd</p>
@@ -178,7 +178,7 @@ Research Fellow at the Asia Research Institute</p>
 <p>Ms Evelyn Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Businessman and Grassroot Leader</p>
+<p>Businesswoman and Grassroot Leader</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Owner of Enjoy International Pte Ltd&nbsp;</p>
