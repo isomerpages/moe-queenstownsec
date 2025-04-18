@@ -1,8 +1,9 @@
 ---
-title: Social Emotional Development
+title: Social Emotional Learning
 permalink: /student-development/social-emotional-development/
 description: ""
 third_nav_title: Social Emotional Development
+variant: tiptap
 ---
 ![](/images/Departments/pagebanner1%20(1).jpg)
 
@@ -53,12 +54,11 @@ Children equipped with social and emotional skills, anchored on sound values, wi
 
 Through SEL, our students acquire skills, knowledge and dispositions to manage self and relationships effectively and make responsible decisions essential for personal and social well-being. Research shows a strong link between SEL and student outcomes in the areas of mental well-being, character development, school success, career success and responsible citizenship.
 
-SEL is a critical part of our students’ learning to prepare them to live and work as adults in the 21st Century. SEL is taught within the Character and Citizenship Education (CCE) curriculum in school.
+SEL is a critical part of our students’ learning to prepare them to live and work as adults in the 21st Century.&nbsp;SEL is taught within the Character and Citizenship Education (CCE) curriculum in school.
 
 
 
-<img src="/images/Departments/CCE.png"  
-     style="width:65%">
+<img src="/images/Departments/CCE.png" style="width:65%">
 
 
 
