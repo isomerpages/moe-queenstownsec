@@ -92,7 +92,7 @@ known as the library) and the piloting of the prototype classroom.</p>
 <p>Mr Mak Sin Cherng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alumni</p>
+<p>Professional and Alumni</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Global Sales Manager, S5 Agency World&nbsp;</p>
