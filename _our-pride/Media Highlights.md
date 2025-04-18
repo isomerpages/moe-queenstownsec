@@ -12,6 +12,9 @@ variant: tiptap
 </p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sustainability Projects:
 <br><a href="https://www.straitstimes.com/singapore/education/students-work-in-teams-to-solve-problems-in-water-energy-and-food-sustainability" rel="noopener nofollow" target="_blank">https://www.straitstimes.com/singapore/education/students-work-in-teams-to-solve-problems-in-water-energy-and-food-sustainability</a>
+</p>
+<p></p>
+<p><a href="https://www.swedcham.sg/initiatives/green-innovation-centre" rel="noopener noreferrer nofollow" target="_blank">The Green Innovation Centre | Swedish Chamber of Commerce Singapore</a>
 <br>
 </p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A Caring and Nurturing School Culture:
@@ -23,8 +26,13 @@ with NUS:
 <br><a href="https://www.straitstimes.com/singapore/playing-mahjong-and-kahoot-nus-students-tackle-ageism-creatively-to-promote-bonding-with-seniors" rel="noopener nofollow" target="_blank">https://www.straitstimes.com/singapore/playing-mahjong-and-kahoot-nus-students-tackle-ageism-creatively-to-promote-bonding-with-seniors</a>
 </p>
 <p></p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Emdhyas article - Published by Tamil
-Murasu: Article translated by Mdm Kousalya. <a href="https://www.tamilmurasu.com.sg/singapore/story20221220-120996" rel="noopener nofollow" target="_blank">https://www.tamilmurasu.com.sg/singapore/story20221220-120996</a>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Community Youth Leadership Project:</p>
+<p><a href="https://www.straitstimes.com/singapore/scrunchies-pouches-keychains-students-make-items-to-raise-funds-for-st-school-pocket-money-fund" rel="noopener noreferrer nofollow" target="_blank">Students make scrunchies, keychains to raise funds for ST School Pocket Money Fund | The Straits Times</a>
+</p>
+<p></p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Article featuring Emdhyas - published
+by Tamil Murasu: translated by Mdm Kousalya.</p>
+<p><a href="https://www.tamilmurasu.com.sg/singapore/story20221220-120996" rel="noopener nofollow" target="_blank">https://www.tamilmurasu.com.sg/singapore/story20221220-120996</a>
 <br>
 </p>
 <hr>
