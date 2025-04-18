@@ -24,8 +24,6 @@ Queenstown Secondary School is one of the 28 secondary schools selected by the M
 
 [28所中学 明年起试行全面科目编班制](https://www.youtube.com/watch?v=7HKKhUOitc0&amp;feature=youtu.be)
 
-![](/images/Programmes/full%20sbb%202.png)
-
 Since 2020, our students have been enrolled in mixed-form classes, where individuals from diverse backgrounds come together to learn from and with one another. This approach fosters strong and positive relationships with class mentors and classmates over their schooling years.
 
 For academic subjects, students attend lessons in subject-specific groups based on their academic readiness (G1, G2 and G3) and attend lessons for common curriculum subjects with classmates in their mixed form class. 
@@ -34,4 +32,6 @@ For lower secondary levels, the common curriculum consists of Character and Citz
 
 For upper secondary levels, the common curriculum consists of Character and Citizenship Education, Physical Education and FutureLearn Curriculum. 
 
-Due to our school’s experience as a Full pilot SBB pilot school since 2020, the school has established sound and effective processes to cater to different learner readiness and needs. As part of our total curriculum framework, the school offers strong socio-emotional support structures as well as programmes to ensure our students flourish and are oriented towards the future. 
+Due to our school’s experience as a Full pilot SBB pilot school since 2020, the school has established sound and effective processes to cater to different learner readiness and needs. As part of our total curriculum framework, the school offers strong socio-emotional support structures as well as programmes to ensure our students flourish and are oriented towards the future.
+
+For more information regarding FSBB, please refer to the microsite from [MOE](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html). 
