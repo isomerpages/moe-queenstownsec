@@ -6,17 +6,7 @@ variant: markdown
 ---
 Full Subject-Based Banding (Full SBB)
 =====================================
-<center>
-Remaking Secondary School Pathways
-</center>
 
-<img src="/images/Programmes/full%20sbb.png" style="width:75%">
-
-
-Source:&nbsp;https://www.schoolbag.sg/story/what-was-our-experience-in-taking-up-subject-based-banding
-
-
-Source:&nbsp;https://www.schoolbag.sg/story/fireside-chat-with-minister-ong-on-remaking-secondary-school-pathways
 
 Queenstown Secondary School is one of the 28 secondary schools selected by the Ministry of Education to start piloting aspects of Full Subject-Based Banding (Full SBB) from 2020 onwards.&nbsp; Here are some of the media articles featuring Queenstown Secondary School.
 
@@ -34,4 +24,4 @@ For upper secondary levels, the common curriculum consists of Character and Citi
 
 Due to our school’s experience as a Full pilot SBB pilot school since 2020, the school has established sound and effective processes to cater to different learner readiness and needs. As part of our total curriculum framework, the school offers strong socio-emotional support structures as well as programmes to ensure our students flourish and are oriented towards the future.
 
-For more information regarding FSBB, please refer to the microsite from [MOE](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html). 
+For more information regarding FSBB, please refer to the microsite from [MOE](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html).
