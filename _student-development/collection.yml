@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - About.md
-      - Basic Needs/.keep
-      - Basic Needs/FAS.md
+      - Financial Support/.keep
+      - Financial Support/FAS.md
       - Academic Support/.keep
       - Academic Support/Education & Career Guidance.md
       - Academic Support/Foreign Students Support.md
