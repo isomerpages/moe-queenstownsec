@@ -4,7 +4,6 @@ collections:
     order:
       - About.md
       - Basic Needs/.keep
-      - Basic Needs/Basic Needs.md
       - Basic Needs/FAS.md
       - Academic Support/.keep
       - Academic Support/Education & Career Guidance.md
