@@ -17,8 +17,8 @@ as well as our distinguished alumni.</p>
 <p>The SAC previously established the SAC scholarship for academically deserving
 Secondary 1 students who chose to enroll in Queenstown Secondary School.
 They were instrumental in the reimagining and transforming of the school’s
-learning spaces, including the school’s Learning Commons (previously known
-as the library) and the piloting of the prototype classroom.</p>
+<a href="https://www.queenstownsec.moe.edu.sg/learning-spaces-qtss/" rel="noopener nofollow" target="_blank">learning spaces</a>, including the school’s Learning Commons (previously
+known as the library) and the piloting of the prototype classroom.</p>
 <p>The 2025 – 2026 SAC members are:</p>
 <table style="minWidth: 100px">
 <colgroup>
