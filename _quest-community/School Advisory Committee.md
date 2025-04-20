@@ -14,11 +14,11 @@ our students’ learning experiences, guiding students to live out the school’
 motto ‘Berani Berkhidmat – Dare to Serve’.</p>
 <p>Our SAC comprises members from the business, social and community sectors,
 as well as our distinguished alumni.</p>
-<p>The 2023 – 2024 SAC established the SAC scholarship for academically deserving
+<p>The SAC previously established the SAC scholarship for academically deserving
 Secondary 1 students who chose to enroll in Queenstown Secondary School.
 They were instrumental in the reimagining and transforming of the school’s
-learning spaces, including the school’s Learning Commons (previously known
-as the library) and the piloting of the prototype classroom.</p>
+<a href="https://www.queenstownsec.moe.edu.sg/learning-spaces-qtss/" rel="noopener nofollow" target="_blank">learning spaces</a>, including the school’s Learning Commons (previously
+known as the library) and the piloting of the prototype classroom.</p>
 <p>The 2025 – 2026 SAC members are:</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -75,7 +75,7 @@ as the library) and the piloting of the prototype classroom.</p>
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr William Leong</p>
+<p>Mr William Leong Siew Khuen, PBM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Businessman and Grassroot Leader</p>
@@ -92,7 +92,7 @@ as the library) and the piloting of the prototype classroom.</p>
 <p>Mr Mak Sin Cherng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alumni</p>
+<p>Professional and Alumni</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Global Sales Manager, S5 Agency World&nbsp;</p>
@@ -149,7 +149,7 @@ Office</p>
 <p>Mrs Lim Sen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Businessman</p>
+<p>Businesswoman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Owner of Chin Yuan Metal Ptd Ltd</p>
@@ -178,10 +178,10 @@ Research Fellow at the Asia Research Institute</p>
 <p>Ms Evelyn Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Businessman and Grassroot Leader</p>
+<p>Businesswoman and Grassroot Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Owner of Enjoy Interrnational Pte Ltd&nbsp;</p>
+<p>Owner of Enjoy International Pte Ltd&nbsp;</p>
 </td>
 </tr>
 </tbody>

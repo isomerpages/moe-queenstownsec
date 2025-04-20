@@ -2,7 +2,7 @@
 title: FAS
 permalink: /student-development/basic-needs/fas/
 description: ""
-third_nav_title: Basic Needs
+third_nav_title: Financial Support
 ---
 ![](/images/Departments/pagebanner1%20(1).jpg)
 

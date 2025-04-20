@@ -97,7 +97,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CSO</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Fauziah Bte Hamid</p>
@@ -109,7 +109,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CSO</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Boo Kim Mong</p>
@@ -140,6 +140,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: mohamed_rasid_asbu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_rasid_asbu@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Rashid Bin Ismail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Rashid_Ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rashid_Ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -205,7 +217,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Catherine d/o Anthony Samy</p>
@@ -217,7 +229,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Bee Hiang</p>
@@ -228,7 +240,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kamcinah Bte Sufaat</p>
@@ -239,10 +251,43 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tamilmohan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Noormah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Receptionist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ramliza Bte Othman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Librarian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Haryante Bte Othman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

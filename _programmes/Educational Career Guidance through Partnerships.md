@@ -1,10 +1,10 @@
 ---
-title: Partnerships
+title: Educational Career Guidance through Partnerships
 permalink: /partnerships/
 variant: tiptap
 description: ""
 ---
-<p><strong>Introduction of Partnership Programmes</strong>
+<p><strong>Introduction of Partnership Programmes to support Education Career Guidance (ECG)</strong>
 </p>
 <p>Educational career guidance through partnerships is a core experience
 that students go through, aimed at providing our students with exposure
