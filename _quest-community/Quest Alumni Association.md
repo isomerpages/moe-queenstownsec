@@ -35,11 +35,11 @@ future.</p>
 <p>Last but not least, a Queenstown Alumni never refuses the opportunity
 to come back and support our Alma Mater School, continuing the legacy left
 by our pioneers - Dare to Serve - for School, for Members, for Community.</p>
-<h4><strong>DARE TO SERVE</strong></h4>
-<p>The Alumnus Pledge I strive to be the best that I can be, to serve the
-Alumni, the School, the Quest Community and our Society.</p>
+<h4><strong>The Alumnus Pledge</strong><br><strong>DARE TO SERVE</strong></h4>
+<p>I strive to be the best that I can be, to serve the Alumni, the School,
+the Quest Community and our Society.</p>
 <h3><strong>QUEST Alumni – Alumni Committee Members Profile</strong></h3>
-<h4><strong>Mr. WEE Beng Sing, Roland (Class of 1961) President</strong></h4>
+<h4><strong>Mr. WEE Beng Sing, Roland (Class of 1961) </strong><br><strong>President</strong></h4>
 <p>Mr Wee is the Chairman of MEI Engineering Group, serving multi-national
 clients across Asia Pacific.</p>
 <p>He is sought after for his expertise in engineering and facilities constructions,
@@ -83,7 +83,7 @@ of the Singapore real estate landscape.</p>
 the Alumni for more than 25 years. He enjoys giving back to his alma mater
 and will continue to do so. He is a shining example of the School motto
 - Dare to Serve.</p>
-<h4><strong>Mr. LIM Song Joo (Class of 1981) Asst Hon Secretary</strong></h4>
+<h4><strong>Mr. LIM Song Joo (Class of 1981)</strong><br><strong>Asst Hon Secretary</strong></h4>
 <p>Mr Song Joo (SJ Lim) has 30 years of experience in the Technology and
 Financing sector. He held many functional and management roles across NMCs
 like GE Capital, Macquarie Bank, Hitachi, amongst others before running
