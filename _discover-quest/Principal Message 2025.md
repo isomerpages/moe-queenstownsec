@@ -85,8 +85,8 @@ Elsie’s Kitchen, The Polyolefin Company, ASTAR Singapore, Elmich Ptd Ltd,
 as well as Educational Partners such as NUS, NP and the wider community.
 Our Alumni Association<strong> </strong>has also stepped forward to provide <strong>Career Mentoring</strong> for
 Queenstownians, offering timeless and timely advice on career guidance.</p>
-<p>Many of these partnerships have been fostered through our <strong><a href="https://www.queenstownsec.moe.edu.sg/student-development/school-home-collaboration/parent-support-group/" rel="noopener nofollow" target="_blank">Parent Support Group</a></strong>, <strong><a href="https://www.queenstownsec.moe.edu.sg/quest-alumni/" rel="noopener nofollow" target="_blank">Alumni Association</a></strong>,
-and <strong><a href="https://www.queenstownsec.moe.edu.sg/school-advisory-committee/" rel="noopener nofollow" target="_blank">School Advisory Committee</a></strong>,
+<p>Many of these partnerships have been fostered through our <strong><a href="https://www.queenstownsec.moe.edu.sg/about-us/quest-community/parent-support-group/" rel="noopener nofollow" target="_blank">Parent Support Group</a></strong>, <strong><a href="https://www.queenstownsec.moe.edu.sg/about-us/quest-community/quest-alumni-association/" rel="noopener nofollow" target="_blank">Alumni Association</a></strong>,
+and <strong><a href="https://www.queenstownsec.moe.edu.sg/about-us/quest-community/school-advisory-committee/" rel="noopener nofollow" target="_blank">School Advisory Committee</a></strong>,
 enabling the school to offer a meaningful and impactful <strong><a href="https://www.queenstownsec.moe.edu.sg/student-development/ecg/" rel="noopener nofollow" target="_blank">Educational Career Guidance Programme</a></strong> for
 our Queenstownians. Your unwavering support has been instrumental in creating
 an ecosystem where every Queenstownian can thrive, realise their fullest
