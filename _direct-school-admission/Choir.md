@@ -12,9 +12,8 @@ as a united community of expressive and passionate musicians.</p>
 <p>&nbsp;</p>
 <p><strong>Our Framework: Express, Explore, Excel</strong>
 </p>
-<p><strong>1.&nbsp;&nbsp; Express - </strong>communicate musical meaning
-confidently and emotionally, developing performance presence and vocal
-technique.</p>
+<p><strong>1.&nbsp;&nbsp;Express - </strong>communicate musical meaning confidently
+and emotionally, developing performance presence and vocal technique.</p>
 <p><strong>2. Explore - </strong>experimentation with vocal music, students
 discover creative ways of making music and broaden their appreciation of
 diverse styles and cultures.</p>
@@ -137,8 +136,11 @@ diverse styles and cultures.</p>
 <br>- National platforms such as Singapore Youth Festivals and Singapore International
 Choral Festival (SICF)
 <br>- Public showcases such as The Esplanade</p>
-<p>There may be upcoming activities like overseas learning trips or cultural
-exchange.</p>
+<p>Quest Choir has grown tremendously over the years and we are proud to
+be invited by MOE to perform for SYF 2025 Celebrations Festival Concert
+at various venues this year. There may be upcoming activities like overseas
+learning trips or cultural exchange. This year, Quest Choir will be embarking
+on a Quest Global</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture609.png">
