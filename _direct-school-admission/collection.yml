@@ -2,6 +2,7 @@ collections:
   direct-school-admission:
     output: true
     order:
+      - Chinese Dance.md
       - DSA.md
       - Community Youth Leadership Programme.md
       - Applied Learning Programme.md
