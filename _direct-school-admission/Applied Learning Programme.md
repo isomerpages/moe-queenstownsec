@@ -21,9 +21,27 @@ stewards of a more sustainable future.</p>
 explore global geographical issues related to sustainability, namely:</p>
 <p>Sec 1: Water Sustainability</p>
 <p>Sec 2: Urban and Energy Sustainability</p>
-<p></p>
 <p>These three themes, which are aligned with the Singapore Green Plan 2030,
 are critical for Singapore’s continued development. We leverage current
 and relevant learning content to design engaging packages that help our
 students apply their knowledge of Geography and Science to solve a real-world
 issue.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/merge_111.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hj.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chas.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ok.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
