@@ -52,13 +52,13 @@ issue.</p>
 </p>
 <p><u>QUEST Global @ Japan</u>
 </p>
-<p>In collaboration with our school’s Learning for Life Programme (LLP),
-this programme involves the Sustainability Champions and Student Leaders,
-with the objectives of deepening their understanding of environmental and
-social sustainability and learning how they are put into practice in another
-country through immersing in, engaging with, and observing the locals.
-In addition, we aim to strengthen the E21CC and Leadership Practices of
-our young ambassadors.</p>
+<p>In collaboration with our school’s Learning for Life Programme - Community
+Youth Leadership (CYL), this programme involves the Sustainability Champions
+and Student Leaders, with the objectives of deepening their understanding
+of environmental and social sustainability and learning how they are put
+into practice in another country through immersing in, engaging with, and
+observing the locals. In addition, we aim to strengthen the development
+of 21st Century Competencies and Leadership Practices of our young ambassadors.</p>
 <p>Programme Outline:</p>
 <p>(a)&nbsp; Learning about Japan’s sustainability efforts</p>
 <p></p>
@@ -72,7 +72,7 @@ our young ambassadors.</p>
 <p>(b)&nbsp; School Immersion Programme</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Kyoto Prefectural Sonobe Senior High School Attched Junior High School</p>
+<p>Kyoto Prefectural Sonobe Senior High School and Junior High School</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -105,9 +105,12 @@ school’s DSA Talent Development Programme which will include progressive
 exposure to issues related to the environment and sustainability. They
 will take on the role of <strong>Sustainability Champions</strong>, undertaking
 projects that advocate for environmental sustainability at the Upper Secondary
-level. In the process, students will also acquire effective communication
-and presentation skills as they build their confidence to advocate for
-a good cause in their area of passion.</p>
+level. In 2024 and 2025, the Sustainability Champions also had the opportunity
+to learn from <a href="https://cde.nus.edu.sg/arch/staffs/terrence-tan-chun-liang-dr/" rel="noopener nofollow" target="_blank">Dr Terence Tan</a> and
+his NUS students on the positive impact of greenery before they, in turn,
+teach their school mates. In the process, students will also acquire effective
+communication and presentation skills as they build their confidence to
+advocate for a good cause in their area of passion.</p>
 <p>Click <a href="https://www.queenstownsec.moe.edu.sg/futurelearn-curriculum/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 information on how our Applied Learning Programmes and Learning for Life
 Programmes (ALP &amp; LLP) are integrated into FutureLearn Curriculum.</p>

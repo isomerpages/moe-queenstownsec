@@ -120,7 +120,8 @@ confident that in the coming years, their hard work will bear fruit.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2434.jpg">
 </div>
-<p></p>
+<p>In 2026, the Quest Basketball CCA is slated to participate in Quest Global
+@ China Cultural Immersion Trip.</p>
 <p><strong><u>Join Us</u></strong>
 </p>
 <p>Whether you're a confident player or just starting out, <em>there’s a place for you in the QUEST Basketball family</em>.

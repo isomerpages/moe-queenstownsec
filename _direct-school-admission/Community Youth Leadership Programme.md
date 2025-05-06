@@ -27,19 +27,19 @@ and community.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; Potential participation in CYL overseas trips
-to Japan or Vietnam to study Social Sustainability</p>
+<p>Potential participation in CYL Quest Global trips to Japan or Vietnam
+to study Social Sustainability</p>
 </li>
 <li>
 <p>1-1 mentorship by teachers for customised growth</p>
 </li>
 <li>
 <p>Opportunities for formal student leadership appointment (e.g. Student
-Councillor EXCO)</p>
+Council)</p>
 </li>
 <li>
-<p>Access to leadership development tools e.g. Student Leadership Practices
-Inventory</p>
+<p>Access to leadership development programme and tools e.g. Student Leadership
+Practices Inventory</p>
 </li>
 </ul>
 <p></p>

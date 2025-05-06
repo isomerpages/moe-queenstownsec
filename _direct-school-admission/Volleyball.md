@@ -188,7 +188,7 @@ programme that focuses on imparting values and skills.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/merge33.jpg">
 </div>
 <p></p>
-<p><strong>QUEST@Thailand 2024 – Volleyball Educational &amp; Cultural Immersion Trip</strong>
+<p><strong>QUEST Global@Thailand 2024 – Volleyball Educational &amp; Cultural Immersion Trip</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
