@@ -2,6 +2,7 @@ collections:
   direct-school-admission:
     output: true
     order:
+      - Choir.md
       - Chinese Dance.md
       - DSA.md
       - Community Youth Leadership Programme.md
