@@ -27,8 +27,8 @@ and community.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Potential participation in CYL overseas trips to Japan or Vietnam to study
-Social Sustainability</p>
+<p>Potential participation in CYL Quest Global trips to Japan or Vietnam
+to study Social Sustainability</p>
 </li>
 <li>
 <p>1-1 mentorship by teachers for customised growth</p>
