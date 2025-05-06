@@ -128,8 +128,8 @@ Quest Band)</p>
 </tr>
 </tbody>
 </table>
-<p>This year, Questari will be embarking on a Quest Global @ Indonesia cultural
-immersion trip.</p>
+<p>This year, Questari will be embarking on a Quest Global @ Indonesia Cultural
+Immersion Trip.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1178.jpg">
 </div>
