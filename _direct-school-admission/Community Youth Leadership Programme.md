@@ -43,6 +43,32 @@ Inventory</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/345.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/346.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/merge7.png">
+</div>
+<p><strong><u>Join Us</u></strong>
+<br>We welcome students who are passionate about making a positive impact
+in their communities and among their peers. The CYL DSA programme is ideal
+for students who demonstrate empathy, initiative, and a desire to serve
+others. Whether you’ve led projects, contributed meaningfully to community
+service, or supported your classmates, we seek students who are ready to
+dare to serve through leadership. With opportunities for overseas learning,
+mentorship, and leadership development, our CYL programme nurtures reflective,
+socially conscious learners who aspire to be a force for good.
+<br>
+</p>
+<p>Click <a href="https://www.queenstownsec.moe.edu.sg/futurelearn-curriculum/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+information on how our Applied Learning Programmes and Learning for Life
+Programmes (ALP &amp; LLP) are integrated into FutureLearn Curriculum.</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
