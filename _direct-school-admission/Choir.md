@@ -140,7 +140,7 @@ Choral Festival (SICF)
 be invited by MOE to perform for SYF 2025 Celebrations Festival Concert
 at various venues this year. There may be upcoming activities like overseas
 learning trips or cultural exchange. This year, Quest Choir will be embarking
-on a Quest Global @ Indonesia cultural immersion trip.</p>
+on a Quest Global @ Indonesia Cultural Immersion Trip.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture609.png">
