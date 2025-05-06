@@ -133,10 +133,11 @@ Theatre</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Singapore Youth Festival Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Distinction</p>
+<p><strong>Distinction</strong>
+</p>
 </td>
 </tr>
 </tbody>
