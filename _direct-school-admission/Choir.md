@@ -136,11 +136,11 @@ diverse styles and cultures.</p>
 <br>- National platforms such as Singapore Youth Festivals and Singapore International
 Choral Festival (SICF)
 <br>- Public showcases such as The Esplanade</p>
-<p>Quest Choir has grown tremendously over the years and we are proud to
+<p>Quest Choir has grown tremendously over the years, and we are proud to
 be invited by MOE to perform for SYF 2025 Celebrations Festival Concert
 at various venues this year. There may be upcoming activities like overseas
 learning trips or cultural exchange. This year, Quest Choir will be embarking
-on a Quest Global</p>
+on a Quest Global @ Indonesia cultural immersion trip.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture609.png">
