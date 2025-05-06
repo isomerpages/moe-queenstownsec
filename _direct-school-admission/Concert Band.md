@@ -173,7 +173,6 @@ Theatre</p>
 <p></p>
 <p><strong>SYF 2025 - Distinction</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1181e.jpg">
 </div>
