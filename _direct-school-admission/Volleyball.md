@@ -180,96 +180,27 @@ programme that focuses on imparting values and skills.</p>
 </li>
 </ol>
 <p></p>
-<p></p>
-<p><strong>Photos</strong>
+<p><strong>'B' Div Girls 2023</strong>
 </p>
-<p><strong>B-Div Boys 2023</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/merge1.png">
+</div>
+<p></p>
+<p><strong>'B' Div Boys 2023</strong>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/merge2.png">
 </div>
-<p>
-<br>
+<p></p>
+<p><strong>‘B’ Div Boys and Girls 2024</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/merge3.png">
 </div>
-<p><strong>B-Div Girls 2023: 2nd Runner- Up</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.jpg">
-</div>
-<p><strong>‘C’ Girls 2023, Champions</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>‘C’ Division Boys 2023: 2nd Runner Up</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>2024 Photos: National School games: ‘B’ Girls 2024, 3rd Runner up</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/11.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>‘B’ Boys 2024, 2nd Runner up</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/12.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/13.jpg">
-</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
