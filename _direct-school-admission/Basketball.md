@@ -80,38 +80,46 @@ confident that in the coming years, their hard work will bear fruit.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h3><strong><u>CCA Highlights</u></strong></h3>
 <p><strong>National School Games</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb2.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb3.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb5.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb55.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B4.jpg">
-</div>
-<p></p>
 <p><strong>Basketball Bonding Camp</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb33.jpg">
 </div>
+<p><strong><u>Join Us</u></strong>
+</p>
+<p>Whether you're a confident player or just starting out, <em>there’s a place for you in the QUEST Basketball family</em>.
+We are committed to helping every student find their passion, grow in confidence,
+and rise through challenges — as athletes and as people.</p>
+<p>If you're passionate about basketball and keen to grow through sport,
+we welcome you to consider joining us through the Direct School Admission
+(DSA) Exercise. Students and parents are encouraged to choose a school
+that values holistic development and provides the right support to develop
+talent meaningfully.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B6.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B7.jpg">
-</div>
+<p></p>
 <p></p>
 <p></p>
