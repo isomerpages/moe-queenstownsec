@@ -197,7 +197,7 @@ programme that focuses on imparting values and skills.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/merge3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/merge33.jpg">
 </div>
 <p></p>
 <p><strong>QUEST@Thailand 2024 – Volleyball Educational &amp; Cultural Immersion Trip</strong>
