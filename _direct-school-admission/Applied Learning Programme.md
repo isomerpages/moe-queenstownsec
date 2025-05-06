@@ -75,5 +75,13 @@ our young ambassadors.</p>
 <p>Kyoto Prefectural Sonobe Senior High School Attched Junior High School</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ja.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
