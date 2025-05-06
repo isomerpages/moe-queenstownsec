@@ -8,9 +8,9 @@ description: ""
 </p>
 <p><strong>Our Story</strong>
 </p>
-<p>For our Chinese dancers, dance has always been their passion, and this
-co-curricular activity offers our dancers the opportunity to embark on
-an enriching and fantastic journey, exploring the wide array of different
+<p>For our Quest Chinese dancers, dance has always been their passion, and
+this co-curricular activity offers our dancers the opportunity to embark
+on an enriching and fantastic journey, exploring the wide array of different
 Chinese dance genres. This includes exploring both contemporary Chinese
 dance and traditional Chinese dance steps. Each dance form depicts the
 many aspects our Chinese culture and traditions.</p>
@@ -92,6 +92,9 @@ to Serve).
 <p>CNY concert 2024</p>
 <p>Quest Art Festival 2024 (QAF)</p>
 <p>QTSS Speech Day Celebration 2024</p>
+<p></p>
+<p>In 2026, the Quest Chinese Dance CCA is slated to participate in Quest
+Global @ China Cultural Immersion.</p>
 <p></p>
 <p><strong>Warm up &amp; Stretching</strong>
 </p>
