@@ -43,5 +43,37 @@ issue.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ok.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/rt.png">
+</div>
+<p><strong><u>Programme Highlights for our Environmental Ambasadors –</u></strong>
+</p>
+<p><strong><u>Sustainability Champions</u></strong>
+</p>
+<p><u>QUEST Global @ Japan</u>
+</p>
+<p>In collaboration with our school’s Learning for Life Programme (LLP),
+this programme involves the Sustainability Champions and Student Leaders,
+with the objectives of deepening their understanding of environmental and
+social sustainability and learning how they are put into practice in another
+country through immersing in, engaging with, and observing the locals.
+In addition, we aim to strengthen the E21CC and Leadership Practices of
+our young ambassadors.</p>
+<p>Programme Outline:</p>
+<p>(a)&nbsp; Learning about Japan’s sustainability efforts</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hjl.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chask.png">
+</div>
+<p>(b)&nbsp; School Immersion Programme</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kyoto Prefectural Sonobe Senior High School Attched Junior High School</p>
+</li>
+</ul>
 <p></p>
 <p></p>
