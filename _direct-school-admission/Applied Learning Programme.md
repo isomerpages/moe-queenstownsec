@@ -79,9 +79,37 @@ our young ambassadors.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ja.png">
 </div>
 <p></p>
+<p>(c)&nbsp; Agricultural Immersion Programme</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nara Asuka Mura Village</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jaj.png">
+</div>
+</li>
+</ul>
 <p></p>
+<p>(d)&nbsp; Cultural Immersion Programme</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_06_144534.png">
+</div>
+<p><strong><u>Join Us</u></strong>
+<br>
+<br>We welcome students who are passionate about <strong>environmental advocacy</strong> to
+apply for the DSA Exercise. Interested students should be keen to adopt
+an interdisciplinary approach to solving geographical issues.</p>
+<p>Successful applicants will have the privilege of participating in the
+school’s DSA Talent Development Programme which will include progressive
+exposure to issues related to the environment and sustainability. They
+will take on the role of <strong>Sustainability Champions</strong>, undertaking
+projects that advocate for environmental sustainability at the Upper Secondary
+level. In the process, students will also acquire effective communication
+and presentation skills as they build their confidence to advocate for
+a good cause in their area of passion.</p>
+<p>Click <a href="https://www.queenstownsec.moe.edu.sg/futurelearn-curriculum/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+information on how our Applied Learning Programmes and Learning for Life
+Programmes (ALP &amp; LLP) are integrated into FutureLearn Curriculum.</p>
 <p></p>
 <p></p>
