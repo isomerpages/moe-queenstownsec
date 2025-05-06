@@ -214,8 +214,14 @@ programme that focuses on imparting values and skills.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/merge5.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture556.jpg">
+</div>
 <p></p>
-<p></p>
-<p></p>
+<p><strong><u>Join Us</u></strong>
+<br>We welcome students who are passionate and committed in Volleyball to
+apply and participate in the Direct School Admission (DSA) Exercise.</p>
+<p>Click <a href="https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+information on our CCAs.</p>
 <p></p>
 <p></p>
