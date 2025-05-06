@@ -36,7 +36,7 @@ to Serve).
 <p>Our dance group has shown outstanding performances during SYF. We obtained
 the <strong>Certificate of Distinction</strong> at the Singapore Youth Festival
 (SYF) Arts Presentation for three consecutive years - in 2017, 2019, and
-2021. For SYF 2023, we obtained the <strong>Certificate of Achievement</strong>.
+2021. For SYF 2023, we obtained the <strong>Certificate of Accomplishment</strong>.
 For SYF 2025, we are delighted to share that we obtained the <strong>Certificate of Distinction.</strong> Our
 Questari dancers remain resilient and dedicated to improving their performances.
 Questari dancers have performed extensively for school and external events
@@ -128,7 +128,8 @@ Quest Band)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>This year, Questari will be embarking on a Quest Global @ Indonesia cultural
+immersion trip.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1178.jpg">
 </div>
