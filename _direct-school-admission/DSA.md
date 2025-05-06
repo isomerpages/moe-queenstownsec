@@ -70,8 +70,10 @@ will be shortlisted/given an offer.</p>
 <h2><strong>DSA Selection Criteria &amp; Process</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pictureacv.png">
 </div>
+<p></p>
+<p></p>
 <p><strong>Useful MOE weblinks</strong>
 </p>
 <table style="minWidth: 50px">
@@ -87,7 +89,8 @@ will be shortlisted/given an offer.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
-<p>https://www.moe.gov.sg/dsa-sec</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -97,39 +100,19 @@ will be shortlisted/given an offer.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
-<p>https://go.gov.sg/dsa-sec-application</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
-<p>Instructions on Application (Non Mainstream Students)</p>
+<p>Instructions on Application (Non-Mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
-<p>https://go.gov.sg/nmsdsa-sec-application</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>Direct to DSA-Sec Portal (Mainstream Students)&nbsp;</p>
-<p>* go live on 7 May, 11am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>https://go.gov.sg/apply-dsa-sec</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>Direct to DSA-Sec Portal (Non Mainstream Students)&nbsp;</p>
-<p>* go live on 7 May, 11am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>https://go.gov.sg/apply-dsa-sec-nms</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +122,8 @@ will be shortlisted/given an offer.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
-<p>https://go.gov.sg/dsa-secfaqs</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -149,9 +133,11 @@ will be shortlisted/given an offer.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
-<p>https://go.gov.sg/dsa-secschfinder</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
