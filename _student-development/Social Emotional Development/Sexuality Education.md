@@ -574,7 +574,7 @@ students are empowered to make wise, informed and sensible decisions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by CCE HOD</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>· Awareness of the different STIs and HIV/AIDS
