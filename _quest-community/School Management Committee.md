@@ -274,6 +274,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Zuhri B Wahab</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zuhri_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zuhri_wahab@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>MTT Physical Education&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -488,13 +500,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SH Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm June Tan Teck Yoong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:june_tan_teck_yoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">june_tan_teck_yoong@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 </tbody>
