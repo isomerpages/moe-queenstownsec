@@ -5,28 +5,16 @@ description: ""
 variant: tiptap
 ---
 <h1>Assessment Matters</h1>
-<h4>2025 Term 2 Assessment Information</h4>
+<h4>2025 Term 3 Assessment Information<br></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Sec_1_Term_2_Assessment_Information_2025_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Assessment Info</a>
+<p><a href="/files/GCE_N_Level_Prelim_Timetable_Updated.pdf" rel="noopener nofollow" target="_blank">GCE N Level Prelim 2025 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_2_Term_2_Assessment_Information_2025_1.pdf" rel="noopener nofollow" target="_blank">Sec 2 Assessment Info</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Sec_3_Term_2_Assessment_Information_2025_1.pdf" rel="noopener nofollow" target="_blank">Sec 3 Assessment Info</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Sec_4_Term_2_Assessment_Information_2025_1.pdf" rel="noopener nofollow" target="_blank">Sec 4 Assessment Info</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Sec_5_Term_2_Assessment_Information_2025_1.pdf" rel="noopener nofollow" target="_blank">Sec 5 Assessment Info</a>
+<p><a href="/files/GCE_O_Level_Prelim_2025_Timetable_Updated.pdf" rel="noopener nofollow" target="_blank">GCE O Level Prelim 2025 Timetable</a>
 </p>
 </li>
 </ol>
 <p></p>
-<p></p>
+<p>Updated on 26 June 2025</p>
