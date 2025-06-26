@@ -12,10 +12,10 @@ Academic Year 2025 (Semester 1)
 
 Click the links below to view the timetable:
 
-[2025 Sem 1 Timetable](/files/2025_SEM_1_Timetable_by_classes_wef_20_Jan_2025.pdf)
+[2025 Sem 2 Timetable](/files/2025_SEM_2_Timetable_CMclasses_26_06_2025_new.pdf)
 
 
 
 * * *
 
-Last updated on 17 Jan 2025
+Last updated on 26 June 2025
