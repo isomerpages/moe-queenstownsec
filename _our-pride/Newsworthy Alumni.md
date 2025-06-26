@@ -4,11 +4,36 @@ permalink: /our-pride/newsworthy-alumni/
 description: ""
 variant: tiptap
 ---
-<h1>Newsworthy Alumni</h1>
+<h1>Tradition of Service - Our Alumni</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Pride/Alumni%201.jpg">
 </div>
 <hr>
+<h3>Mr Desmond Tan</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMS_Desmond_Tan_Final.png">
+</div>
+<p>Our alumnus, Mr Desmond Tan, is the Senior Minister of State in the Prime
+Minister’s Office.</p>
+<p>Mr Tan was posted to the National Trades Union Congress (NTUC) since 30
+June 2022. As Group Director of the NTUC Training and Transformation Group,
+Mr Tan oversees NTUC’s Transformation Office and the NTUC Training &amp;
+Placement ecosystem, which comprises the NTUC Industry Training &amp; Transformation
+Department, NTUC’s e2i (Employment and Employability Institute), NTUC LearningHub
+and the Ong Teng Cheong Labour Leadership Institute (OTCi). He is also
+the Executive Secretary of the Singapore Industrial and Services Employees'
+Union (SISEU) and Advisor to the Supply Chain Employees’ Union (SCEU).</p>
+<p>He served as Member of Parliament for Pasir Ris-Punggol Group Representation
+Constituency (Pasir Ris Central) from July 2020 to April 2025, and has
+been elected as Member of Parliament for Pasir Ris-Changi GRC (Pasir Ris
+Central) in the General Elections 2025.</p>
+<p>Prior to joining NTUC, Mr Desmond Tan served as the Minister of State
+for Home Affairs, and Sustainability and the Environment. He was also the
+Chief Executive Director (CED) of the People’s Association (PA) where he
+led the community support effort during the COVID-19 pandemic.
+<br>
+<br>
+</p>
 <h3>Mr Ronald Goh</h3>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:200px;margin-left:10px;" height="auto" width="100%" src="/images/Our%20Pride/Alumni%202.png">
