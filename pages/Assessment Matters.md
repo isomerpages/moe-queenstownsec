@@ -17,4 +17,4 @@ variant: tiptap
 </li>
 </ol>
 <p></p>
-<p></p>
+<p>Updated on 26 June 2025</p>
