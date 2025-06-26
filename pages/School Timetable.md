@@ -12,7 +12,7 @@ Academic Year 2025 (Semester 1)
 
 Click the links below to view the timetable:
 
-[2025 Sem 2 Timetable](/files/2025_SEM_2_Timetable_CMclasses_26_06_2025_new.pdf) (You can have the option to print black & white)
+[2025 Sem 2 Timetable](/files/2025_SEM_2_Timetable_CMclasses_26_06_2025_new.pdf) (Please note that you can have the option to print black & white)
 
 
 
