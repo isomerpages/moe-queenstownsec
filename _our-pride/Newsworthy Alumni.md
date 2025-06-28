@@ -11,7 +11,7 @@ variant: tiptap
 <hr>
 <h3>Mr Desmond Tan</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMS_Desmond_Tan_Final.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/SMS_Desmond_Tan_Final.png">
 </div>
 <p>Our alumnus, Mr Desmond Tan, is the Senior Minister of State in the Prime
 Minister’s Office.</p>
