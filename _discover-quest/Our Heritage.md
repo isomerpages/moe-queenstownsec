@@ -49,8 +49,7 @@ another milestone in our QUEST for learning and excellence.</p>
 
 <img src="/images/Discover%20Quest/History%201.png" style="width:200px;height:190px;margin-left:15px;" align="right">
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br>  
+<br><br><br><br><br><br><br><br><br>
 <p>1971 saw the admission of girls into our school, making Queenstown Secondary
 Technical School a co-education school from then onwards. In the GCE ‘O’
 Level in 1974, all 5 top students were from this batch of female pioneers.
