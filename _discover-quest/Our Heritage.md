@@ -37,9 +37,6 @@ scholarship. He went on to a Public Service career and served as a Cabinet
 Minister from 1981 to 2004. Several others in the cohort were also awarded
 prestigious scholarships like the Colombo Plan Scholarships and the Commonwealth
 Scholarships.</p>
-<div class="isomer-image-wrapper">
-<img style="width:400px;height:350px;margin-left:15px;" height="auto" width="100%" src="/images/Discover%20Quest/History%201.png">
-</div>
 <p>With its focus on academic excellence, Queenstown Secondary Technical
 School was highly sought after. To accommodate our growing pool of learners,
 the addition of a 4-storey building, a hall-cum-canteen, and 4 Science
@@ -48,6 +45,9 @@ Mr Ong Pang Boon, officially declared the new extensions open, marking
 another milestone in our QUEST for learning and excellence.</p>
 <div class="isomer-image-wrapper">
 <img style="width:400px;height:350px;margin-right:15px;" height="auto" width="100%" src="/images/Discover%20Quest/History%202.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:400px;height:350px;margin-left:15px;" height="auto" width="100%" src="/images/Discover%20Quest/History%201.png">
 </div>
 <p>1971 saw the admission of girls into our school, making Queenstown Secondary
 Technical School a co-education school from then onwards. In the GCE ‘O’
