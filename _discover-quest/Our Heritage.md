@@ -43,9 +43,9 @@ the addition of a 4-storey building, a hall-cum-canteen, and 4 Science
 Laboratories were completed on 2 April 1968. The Minister of Education,
 Mr Ong Pang Boon, officially declared the new extensions open, marking another milestone in our QUEST for learning and excellence.</p>
 
-<img src="/images/Discover%20Quest/History%202.png" style="width:300px;height:230px;margin-right:15px;" align="left">
+<img src="/images/Discover%20Quest/History%202.png" style="width:340px;height:230px;margin-right:15px;" align="left">
 
-<img src="/images/Discover%20Quest/History%201.png" style="width:300px;height:230px;margin-left:15px;" align="right">
+<img src="/images/Discover%20Quest/History%201.png" style="width:340px;height:230px;margin-left:15px;" align="right">
 
 <br><br><br><br><br><br><br><br><br>
 <p>1971 saw the admission of girls into our school, making Queenstown Secondary
