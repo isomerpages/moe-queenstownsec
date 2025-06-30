@@ -19,13 +19,13 @@ The improvements to the school in the early 1960s, such as the addition of new c
 
 This quest bore fruit when Ang Hock Chye, a standout student in the early years, was awarded the Yang Di-Pertuan Negara Scholarship, now known as the President’s Scholarship, in 1964. In 1966, Lee Yock Suan, who scored 7 distinctions, became the second Queenstownian to be awarded the President’s scholarship. He went on to a Public Service career and served as a Cabinet Minister from 1981 to 2004. Several others in the cohort were also awarded prestigious scholarships like the Colombo Plan Scholarships and the Commonwealth Scholarships. 
 
-With its focus on academic excellence, Queenstown Secondary Technical School was highly sought after. To accommodate our growing pool of learners, the addition of a 4-storey building, a hall-cum-canteen, and 4 Science Laboratories were completed on 2 April 1968. The Minister of Education, Mr Ong Pang Boon, officially declared the new extensions open, marking another milestone in our QUEST for learning and excellence.
-
 <img src="/images/Discover%20Quest/History%201.png" style="width:400px;height:350px;margin-left:15px;" align="right">
 
-1971 saw the admission of girls into our school, making Queenstown Secondary Technical School a co-education school from then onwards. In the GCE ‘O’ Level in 1974, all 5 top students were from this batch of female pioneers. Two joined the National Junior College (NJC) while the other three opted to remain in Queenstown over placements in NJC. 
+With its focus on academic excellence, Queenstown Secondary Technical School was highly sought after. To accommodate our growing pool of learners, the addition of a 4-storey building, a hall-cum-canteen, and 4 Science Laboratories were completed on 2 April 1968. The Minister of Education, Mr Ong Pang Boon, officially declared the new extensions open, marking another milestone in our QUEST for learning and excellence.
 
 <img src="/images/Discover%20Quest/History%202.png" style="width:400px;height:350px;margin-right:15px;" align="left">
+
+1971 saw the admission of girls into our school, making Queenstown Secondary Technical School a co-education school from then onwards. In the GCE ‘O’ Level in 1974, all 5 top students were from this batch of female pioneers. Two joined the National Junior College (NJC) while the other three opted to remain in Queenstown over placements in NJC. 
 
 The first Student’s Council was formed with 12 members in 1976. New facilities were added to the school in 1977 in the form of two basketball courts in the field, one volleyball court between the two workshops, ten table-tennis tables made of concrete and nine wooden tables in the hall. Queenstownian Mui Chee Wai did the school proud by being the only candidate to secure a P1 distinction for Basic Electricity. He continued his studies in the United Kingdom. 
 
@@ -47,9 +47,9 @@ In December 1994, our last batch of Pre-U students completed their education in 
 
 In January 1997, the school was amongst the 20 pilot schools selected for the Thinking Programme by the Ministry of Education. The school also started on the Peer Tutoring/Group Study programme for students in Secondary 4 and 5 in Science and Mathematics in 1997.
 
-By April 1997, the new school was completed and ready for students in June. Once again, an excited batch of students marched happily into the new school compound back to its original home ground, at Strathmore Road. The new school building and the QUEST Museum were officially opened by our Alumnus, Mr Lee Yock Suan, Minister for Information and the Arts and Minister for the Environment on 9 July 1999.
-
 <img src="/images/Discover%20Quest/History%203.png" style="width:400px;height:350px;margin-left:15px;" align="right">
+
+By April 1997, the new school was completed and ready for students in June. Once again, an excited batch of students marched happily into the new school compound back to its original home ground, at Strathmore Road. The new school building and the QUEST Museum were officially opened by our Alumnus, Mr Lee Yock Suan, Minister for Information and the Arts and Minister for the Environment on 9 July 1999.
 
 **Chapter 5: Our Advancements (2000 – 2020)**
 
@@ -72,4 +72,3 @@ Throughout these years, Queenstown Secondary School maintained its reputation fo
 Looking back, we have come a long way since 1956 when we started with only 116 students in three Secondary 2 classes and 227 students in six Secondary 1 classes, 15 teachers, 5 clubs and 1 uniformed group in shared premises. Throughout this journey, the motto and values of Quest have shone bright and our students showed their respect, care, resilience, integrity and the strive for excellence in school and onwards in their careers. These are the lifelong values of Queenstownians. 
 
 Viva QUEST!  Queenstownian for Life !
-
