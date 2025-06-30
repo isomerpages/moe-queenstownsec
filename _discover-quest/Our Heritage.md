@@ -2,7 +2,7 @@
 title: Our Heritage
 permalink: /about-us/discover-quest/history/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h1>The QUEST Journey</h1>
 <p><strong>Chapter 1: Our Beginning (1956 – 1959)</strong>
@@ -41,14 +41,13 @@ Scholarships.</p>
 School was highly sought after. To accommodate our growing pool of learners,
 the addition of a 4-storey building, a hall-cum-canteen, and 4 Science
 Laboratories were completed on 2 April 1968. The Minister of Education,
-Mr Ong Pang Boon, officially declared the new extensions open, marking
-another milestone in our QUEST for learning and excellence.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Discover%20Quest/History%202.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Discover%20Quest/History%201.png">
-</div>
+Mr Ong Pang Boon, officially declared the new extensions open, marking another milestone in our QUEST for learning and excellence.</p>
+
+<img src="/images/Discover%20Quest/History%202.png" style="width:340px;height:230px;margin-right:15px;" align="left">
+
+<img src="/images/Discover%20Quest/History%201.png" style="width:340px;height:230px;margin-left:15px;" align="right">
+
+<br><br><br><br><br><br><br><br><br>
 <p>1971 saw the admission of girls into our school, making Queenstown Secondary
 Technical School a co-education school from then onwards. In the GCE ‘O’
 Level in 1974, all 5 top students were from this batch of female pioneers.
@@ -114,14 +113,11 @@ rebuilding of the new school compound.</p>
 in Queenstown Secondary School. This was in lieu of the Ministry direction
 to consolidate ‘A’ level curriculum under the Junior Colleges. This last
 batch of Pre-U students did very well in their GCE ‘A’ Level Examinations.</p>
-<p>In January 1997, the school was amongst the 20 pilot schools selected
-for the Thinking Programme by the Ministry of Education. The school also
-started on the Peer</p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/Discover%20Quest/History%203.png">
-</div>
-<p>Tutoring/Group Study programme for students in Secondary 4 and 5 in Science
+<img src="/images/Discover%20Quest/History%203.png" style="width:300px;height:200px;margin-left:15px;" align="right">
+<p>In January 1997, the school was amongst the 20 pilot schools selected for the Thinking Programme by the Ministry of Education. The school also started on the Peer Tutoring/Group Study programme for students in Secondary 4 and 5 in Science
 and Mathematics in 1997.</p>
+
+
 <p>By April 1997, the new school was completed and ready for students in
 June. Once again, an excited batch of students marched happily into the
 new school compound back to its original home ground, at Strathmore Road.
