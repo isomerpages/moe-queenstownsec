@@ -34,6 +34,47 @@ led the community support effort during the COVID-19 pandemic.
 <br>
 <br>
 </p>
+<h3>Mr Roland Wee</h3>
+<div class="isomer-image-wrapper">
+<img style="width:180px;height:180px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
+</div>
+<p>Our alumnus, Mr Roland Wee, is the founder and chairman of the MEI Engineering
+Group. An engineer by training, he designed and constructed sophisticated
+facilities on a turnkey basis for many large multinational companies throughout
+the Asia Pacific region since 1973.</p>
+<p>He has also served on the Boards of Singapore PowerGas and subsidiaries
+of DBS Land, and SembCorp.
+<br>
+<br>Mr Wee co-founded RWDC Industries Limited in 2015, a Singapore-based biotech
+startup to develop fully biodegradable PHA polymers - a groundbreaking,
+eco-friendly solution to save the planet and eliminate microplastics from
+harming the human body. His leadership in this area is used as a case study
+by SMU. You may read more details via <a href="https://cmp-shop.smu.edu.sg/products/rwdc-industries-how-an-octogenarian-helped-produce-sustainable-plastics" rel="noopener noreferrer nofollow" target="_blank">RWDC Industries: How an Octogenarian Helped Produce Sustainable Plasti – The Centre for Management Practice</a>
+</p>
+<p>When Mr Wee turned 80 in October 2024, he co-founded and launched the
+Somatic Health Group that leverages AI-powered technologies for safety
+and health rehabilitation for patients and around the globe. He says that
+this is something that we can use for ourselves, for our friends, relatives
+and society at large.</p>
+<p>Driven by a deep commitment to giving back to society, Mr Wee has been
+an active member of the Singapore Rotary Club for many years to support
+charitable causes. As a Queen’s Scout and businessman, his guiding philosophy
+is to leave this world a better, more peaceful and happier place for future
+generations.
+<br>
+</p>
+<p><em>Information from:</em>
+</p>
+<p>- <em><a rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/business/companies-markets/singapore-based-start-up-rwdc-industries-aims-to-eliminate-single-use</a></em>
+</p>
+<p><em>- <a href="https://www.fintechfestival.sg/speakers/spkr9402-roland-wee" rel="noopener noreferrer nofollow" target="_blank">https://www.fintechfestival.sg/speakers/spkr9402-roland-wee</a></em>
+</p>
+<p><em>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=c3P1Cp6zcww</a></em>
+</p>
+<p><em>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/wuluclub/posts/goh-loo-member-mr-roland-wee-in-the-business-times-on-6-may-2020roland-wee-co-fo/1096660774042788/</a></em>
+</p>
+<p></p>
+<p></p>
 <h3>Mr Ronald Goh</h3>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:200px;margin-left:10px;" height="auto" width="100%" src="/images/Our%20Pride/Alumni%202.png">
@@ -60,44 +101,6 @@ in 2015.
 <p><em>*photo was</em>&nbsp;taken&nbsp;<em>from CEO Magazine:&nbsp;<a href="https://www.theceomagazine.com/executive-interviews/it-electronics/ronald-goh/" rel="noopener noreferrer nofollow" target="_blank">https://www.theceomagazine.com/executive-interviews/it-electronics/ronald-goh/</a></em>
 </p>
 <p></p>
-<p></p>
-<h3>Mr Roland Wee</h3>
-<div class="isomer-image-wrapper">
-<img style="width:180px;height:180px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
-</div>
-<p>Our alumnus, Mr Roland Wee, is the founder and chairman of the MEI Engineering
-Group. An engineer by training, he designed and constructed sophisticated
-facilities on a turnkey basis for many large multinational companies throughout
-the Asia Pacific region since 1973.</p>
-<p>He has also served on the Boards of Singapore PowerGas and subsidiaries
-of DBS Land, and SembCorp.
-<br>
-<br>Mr Wee co-founded RWDC Industries Limited in 2015, a Singapore-based biotech
-startup to develop fully biodegradable PHA polymers - a groundbreaking,
-eco-friendly solution to save the planet and eliminate microplastics from
-harming the human body.</p>
-<p>When Mr Wee turned 80 in October 2024, he co-founded and launched the
-Somatic Health Group that leverages AI-powered technologies for safety
-and health rehabilitation for patients and around the globe. He says that
-this is something that we can use for ourselves, for our friends, relatives
-and society at large.</p>
-<p>Driven by a deep commitment to giving back to society, Mr Wee has been
-an active member of the Singapore Rotary Club for many years to support
-charitable causes. As a Queen’s Scout and businessman, his guiding philosophy
-is to leave this world a better, more peaceful and happier place for future
-generations.
-<br>
-</p>
-<p><em>Information from:</em>
-</p>
-<p>- <em><a rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/business/companies-markets/singapore-based-start-up-rwdc-industries-aims-to-eliminate-single-use</a></em>
-</p>
-<p><em>- <a href="https://www.fintechfestival.sg/speakers/spkr9402-roland-wee" rel="noopener noreferrer nofollow" target="_blank">https://www.fintechfestival.sg/speakers/spkr9402-roland-wee</a></em>
-</p>
-<p><em>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=c3P1Cp6zcww</a></em>
-</p>
-<p><em>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/wuluclub/posts/goh-loo-member-mr-roland-wee-in-the-business-times-on-6-may-2020roland-wee-co-fo/1096660774042788/</a></em>
-</p>
 <p></p>
 <h3>Mr Lawrence Leong</h3>
 <div class="isomer-image-wrapper">
