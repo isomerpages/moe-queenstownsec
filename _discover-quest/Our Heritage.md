@@ -116,11 +116,12 @@ to consolidate ‘A’ level curriculum under the Junior Colleges. This last
 batch of Pre-U students did very well in their GCE ‘A’ Level Examinations.</p>
 <p>In January 1997, the school was amongst the 20 pilot schools selected
 for the Thinking Programme by the Ministry of Education. The school also
-started on the Peer Tutoring/Group Study programme for students in Secondary
-4 and 5 in Science and Mathematics in 1997.</p>
+started on the Peer</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/Discover%20Quest/History%203.png">
 </div>
+<p>Tutoring/Group Study programme for students in Secondary 4 and 5 in Science
+and Mathematics in 1997.</p>
 <p>By April 1997, the new school was completed and ready for students in
 June. Once again, an excited batch of students marched happily into the
 new school compound back to its original home ground, at Strathmore Road.
