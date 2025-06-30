@@ -118,7 +118,7 @@ batch of Pre-U students did very well in their GCE ‘A’ Level Examinations.</
 for the Thinking Programme by the Ministry of Education. The school also
 started on the Peer</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Discover%20Quest/History%203.png">
+<img style="width: 40%;" height="auto" width="100%" src="/images/Discover%20Quest/History%203.png">
 </div>
 <p>Tutoring/Group Study programme for students in Secondary 4 and 5 in Science
 and Mathematics in 1997.</p>
