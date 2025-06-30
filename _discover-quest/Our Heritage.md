@@ -44,10 +44,10 @@ Laboratories were completed on 2 April 1968. The Minister of Education,
 Mr Ong Pang Boon, officially declared the new extensions open, marking
 another milestone in our QUEST for learning and excellence.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Discover%20Quest/History%202.png">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Discover%20Quest/History%202.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Discover%20Quest/History%201.png">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Discover%20Quest/History%201.png">
 </div>
 <p>1971 saw the admission of girls into our school, making Queenstown Secondary
 Technical School a co-education school from then onwards. In the GCE ‘O’
