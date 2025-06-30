@@ -41,11 +41,9 @@ Scholarships.</p>
 School was highly sought after. To accommodate our growing pool of learners,
 the addition of a 4-storey building, a hall-cum-canteen, and 4 Science
 Laboratories were completed on 2 April 1968. The Minister of Education,
-Mr Ong Pang Boon, officially declared the new extensions open, marking
-another milestone in our QUEST for learning and excellence.</p>
+Mr Ong Pang Boon, officially declared the new extensions open, marking another milestone in our QUEST for learning and excellence.</p>
 
 <img src="/images/Discover%20Quest/History%202.png" style="width:250px;height:190px;margin-right:15px;" align="left">
-
 
 <img src="/images/Discover%20Quest/History%201.png" style="width:250px;height:190px;margin-left:15px;" align="right">
 
@@ -115,9 +113,10 @@ rebuilding of the new school compound.</p>
 in Queenstown Secondary School. This was in lieu of the Ministry direction
 to consolidate ‘A’ level curriculum under the Junior Colleges. This last
 batch of Pre-U students did very well in their GCE ‘A’ Level Examinations.</p>
+<img src="/images/Discover%20Quest/History%203.png" style="width:200px;height:190px;margin-left:15px;" align="right">
 <p>In January 1997, the school was amongst the 20 pilot schools selected for the Thinking Programme by the Ministry of Education. The school also started on the Peer Tutoring/Group Study programme for students in Secondary 4 and 5 in Science
 and Mathematics in 1997.</p>
-<img src="/images/Discover%20Quest/History%203.png" style="width:200px;height:190px;margin-left:15px;" align="right">
+
 
 <p>By April 1997, the new school was completed and ready for students in
 June. Once again, an excited batch of students marched happily into the
