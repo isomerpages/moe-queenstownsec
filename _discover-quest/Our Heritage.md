@@ -189,6 +189,8 @@ and the strive for excellence in school and onwards in their careers. These
 are the lifelong values of Queenstownians.</p>
 <p>Viva QUEST! Queenstownian for Life !</p>
 
+A special mention of the principals who led / is leading Queenstownians in the QUEST journey:
+
 **Principals:**
 * Mr E.J. Doraisamy (1956–1958)  
 * Mr Chan Chieu Kiat (1959–1960)  
