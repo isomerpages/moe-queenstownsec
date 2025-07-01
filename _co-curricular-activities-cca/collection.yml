@@ -1,5 +1,5 @@
 collections:
-  cca:
+  co-curricular-activities-cca:
     output: true
     order:
       - CCA Schedule & Venues.md
