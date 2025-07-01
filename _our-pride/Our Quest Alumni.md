@@ -184,7 +184,7 @@ event production through his creativity and innovation.</p>
 <p></p>
 <h3>Dr Tan Eng Khim</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Tan" src="/images/Slide1.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Dr Tan" src="/images/Slide1.jpg">
 </div>
 <p>Dr Tan Eng Khim 陈永钦 is the Director and Principal Veterinary Surgeon of
 Animal Medical Centre (VET@RV) Pte Ltd, which he has led for over 15 years.
