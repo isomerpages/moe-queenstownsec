@@ -78,7 +78,7 @@ generations.
 <p></p>
 <h3>Mr Ronald Goh</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Our%20Pride/Alumni%202.png">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Our%20Pride/Alumni%202.png">
 </div>
 <p>Our alumnus, Mr Ronald Goh, is Managing Director of Electronics and Engineering
 (E&amp;E). Building on his family’s legacy, he embraces the unique challenges
@@ -105,7 +105,7 @@ in 2015.
 <p></p>
 <h3>Mr Lawrence Leong</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Picture55.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture55.png">
 </div>
 <p>
 <br>Mr Leong served 30 years in the Singapore Armed Forces and retired as
@@ -263,7 +263,7 @@ experiential learning and youth development.</p>
 <p></p>
 <h3>Ms Joyce Hiew &nbsp; &nbsp;</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture91.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Picture91.jpg">
 </div>
 <p>Our esteemed alumna, Ms Joyce Hiew, has built an impressive career in
 the hospitality industry. Despite challenging life circumstances, she overcame
