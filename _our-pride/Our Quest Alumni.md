@@ -11,7 +11,7 @@ variant: tiptap
 <hr>
 <h3>Mr Desmond Tan</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/SMS_Desmond_Tan_Final.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SMS_Desmond_Tan_Final.png">
 </div>
 <p>Our alumnus, Mr Desmond Tan, is the Senior Minister of State in the Prime
 Minister’s Office.</p>
@@ -36,7 +36,7 @@ led the community support effort during the COVID-19 pandemic.
 </p>
 <h3>Mr Roland Wee</h3>
 <div class="isomer-image-wrapper">
-<img style="width:180px;height:180px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
 <p></p>
 <p>Our alumnus, Mr Roland Wee, is the founder and chairman of the MEI Engineering
@@ -78,7 +78,7 @@ generations.
 <p></p>
 <h3>Mr Ronald Goh</h3>
 <div class="isomer-image-wrapper">
-<img style="width:200px;height:200px;margin-left:10px;" height="auto" width="100%" src="/images/Our%20Pride/Alumni%202.png">
+<img style="width: 99%;" height="auto" width="100%" src="/images/Our%20Pride/Alumni%202.png">
 </div>
 <p>Our alumnus, Mr Ronald Goh, is Managing Director of Electronics and Engineering
 (E&amp;E). Building on his family’s legacy, he embraces the unique challenges
@@ -105,7 +105,7 @@ in 2015.
 <p></p>
 <h3>Mr Lawrence Leong</h3>
 <div class="isomer-image-wrapper">
-<img style="width:200px;height:200px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture55.png">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Picture55.png">
 </div>
 <p>
 <br>Mr Leong served 30 years in the Singapore Armed Forces and retired as
@@ -128,7 +128,7 @@ relevant career tips and expand their professional network.</p>
 <p></p>
 <h3>Mr Lim Song Joo</h3>
 <div class="isomer-image-wrapper">
-<img style="width:250px;height:200px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture65.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture65.png">
 </div>
 <p>Mr Lim Song Joo, an esteemed alumnus of our School, has amassed over 25
 years of experience in the Technology and Finance sectors. Throughout his
@@ -165,7 +165,7 @@ to nurture innovation and creativity among students.</p>
 <p></p>
 <h3>Mr Picasso Tan</h3>
 <div class="isomer-image-wrapper">
-<img style="width:180px;height:250px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture72.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Picture72.png">
 </div>
 <p>Our alumnus, Mr Picasso Tan, is the director of Picasso International
 Productions (PIP), a premier event company serving a diverse international
@@ -263,7 +263,7 @@ experiential learning and youth development.</p>
 <p></p>
 <h3>Ms Joyce Hiew &nbsp; &nbsp;</h3>
 <div class="isomer-image-wrapper">
-<img style="width:250px;height:250px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture91.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture91.jpg">
 </div>
 <p>Our esteemed alumna, Ms Joyce Hiew, has built an impressive career in
 the hospitality industry. Despite challenging life circumstances, she overcame
