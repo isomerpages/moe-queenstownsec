@@ -189,8 +189,7 @@ and the strive for excellence in school and onwards in their careers. These
 are the lifelong values of Queenstownians.</p>
 <p>Viva QUEST! Queenstownian for Life !</p>
 
-School Principals:
-Principals:  
+**Principals:**
 * Mr E.J. Doraisamy (1956–1958)  
 * Mr Chan Chieu Kiat (1959–1960)  
 * Mr R.T. Tambyah (1961–1968)  
