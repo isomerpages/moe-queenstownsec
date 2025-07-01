@@ -8,7 +8,7 @@ variant: markdown
 <p><strong>Chapter 1: Our Beginning (1956 – 1959)</strong>
 </p>
 <p>Queenstown Secondary Technical School (QSTS) started in 1956 as an all-boys
-technical school, being one of the first technical schools in Singapore(https://www.roots.gov.sg/places/places-landing/Places/landmarks/my-queenstown-heritage-trail/queenstown-secondary-school). It was first housed in Jalan Eunos School while the new
+technical school, being one of the [first technical schools in Singapore](https://www.roots.gov.sg/places/places-landing/Places/landmarks/my-queenstown-heritage-trail/queenstown-secondary-school). It was first housed in Jalan Eunos School while the new
 school premise was being built. In January 1957, the 1st cohort excitedly
 moved in with 343 students in Secondary one and two, stepping into a new
 future. Till this day, the school stands proudly at its original location
