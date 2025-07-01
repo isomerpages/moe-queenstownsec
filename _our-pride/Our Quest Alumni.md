@@ -38,6 +38,7 @@ led the community support effort during the COVID-19 pandemic.
 <div class="isomer-image-wrapper">
 <img style="width:180px;height:180px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
+<p></p>
 <p>Our alumnus, Mr Roland Wee, is the founder and chairman of the MEI Engineering
 Group. An engineer by training, he designed and constructed sophisticated
 facilities on a turnkey basis for many large multinational companies throughout
@@ -183,8 +184,9 @@ event production through his creativity and innovation.</p>
 </p>
 <p></p>
 <h3>Dr Tan Eng Khim</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Dr Tan" src="/images/Slide1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_07_01_153826.png">
 </div>
 <p>Dr Tan Eng Khim 陈永钦 is the Director and Principal Veterinary Surgeon of
 Animal Medical Centre (VET@RV) Pte Ltd, which he has led for over 15 years.
@@ -239,7 +241,7 @@ of an artist.</p>
 </p>
 <h3>Dr Siva Gopal Thaiyalan &nbsp;</h3>
 <div class="isomer-image-wrapper">
-<img style="width:180px;height:250px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture82.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture82.jpg">
 </div>
 <p>Our Alumnus, Dr Siva Gopal Thaiyalan, is a Senior Lecturer at the S R
 Nathan School of Human Development at the Singapore University of Social
