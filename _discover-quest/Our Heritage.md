@@ -2,17 +2,18 @@
 title: Our Heritage
 permalink: /about-us/discover-quest/history/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h1>The QUEST Journey</h1>
 <p><strong>Chapter 1: Our Beginning (1956 – 1959)</strong>
 </p>
 <p>Queenstown Secondary Technical School (QSTS) started in 1956 as an all-boys
-technical school, being one of the [first technical schools in Singapore](https://www.roots.gov.sg/places/places-landing/Places/landmarks/my-queenstown-heritage-trail/queenstown-secondary-school). It was first housed in Jalan Eunos School while the new
-school premise was being built. In January 1957, the 1st cohort excitedly
-moved in with 343 students in Secondary one and two, stepping into a new
-future. Till this day, the school stands proudly at its original location
-at 1 Strathmore Road.</p>
+technical school, being one of the <a href="https://www.roots.gov.sg/places/places-landing/Places/landmarks/my-queenstown-heritage-trail/queenstown-secondary-school" rel="noopener nofollow" target="_blank">first technical schools in Singapore</a>.
+It was first housed in Jalan Eunos School while the new school premise
+was being built. In January 1957, the 1st cohort excitedly moved in with
+343 students in Secondary one and two, stepping into a new future. Till
+this day, the school stands proudly at its original location at 1 Strathmore
+Road.</p>
 <p>In 1959, all 92 of our first batch of students sat for the 1959 General
 Certificate of Education Examinations. Of all the students who sat for
 the Cambridge School Certificate Examination, 80% passed. Though technical
@@ -41,13 +42,25 @@ Scholarships.</p>
 School was highly sought after. To accommodate our growing pool of learners,
 the addition of a 4-storey building, a hall-cum-canteen, and 4 Science
 Laboratories were completed on 2 April 1968. The Minister of Education,
-Mr Ong Pang Boon, officially declared the new extensions open, marking another milestone in our QUEST for learning and excellence.</p>
-
-<img src="/images/Discover%20Quest/History%202.png" style="width:340px;height:230px;margin-right:15px;" align="left">
-
-<img src="/images/Discover%20Quest/History%201.png" style="width:340px;height:230px;margin-left:15px;" align="right">
-
-<br><br><br><br><br><br><br><br><br>
+Mr Ong Pang Boon, officially declared the new extensions open, marking
+another milestone in our QUEST for learning and excellence.</p>
+<div class="isomer-image-wrapper">
+<img style="width:340px;height:230px;margin-right:15px;" height="auto" width="100%" src="/images/Discover%20Quest/History%202.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:340px;height:230px;margin-left:15px;" height="auto" width="100%" src="/images/Discover%20Quest/History%201.png">
+</div>
+<p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
 <p>1971 saw the admission of girls into our school, making Queenstown Secondary
 Technical School a co-education school from then onwards. In the GCE ‘O’
 Level in 1974, all 5 top students were from this batch of female pioneers.
@@ -113,11 +126,13 @@ rebuilding of the new school compound.</p>
 in Queenstown Secondary School. This was in lieu of the Ministry direction
 to consolidate ‘A’ level curriculum under the Junior Colleges. This last
 batch of Pre-U students did very well in their GCE ‘A’ Level Examinations.</p>
-<img src="/images/Discover%20Quest/History%203.png" style="width:300px;height:200px;margin-left:15px;" align="right">
-<p>In January 1997, the school was amongst the 20 pilot schools selected for the Thinking Programme by the Ministry of Education. The school also started on the Peer Tutoring/Group Study programme for students in Secondary 4 and 5 in Science
-and Mathematics in 1997.</p>
-
-
+<div class="isomer-image-wrapper">
+<img style="width:300px;height:200px;margin-left:15px;" height="auto" width="100%" src="/images/Discover%20Quest/History%203.png">
+</div>
+<p>In January 1997, the school was amongst the 20 pilot schools selected
+for the Thinking Programme by the Ministry of Education. The school also
+started on the Peer Tutoring/Group Study programme for students in Secondary
+4 and 5 in Science and Mathematics in 1997.</p>
 <p>By April 1997, the new school was completed and ready for students in
 June. Once again, an excited batch of students marched happily into the
 new school compound back to its original home ground, at Strathmore Road.
@@ -188,22 +203,55 @@ bright and our students showed their respect, care, resilience, integrity
 and the strive for excellence in school and onwards in their careers. These
 are the lifelong values of Queenstownians.</p>
 <p>Viva QUEST! Queenstownian for Life !</p>
-
-A special mention of the principals who led / is leading Queenstownians in the QUEST journey:
-
-**Principals:**
-* Mr E.J. Doraisamy (1956–1958)  
-* Mr Chan Chieu Kiat (1959–1960)  
-* Mr R.T. Tambyah (1961–1968)  
-* Mr Lee Chong Kee (1968–1978)  
-* Mr Ng Soo Boon (1978–1982)  
-* Mr Wong Chong Heng (1982–1985)  
-* Ms Priscilla Ng (1986–1989)  
-* Mrs Goh Soo Geem (1990–1994)  
-* Mrs Chia Siew Yong (1994–1997)  
-* Ms Soh Mee Choo (1998–2001)  
-* Mr Lau Yan Boon (2002–2007)  
-* Mrs Mano Hirubalan (2007–2008)  
-* Mr Ang Chee Seng (2009–2015)  
-* Mdm Rasidah Bte Rahim (2016–2021)  
-* Mr Sim How Chong (2022-present)
+<p>A special mention of the principals who led / is leading Queenstownians
+in the QUEST journey:</p>
+<p><strong>Principals:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr E.J. Doraisamy (1956–1958)</p>
+</li>
+<li>
+<p>Mr Chan Chieu Kiat (1959–1960)</p>
+</li>
+<li>
+<p>Mr R.T. Tambyah (1961–1968)</p>
+</li>
+<li>
+<p>Mr Lee Chong Kee (1968–1978)</p>
+</li>
+<li>
+<p>Mr Ng Soo Boon (1978–1982)</p>
+</li>
+<li>
+<p>Mr Wong Chong Heng (1982–1985)</p>
+</li>
+<li>
+<p>Ms Priscilla Ng (1986–1989)</p>
+</li>
+<li>
+<p>Mrs Goh Soo Geem (1990–1994)</p>
+</li>
+<li>
+<p>Mrs Chia Siew Yong (1994–1997)</p>
+</li>
+<li>
+<p>Ms Soh Mee Choo (1998–2001)</p>
+</li>
+<li>
+<p>Mr Lau Yan Boon (2002–2007)</p>
+</li>
+<li>
+<p>Mrs Mano Hirubalan (2007–2008)</p>
+</li>
+<li>
+<p>Mr Ang Chee Seng (2009–2015)</p>
+</li>
+<li>
+<p>Mdm Rasidah Bte Rahim (2016–2021)</p>
+</li>
+<li>
+<p>Mr Sim How Chong (2022-present)</p>
+</li>
+</ul>
+<p></p>
