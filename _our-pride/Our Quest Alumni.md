@@ -36,7 +36,7 @@ led the community support effort during the COVID-19 pandemic.
 </p>
 <h3>Mr Roland Wee</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
 <p></p>
 <p>Our alumnus, Mr Roland Wee, is the founder and chairman of the MEI Engineering
@@ -105,7 +105,7 @@ in 2015.
 <p></p>
 <h3>Mr Lawrence Leong</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Picture55.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture55.png">
 </div>
 <p>
 <br>Mr Leong served 30 years in the Singapore Armed Forces and retired as
@@ -128,7 +128,7 @@ relevant career tips and expand their professional network.</p>
 <p></p>
 <h3>Mr Lim Song Joo</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture65.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture65.png">
 </div>
 <p>Mr Lim Song Joo, an esteemed alumnus of our School, has amassed over 25
 years of experience in the Technology and Finance sectors. Throughout his
@@ -241,7 +241,7 @@ of an artist.</p>
 </p>
 <h3>Dr Siva Gopal Thaiyalan &nbsp;</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture82.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Picture82.jpg">
 </div>
 <p>Our Alumnus, Dr Siva Gopal Thaiyalan, is a Senior Lecturer at the S R
 Nathan School of Human Development at the Singapore University of Social
