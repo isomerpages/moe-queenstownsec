@@ -182,7 +182,7 @@ event production through his creativity and innovation.</p>
 <p><em>Information from: <a href="https://pip.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pip.sg/</a></em>
 </p>
 <p></p>
-<h3>Dr Tan Eng Khim </h3>
+<h3>Dr Tan Eng Khim</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Dr Tan" src="/images/Slide1.jpg">
 </div>
@@ -233,7 +233,7 @@ King Edward VII Hall Choir and Sheares Hall Choir at NUS.
 of an artist.</p>
 <p><em>Links</em>
 </p>
-<p><em><a href="https://www.VETatRV.com" rel="noopener nofollow" target="_blank">Animal Medical Centre (VET@RV) clinic </a></em>
+<p><em><a href="https://www.VETatRV.com" rel="noopener nofollow" target="_blank">Animal Medical Centre (VET@RV) clinic</a></em>
 </p>
 <p><em><a href="https://www.zaobao.com.sg/lifestyle/culture/story20250627-6917018" rel="noopener nofollow" target="_blank">Lianhe Zaobao feature article</a></em>
 </p>
