@@ -36,7 +36,7 @@ future.</p>
 to come back and support our Alma Mater School, continuing the legacy left
 by our pioneers - Dare to Serve - for School, for Members, for Community.</p>
 <blockquote>
-<p>Please visit the <strong><a href="https://www.quest-alumni.org/" rel="noopener nofollow" target="_blank">Alumni Association Portal</a></strong> for
+<p>Please visit the <strong><a href="https://www.quest-alumni.org" rel="noopener nofollow" target="_blank">Alumni Association Portal</a></strong> for
 more information and join our Quest Alumni Association as a member!</p>
 </blockquote>
 <h4><strong>The Alumnus Pledge</strong><br><strong>DARE TO SERVE</strong></h4>
