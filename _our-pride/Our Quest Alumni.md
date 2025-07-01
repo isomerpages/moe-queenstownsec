@@ -182,7 +182,61 @@ event production through his creativity and innovation.</p>
 <p><em>Information from: <a href="https://pip.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pip.sg/</a></em>
 </p>
 <p></p>
-<p></p>
+<h3>Dr Tan Eng Khim </h3>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Dr Tan" src="/images/Slide1.jpg">
+</div>
+<p>Dr Tan Eng Khim 陈永钦 is the Director and Principal Veterinary Surgeon of
+Animal Medical Centre (VET@RV) Pte Ltd, which he has led for over 15 years.
+A recipient of multiple scholarships, Dr Tan is a veterinary surgeon with
+more than 20 years of experience in the animal health industry.
+<br>
+<br>Since 2015, he has been recognised by the Royal College of Veterinary
+Surgeons (RCVS, UK) as an Advanced Practitioner in Small Animal Practice
+— a distinction held by only nine veterinarians globally, including just
+two in the Asia-Pacific region as of July 2025. He was appointed to the
+RCVS Panel of Assessors in 2019, where he evaluates advanced-level veterinarians
+(at clinical master’s level and above) seeking recognition as Advanced
+Practitioners. He has also served on the RCVS Academy Panel since 2022,
+contributing to the development of professional training resources.
+<br>
+<br>Dr Tan has spoken at veterinary conferences across the Asia-Pacific region,
+with his next engagement scheduled in Taiwan in 2026. He was invited to
+join the Board of Advisors of Murdoch University, his veterinary alma mater,
+and was honoured to be invited as the occasional speaker at its graduation
+ceremony. In Singapore, he has served as Honorary Editor of the Singapore
+Veterinary Association and as Honorary Veterinary Advisor to the Pet Enterprises
+and Traders Association.</p>
+<p>Outside of veterinary medicine, Dr Tan is an award-winning composer whose
+works have been performed by international ensembles and musicians. His
+passion for the arts began early—at age six, he won Champion at the Singapore
+National Chinese Language Storytelling Competition. He later won his first
+organ-playing competition in 1992, and in 1995 received the Singapore National
+Compositional Award for his original work. His compositions have been performed
+internationally, including a 1996 premiere in Singapore by the Medici String
+Quartet (UK).
+<br>
+<br>His most recent commission is a commemorative piece for the 120th Anniversary
+of Goh Loo Club and Singapore’s 60th year of independence. Premiering on
+6 July 2025 at the Arts House Chamber, the work — arranged by Associate
+Professor Zhong Zhiyue of the Shanghai Conservatory of Music — is written
+for guqin, sheng, and tenor soloist, a role Dr Tan will perform himself.
+<br>
+<br>Dr Tan has also served as a vocal coach and co-producer for the National
+University of Singapore (NUS) Sheares Theatre, and has conducted various
+choirs, including the National Junior College Choir — which competed at
+the Llangollen International Musical Eisteddfod in Wales — as well as the
+King Edward VII Hall Choir and Sheares Hall Choir at NUS.
+<br>
+<br>His background in the arts has shaped his approach to veterinary care
+— combining clinical precision with patience, empathy, and the sensitivity
+of an artist.</p>
+<p><em>Links</em>
+</p>
+<p><em><a href="https://www.VETatRV.com" rel="noopener nofollow" target="_blank">Animal Medical Centre (VET@RV) clinic </a></em>
+</p>
+<p><em><a href="https://www.zaobao.com.sg/lifestyle/culture/story20250627-6917018" rel="noopener nofollow" target="_blank">Lianhe Zaobao feature article</a></em>
+</p>
 <h3>Dr Siva Gopal Thaiyalan &nbsp;</h3>
 <div class="isomer-image-wrapper">
 <img style="width:180px;height:250px;margin-left:10px;" height="auto" width="100%" alt="" src="/images/Picture82.jpg">
