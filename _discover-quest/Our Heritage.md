@@ -188,3 +188,21 @@ bright and our students showed their respect, care, resilience, integrity
 and the strive for excellence in school and onwards in their careers. These
 are the lifelong values of Queenstownians.</p>
 <p>Viva QUEST! Queenstownian for Life !</p>
+
+School Principals:
+Principals:  
+* Mr E.J. Doraisamy (1956–1958)  
+* Mr Chan Chieu Kiat (1959–1960)  
+* Mr R.T. Tambyah (1961–1968)  
+* Mr Lee Chong Kee (1968–1978)  
+* Mr Ng Soo Boon (1978–1982)  
+* Mr Wong Chong Heng (1982–1985)  
+* Ms Priscilla Ng (1986–1989)  
+* Mrs Goh Soo Geem (1990–1994)  
+* Mrs Chia Siew Yong (1994–1997)  
+* Ms Soh Mee Choo (1998–2001)  
+* Mr Lau Yan Boon (2002–2007)  
+* Mrs Mano Hirubalan (2007–2008)  
+* Mr Ang Chee Seng (2009–2015)  
+* Mdm Rasidah Bte Rahim (2016–2021)  
+* Mr Sim How Chong (2022-present)
