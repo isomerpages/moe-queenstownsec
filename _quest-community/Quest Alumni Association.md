@@ -35,8 +35,10 @@ future.</p>
 <p>Last but not least, a Queenstown Alumni never refuses the opportunity
 to come back and support our Alma Mater School, continuing the legacy left
 by our pioneers - Dare to Serve - for School, for Members, for Community.</p>
-<p>Please visit the <a href="https://www.quest-alumni.org/" rel="noopener nofollow" target="_blank">Alumni Association Portal</a> for
+<blockquote>
+<p>Please visit the <strong><a href="https://www.quest-alumni.org/" rel="noopener nofollow" target="_blank">Alumni Association Portal</a></strong> for
 more information and join our Quest Alumni Association as a member!</p>
+</blockquote>
 <h4><strong>The Alumnus Pledge</strong><br><strong>DARE TO SERVE</strong></h4>
 <p>I strive to be the best that I can be, to serve the Alumni, the School,
 the Quest Community and our Society.</p>
