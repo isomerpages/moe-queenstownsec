@@ -10,15 +10,6 @@ variant: markdown
 Girl Guides
 ===========
 
-**Teachers-in-Charge**
-----------------------
-
-*   Han Huixuan Dilys  – OIC
-*   Mdm Siti Nur Shahidah Binte Mohd Ismail  -2IC
-*   Ms Sim Zhi Xin
-*   Ms Charis Cho
-
-
 
 **More information about the CCA**
 ----------------------------------
