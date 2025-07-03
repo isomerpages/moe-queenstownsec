@@ -10,7 +10,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1np.jpg">
 </div>
 <h1>National Police Cadet Corps</h1>
-<h2><strong>Highlights of the Year </strong></h2>
+<h2><strong>Highlights of the Year</strong></h2>
 <p>• Air Pistol Training</p>
 <p>• Annual 0.22 Revolver Shooting</p>
 <p>• Community Safety and Security</p>
