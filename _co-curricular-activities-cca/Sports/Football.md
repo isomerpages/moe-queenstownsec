@@ -10,28 +10,22 @@ variant: markdown
 Football
 ========
 
-**Teachers-in-Charge**
-----------------------
 
 
-*   Mr Thomas Tan Wee Boon - (OIC) 
-*   Miss Siti Nur Aisyah Binte Shawall - OIC
-*   Mdm Germaine Jacolyn Peter - Huang
-*   Mdm Tan Guek Hong Peggy
 
-
-**More Information on the CCA**
+**Highlights of the Year**
 -------------------------------
 
-The vision of a QTSS Footballer is one who is, and has IQ; ‘I’ for Identity and ‘Q’ for Qualities. A QTSS Footballer’s identity is firstly a **QTSS student**, followed by being a **Sportsman** before even being a **Footballer** who learns and develop the qualities of exemplary **Attitude, Behaviour and Character/Commitment (ABCs)**. 
+Selected Secondary 2 and 3 boys also participated in the annual Youth Sports Symposium held
+at Raffles Institution. They honed their leadership skills and learnt more about the principles of
+training and sports nutrition from other student athletes.
 
-The preparation for 2023 National School Games (NSG) started in the second half of 2022. The boys bonded together and put their heart and soul in training with the aim to bring glory to the school.  The B Division players had the privilege to play a friendly match at the iconic National Stadium. This experience of playing at the national Stadium boosted their confidence and morale.  
+## **Key Achievements**
 
-The post-Covid league format gave opportunities for the players to compete in more games beyond group stages. The team gave their best effort and competed fairly against their opponents demonstrating sportsmanship, commitment and the core values of respect and resilience.  
+The B boys trained hard and gave of their best during the B Div NSG to enable the school to maintain the Pool B status for 2025.
 
-Looking ahead to the next NSG, the boys has begun to step up their training to build themselves up physically, improve individual ball skills and teamwork with the aim of going further in the league, and more importantly, to grow as a student-athlete and beyond. 
+The C boys performed beyond expectation. Though they started in Pool E during the group stage, they fought hard, topped the group and moved up to League 4 in the preliminaries round and eventually did the school and themselves proud by achieving runners-up in the League 4 Championship knockout stage.
 
-Our Motto:
-ONE HEART, ONE FAMILY <br>
-Our Belief:
-**TEAM** - **T**eam **E**ffort **A**chieve **M**iracles 
+Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
+
+
