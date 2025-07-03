@@ -31,10 +31,28 @@ performed alongside other performing arts
 CCAs. The choir’s dedication was further rewarded
 when they attained the coveted award at the Singapore International Choral Festival 2024.
 
+## **Key Achievements**
 
 
 
- 
- 
- 
- 
+
+| Year | Events | Achievement |
+| -------- | -------- | -------- |
+| 2023     |   Singapore Youth Festival Arts Presentation   |  Accomplishment   |
+| 2023     |   Voices of Singapore (VOS) Presentation   |    |
+| 2024     |   Quest Arts Festival concert    |    |
+| 2024     |   National Day Carnival Performance at Henderson-Dawson   |  Accomplishment   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
