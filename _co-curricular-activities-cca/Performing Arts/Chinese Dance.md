@@ -13,22 +13,23 @@ Chinese Dance
 **Teachers-in-Charge**
 ----------------------
 
-*   Mdm Tang Siow Leng – OIC
-*   Mdm Xu Su
 
-
-
-**More Information on the CCA**
+**Highlights of the Year**
 -------------------------------
 
-Our girls put in much time and effort towards the preparation of the Singapore Youth Festival 2023 Art Presentation. The hard work and practices gel the members closer, and the girls build deeper friendship among themselves. Our dance troupe was both excited and glad that we were able to participate in both internal and external performance for our fellow schoolmate and members of the public. These are the activities and events that we have participated: <br><br>
-1.	Chinese New Year Concert (School) <br>
-2.	Chinese Dance Day Camp in School <br>
-3.	Singapore Youth Festival Arts Presentation (Certificate of Accomplishment) <br>
-4.	Speech Day Concert <br>
-5.	Deepavali School Concert
+* Chinese New Year Concert
+* Quest Arts Festival 2024 (formerly known
+as Aesthetic Night)
+* Speech Day
+* Deepavali Concert
 
-**Achievements**
+
+**Key Achievements**
 ----------
 
-*   Singapore Youth Festival 2023 Art Presentation:&nbsp;Certificate&nbsp;of Accomplishment
+NIL
+
+Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
+
+
+

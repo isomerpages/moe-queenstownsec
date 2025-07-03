@@ -10,23 +10,21 @@ variant: markdown
 Design and Innovation
 =====================
 
-**Teachers-in-Charge**
-----------------------
 
-*   Mr Ng Wern Chin Sean – OIC
-*   Mr Ng Lim Jit Hiang
+## **Highlights of the Year**
 
-**More Information on the CCA**
--------------------------------
+Game Development with Scratch and
+Python
 
+Mobile App Activities with MIT App
+Inventor
 
-(1) To cultivate the habit of making, tinkering, iterating and creating, by our students. <br>
-(2) To shift their mindset from that of consuming, to that of creating. <br>
-(3) To cultivate their sensitivity to opportunities for design that improves the lives of others and themselves. 
+AR creation using Endlesstools
+Block-based Coding
 
-The pathways that allow these outcome to materialize, are via our three key programs:  <br>
-(1) Microbit learning where students learn coding to control a microprocessor that can perfom many tasks. <br>
-(2) 3D printing where students make use of CAD drawing (computer aided design) such as Tinkercad, to generate prototype in PLA (polylactic acid) material. <br>
-(3) Traditional hands-on making, using cardboard, acrylic, wood, recycle material, to create products. 
+## **Key Achievements**
 
-The lower secondary classes are taught Micro-bit and 3D printing via vendor support, while upper secondary classes engage in both teacher led projects and self-initiated projects, after gaining experience from the lower secondary learning.
+New Media Youth Competition 2024
+2.5 day computing program
+
+Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.

@@ -10,22 +10,38 @@ variant: markdown
 Scouts (Sea)
 ============
 
-**Teachers-in-Charge**
-----------------------
+## **The Quest to...**
 
-*   Ms Doong Siew Gee Ellie – OC
-*   Mr Chandragus Rinah – 2IC
-*   Mr Peng Boon Yen
-*   Kuay Yuan Tern Kenneth
+•	**The Quest to Spread the 03 Spirit**
 
- 
+The 03 spirit stands for loyalty, excellence in scouting, and personal growth. We strive to spread this spirit through friendship, positivity, and staying true to our troop and the scouting movement. Every 03 scout is an ambassador of this spirit—embracing teamwork, leadership, discipline, and respect for each other’s unique identities.
 
-**More information on the CCA**
--------------------------------
+Our flag, raised at every meeting, proudly symbolizes our independence and heritage. “03” reflects our position as the third scout troop in Singapore, “1903” marks our district code, and the cog represents Queenstown Secondary’s past as a Technical School. The World Scout emblem reminds us of our shared global journey and where we come from.
 
-2023 was a busy and exciting year for our scouts. The Sec 1s were introduced to scouting during the Sec 1 Experience where they enjoyed popcorn while listening to scouting stories by the campfire. During the Recruit Training Camp, the scouts had an opportunity to bond over camping in tents, cooking together and building gadgets. This year our scouts experienced a physical leadership camp at Sarimbun and attended campfires, gangshows and other regular scouting activities. Our scouts also spent eight sessions at Sentosa honing their skills with the various sea sports offered. Queenstown Secondary hosted the South Area Field Day and the units that came all enjoyed themselves tremendously taking part in the games. There were tours to Navy@Vivo, Changi Naval Base and also the Farewell to our Chief Scout President Halimah. And last but not least, we had a bumper crop of seven scouts who achieved the Chief Commisioner’s Award this year. 
 
-**Achievement**
+**Highlights of the Year**
 ----------
+* Sec 1 Experience, Recruit Training Camp
+* Scout Leadership Camp 
+* Sea Sports Module
+* International Friendship Fiesta, 
+* Adiji for President Tharman
+* South Area Cook Off
+* National Patrol Camp
+* National Day Parade
 
-* Frank Coopers Sands Award:  Gold
+
+## **Key Achievements**
+
+This year was packed with adventure, teamwork, and milestones for our 03 Queenstown Scouts. Our Sec 1 recruits kicked off their journey with the Sec 1 Experience—campfire stories, popcorn, and bonding under the stars. They then deepened their skills at the Recruit Training Camp, learning to pitch tents, cook, and build scouting gadgets.
+
+Mid-year, our scouts stepped up at the Scout Leadership Camp, both as participants and service scouts, sharpening their leadership. A major highlight was NPCXI—the first since 2018—where eight scouts represented us with pride, showcasing their camping and pioneering skills on the national stage.
+
+They also took part in the National Day Parade at the Padang and our school’s own parade, showing their pride and dedication. Over eight sessions, they explored sea sports like kayaking and dragon boating, building confidence and a spirit of adventure.
+
+Scouts also competed in the Orienteering Competition and South Area Cook Off, and joined events like the Adiji, Istana Open House, and International Friendship Fiesta.
+
+To top it all off, five scouts earned the prestigious Chief Commissioner’s Award—proof of their hard work and commitment.
+Here’s to another incredible year of growth, fun, and friendship!
+
+Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.

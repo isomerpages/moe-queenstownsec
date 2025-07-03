@@ -10,27 +10,17 @@ variant: markdown
 Basketball (Boys & Girls)
 ==========
 
-**Teachers-in-Charge**
-----------------------
 
-*   Mr Tan Wee Yau Melvin – OIC
-*   Mdm Chan Chu Ying - OIC
-*   Mdm Lee Mei Teng Finna
-*   Mdm Tan Guek Hong Peggy
-
-
-
-**More Information on the CCA**
+**Highlights of the Year**
 -------------------------------
 
-In 2023, the QTSS Basketball Team lived by their motto "Together" in an exciting season. The B division team commenced with an impressive unbeaten streak, progressing to the South Zone quarter-finals through exceptional teamwork. 
-In the quarter-finals, they faced formidable opponents, securing victories but narrowly missed the semi-finals due to a single loss. Their journey was a testament to the underdog spirit, marked by unwavering determination. 
-While the season didn't conclude with a fairy-tale ending, it was a year of indelible memories and strengthened bonds. The boys displayed passion, camaraderie, and learned crucial life lessons. 
-Despite the outcome, 2023 was a year to cherish for the QTSS Basketball Team. Their unity and "Together" spirit will continue to drive them towards future successes, whatever challenges they may encounter.
+This year saw the formation of our Girls’ Basketball Team, who bravely competed in the National School Games despite many being new to the sport. While the results were as expected, the team remained focused and determined to improve. To lay a strong foundation for the upcoming season, they concluded the year by participating in the BM Cup, leveraging the opportunity to refine their skills and bolster their confidence on the court.
 
-
-
-**Accomplishments**
+**Key Achievements**
 ----------
-* National School Games Championship B Division Boys South Zone 2023 – Quarter Finals
-*  National School Games Championship C Division Boys South Zone 2023 – Quarter Finals 
+
+For the Boys’ Basketball Team, the B Division made it to the quarter finals of the South Zone competition, demonstrating their teamwork and grit. Meanwhile, both C Division boys and girls took part in the new league format, competing in League 4 and League 3, respectively, and gained valuable experience on the court.
+
+Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
+
+

@@ -11,25 +11,34 @@ variant: markdown
 Concert Band
 ============
 
-**Teachers-in-Charge**
-----------------------
-
-*   Mdm Liu Yuanxin Amanda – OIC
-*   Mdm Neo Chai Meng
-*   Mdm Chen Cui Xia
 
 
-**Awards**
+**Highlights of the Year**
 ----------
+This year was packed with exciting events for
+Questband. With a close-knit group of dedicated
+members and supportive instructors, we
+made every moment a memorable success.
+The joy of playing together as a band brought
+us closer, allowing us to create beautiful
+music and lasting friendships. Despite facing
+multiple challenges, we stood our ground,
+adapting and supporting one another to the
+very end. Following our motto, “With Passion,
+We can succeed”, Questband will continue
+to persevere and collaborate together to
+achieve our goals and spread the joy of music
+around.
 
-*   Singapore Youth Festival 2023 Art Presentation: Certificate of Distinction
 
-**More information on the CCA**
+**Key Achievements**
 -------------------------------
-We affectionately call ourself the QuestBand. <br>
-QuestBand consists of family members who are passionate about music and will strive to achieve our goals to the best of our ability.  
-Over the years, Questband has managed to secure 5 Certificate of Distinction for the Singapore Youth Festival from 2015 to 2023. 
- 
-QuestBand has provided members with countless opportunities for growth, in our music competencies and character. Not only have we both hosted and participated in many exchanges with other well known schools, we have also showcased a few public performances, in particular, the Singapore Youth Festival 2023 Celebrations held at the Esplanade in July 2023. 
- 
-QuestBand vows to put in our one hundred and one percent in all that we do and stay united as one! With passion, we can succeed! 
+
+From school performances on
+National Day and Chinese New Year to hosting
+our very first Quest Arts Festival, each event
+showcased our passion and teamwork as a
+band.
+
+
+Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
