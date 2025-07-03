@@ -44,9 +44,3 @@ when they attained the coveted award at the Singapore International Choral Festi
 | 2024     |   National Day Carnival Performance at Henderson-Dawson   |  By invitation   |
 | 2024     |   Singapore International Choral Festival   |  Silver Award   |
 | 2025     |   Singapore Youth Festival SYF 2025 Celebrations Festival Concert Shall We Sing?   |  By invitation   |
-
-
-
-
-
-
