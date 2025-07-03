@@ -27,5 +27,3 @@ The B boys trained hard and gave of their best during the B Div NSG to enable th
 The C boys performed beyond expectation. Though they started in Pool E during the group stage, they fought hard, topped the group and moved up to League 4 in the preliminaries round and eventually did the school and themselves proud by achieving runners-up in the League 4 Championship knockout stage.
 
 Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
-
-
