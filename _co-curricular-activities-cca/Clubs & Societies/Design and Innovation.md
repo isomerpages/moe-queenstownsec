@@ -27,6 +27,7 @@ Block-based Coding
 New Media Youth Competition 2024
 2.5 day computing program
 
+Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
 
 
 
