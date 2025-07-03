@@ -44,3 +44,7 @@ as the Guard-of-Honour for the Opening
 Ceremony, symbolizing their leadership
 and dedication to the global Girl Guide
 movement.
+
+Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
+
+
