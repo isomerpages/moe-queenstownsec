@@ -11,21 +11,41 @@ variant: markdown
 Strategy Games
 ==============
 
-**Teachers-in-Charge**
-----------------------
 
-*   Mdm Rozita Bte Beram (OIC)
-*   Ng Kiat Ee Stella
+## **Highlights of the Year**
 
 
-**More Information on the CCA**
--------------------------------
+Our club consists of 42 members: 11 Sec 1; 7
+Sec 2; 11 Sec 3 and 13 Sec 4 students. Strategy
+Games Club aims to build and sharpen
+decision making skills through playing of
+strategy games specifically scrabble and
+chess. We engage established trainers from
+the Scrabble Academy and Accredited Chess
+Trainers to conduct trainings for our students.
 
-Strategy Games Club aims to build and sharpen decision making skills through playing of strategy games specifically scrabble and chess. We engaged established trainers from the Scrabble Academy and Accredited Chess Trainers to conduct trainings for our students. Students were taught innovative and up-to-date strategies in both scrabble and chess by the trainers. 
+Students were taught innovative and up-todate
+strategies in both scrabble and chess
+by the trainers. Our trainings are held every
+Wednesdays afternoon in ITR2.
 
-Competitions:
-Every year, we participate in national and zonal scrabble competitions to compete with other schools for the championship titles. This year, for the Super Zonal Competition 2023 in March 2023, we sent two teams, one team for C division and one team for B division. Our B division won the championship and the C division put up a good fight. 
 
-In September 2023, we send four teams, 2 teams for B division and 2 teams for C division for the Super Zonal Scrabble (SZS).
+## **Key Achievements**
 
-Our C division Team 1 and B division Team 1 won the south division championship titles respectively.
+23rd Inter-School National Scrabble Championship 2024 
+* C division team, Merit (Cup)
+* B division team, Merit (Cup)
+
+Super Zonal Scrabble (SZS) 2024. 
+* C division, South division champion
+
+Victorian Cup 2025
+* 10th place (Int’l Chess)
+
+
+
+
+
+
+
+
