@@ -22,7 +22,20 @@ Our flag, raised at every meeting, proudly symbolizes our independence and herit
 
 
 
-**Highlights of the Year **
+**Highlights of the Year**
 ----------
+* Sec 1 Experience, Recruit Training Camp
+* Scout Leadership Camp 
+* Sea Sports Module
+* International Friendship Fiesta, 
+* Adiji for President Tharman
+* South Area Cook Off
+* National Patrol Camp
+* National Day Parade
 
-* Frank Coopers Sands Award:  Gold
+
+
+
+
+
+
