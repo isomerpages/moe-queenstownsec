@@ -42,8 +42,7 @@ Super Zonal Scrabble (SZS) 2024.
 Victorian Cup 2025
 * 10th place (Int’l Chess)
 
-
-
+Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
 
 
 
