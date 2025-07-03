@@ -27,7 +27,18 @@ As a result of the students’ hard work, this year, our unit celebrates the att
 In December, the girls experienced a 2-day Girl Guides Camp planned by the student leaders. This camp brought back customary activities from pre-COVID-19 days such as a CSI investigation where the girls put their analytical skills to the test by solving the case, with our leaders taking on the role of various characters in the crime scene. We also conducted outdoor cooking and water bomb challenge. Overall, the girls had to step out of their comfort zone to take initiative in looking out for one another but it was a fruitful experience. 
 
 
-**Achievements**
+**Key Achievements**
 ----------
 
-* Puan Noor Aishah Award (PNA) – Gold
+A standout moment was World Thinking Day,
+where five of our Sec 3 Guides were selected
+as the Guard-of-Honour for the Opening
+Ceremony, symbolizing their leadership
+and dedication to the global Girl Guide
+movement. 
+
+
+
+
+
+
