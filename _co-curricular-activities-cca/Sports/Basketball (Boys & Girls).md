@@ -21,4 +21,6 @@ This year saw the formation of our Girls’ Basketball Team, who bravely compete
 
 For the Boys’ Basketball Team, the B Division made it to the quarter finals of the South Zone competition, demonstrating their teamwork and grit. Meanwhile, both C Division boys and girls took part in the new league format, competing in League 4 and League 3, respectively, and gained valuable experience on the court.
 
+Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
+
 
