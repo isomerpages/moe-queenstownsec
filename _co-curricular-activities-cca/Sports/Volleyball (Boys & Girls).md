@@ -22,4 +22,5 @@ competition, both teams managed to reach top 16 in the country.</p>
 <p>Our C division teams have their fair share of success as well. While the
 girls team attained the silver medallist in League 4 in the games, the
 boys team</p>
-<p></p>
+<p>Click <a href="https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+information on CCA teachers, schedule and venues.</p>
