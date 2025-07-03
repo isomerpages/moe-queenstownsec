@@ -10,22 +10,41 @@ variant: markdown
 Malay Dance
 ===========
 
-**Teachers-in-Charge**
-----------------------
 
-*   Miss Noryanti B Md Aris – OIC
-*   Mdm Yahida Yahya
 
-**Awards**
+
+
+**Highlights of the Year**
 ----------
 
-* Singapore Youth Festival 2023 Art Presentation: Certificate of Distinction
+The Malay dance group of Queenstown
+Secondary School is also known as Questari.
+The dance group is a vibrant and integral part
+of the school’s cultural heritage, reflecting
+the rich traditions of the Malay community.
+It is characterized by its graceful movements,
+intricate hand gestures, and expressive
+storytelling. Our dances are often performed
+during internal festive concerts, school
+performing arts events, and social events. Our
+dancers enjoy performing our dance forms
+that symbolizes unity, joy, and community
+spirit. These performances reflect the
+passion and joy that our dancers experienced
+throughout their dancing journey with our
+CCA.
 
-**More Information on the CCA**
--------------------------------
+## **Key Achievements** 
 
-Being in a Performing Art CCA during Covid 19, our dancers were greatly affected due to lack of exposure to external performances. As we moved towards post-covid era, we have heightened our involvement and the students have benefited exponentially with the rigour of the performing art scene. 
+* Chinese New Year Performance
+* Malay Dance Camp
+*  Hari Raya Concert
+*  Quest Art Festival 2024
+*  Speech Day Performance
+*  Communal Lunch 2024
+*  Deepavali Concert
 
-Starting with internal performances during Chinese New Year concert to Hari Raya concert and then celebrating our Queenstownian’s success during Speech Day and to round up our yearly school event, we gave an energetic dance performance during Deepavali concert. 
 
-Our very own Questari dancers put up a great performance during SYF 2023 to bring home the Certificate of Accomplishment with the guidance of our dedicated instructor Cikgu Arif Mustafar. This performance gave the dancers the opportunity to showcase their dance on a competitive platform. We were honoured when some of our Questari dancers were invited to participate in the Opening of Singapore Youth Festival 2023 celebrations to a joint performance with our school concert band at the Esplanade Indoor Theatre. 2023 has indeed given our students an edge in the performing arena. 
+
+
+
