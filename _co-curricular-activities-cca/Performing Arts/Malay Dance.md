@@ -44,7 +44,7 @@ CCA.
 *  Communal Lunch 2024
 *  Deepavali Concert
 
-
+Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
 
 
 
