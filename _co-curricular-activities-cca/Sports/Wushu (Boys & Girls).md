@@ -14,7 +14,7 @@ variant: tiptap
 <p>School Performances during Chinese New Year Celebrations and the Speech
 and Prize Giving Day.</p>
 <h2><strong>Key Achievement</strong></h2>
-<p>&nbsp;National School Games: Wushu</p>
+<p>National School Games: Wushu</p>
 <p></p>
 <p>Click <a href="https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 information on CCA teachers, schedule and venues.</p>
