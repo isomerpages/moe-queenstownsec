@@ -21,6 +21,8 @@ they attained 3rd and 4th placing respectively. Proceeding on to the Nationals
 competition, both teams managed to reach top 16 in the country.</p>
 <p>Our C division teams have their fair share of success as well. While the
 girls team attained the silver medallist in League 4 in the games, the
-boys team</p>
+boys team was just short of a medal placing but have grown in their fortitude
+through the games.</p>
+<p></p>
 <p>Click <a href="https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 information on CCA teachers, schedule and venues.</p>
