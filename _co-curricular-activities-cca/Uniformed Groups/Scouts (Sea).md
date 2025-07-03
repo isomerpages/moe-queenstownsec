@@ -44,9 +44,6 @@ Scouts also competed in the Orienteering Competition and South Area Cook Off, an
 To top it all off, five scouts earned the prestigious Chief Commissioner’s Award—proof of their hard work and commitment.
 Here’s to another incredible year of growth, fun, and friendship!
 
-
-
-
-
+Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
 
 
