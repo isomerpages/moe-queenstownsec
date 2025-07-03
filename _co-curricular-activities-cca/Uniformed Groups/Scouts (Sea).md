@@ -10,22 +10,18 @@ variant: markdown
 Scouts (Sea)
 ============
 
-**Teachers-in-Charge**
-----------------------
+## **The Quest to...**
 
-*   Ms Doong Siew Gee Ellie – OC
-*   Mr Chandragus Rinah – 2IC
-*   Mr Peng Boon Yen
-*   Kuay Yuan Tern Kenneth
+•	**The Quest to Spread the 03 Spirit**
+
+The 03 spirit stands for loyalty, excellence in scouting, and personal growth. We strive to spread this spirit through friendship, positivity, and staying true to our troop and the scouting movement. Every 03 scout is an ambassador of this spirit—embracing teamwork, leadership, discipline, and respect for each other’s unique identities.
+Our flag, raised at every meeting, proudly symbolizes our independence and heritage. “03” reflects our position as the third scout troop in Singapore, “1903” marks our district code, and the cog represents Queenstown Secondary’s past as a Technical School. The World Scout emblem reminds us of our shared global journey and where we come from.
 
  
 
-**More information on the CCA**
--------------------------------
 
-2023 was a busy and exciting year for our scouts. The Sec 1s were introduced to scouting during the Sec 1 Experience where they enjoyed popcorn while listening to scouting stories by the campfire. During the Recruit Training Camp, the scouts had an opportunity to bond over camping in tents, cooking together and building gadgets. This year our scouts experienced a physical leadership camp at Sarimbun and attended campfires, gangshows and other regular scouting activities. Our scouts also spent eight sessions at Sentosa honing their skills with the various sea sports offered. Queenstown Secondary hosted the South Area Field Day and the units that came all enjoyed themselves tremendously taking part in the games. There were tours to Navy@Vivo, Changi Naval Base and also the Farewell to our Chief Scout President Halimah. And last but not least, we had a bumper crop of seven scouts who achieved the Chief Commisioner’s Award this year. 
 
-**Achievement**
+**Highlights of the Year **
 ----------
 
 * Frank Coopers Sands Award:  Gold
