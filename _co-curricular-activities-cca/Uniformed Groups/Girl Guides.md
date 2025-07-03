@@ -11,20 +11,28 @@ Girl Guides
 ===========
 
 
-**More information about the CCA**
+**Highlights of the Year**
 ----------------------------------
+At South Division Day, our girls demonstrated
+their creativity and leadership by designing a
+custom patch. Additionally, a group of Guides
+designed and led mindfulness exercises for
+students from other schools, encouraging
+self-care and emotional well-being in their
+peers. 
 
-Girl Guides seeks to empower girls to make a change in the world. To this end, our students learn to serve one another and the community by equipping themselves with outdoors and housekeeping skills as well as advocating for social causes.  
- 
-During their CCA sessions this year, the girls not only honed their foot drills and campcraft skills, they participated in several activities that made an impact on society. One such activity was plogging, where they picked up litter across the school compound.  In addition, to tie in with the Presidential Election, the girls also did their own research into Singapore’s government system and educated their peers on the topic so as to develop greater awareness of their own nation.  
- 
-Earlier this year, three of our guides, Tricia Ying, Selvam Anisha and Sharmaine Ang, also facilitated a ‘Free Being Me’ seminar over Zoom where they advocated for body confidence and self-esteem. This seminar was attended by 180 participants from schools in the South Division. 
- 
-In April, our unit participated in the annual South Division Day, a gathering of Girl Guides units from schools in the South Division. Our guides had the privilege to host a fitness booth where they put together a dance that incorporated workout routines and an engagement booth where they educated participants about ‘Our World, our Peaceful Future.’  
- 
-As a result of the students’ hard work, this year, our unit celebrates the attainment of the Puan Noor Aishah Award (PNA) – Gold. The PNA recognises the unit’s contribution to the school, community, and Girl Guides Singapore. It was the first time in a few years that we have achieved the Gold award, and we are proud of the unit’s accomplishment that testifies of our students’ excellence. 
- 
-In December, the girls experienced a 2-day Girl Guides Camp planned by the student leaders. This camp brought back customary activities from pre-COVID-19 days such as a CSI investigation where the girls put their analytical skills to the test by solving the case, with our leaders taking on the role of various characters in the crime scene. We also conducted outdoor cooking and water bomb challenge. Overall, the girls had to step out of their comfort zone to take initiative in looking out for one another but it was a fruitful experience. 
+This year’s National Day Parade was another
+highlight, where our Guides proudly
+participated, contributing to the spirit of
+national pride and unity. Their involvement
+in such an important event deepened their
+sense of responsibility and connection to the
+nation.
+
+Perhaps the most memorable event of the
+year was the Guides 3D2N Camp, the first held
+in four years since the COVID-19 pandemic.
+This student-led camp was a testament to
 
 
 **Key Achievements**
@@ -35,10 +43,4 @@ where five of our Sec 3 Guides were selected
 as the Guard-of-Honour for the Opening
 Ceremony, symbolizing their leadership
 and dedication to the global Girl Guide
-movement. 
-
-
-
-
-
-
+movement.
