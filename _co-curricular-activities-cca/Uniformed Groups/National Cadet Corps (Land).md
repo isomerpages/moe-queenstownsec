@@ -11,14 +11,6 @@ variant: markdown
 National Cadet Corps (Land)
 ===========================
 
-
-
-
-**Achievements**
-----------
-
-*   Unit Recognition: Distinction 
-
 **Highlights of the Year**
 -------------------------------
 * School Open House 2023 
@@ -33,9 +25,9 @@ Parade
 * Inter-Uniformed-Group Community Clean
 Up (self-initiated)
 
+## **Key Achievements**
 
+Unit Recognition 2023: Distinction
 
-
-
-
+Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
 
