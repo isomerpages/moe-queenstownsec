@@ -10,23 +10,39 @@ variant: markdown
 Red Cross Youth
 ===============
 
-**Teachers-in-Charge**
-----------------------
+# The Quest to...
 
-*   Ms Ng Li Khoon Nancy – OIC
-*   Mdm Tan Jin Ping Cherlyn - 2IC
-*   Mdm Koh Gek Khim
+![](/images/Picture1dc.png)
 
-**Achievement**
+The Quest to make a difference in our community
+
+At Red Cross Youth (RCY), cadets are presented with a wealth of opportunities to lead with compassion, act with purpose and serve with unwavering dedication. Cadets participate in a myriad of activities that foster a deep sense of community and civic responsibility, developing essential life-saving skills and blood donation knowledge, embarking on fundraising initiatives to uplift vulnerable persons and families and engaging in local community service and overseas humanitarian projects. As part of its strong commitment to humanitarian efforts, cadets are empowered to make a positive difference in society, reinforcing the values of service and solidarity that are at the heart of RCY.
+
+
+**Highlights of the Year**
 ----------
 
-* Unit Excellence Award: Gold
+• World Red Cross Day
+• National Camp
+• Red Cross Youth Challenge Camp
+• QTSS Red Cross Youth Unit Camp
+• Overseas Humanitarian Programme
+• Unit Leader Programme
+• Unit Specialist Programmes
+• Gold Modular Workshops
+• Red Cross Youth Proficiency Tests (Theory
+and Practical)
+• Passing-out Parade
+• QTSS National Day Parade
+• Secondary 1 CCA Experience
 
-**More Information about the CCA**
-----------------------------------
 
-QTSS RCY had more key events in 2023. These events provided us with a platform to gain meaningful and memorable experience and helped us mature and gain confidence.  
+# **Key Achievements** 
  
-In RCY, we learned many qualities, such as discipline and leadership. We also learned many important life skills, such as First Aid, including CPR, and many more, such as collaboration and communication skills. We learnt mainly to administer healthcare and save lives, as well as help the sick and the suffering. First aid aside, we also learned to care for our environment. In one of the key events, we went around Dawson to pick up litter. It was an eye-opening experience as we never realised just how much rubbish surrounded our school. Through this experience, we learned about the importance of taking care of our environment. 
- 
-In QTSS Red Cross Youth, we hope to instil not only care for each other, but also care for the environment around us. 
+* Excellent Unit Award (Gold)
+* First Aid Championship (Senior) (Bronze)
+* First Aid Championship (Junior) (Bronze)
+
+
+
+
