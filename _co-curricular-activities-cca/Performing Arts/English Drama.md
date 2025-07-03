@@ -21,11 +21,14 @@ instructor has also brought fresh insights
 and inspiration to the team. 
 
 
-## **Key Achievements** 
+## **Key Achievements**
 
 
+This year, Drama Club captivated audiences and showcased
+their talent in performances for International
+Friendship Day and the Quest Arts Festival.
 
 
-
+Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
 
 
