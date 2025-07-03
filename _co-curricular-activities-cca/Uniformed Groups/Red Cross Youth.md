@@ -22,19 +22,19 @@ At Red Cross Youth (RCY), cadets are presented with a wealth of opportunities to
 **Highlights of the Year**
 ----------
 
-• World Red Cross Day
-• National Camp
-• Red Cross Youth Challenge Camp
-• QTSS Red Cross Youth Unit Camp
-• Overseas Humanitarian Programme
-• Unit Leader Programme
-• Unit Specialist Programmes
-• Gold Modular Workshops
-• Red Cross Youth Proficiency Tests (Theory
+* World Red Cross Day
+* National Camp
+* Red Cross Youth Challenge Camp
+* QTSS Red Cross Youth Unit Camp
+* Overseas Humanitarian Programme
+* Unit Leader Programme
+* Unit Specialist Programmes
+* Gold Modular Workshops
+* Red Cross Youth Proficiency Tests (Theory
 and Practical)
-• Passing-out Parade
-• QTSS National Day Parade
-• Secondary 1 CCA Experience
+* Passing-out Parade
+* QTSS National Day Parade
+* Secondary 1 CCA Experience
 
 
 # **Key Achievements** 
@@ -45,4 +45,3 @@ and Practical)
 
 
 Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
-
