@@ -24,7 +24,12 @@ as Aesthetic Night)
 * Deepavali Concert
 
 
-**Achievements**
+**Key Achievements**
 ----------
 
-*   Singapore Youth Festival 2023 Art Presentation:&nbsp;Certificate&nbsp;of Accomplishment
+NIL
+
+Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
+
+
+
