@@ -41,15 +41,9 @@ when they attained the coveted award at the Singapore International Choral Festi
 | 2023     |   Singapore Youth Festival Arts Presentation   |  Accomplishment   |
 | 2023     |   Voices of Singapore (VOS) Presentation   |    |
 | 2024     |   Quest Arts Festival concert    |    |
-| 2024     |   National Day Carnival Performance at Henderson-Dawson   |  Accomplishment   |
-
-
-
-
-
-
-
-
+| 2024     |   National Day Carnival Performance at Henderson-Dawson   |  By invitation   |
+| 2024     |   Singapore International Choral Festival   |  Silver Award   |
+| 2025     |   Singapore Youth Festival SYF 2025 Celebrations Festival Concert Shall We Sing?   |  By invitation   |
 
 
 
