@@ -5,21 +5,12 @@ variant: markdown
 description: ""
 third_nav_title: Performing Arts
 ---
-
 ![](/images/MicrosoftTeams_image__34_.png)
 
 
 
 Digital Media Club
 =============
-
-
-
-## Teachers-in-Charge:
-Mr Daniel Foo – OIC <br>
-Mr Sean David – OIC <br>
-Mr Fu Ruiqi – AV OIC <br>
-Mdm Bairavanathan Deepa
 
 
 2023 was a fulfilling year for the Digital Media Club. For the first time, our Secondary 4 seniors had the opportunity to step up and mentor their juniors, while teaching them the basics of photo composition. We were also keen on allowing students to use their talents in photography as a form of advocacy. As such, students got to learn from established organisations and professionals such as Nature Society (Singapore), Professional Naturalist YouTubers, and the Salvation Army. With this knowledge, they then went out to the Singapore Quarry to take photos to advocate for sustainability. <br><br>
