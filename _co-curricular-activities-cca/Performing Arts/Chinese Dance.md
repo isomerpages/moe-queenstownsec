@@ -10,9 +10,6 @@ variant: markdown
 Chinese Dance
 =============
 
-**Teachers-in-Charge**
-----------------------
-
 
 **Highlights of the Year**
 -------------------------------
@@ -27,9 +24,6 @@ as Aesthetic Night)
 **Key Achievements**
 ----------
 
-NIL
+2025 Singapore Youth Festival Presentation: Certificate of Distinction
 
 Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
-
-
-
