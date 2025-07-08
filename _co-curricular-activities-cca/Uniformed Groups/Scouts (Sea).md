@@ -12,7 +12,7 @@ Scouts (Sea)
 
 ## **The Quest to...**
 
-•	**The Quest to Spread the 03 Spirit**
+**The Quest to Spread the 03 Spirit**
 
 The 03 spirit stands for loyalty, excellence in scouting, and personal growth. We strive to spread this spirit through friendship, positivity, and staying true to our troop and the scouting movement. Every 03 scout is an ambassador of this spirit—embracing teamwork, leadership, discipline, and respect for each other’s unique identities.
 
