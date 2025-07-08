@@ -24,6 +24,11 @@ as Aesthetic Night)
 **Key Achievements**
 ----------
 
-2025 Singapore Youth Festival Presentation: Certificate of Distinction
+
+| Year | Events | Achievement |
+| -------- | -------- | -------- |
+| 2023     |   Singapore Youth Festival Arts Presentation   |  Accomplishment   |
+| 2025    |    Singapore Youth Festival Arts Presentation  | Distinction   |
+
 
 Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
