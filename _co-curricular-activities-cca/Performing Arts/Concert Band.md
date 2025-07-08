@@ -40,5 +40,10 @@ our very first Quest Arts Festival, each event
 showcased our passion and teamwork as a
 band.
 
+| Year | Events | Achievement |
+| -------- | -------- | -------- |
+| 2023     |   Singapore Youth Festival Arts Presentation  |  Distinction  |
+| 2025    |    Singapore Youth Festival Arts Presentation  | Distinction   |
+
 
 Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
