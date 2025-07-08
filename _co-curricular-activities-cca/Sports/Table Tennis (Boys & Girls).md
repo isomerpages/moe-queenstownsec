@@ -9,12 +9,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/table-tennis.jpg">
 </div>
 <h1>Table Tennis (Boys &amp; Girls</h1>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-<p></p>
-</li>
-</ul>
 <h2><strong>Highlights of the Year</strong></h2>
 <p>Sent 3 teams to National School Games 2024</p>
 <p></p>
