@@ -1,20 +1,46 @@
 ---
 title: Digital Media Club
 permalink: /cca/clubs-and-societies/digitalmedia/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Performing Arts
 ---
-![](/images/MicrosoftTeams_image__34_.png)
-
-
-
-Digital Media Club
-=============
-
-
-2023 was a fulfilling year for the Digital Media Club. For the first time, our Secondary 4 seniors had the opportunity to step up and mentor their juniors, while teaching them the basics of photo composition. We were also keen on allowing students to use their talents in photography as a form of advocacy. As such, students got to learn from established organisations and professionals such as Nature Society (Singapore), Professional Naturalist YouTubers, and the Salvation Army. With this knowledge, they then went out to the Singapore Quarry to take photos to advocate for sustainability. <br><br>
-
-To add, students also got to learn from a wide variety of professionals during the year. This includes learning journeys to The Gym Esportscentre to learn about broadcasting, Mothership to learn about digital journalism, and Mount Studio to experience what goes on in a professional photography studio. We also invited Jason, a guest photographer from Lianhe Zaobao, to share more about being a professional photographer. To widen their experience, the DMC also collaborated with Singapore Poly Photography Club to have a sharing session where they learnt best practices from one another. <br><br>
-
-Finally, students also attended a portrait photography workshop titled ‘Digital Photography - Portraiture with Natural Light’ and actively took part in the annual  ‘ClickArt Showcase’ and ‘Our Schools Our Stories’ photo competition to gain valuable experience and develop excellence in photography.
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MicrosoftTeams_image__34_.png">
+</div>
+<h1>Digital Media Club</h1>
+<h3>The Quest to…</h3>
+<p>The Digital Media Club is committed to serving the school by taking photographs
+at school events. Students in the Digital Media Club acquire the necessary
+photography skills to grow their sense and capability as leaders. Our students
+aspire to capture moments that tell a story.&nbsp;</p>
+<h3><strong>Highlights of the Year</strong></h3>
+<p>Learning Journey:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NUS Museum</p>
+</li>
+<li>
+<p>Enabling Village</p>
+</li>
+</ul>
+<h3>Key Achievements</h3>
+<p>Participation in Competitions:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Our School, Our Stories 2024</p>
+</li>
+<li>
+<p>ClickArt S2 Cluster Photography Showcase 2024</p>
+<p></p>
+</li>
+</ul>
+<p>Click <a href="https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+information on CCA teachers, schedule and venues.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
