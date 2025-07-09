@@ -9,7 +9,6 @@ third_nav_title: Performing Arts
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MicrosoftTeams_image__34_.png">
 </div>
 <h1>Digital Media Club</h1>
-<p></p>
 <h3>The Quest to…</h3>
 <p>The Digital Media Club is committed to serving the school by taking photographs
 at school events. Students in the Digital Media Club acquire the necessary
