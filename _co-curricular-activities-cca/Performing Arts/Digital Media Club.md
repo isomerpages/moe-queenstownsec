@@ -10,7 +10,7 @@ third_nav_title: Performing Arts
 </div>
 <h1>Digital Media Club</h1>
 <p></p>
-<h3>The Quest to… </h3>
+<h3>The Quest to…</h3>
 <p>The Digital Media Club is committed to serving the school by taking photographs
 at school events. Students in the Digital Media Club acquire the necessary
 photography skills to grow their sense and capability as leaders. Our students
@@ -25,7 +25,7 @@ aspire to capture moments that tell a story.&nbsp;</p>
 <p>Enabling Village</p>
 </li>
 </ul>
-<h3>Key Achievements </h3>
+<h3>Key Achievements</h3>
 <p>Participation in Competitions:</p>
 <ul data-tight="true" class="tight">
 <li>
