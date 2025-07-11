@@ -15,6 +15,17 @@ variant: tiptap
 <p><a href="/files/GCE_O_Level_Prelim_2025_Timetable_Updated.pdf" rel="noopener nofollow" target="_blank">GCE O Level Prelim 2025 Timetable</a>
 </p>
 </li>
+<li>
+<p><a href="/files/2025_T3_Assessment_Info_for_students_Sec_1_WA3.pdf" rel="noopener nofollow" target="_blank">2025 WA3 Assessment Info for Sec 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_T3_Assessment_Info_for_students_Sec_2_WA3.pdf" rel="noopener nofollow" target="_blank">2025 WA3 Assessment Info for Sec 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_T3_Assessment_Info_for_students_Sec_3_WA3.pdf" rel="noopener nofollow" target="_blank">2025 WA3 Assessment Info for Sec 3</a>
+</p>
+</li>
 </ol>
-<p></p>
-<p>Updated on 26 June 2025</p>
+<p>Updated on 11 July 2025</p>
