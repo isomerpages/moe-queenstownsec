@@ -1,6 +1,6 @@
 ---
-title: DSA
-permalink: /admission/
+title: Direct School Admission (DSA)
+permalink: /directschooladmission/
 description: ""
 variant: tiptap
 ---
@@ -45,7 +45,7 @@ the description of each talent area):</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will open from 7 May 2025, 11am to
 3 June 2025, 3pm. For more details, please refer to the MOE website –
-<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p></p>
 </li>
