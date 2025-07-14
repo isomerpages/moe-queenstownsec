@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2025_T3_Assessment_Info_for_students_Sec_1_WA3.pdf" rel="noopener nofollow" target="_blank">2025 WA3 Assessment Info for Sec 1</a>
+<p><a href="/files/2025_T3_Assessment_Info_for_students_Sec_1_WA3_ver___2.pdf" rel="noopener nofollow" target="_blank">2025 WA3 Assessment Info for Sec 1</a>
 </p>
 </li>
 <li>
@@ -28,4 +28,4 @@ variant: tiptap
 </p>
 </li>
 </ol>
-<p>Updated on 11 July 2025</p>
+<p>Updated on 14 July 2025</p>
