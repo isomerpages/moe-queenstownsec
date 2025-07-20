@@ -161,8 +161,28 @@ to nurture innovation and creativity among students.</p>
 </p>
 <p><em>- <a href="https://www.bwgcircles.com/about" rel="noopener noreferrer nofollow" target="_blank">https://www.bwgcircles.com/about</a></em>
 </p>
-<p></p>
-<p></p>
+<h3><br>Captain Jaffar Hassan</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Captain_Jaffar_Hassan__002_.jpg">
+</div>
+<p>Captain Jaffar Hassan is a distinguished aviation professional who began
+his flying career in 1989. His extensive experience and commitment to the
+aviation industry have made him a respected figure in both national and
+international aviation communities.​</p>
+<p>Captain Hassan is currently flying the Airbus A380 for Singapore Airlines
+and he is also serving as the Executive Vice President for the Asia-Pacific
+region. He is a board member at the International Federation of Air Line
+Pilots' Associations (IFALPA). In this capacity, he plays a pivotal role
+in representing and advocating for airline pilots across the Globe and
+especially the Asia-Pacific region. Captain Hassan is also passionate and
+dedicated to enhancing aviation safety standards and continues to drive
+positive developments within the industry. He is also working with the
+local government and&nbsp;non-government agencies to advocate interest
+and a career choice in the Aviation industry among students, youths and
+young professionals in Singapore.
+<br>
+<br>
+</p>
 <h3>Mr Picasso Tan</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Picture72.png">
@@ -182,7 +202,9 @@ unforgettable experiences for each event, continually raising the bar in
 event production through his creativity and innovation.</p>
 <p><em>Information from: <a href="https://pip.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pip.sg/</a></em>
 </p>
-<p></p>
+<p>
+<br>
+</p>
 <h3>Dr Tan Eng Khim</h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -238,6 +260,8 @@ of an artist.</p>
 <p><em><a href="https://www.VETatRV.com" rel="noopener nofollow" target="_blank">Animal Medical Centre (VET@RV) clinic</a></em>
 </p>
 <p><em><a href="https://www.zaobao.com.sg/lifestyle/culture/story20250627-6917018" rel="noopener nofollow" target="_blank">Lianhe Zaobao feature article</a></em>
+<br>
+<br>
 </p>
 <h3>Dr Siva Gopal Thaiyalan &nbsp;</h3>
 <div class="isomer-image-wrapper">
