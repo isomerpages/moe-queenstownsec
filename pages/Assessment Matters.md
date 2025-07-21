@@ -24,10 +24,10 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2025_T3_Assessment_Info_for_students_Sec_3_WA3.pdf" rel="noopener nofollow" target="_blank">2025 WA3 Assessment Info for Sec 3</a>
+<p><a href="/files/2025_T3_Assessment_Info_for_students_Sec_3_WA3_ver__2_1.pdf" rel="noopener nofollow" target="_blank">2025 WA3 Assessment Info for Sec 3</a>
 </p>
 </li>
 </ol>
-<p>Updated on 16 July 2025</p>
+<p>Updated on 21 July 2025</p>
 <p></p>
 <p></p>
