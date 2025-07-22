@@ -28,6 +28,6 @@ variant: tiptap
 </p>
 </li>
 </ol>
-<p>Updated on 21 July 2025</p>
+<p>Updated on 22 July 2025</p>
 <p></p>
 <p></p>
