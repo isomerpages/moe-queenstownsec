@@ -16,11 +16,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2025_T3_Assessment_Info_for_students_Sec_1_WA3_ver_3.pdf" rel="noopener nofollow" target="_blank">2025 WA3 Assessment Info for Sec 1</a>
+<p><a href="/files/2025_T3_Assessment_Info_for_students___Sec1.pdf" rel="noopener nofollow" target="_blank">2025 WA3 Assessment Info for Sec 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_T3_Assessment_Info_for_students_Sec_2_WA3.pdf" rel="noopener nofollow" target="_blank">2025 WA3 Assessment Info for Sec 2</a>
+<p><a href="/files/2025_T3_Assessment_Info_for_students___Sec2.pdf" rel="noopener nofollow" target="_blank">2025 WA3 Assessment Info for Sec 2</a>
 </p>
 </li>
 <li>
