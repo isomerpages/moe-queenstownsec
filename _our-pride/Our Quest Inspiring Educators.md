@@ -26,7 +26,20 @@ sharing sessions.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture265.jpg">
 </div>
 <p></p>
+<h4><strong>2024 Best National Institute of Education (NIE) Tamil Trainee Teacher Award – Ms Bhavana d/o Rajaram</strong></h4>
+<p>We are proud to share that Ms Bhavana d/o Rajaram, who joined our school
+in 2024, received the Best NIE Tamil Trainee Teacher Award during the Most
+Inspiring Tamil Teachers' Award Ceremony 2024. This award ceremony celebrates
+the excellent performance of Tamil Language teachers in educating and promoting
+Tamil Language among their students.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture353.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<h4><strong><br><br></strong></h4>
 <p></p>
 <p></p>
 <p></p>
