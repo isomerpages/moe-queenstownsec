@@ -2,5 +2,6 @@ collections:
   our-pride:
     output: true
     order:
+      - Our Quest Inspiring Educators.md
       - Media Highlights.md
       - Our Quest Alumni.md
