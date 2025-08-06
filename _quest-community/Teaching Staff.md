@@ -448,7 +448,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Siew Kim Dora <a href="mailto:ong_siew_kim_dora_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_siew_kim_dora_b@moe.edu.sg</a>
+<p>Mr Kua Cheow Khoon, Ken <a href="mailto:zhao_fang_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(</a><a href="mailto:kua_cheow_khoon_ken@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kua_cheow_khoon_ken@moe.edu.sg</a>
+<a href="mailto:zhao_fang_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
