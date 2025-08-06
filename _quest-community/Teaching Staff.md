@@ -448,7 +448,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Siew Kim Dora <a href="mailto:ong_siew_kim_dora_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_siew_kim_dora_b@moe.edu.sg</a>
+<p>Mr Kua Cheow Khoon, Ken <a href="mailto:zhao_fang_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(</a><a href="mailto:kua_cheow_khoon_ken@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kua_cheow_khoon_ken@moe.edu.sg</a>
+<a href="mailto:zhao_fang_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -493,25 +494,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Teck Soon <a href="mailto:tan_teck_soon_a_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(tan_teck_soon_a_1@moe.edu.sg)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sundaram Kousalya <a href="mailto:sundaram_kousalya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(sundaram_kousalya@moe.edu.sg)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Phoa Hua Liew <a href="mailto:phoa_hua_liew_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(phoa_hua_liew_b@moe.edu.sg)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Oh Wen Xuan<a href="mailto:yeo_wanyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(oh_wen_xuan@moe.edu.sg)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -539,6 +531,15 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Low Kai Syang Jeffrey <a href="mailto:low_kai_syang_jeffrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(low_kai_syang_jeffrey@moe.edu.sg)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Yan Rong <a href="mailto:tan_yan_rong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(tan_yan_rong_a@moe.edu.sg)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
