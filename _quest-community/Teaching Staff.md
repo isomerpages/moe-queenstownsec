@@ -529,8 +529,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Yan Rong</p>
-<p><a href="mailto:tan_yan_rong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yan_rong_a@moe.edu.sg</a>
+<p>Ms Tan Yan Rong <a href="mailto:tan_yan_rong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(tan_yan_rong_a@moe.edu.sg)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
