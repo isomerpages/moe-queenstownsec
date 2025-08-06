@@ -493,24 +493,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Teck Soon <a href="mailto:tan_teck_soon_a_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(tan_teck_soon_a_1@moe.edu.sg)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sundaram Kousalya <a href="mailto:sundaram_kousalya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(sundaram_kousalya@moe.edu.sg)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Phoa Hua Liew <a href="mailto:phoa_hua_liew_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(phoa_hua_liew_b@moe.edu.sg)</a>
 </p>
 </td>
@@ -539,6 +521,16 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Low Kai Syang Jeffrey <a href="mailto:low_kai_syang_jeffrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(low_kai_syang_jeffrey@moe.edu.sg)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Yan Rong</p>
+<p><a href="mailto:tan_yan_rong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yan_rong_a@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
