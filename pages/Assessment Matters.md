@@ -27,7 +27,19 @@ variant: tiptap
 <p><a href="/files/2025_T3_Assessment_Info_for_students_Sec_3_WA3_ver__2_1.pdf" rel="noopener nofollow" target="_blank">2025 WA3 Assessment Info for Sec 3</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Sec_1_EOY_2025_Timetable_final.pdf" rel="noopener nofollow" target="_blank">Sec 1 End of Year 2025 Exam Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sec_2_EOY_2025_Timetable_final.pdf" rel="noopener nofollow" target="_blank">Sec 2 End of Year 2025 Exam Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sec_3_EOY_2025_Timetable_final.pdf" rel="noopener nofollow" target="_blank">Sec 3 End of Year 2025 Exam Timetable</a>
+</p>
+</li>
 </ol>
-<p>Updated on 15 August 2025</p>
+<p>Updated on 21 August 2025</p>
 <p></p>
 <p></p>
