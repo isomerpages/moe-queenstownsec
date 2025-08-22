@@ -28,11 +28,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_1_EOY_2025_Timetable_final.pdf" rel="noopener nofollow" target="_blank">Sec 1 End of Year 2025 Exam Timetable</a>
+<p><a href="/files/EOY_2025_Timetable_Sec1_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 End of Year 2025 Exam Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EOY_2025_Timetable_Sec2.pdf" rel="noopener nofollow" target="_blank">Sec 2 End of Year 2025 Exam Timetable</a>
+<p><a href="/files/EOY_2025_Timetable_Sec2_1.pdf" rel="noopener nofollow" target="_blank">Sec 2 End of Year 2025 Exam Timetable</a>
 </p>
 </li>
 <li>
