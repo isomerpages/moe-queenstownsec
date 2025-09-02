@@ -32,7 +32,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/EOY_2025_Timetable__Sec2.pdf" rel="noopener nofollow" target="_blank">Sec 2 End of Year 2025 Exam Timetable</a>
+<p><a href="/files/EOY_2025_Timetable_finalSec2_1.pdf" rel="noopener nofollow" target="_blank">Sec 2 End of Year 2025 Exam Timetable</a>
 </p>
 </li>
 <li>
@@ -40,6 +40,6 @@ variant: tiptap
 </p>
 </li>
 </ol>
-<p>Updated on 27 August 2025</p>
+<p>Updated on 2 September 2025</p>
 <p></p>
 <p></p>
