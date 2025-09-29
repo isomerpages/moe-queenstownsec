@@ -183,7 +183,7 @@ variant: tiptap
 <h4>Secondary One <br></h4>
 <p><strong><u>1 Gratitude (1 GR)</u></strong> 
 <br>Mdm Khoo Siew Hwee Grace <a href="mailto:%20khoo_siew_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(khoo_siew_hwee@moe.edu.sg)</u></a>
-<br>Ms Freya Keertika (<a href="mailto:lim_jit_hiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">freya_keertika@moe.edu.sg</a>)</p>
+<br>Ms Freya Keertikar (<a href="mailto:lim_jit_hiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">freya_keertikar@moe.edu.sg</a>)</p>
 <p></p>
 <p><strong><u>1 Aspire (1 AS)</u></strong> 
 <br>Ms Lim Li Kiang (<a href="mailto:lim_li_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_kiang@moe.edu.sg</a>)
