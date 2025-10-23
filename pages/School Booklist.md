@@ -12,7 +12,7 @@ School Booklist
 
 #### Secondary 1
 
-* Sec 1 Booklist to be confirm
+* Sec 1 to be confirm
 
 
 #### Secondary 2
@@ -35,7 +35,7 @@ School Booklist
 
 #### Secondary 5
 
-- [Sec 5 NA](/files/QTSS_2025_S5_NA.pdf)
+- Sec 5 to be confirm
 
 
 -------------------
