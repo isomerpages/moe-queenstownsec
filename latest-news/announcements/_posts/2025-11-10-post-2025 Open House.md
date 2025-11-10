@@ -36,6 +36,8 @@ QTSS has to offer!</p>
 <br>📆<strong>29 November 2025 (Saturday)</strong>
 <br>🕣<strong>8.30am – 12.30pm</strong>
 </p>
+<p></p>
+<h4>2024 Open House Resources</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/2024_open_house_principal_talk_part1.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the 2024 QTSS Open House Principal's Talk (Part 1)</a>
