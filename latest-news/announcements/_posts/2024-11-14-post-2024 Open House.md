@@ -7,21 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/2024_open_house_principal_talk_part1.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the 2024 QTSS Open House Principal's Talk (Part 1)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024_open_house_principal_talk_part2.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the 2024 QTSS Open House Principal's Talk (Part 2)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024_QTSS_Open_House_e_brochure.pdf" rel="noopener nofollow" target="_blank">Download the 2024 QTSS Open House e Brochure</a>
-<br>
-</p>
-</li>
-</ul>
 <p><strong>Welcome to Queenstown Secondary School!</strong>
 </p>
 <p></p>
@@ -50,6 +35,22 @@ QTSS has to offer!</p>
 <p>📍 <strong>1 Strathmore Road, S148800</strong>
 <br>📆<strong>29 November 2025 (Saturday)</strong>
 <br>🕣<strong>8.30am – 12.30pm</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2024_open_house_principal_talk_part1.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the 2024 QTSS Open House Principal's Talk (Part 1)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2024_open_house_principal_talk_part2.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the 2024 QTSS Open House Principal's Talk (Part 2)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2024_QTSS_Open_House_e_brochure.pdf" rel="noopener nofollow" target="_blank">Download the 2024 QTSS Open House e Brochure</a>
+</p>
+</li>
+</ul>
+<p>
 <br>
 <br>
 </p>
