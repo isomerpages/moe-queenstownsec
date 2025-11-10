@@ -22,7 +22,7 @@ sections:
       id: resources
       button: View More
   - infopic:
-      title: 2024 Open House
+      title: 2025 Open House
       id: infopic
       description: Find out more about what makes QTSS unique.
       button: view more
