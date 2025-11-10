@@ -22,25 +22,34 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>Join us for QTSS Open House!</p>
+<p><strong>Welcome to Queenstown Secondary School!</strong>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ophouse.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image__1___1_.jpg">
 </div>
 <p>
-<br>We have exciting events in store for you!
+<br><strong>Are you ready for a day of discovery and inspiration?</strong>
+</p>
+<p>🌟 <strong>Find out more about us from our Principal</strong> during the
+engaging sharing sessions 💬 at the Learning Commons (Library), and explore
+our <em>signature programmes and departments&nbsp;</em>🏫 showcased at the
+Learning Commons and Foyer.</p>
+<p>🎶 <strong>Feel the energy of Queenstown</strong> through captivating <em>performances</em> 🎤💃
+by our talented <em>Concert Band, Malay Dance, Chinese Dance,</em> and <em>Choir</em> at
+both the Learning Commons and Parade Square.</p>
+<p>💻 <strong>Explore the future of learning</strong> with hands-on exhibits
+at our booths<em>&nbsp;</em>⚙️, where innovation meets creativity 🔍.</p>
+<p>🧑‍🤝‍🧑 <strong>Meet our student leaders and changemakers</strong>, who
+will share how they bring ideas 💡 to life and strengthen the QTSS spirit
+through teamwork and service 🤝.</p>
+<p>🎈 With talks, performances and interactive booths, there's lots to see
+and do, so come down and experience the excitement and opportunities that
+QTSS has to offer!</p>
+<p>We can’t wait to welcome you! 💙</p>
+<p>📍 <strong>1 Strathmore Road, S148800</strong>
+<br>📆<strong>29 November 2025 (Saturday)</strong>
+<br>🕣<strong>8.30am – 12.30pm</strong>
 <br>
-<br>✨ Discover more about our school through the Principal's Talk and Department
-Booths @ the Learning Commons (Library), as well as the Key Programme Booths
-@ the Foyer.
 <br>
-<br>✨ Get a glimpse of the vibrant school life and culture through the various
-CCA booths and student performances at the Parade Square and Canteen.
-<br>
-<br>With booths to see, talks to listen to, and places to explore, it'll never
-be a dull moment at our Open House.
-<br>
-<br>See you there!
-<br>
-<br>📍 1 Strathmore Road, S148800
-<br>📆 23 November 2024
-<br>🕣 845am - 1230pm</p>
+</p>
