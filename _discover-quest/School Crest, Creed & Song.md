@@ -2,13 +2,13 @@
 title: School Crest, Creed & Song
 permalink: /about-us/discover-quest/school-crest/
 description: ""
+variant: markdown
 ---
 ![](/images/Discover%20Quest/Master_Banner_1.png)
 
 
 
-<img src="/images/QTSS_Logo2-247x300.png"  
-     style="width:35%">
+![](/images/SchCrest_WhiteBG.png)
 
 
 
@@ -20,18 +20,7 @@ Below the shield is a banner with the school motto “Berani Berkhidmat” writt
 
 ------------------------
 
-<center>
 
-Pupils’ Creed <br>
-
-We, Queenstownians, dare to serve,  <br>
-With self-respect,  <br>
-Working hand in hand,  <br>
-Together we build,  <br>
-Honest in performance,  <br>
-Taking pride in all tasks.<br><br>
-
-</center>
 	
 -----------------------
 
