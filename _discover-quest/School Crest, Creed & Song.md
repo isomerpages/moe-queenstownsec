@@ -2,13 +2,13 @@
 title: School Crest, Creed & Song
 permalink: /about-us/discover-quest/school-crest/
 description: ""
+variant: markdown
 ---
 ![](/images/Discover%20Quest/Master_Banner_1.png)
 
 
 
-<img src="/images/QTSS_Logo2-247x300.png"  
-     style="width:35%">
+![](/images/SchCrest_WhiteBG.png)
 
 
 
