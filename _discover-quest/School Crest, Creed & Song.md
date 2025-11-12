@@ -20,18 +20,7 @@ Below the shield is a banner with the school motto “Berani Berkhidmat” writt
 
 ------------------------
 
-<center>
 
-Pupils’ Creed <br>
-
-We, Queenstownians, dare to serve,  <br>
-With self-respect,  <br>
-Working hand in hand,  <br>
-Together we build,  <br>
-Honest in performance,  <br>
-Taking pride in all tasks.<br><br>
-
-</center>
 	
 -----------------------
 
