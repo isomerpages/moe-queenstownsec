@@ -96,7 +96,4 @@ to form and articulate their opinions.</p>
 coaches</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/Departments/English.png">
-</div>
 <p></p>

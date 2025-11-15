@@ -1,5 +1,5 @@
 ---
-title: School Crest, Creed & Song
+title: School Crest and Song
 permalink: /about-us/discover-quest/school-crest/
 description: ""
 variant: markdown

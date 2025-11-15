@@ -67,13 +67,6 @@ Promoting a safe and conducive environment that facilitates student learning and
 
 
 **TARGETED SUPPORT**
-
-<ul>
-
-<li> Dare2DREAM (Daring, Resilient, Empathetic, Active, Motivated)
-</li><li> Dare2SHINE (Self, Heart, Identity, Inclusiveness, Exploration)
-</li><li> Engagement by internal and external stakeholders
+<li> Engagement by internal and external stakeholders
 	
-</li></ul>
-
-	
+</li>
