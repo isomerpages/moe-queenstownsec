@@ -123,11 +123,10 @@ issues such as academic stress, anxiety, peer or family relationships may
 be referred for counselling support.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Student Welfare:</strong>
 </p>
-<p>Introduced in 2015, Student Welfare Officer (SWO) supports vulnerable
-students whose schooling is affected by disadvantaged backgrounds. SWO
-reaches out to students who are irregular in school and helps to reintegrate
-chronic absentees back to school. Community resources are often mobilised
-to mitigate the risks and support the needs of the students and their families.</p>
+<p>Introduced in 2015, Student Welfare Officer (SWO) supports students whose
+schooling is affected by life circumstances. SWO leverages community resources
+to help these students to attend school regularly and to learn well in
+school.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Special Educational Needs:</strong>
 </p>
 <p>Special Educational Needs Officers (SENO) support students with special
