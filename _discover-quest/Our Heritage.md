@@ -30,14 +30,13 @@ rooms, created a better learning environment for the students. We achieved
 a significant milestone in 1965 with the establishment of a Pre-University
 class, opening new pathways to higher education at the Polytechnic, a move
 which encapsulates our QUEST for learning and excellence.</p>
-<p>This quest bore fruit when Ang Hock Chye, a standout student in the early
-years, was awarded the Yang Di-Pertuan Negara Scholarship, now known as
-the President’s Scholarship, in 1964. In 1966, Lee Yock Suan, who scored
-7 distinctions, became the second Queenstownian to be awarded the President’s
-scholarship. He went on to a Public Service career and served as a Cabinet
-Minister from 1981 to 2004. Several others in the cohort were also awarded
-prestigious scholarships like the Colombo Plan Scholarships and the Commonwealth
-Scholarships.</p>
+<p>This quest bore fruit when Mr Ang Hock Chye, a standout student in the
+early years, was awarded the Yang Di-Pertuan Negara Scholarship in 1964.
+In 1966, Mr Lee Yock Suan, who scored 7 distinctions, became the first
+Queenstownian to be awarded the President’s scholarship. He went on to
+a Public Service career and served as a Cabinet Minister from 1981 to 2004.
+Several others in the cohort were also awarded prestigious scholarships
+like the Colombo Plan Scholarships and the Commonwealth Scholarships.</p>
 <p>With its focus on academic excellence, Queenstown Secondary Technical
 School was highly sought after. To accommodate our growing pool of learners,
 the addition of a 4-storey building, a hall-cum-canteen, and 4 Science
@@ -78,15 +77,16 @@ United Kingdom.</p>
 <p>In 1977, the Alumni Association was set up. A group of the initial batch
 of 1959 graduate students, led by Queenstownian Mr Tan Wee Tin, having
 established successful careers of their own, stepped up with a mission
-to give back to the alma mater. The Alumni Association was the first local
-secondary school alumni to be officially registered with the Registrar
-of Society (ROS), establishing a legacy of support that endures to this
-day, and have tirelessly contributed to our Quest for learning and excellence.</p>
+to give back to the alma mater. The Alumni Association was amongst the
+first local secondary school alumni associations to be officially registered
+with the Registrar of Society (ROS), establishing a legacy of support that
+endures to this day, and have tirelessly contributed to our Quest for learning
+and excellence.</p>
 <p>Soon after, the School Executive Committee was formed in 1983, providing
 an additional pillar of support. The Committee supported the upgrades and
 improvements to the school facilities, enhancing the learning environment,
 such as the air-conditioning of the Library that was officially declared
-open by Goh Kim Leong, Permanent Secretary (Education/Director of Education)
+open by Mr Goh Kim Leong, Permanent Secretary (Education/Director of Education)
 in 1984. The School Executive Committee and the Ministry of Education jointly
 funded the Computer Laboratory upgrade with 26 personal computers. Language
 learning, in the new Language Laboratory, also benefitted with more investments
@@ -176,7 +176,8 @@ leading the way in implementing this new digital learning platform. This
 early adoption of digital learning proved particularly valuable when the
 COVID-19 pandemic hit in 2020, enabling the school to smoothly transition
 to home-based learning while maintaining its educational standards.</p>
-<p>**Chapter 6: Our Present **</p>
+<p><strong>Chapter 6: Our Present</strong>
+</p>
 <p>In 2020, the school was selected to be one of the 28 pilot schools for
 Full Subject-Based Banding programme. This programme exemplified our Quest
 for learning and excellence, enabling students maximise their potential
@@ -203,10 +204,7 @@ bright and our students showed their respect, care, resilience, integrity
 and the strive for excellence in school and onwards in their careers. These
 are the lifelong values of Queenstownians.</p>
 <p>Viva QUEST! Queenstownian for Life !</p>
-<p>A special mention of the principals who led / is leading Queenstownians
-in the QUEST journey:</p>
-<p><strong>Principals:</strong>
-</p>
+<p>A special mention to our QUEST Principals:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr E.J. Doraisamy (1956–1958)</p>
@@ -233,7 +231,7 @@ in the QUEST journey:</p>
 <p>Mrs Goh Soo Geem (1990–1994)</p>
 </li>
 <li>
-<p>Mrs Chia Siew Yong (1994–1997)</p>
+<p>Mrs Marian Chia Siew Yong (1994–1997)</p>
 </li>
 <li>
 <p>Ms Soh Mee Choo (1998–2001)</p>
