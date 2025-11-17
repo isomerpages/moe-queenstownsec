@@ -13,9 +13,8 @@ while <strong>Dr Vijayarani Govindasamy</strong> earned the Lifetime Achievement
 Award for her remarkable 50 years in education. They serve as role models
 for other Tamil Language educators in nurturing our students' love for
 the language and using technology creatively to enhance learning.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1xz.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture1xz.jpg">
 </div>
 <p><strong>Left to right: Mr Sarat and Dr Vijayarani, with Principal Mr Sim How Chong.</strong>
 </p>
@@ -34,9 +33,7 @@ in their schools.</p>
 <p><strong>2nd from the left: Mr Perdana Pan</strong>
 </p>
 <h4><strong>2024 Best National Institute of Education (NIE) Tamil Trainee Teacher Award – Ms Bhavana d/o Rajaram</strong></h4>
-<p>
-<br>We are proud to share that Ms Bhavana d/o Rajaram, who joined our school
-in 2024, received the <a href="https://www.moe.gov.sg/news/press-releases/20240920-six-teachers-recognised-at-most-inspiring-tamil-teachers-award-ceremony-2024" rel="noopener noreferrer nofollow" target="_blank">Best NIE Tamil Trainee Teacher Award</a> during
+<p>We are proud to share that Ms Bhavana d/o Rajaram received the <a href="https://www.moe.gov.sg/news/press-releases/20240920-six-teachers-recognised-at-most-inspiring-tamil-teachers-award-ceremony-2024" rel="noopener noreferrer nofollow" target="_blank">Best NIE Tamil Trainee Teacher Award</a> during
 the Most Inspiring Tamil Teachers' Award Ceremony 2024. This award ceremony
 celebrates the excellent performance of Tamil Language teachers in educating
 and promoting Tamil Language among their students.</p>
@@ -52,14 +49,12 @@ have displayed exemplary efforts in the teaching of mathematics, and are
 role models to their colleagues and the mathematics teaching fraternity
 in Singapore. This award has been issued by the Association of Mathematics
 Educators (AME) since 2017.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture265.jpg">
 </div>
 <p></p>
 <h4><strong>2014 Arif Budiman Award Malay Language – Mdm Yahida Yahya</strong></h4>
-<p>
-<br>Arif Budiman means ‘the learned person who contributes to society’.&nbsp;
+<p>Arif Budiman means ‘the learned person who contributes to society’.&nbsp;
 <a href="https://www.mllpc.sg/assets/upload/publications/pdf/1523581194_AGAB%202014%20Booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">The award</a>celebrates teachers for their outstanding contributions in
 the teaching and learning of the Malay Language. The award recipients contributed
 to the teaching fraternity by participating or presenting in regional and
