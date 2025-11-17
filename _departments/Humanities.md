@@ -72,22 +72,7 @@ environment in the reservoir.</p>
 </li>
 <li>
 <p>Geography Challenge</p>
+<p></p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/Departments/Humanities%201.jpg">
-</div>
-<p>Sec 3 express students taking part in the ASEAN Quiz</p>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/Departments/Humanities%202.jpg">
-</div>
-<p>Sec 2 students with their history teacher on their learning journey</p>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/Departments/Humanities%203.jpg">
-</div>
-<p>Sec 2 students with Mdm Wong outside the Battlebox Visitor Centre</p>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/Departments/Humanities%204.jpg">
-</div>
-<p>Sec 1 geography students honing their sketching skills at the field site
-in Lorong Halus</p>
+<p></p>

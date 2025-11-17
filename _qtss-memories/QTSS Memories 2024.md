@@ -1,6 +1,6 @@
 ---
-title: QTSS Memories
-permalink: /qtss-memories/
+title: QTSS Memories 2024
+permalink: /qtss-memories/2024/
 variant: tiptap
 description: ""
 ---
