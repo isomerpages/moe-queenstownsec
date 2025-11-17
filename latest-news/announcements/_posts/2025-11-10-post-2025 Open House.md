@@ -13,6 +13,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image__1___1_.jpg">
 </div>
+<p><a href="/files/QTSS_Final_InfoBook_2025_6_LR.pdf" rel="noopener nofollow" target="_blank">2025 QTSS Open House e-Brochure</a>
+</p>
 <p>
 <br><strong>Are you ready for a day of discovery and inspiration?</strong>
 </p>
