@@ -78,11 +78,10 @@ teammates to grow together. &nbsp;&nbsp;
 </ul>
 <ul>
 <li>
-<p>CCA Bonding Camp&nbsp;</p>
+<p>CCA Bonding Camp&nbsp;
+<br>&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;
-<br>&nbsp;</p>
 </td>
 </tr>
 <tr>
