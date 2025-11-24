@@ -9,6 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/girlguides.png">
 </div>
 <h1>Girl Guides</h1>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
