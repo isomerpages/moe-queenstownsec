@@ -11,7 +11,7 @@ variant: tiptap
 <hr>
 <h3>Mr Desmond Tan</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/SMS_Desmond_Tan_Final.png">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/SMS_Desmond_Tan_Final.png">
 </div>
 <p>Our alumnus, Mr Desmond Tan, is the Senior Minister of State in the Prime
 Minister’s Office.</p>
@@ -61,7 +61,7 @@ in USA.
 </p>
 <h3>Mr Roland Wee</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
 <p></p>
 <p>Our alumnus, Mr Roland Wee, is the founder and chairman of the MEI Engineering
@@ -103,7 +103,7 @@ generations.
 <p></p>
 <h3>Mr Ronald Goh</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Our%20Pride/Alumni%202.png">
+<img style="width: 45%;" height="auto" width="100%" src="/images/Our%20Pride/Alumni%202.png">
 </div>
 <p>Our alumnus, Mr Ronald Goh, is Managing Director of Electronics and Engineering
 (E&amp;E). Building on his family’s legacy, he embraces the unique challenges
@@ -130,7 +130,7 @@ in 2015.
 <p></p>
 <h3>Mr Lawrence Leong</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture55.png">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Picture55.png">
 </div>
 <p>
 <br>Mr Leong served 30 years in the Singapore Armed Forces and retired as
@@ -233,7 +233,7 @@ event production through his creativity and innovation.</p>
 <h3>Dr Tan Eng Khim</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_07_01_153826.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_07_01_153826.png">
 </div>
 <p>Dr Tan Eng Khim 陈永钦 is the Director and Principal Veterinary Surgeon of
 Animal Medical Centre (VET@RV) Pte Ltd, which he has led for over 15 years.
