@@ -9,6 +9,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/design.jpg">
 </div>
 <h1>Design and Innovation</h1>
+<p></p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
