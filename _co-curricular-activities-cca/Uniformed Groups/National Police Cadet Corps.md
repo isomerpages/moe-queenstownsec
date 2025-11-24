@@ -22,10 +22,12 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Categories</u>&nbsp;</p>
+<p><strong><u>Categories</u>&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Information in each category </u>&nbsp;</p>
+<p><strong><u>Information in each category</u>&nbsp;</strong>
+</p>
 </td>
 </tr>
 <tr>
