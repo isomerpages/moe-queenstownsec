@@ -40,8 +40,12 @@ variant: tiptap
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Develop in every Queenstownian a resilient mind, a fit body, and a committed
 heart, for them to serve with pride and dedication.&nbsp;</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 </tr>
