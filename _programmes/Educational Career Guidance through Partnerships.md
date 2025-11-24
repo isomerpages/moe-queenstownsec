@@ -4,9 +4,9 @@ permalink: /partnerships/
 variant: tiptap
 description: ""
 ---
-<p><strong>Introduction of Partnership Programmes to support Education Career Guidance (ECG)</strong>
+<p><strong>Introduction of Partnership Programmes to support Education and Career Guidance (ECG)</strong>
 </p>
-<p>Educational career guidance through partnerships is a core experience
+<p>Education and career guidance through partnerships is a core experience
 that students go through, aimed at providing our students with exposure
 to potential career paths and real-world experience. Over the years, we
 have partnered with companies from different industries on learning journeys
@@ -66,9 +66,6 @@ what matters it not the flying, but the connection and bonds that are built
 because of it.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aero.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aero_2.jpg">
 </div>
 <p>
 <br>
