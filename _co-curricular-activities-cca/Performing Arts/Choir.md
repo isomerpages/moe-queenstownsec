@@ -3,50 +3,112 @@ title: Choir
 permalink: /cca/performing-art/choir/
 description: ""
 third_nav_title: Performing Arts
-variant: markdown
+variant: tiptap
 ---
-![](/images/CCA/choir.png)
-
-Choir
-=====
-
-
-
-**Highlights of the Year**
-----------
-
-Quest Choir had a remarkable year as members showcased their passion for music and strong camaraderie under the unifying motto, “We Sing as One.” Through tireless dedication and teamwork, the choir achieved significant milestones that resonated with every audience they performed for.
-
-A standout moment was their captivating performance at the Quest Arts Festival, where they shared the stage with other performing arts CCAs in a celebration of talent and creativity. Their commitment to excellence was further affirmed when they clinched a coveted award at the prestigious Singapore International Choral Festival 2024 — a proud testament to their growth and musical journey.
-
-The Choir CCA had a remarkable year,
-showcasing their passion for music and
-unity under the motto “We Sing as One.”
-With dedication and hard work, the choir
-achieved notable milestones, leaving a lasting
-impression on all who heard their voices.
-A highlight of the year was their participation
-in the Quest Arts Festival, where they
-performed alongside other performing arts
-CCAs. The choir’s dedication was further rewarded
-when they attained the coveted award at the Singapore International Choral Festival 2024.
-
-## **Key Achievements**
-
-
-
-
-| Year | Events | Achievement |
-| -------- | -------- | -------- |
-| 2023     |   Singapore Youth Festival Arts Presentation   |  Accomplishment   |
-| 2023     |   Voices of Singapore (VOS) Presentation   |    |
-| 2024     |   Quest Arts Festival concert    |    |
-| 2024     |   National Day Carnival Performance at Henderson-Dawson   |  By invitation   |
-| 2024     |   Singapore International Choral Festival   |  Silver Award   |
-| 2025     |   Singapore Youth Festival SYF 2025 Celebrations Festival Concert Shall We Sing?   |  By invitation   |
-
-Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
-
-
-
-
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/choir.png">
+</div>
+<h1>Choir</h1>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Categories</u>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Information in each category</u>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>The Quest to… </strong>&nbsp;
+<br>&nbsp;
+<br>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop every Queenstownian into a joyful, confident and connected musician
+who comes together to sing as one. &nbsp;&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Highlights of the Year&nbsp;</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Chinese New Year Performance&nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Pre-Singapore Youth Festival (SYF) Showcase – “Quest Choir: Behind the
+Music”&nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>SYF Celebrates – “Shall We Sing”&nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Voices of Singapore Festival 2025 &nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Quest Global @ Indonesia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Key Achievements&nbsp;</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Singapore Youth Festival Arts Presentation 2025 – Certificate of Accomplishment
+&nbsp;&nbsp;
+<br>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Click <a href="https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/" class="Hyperlink SCXW217419865 BCX8" rel="noreferrer noopener" target="_blank"><u>here</u></a> for
+information on CCA teachers, schedule and venues.&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

@@ -3,50 +3,109 @@ title: Malay Dance
 permalink: /cca/performing-art/malay-dance/
 description: ""
 third_nav_title: Performing Arts
-variant: markdown
+variant: tiptap
 ---
-![](/images/CCA/malaydance.jpg)
-
-Malay Dance
-===========
-
-
-
-
-
-**Highlights of the Year**
-----------
-
-The Malay dance group of Queenstown
-Secondary School is also known as Questari.
-The dance group is a vibrant and integral part
-of the school’s cultural heritage, reflecting
-the rich traditions of the Malay community.
-It is characterized by its graceful movements,
-intricate hand gestures, and expressive
-storytelling. Our dances are often performed
-during internal festive concerts, school
-performing arts events, and social events. Our
-dancers enjoy performing our dance forms
-that symbolizes unity, joy, and community
-spirit. These performances reflect the
-passion and joy that our dancers experienced
-throughout their dancing journey with our
-CCA.
-
-## **Key Achievements** 
-
-* Chinese New Year Performance
-* Malay Dance Camp
-*  Hari Raya Concert
-*  Quest Art Festival 2024
-*  Speech Day Performance
-*  Communal Lunch 2024
-*  Deepavali Concert
-
-| Year | Events | Achievement |
-| -------- | -------- | -------- |
-| 2023     |   Singapore Youth Festival Arts Presentation   |  Accomplishment   |
-| 2025    |    Singapore Youth Festival Arts Presentation  | Distinction  |
-
-Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/malaydance.jpg">
+</div>
+<h1>Malay Dance</h1>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Categories</u>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Information in each category</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>The Quest to… </strong>&nbsp;
+<br>&nbsp;
+<br>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Develop every Queenstownian into a resilient, united, and excellent performer.&nbsp;
+<br>&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Highlights of the Year&nbsp;</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>2025 Clementi Police Division Hari Raya Event&nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>2025 OurHendersonDawson National Day Celebration at Gan Eng Seng Secondary
+School &nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>2025 QUEST Global@Indonesia&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>School-based performances: Chinese New Year, Hari Raya, Speech Day, Deepavali&nbsp;
+<br>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Key Achievements&nbsp;</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Singapore Youth Festival Arts Presentation for Malay Dance – Certificate
+of Distinction &nbsp;
+<br>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Click <a href="https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/" class="Hyperlink SCXW152219370 BCX8" rel="noreferrer noopener" target="_blank"><u>here</u></a> for
+information on CCA teachers, schedule and venues.&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

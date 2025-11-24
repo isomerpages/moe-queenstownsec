@@ -3,43 +3,104 @@ title: Strategy Games
 permalink: /cca/club-societies/thinkers-club/
 description: ""
 third_nav_title: Clubs & Societies
-variant: markdown
+variant: tiptap
 ---
-![](/images/CCA/strategygames.jpg)
-
-
-Strategy Games
-==============
-
-
-## **Highlights of the Year**
-
-
-Our club consists of 42 members: 11 Sec 1; 7
-Sec 2; 11 Sec 3 and 13 Sec 4 students. Strategy
-Games Club aims to build and sharpen
-decision making skills through playing of
-strategy games specifically scrabble and
-chess. We engage established trainers from
-the Scrabble Academy and Accredited Chess
-Trainers to conduct trainings for our students.
-
-Students were taught innovative and up-todate
-strategies in both scrabble and chess
-by the trainers. Our trainings are held every
-Wednesdays afternoon in ITR2.
-
-
-## **Key Achievements**
-
-23rd Inter-School National Scrabble Championship 2024 
-* C division team, Merit (Cup)
-* B division team, Merit (Cup)
-
-Super Zonal Scrabble (SZS) 2024. 
-* C division, South division champion
-
-Victorian Cup 2025
-* 10th place (Int’l Chess)
-
-Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/strategygames.jpg">
+</div>
+<h1>Strategy Games</h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Categories</u>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Information in each category</u>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>The Quest to… </strong>&nbsp;
+<br>&nbsp;
+<br>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Develop every Queenstownian into a sharp analytical mind capable of strategic
+planning and tactical execution, possessing the ability to think several
+moves ahead in any situation.&nbsp;
+<br>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Highlights of the Year&nbsp;</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>National and zonal Scrabble competitions &nbsp; &nbsp;</p>
+</li>
+</ul>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Key Achievements&nbsp;</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Victoria Junior College Cup International Chess – 9<sup>th</sup> Position
+&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>24<sup>th</sup> Inter-School National Scrabble Championship – Participation&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>15<sup>th</sup> Super Zonal Scrabble – 2<sup>nd</sup> Place&nbsp;
+<br>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Click <a href="https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/" class="Hyperlink SCXW102155212 BCX8" rel="noreferrer noopener" target="_blank"><u>here</u></a> for
+information on CCA teachers, schedule and venues.&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
