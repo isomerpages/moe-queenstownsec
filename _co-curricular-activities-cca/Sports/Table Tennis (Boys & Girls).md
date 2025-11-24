@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/table-tennis.jpg">
 </div>
-<h1>Table Tennis (Boys &amp; Girls</h1>
+<h1>Table Tennis (Boys &amp; Girls)</h1>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
