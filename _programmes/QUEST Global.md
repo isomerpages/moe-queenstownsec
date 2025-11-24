@@ -36,7 +36,7 @@ lessons in empathy, diversity and global citizenship.</p>
 learning experiences in Japan for ALP and CYL student leaders, and a cultural
 exchange and Service Learning journey to Indonesia.</p>
 <p>Looking ahead to 2026, Queenstownians will have further opportunities
-to deepen their global understanding through an upcoming learning journeys
+to deepen their global understanding through upcoming learning journeys
 to China and Vietnam. Each experience strengthens their confidence and
 curiosity while grounding them in a clear sense of identity and responsibility
 as future contributors to Singapore’s continued success.</p>
