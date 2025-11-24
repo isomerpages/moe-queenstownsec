@@ -62,8 +62,7 @@ unity and purpose.</p>
 <p>School-based performances: Chinese New Year and Deepavali concerts&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;
-<br>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -77,7 +76,6 @@ unity and purpose.</p>
 <ul>
 <li>
 <p>Singapore Youth Festival Arts Presentation 2025 – Certificate of Distinction
-&nbsp;&nbsp;
 <br>&nbsp;</p>
 </li>
 </ul>
