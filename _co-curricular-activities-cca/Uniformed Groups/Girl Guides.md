@@ -5,43 +5,121 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-![](/images/CCA/girlguides.png)
-
-Girl Guides
-===========
-
-
-**Highlights of the Year**
-----------------------------------
-At South Division Day, our girls demonstrated
-their creativity and leadership by designing a
-custom patch. Additionally, a group of Guides
-designed and led mindfulness exercises for
-students from other schools, encouraging
-self-care and emotional well-being in their
-peers. 
-
-This year’s National Day Parade was another
-highlight, where our Guides proudly
-participated, contributing to the spirit of
-national pride and unity. Their involvement
-in such an important event deepened their
-sense of responsibility and connection to the
-nation.
-
-Perhaps the most memorable event of the
-year was the Guides 3D2N Camp, the first held in four years since the COVID-19 pandemic. This student-led camp was a testament to the leadership and organisational skills of our goals. Each level took on a distinct role in planning the camp activities: Secondary 1 students organized morning exercises to build energy and teamwork; Secondary 2 students facilitated discussions on the UN Sustainable Development Goals, raising awareness of global issues; and Secondary 3 students took charge of organising the entire camp, ensuring it ran smoothly. This camp allowed the girls to develop teamwork, leadership, and event-planning skills while also reflecting on their role as global citizens.
-
-
-
-**Key Achievements**
-----------
-
-A standout moment was World Thinking Day,
-where five of our Sec 3 Guides were selected
-as the Guard-of-Honour for the Opening
-Ceremony, symbolizing their leadership
-and dedication to the global Girl Guide
-movement.
-
-Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/girlguides.png">
+</div>
+<h1>Girl Guides</h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Categories</u>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Information in each category</u></strong>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>The Quest to… </strong>&nbsp;
+<br>(for e.g. develop every Queenstownian into a…)&nbsp;
+<br>&nbsp;
+<br>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Develop every Queenstownian into a compassionate leader, confident learner,
+and dedicated servant of the community.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Highlights of the Year&nbsp;</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Sec 3 Leadership Camp&nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>E<u>nd-of-Year</u><s>OY</s> Unit Camp&nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Smoke-Free Ambassadors Program<u>me</u>&nbsp;&nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Food Donation Drive&nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>School Clean-Up&nbsp;&nbsp;&nbsp;</p>
+</li>
+</ul>
+<p>&nbsp;
+<br>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Key Achievements&nbsp;</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>P<u>uan </u>N<u>oor </u>A<u>ishah </u>A<u>ward</u> – Bronze<s> Award&nbsp;</s>&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>South Division Fest Patch Design – Silver&nbsp;&nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>World Thinking Day Past in Panels – Bronze&nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>World Thinking Day Guides Got Talent – Merit&nbsp; &nbsp;
+<br>&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Click <a href="https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/" class="Hyperlink SCXW226111741 BCX8" rel="noreferrer noopener" target="_blank"><u>here</u></a> for
+information on CCA teachers, schedule and venues.&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
