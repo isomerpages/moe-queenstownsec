@@ -5,28 +5,93 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-![](/images/CCA/drama.png)
-
-English Drama
-=============
-
-
-**Highlights of the Year**
-----------
-
-Under the dynamic leadership of the
-secondary three Drama EXCO, the Drama
-Club is flourishing. A newly appointed
-instructor has also brought fresh insights
-and inspiration to the team. 
-
-
-## **Key Achievements**
-
-
-This year, Drama Club captivated audiences and showcased
-their talent in performances for International
-Friendship Day and the Quest Arts Festival.
-
-
-Click [here](https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/) for information on CCA teachers, schedule and venues.
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/drama.png">
+</div>
+<h1>English Drama</h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Categories</u>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Information in each category</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>The Quest to… </strong>&nbsp;
+<br>&nbsp;
+<br>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Develop every Queenstownian into an inclusive and disciplined individual
+who pursues their passion for drama with integrity and teamwork. &nbsp;&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Highlights of the Year&nbsp;</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>International Friendship Day performance &nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Singapore Youth Festival (SYF) Performance – Starlight Scandal&nbsp;
+<br>&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Key Achievements&nbsp;</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>SYF Arts Presentation 2025 – Certificate of Accomplishment &nbsp;&nbsp;
+<br>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Click <a href="https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/" class="Hyperlink SCXW133926209 BCX8" rel="noreferrer noopener" target="_blank"><u>here</u></a> for
+information on CCA teachers, schedule and venues.&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
