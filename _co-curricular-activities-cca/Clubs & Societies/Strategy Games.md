@@ -9,6 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/strategygames.jpg">
 </div>
 <h1>Strategy Games</h1>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -90,4 +91,5 @@ information on CCA teachers, schedule and venues.&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
