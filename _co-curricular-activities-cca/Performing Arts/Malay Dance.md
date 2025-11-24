@@ -9,6 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/malaydance.jpg">
 </div>
 <h1>Malay Dance</h1>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
