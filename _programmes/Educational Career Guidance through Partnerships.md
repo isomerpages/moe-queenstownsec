@@ -67,9 +67,6 @@ because of it.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aero.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aero_2.jpg">
-</div>
 <p>
 <br>
 <br>3. <u>Quest for a Safe and Sustainable World – Learning Journey to </u><strong><u>voco Orchard Singapore by IHG</u></strong>
