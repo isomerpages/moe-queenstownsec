@@ -31,7 +31,7 @@ Density Polyethlyene (LDPE) and Polypropylene (PP)<sup>1</sup>, offers
 Queenstownians a glimpse into the petrochemical world where the chemistry
 knowledge they acquired in the classroom magically comes to live.</p>
 <p>Leveraging on our partnership with TPC, Queenstownians have, for over
-11 years, been blessed with the opportunity of travelling into a land where
+12 years, been blessed with the opportunity of travelling into a land where
 few are able to step foot on – Jurong Island, which is the main reason
 why Singapore is the top oil exporting country in the world despite not
 having any oil reserves of our own.</p>
@@ -48,51 +48,74 @@ the role of creating products used widely.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture36.png">
 </div>
 <p></p>
-<p><u>2. Quest for an Informed World – Learning Journey to</u><strong><u> Star International</u></strong>
+<p><u>2. Quest for an Informed World – Learning Journey to</u><strong><u> Aeroviation Pte Ltd</u></strong>
 </p>
-<p>With 7 distinct brands and presence in more than 30 countries worldwide,
-the learning journey to Star International has allowed our students to
-gather firsthand information about the workings behind a successful retail
-and logistics industry, which has provided furniture for many homes in
-Singapore.</p>
-<p>Queenstownians who participated in this learning journey were also able
-to understand how companies are innovating to overcome the challenges they
-face, in this instance, the use of technology to overcome manpower shortage.</p>
-<p></p>
+<p>With keen interest to bring people and culture across the world together
+through aviation, an afternoon to Aeroviation was what it took to give
+13 aspiring Queenstownians their first taste of the dynamic world of aviation.
+&nbsp;</p>
+<p>Under the guidance of Captain Jaffar Hassan, a Queenstown alumni with
+36 years of experience in the aviation industry, they gained valuable insights
+about the different roles behind the scene that allows for travellers to
+depart from and land safely at their desired destinations. From the commanding
+presence of pilots to the strategic minds in Air Traffic Control, from
+meticulous Flight Planning to precise Ground Control operations, the participants
+were immersed in the fascinating ecosystem that powers modern aviation.</p>
+<p>As the learning journey ended, one message resonated clearly: in aviation,
+what matters it not the flying, but the connection and bonds that are built
+because of it.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Partnerships_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aero.png">
 </div>
-<p><u>3. Quest for a Healthy World – Learning Journey to </u><strong><u>Elsie’s Kitchen</u></strong>
-</p>
-<p>As one of the more renowned catering companies in the culinary landscape
-in Singapore as well as the region, this collaboration with Elsie’s Kitchen
-offered Queenstownians a behind the scenes glimpse of what goes on before
-and after an order is placed.</p>
-<p>They also gained valuable insights into the application of the knowledge
-of food sciences in an authentic setting when the company shared about
-the considerations behind its menu evolution, balancing taste with nutrition,
-in response to changes in consumer demands.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture37.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aero_2.jpg">
 </div>
-<p><u>4. Quest for a Safe World – Learning Journey to </u><strong><u>Rockwell Automation</u></strong>
+<p>
+<br>
+<br>3. <u>Quest for a Safe and Sustainable World – Learning Journey to </u><strong><u>voco Orchard Singapore by IHG</u></strong>
 </p>
-<p>Being the largest company in the world dedicated to industrial automation
-and digital transformation, the learning journey to Rockwell Automation
-Singapore has allowed our Queenstownians to gather firsthand information
-about the workings behind a successful innovation and automation industry.</p>
+<p>Being the one of the largest hotel groups in the world, IHG operates in
+more than 100 countries across 19 brands such as Intercontinental, Holiday
+Inn, and voco being a few of them. Their dedication to providing unforgettable
+experiences to their guests while incorporating sustainable development
+places them in a good position to allow our Queenstownians to gather firsthand
+information about the thought processes and beliefs necessary to remain
+at the forefront of the highly competitive hospitality industry.</p>
 <p>During the learning journey, Queenstownians understood the importance
-of being adaptable as they gained an awareness of how the company needs
-to constantly innovate to effectively address the demands of the ever-changing
-landscape in the industry. Subsequently, the participants were able to
-experience the production process through the use of augmented reality
-before wrapping up the learning journey with a Q&amp;A session with a panel
-of professionals from Rockwell Automation.</p>
+of understanding the needs of the different guest profiles as they were
+brought through how IHG address these diverse needs via the different brands
+under them. They were then treated to a tour around the hotel, both front
+of house and back of the house to better appreciate the different departments
+that come together to create a welcoming and safe experience for the hotel
+guests. Candid questioning with the hotel staff and interns of the hotel
+wrapped up this learning journey as Queenstownians better appreciate the
+challenges and motivations behind the smiles and friendly dispositions
+that greet every hotel guest that arrives.
+<br>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture38.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/orchard.png">
 </div>
-<p></p>
-<p><u>5. Quest for an Inclusive and Environmentally Sustainable World – Work Attachment and Learning Journey to </u><strong><u>IKEA</u></strong>
+<p>
+<br>
+</p>
+<p><u>4. Quest for a Healthy world – Learning Journey to </u><strong><u>Equip Medical Pte Ltd</u></strong>
+</p>
+<p>As one of South-East Asia’s most prominent medical and baby care distribution
+companies, the learning journey to Equip Medical Pte Ltd allowed Queenstownians
+to gather firsthand information about the workings behind the distribution
+of medical products and equipment. During the learning journey, they even
+had the opportunity of interacting with Mr Jimmy Tay, Group CEO of Equip
+Medical Group of Companies, who is also an alumni of Queenstown Secondary
+School, hearing for themselves how the company navigated through the challenges
+and respond effectively to the rapidly changing demands in the technological
+landscape to remain relevant to the needs of a healthy world.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/equip_medical.png">
+</div>
+<p>
+<br>
+<br><u>5. Quest for an Inclusive and Environmentally Sustainable World – Work Attachment and Learning Journey to </u><strong><u>IKEA</u></strong>
 </p>
 <p>Partnering with IKEA, a world-renowned furniture brand that champions
 for both social and economic sustainability through providing affordable
@@ -131,9 +154,9 @@ community.</p>
 <br>
 <br><strong>Key Learning Experiences: Examples of Community Projects</strong>
 <br>
-<br>1. <u>Quest for an Inclusive World – </u><strong><u>MINDS Lee Kong Chian Gardens Schools</u></strong>
+<br><u>1. Quest for an Inclusive World – </u><strong><u>MINDS Lee Kong Chian Gardens Schools</u></strong>
 </p>
-<p>Heading into the 11<sup>th</sup> year of our partnership, Queenstown Secondary
+<p>Heading into the 12<sup>th</sup> year of our partnership, Queenstown Secondary
 School is glad to have journeyed alongside MINDS Lee Kong Chian Gardens
 Schools as we continue to promote inclusivity, raise general awareness
 of special educational needs, as well as the appreciation of the strengths
@@ -155,7 +178,9 @@ part in moulding a more socially sustainable world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm_Partnership_A.png">
 </div>
-<p>2. <u>Quest for an Inclusive World – </u><strong><u>NUS Residential College 4 (NUS RC4)</u></strong>
+<p>
+<br>
+<br><u>2. Quest for an Inclusive World – </u><strong><u>NUS Residential College 4 (NUS RC4)</u></strong>
 </p>
 <p>Queenstownians believe that there is a unique strength in everyone, regardless
 of who they are. We are glad to collaborate with NUS RC4 on a journey that
