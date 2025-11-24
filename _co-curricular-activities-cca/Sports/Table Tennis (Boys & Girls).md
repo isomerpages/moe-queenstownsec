@@ -44,8 +44,7 @@ variant: tiptap
 <ul>
 <li>
 <p>Develop every Queenstownian into disciplined and passionate student-athletes
-who pursue excellence in Table Tennis and beyond. &nbsp;&nbsp;
-<br>&nbsp;</p>
+who pursue excellence in Table Tennis and beyond.</p>
 </li>
 </ul>
 </td>
@@ -63,8 +62,7 @@ who pursue excellence in Table Tennis and beyond. &nbsp;&nbsp;
 <p>Bonding Day Camp&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;
-<br>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
