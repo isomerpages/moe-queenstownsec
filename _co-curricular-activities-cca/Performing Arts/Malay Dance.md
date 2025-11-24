@@ -74,7 +74,8 @@ School &nbsp;&nbsp;</p>
 <ul>
 <li>
 <p>School-based performances: Chinese New Year, Hari Raya, Speech Day, Deepavali&nbsp;
-<br>&nbsp;</p>
+<br>
+</p>
 </li>
 </ul>
 </td>
@@ -91,7 +92,8 @@ School &nbsp;&nbsp;</p>
 <li>
 <p>Singapore Youth Festival Arts Presentation for Malay Dance – Certificate
 of Distinction &nbsp;
-<br>&nbsp;</p>
+<br>
+</p>
 </li>
 </ul>
 </td>
