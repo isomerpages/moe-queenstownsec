@@ -60,12 +60,12 @@ and dedicated servant of the community.</p>
 </ul>
 <ul>
 <li>
-<p>E<u>nd-of-Year</u><s>OY</s> Unit Camp&nbsp;&nbsp;</p>
+<p>End-of-Year Unit Camp&nbsp;&nbsp;</p>
 </li>
 </ul>
 <ul>
 <li>
-<p>Smoke-Free Ambassadors Program<u>me</u>&nbsp;&nbsp;&nbsp;</p>
+<p>Smoke-Free Ambassadors Programme&nbsp;&nbsp;&nbsp;</p>
 </li>
 </ul>
 <ul>
