@@ -37,7 +37,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>The Quest to… </strong>&nbsp;
-<br>(for e.g. develop every Queenstownian into a…)&nbsp;
+<br>
 <br>&nbsp;
 <br>&nbsp;</p>
 </td>
