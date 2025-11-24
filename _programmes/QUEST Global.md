@@ -27,7 +27,7 @@ local peers through friendly games. These interactions offered powerful
 lessons in empathy, diversity and global citizenship.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture3s.jpg">
 </div>
 <p><strong><em>Students preparing banana trunks for the Loy Krathong festival in Thailand</em></strong>
 </p>
