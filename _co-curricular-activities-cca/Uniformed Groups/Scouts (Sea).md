@@ -40,9 +40,13 @@ variant: tiptap
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Develop every Queenstownian into a leader of character and compassion,
 empowered to make a difference in their community and beyond. &nbsp;&nbsp;
 <br>&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
