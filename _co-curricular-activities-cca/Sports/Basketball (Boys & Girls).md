@@ -60,13 +60,10 @@ teammates to grow together. &nbsp;&nbsp;
 <p><strong>Highlights of the Year&nbsp;</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>National School Games (NSG) B &amp; C Division&nbsp;&nbsp;</p>
+<p>&nbsp;National School Games (NSG) B &amp; C Division&nbsp;&nbsp;</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Queen’s Cup&nbsp;&nbsp;</p>
 </li>
