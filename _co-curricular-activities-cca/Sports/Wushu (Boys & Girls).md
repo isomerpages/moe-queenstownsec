@@ -44,8 +44,7 @@ variant: tiptap
 <li>
 <p>Develop every Queenstownian into an all-rounded individual passionate
 in Wushu, with the zeal to succeed and the mental strength to overcome
-challenges. &nbsp;&nbsp;
-<br>&nbsp;</p>
+challenges.</p>
 </li>
 </ul>
 </td>
