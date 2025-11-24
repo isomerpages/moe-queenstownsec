@@ -58,7 +58,7 @@ as future contributors to Singapore’s continued success.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/sc11.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/sc11.png">
 </div>
 <p></p>
 <p></p>
