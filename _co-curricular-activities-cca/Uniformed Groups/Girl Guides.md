@@ -92,7 +92,7 @@ and dedicated servant of the community.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>P<u>uan </u>N<u>oor </u>A<u>ishah </u>A<u>ward</u> – Bronze<s> Award&nbsp;</s>&nbsp;</p>
+<p>Puan Noor Aishah Award – Bronze&nbsp;</p>
 </li>
 </ul>
 <ul>
