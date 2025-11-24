@@ -61,11 +61,10 @@ challenges. &nbsp;&nbsp;
 <ul data-tight="true" class="tight">
 <li>
 <p>School performances: Chinese New Year celebrations, Speech and Prize Giving
-Day&nbsp;</p>
+Day&nbsp;
+<br>&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;
-<br>&nbsp;</p>
 </td>
 </tr>
 <tr>
