@@ -26,12 +26,37 @@ Union (SISEU) and Advisor to the Supply Chain Employees’ Union (SCEU).</p>
 <p>He served as Member of Parliament for Pasir Ris-Punggol Group Representation
 Constituency (Pasir Ris Central) from July 2020 to April 2025, and has
 been elected as Member of Parliament for Pasir Ris-Changi GRC (Pasir Ris
-Central) in the General Elections 2025.</p>
-<p>Prior to joining NTUC, Mr Desmond Tan served as the Minister of State
+Central) in the General Elections 2025.
+<br>
+<br>Prior to joining NTUC, Mr Desmond Tan served as the Minister of State
 for Home Affairs, and Sustainability and the Environment. He was also the
 Chief Executive Director (CED) of the People’s Association (PA) where he
-led the community support effort during the COVID-19 pandemic.
-<br>
+led the community support effort during the COVID-19 pandemic.</p>
+<h3><br><br>Mr Arthur Tay</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Arthur_Tay_2023_staircase.jpg">
+</div>
+<p>
+<br>Mr Arthur Tay is the Chairman and CEO of the SUTL Group where he actively
+oversees the marina and consumer goods business in Asia.</p>
+<p>Under Mr Tay’s leadership, SUTL has expanded its business, focusing on
+the Leisure lifestyle and Consumer Goods segments, which serve as a supply
+chain and logistics enabler in more than 29 countries across Asia. Mr Tay
+is also the brainchild behind the distinguished ONE°15 Marina Sentosa Cove
+Singapore.</p>
+<p>Mr Tay’s passion includes striving for excellence in sustainability, to
+be a forerunner in advocating coastal and ocean conservation efforts in
+Singapore with the inaugural Blue Water EduFest in November 2022. This
+nonprofit marine conservation event has been held for 3 consecutive years,
+sparking impactful conversations on raising awareness and empowering the
+next generation of ocean stewards.</p>
+<p>An active philanthropist and grassroots leader, Mr Tay was awarded the
+Public Service Medal (PBM) in 2023. He currently serves as Patron for the
+West Coast Citizens’ Consultative Committee.</p>
+<p>Married with twin daughters, Mr Tay is an avid sportsman and enjoys diving,
+yachting, snow skiing and golfing. He attained his academic pursuits at
+the University of San Francisco, U.C. Berkeley and Golden Gate University
+in USA.
 <br>
 </p>
 <h3>Mr Roland Wee</h3>
