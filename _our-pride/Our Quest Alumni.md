@@ -32,7 +32,7 @@ Central) in the General Elections 2025.
 for Home Affairs, and Sustainability and the Environment. He was also the
 Chief Executive Director (CED) of the People’s Association (PA) where he
 led the community support effort during the COVID-19 pandemic.</p>
-<h3><br><br>Mr Arthur Tay</h3>
+<h3><br>Mr Arthur Tay</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Arthur_Tay_2023_staircase.jpg">
 </div>
