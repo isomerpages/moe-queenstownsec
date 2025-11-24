@@ -45,7 +45,6 @@ aspire to capture moments that tell a story.&nbsp;</p>
 <p><strong>Highlights of the Year&nbsp;</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learning Journey:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>NUS Museum</p>
