@@ -48,6 +48,23 @@ as future contributors to Singapore’s continued success.</p>
 <p><strong><em>Students immersing in a science experiment at a school in Indonesia</em></strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1sc.jpg">
+</div>
+<p><strong><em>Students harvesting sweet potatoes at the Asuka Village Farm in Nara, Japan, with elderly farmers</em></strong>
+</p>
+<p></p>
+<p><em>For more pictures and videos of our Quest Global programme, please check out our social media:</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sc11.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
