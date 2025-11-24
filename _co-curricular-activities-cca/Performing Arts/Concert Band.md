@@ -9,6 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/band.png">
 </div>
 <h1>Concert Band</h1>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -58,7 +59,8 @@ working together to achieve excellence.&nbsp;</p>
 <ul>
 <li>
 <p>School-based performances: National Day and Speech Day&nbsp;&nbsp;
-<br>&nbsp;</p>
+<br>
+</p>
 </li>
 </ul>
 </td>
