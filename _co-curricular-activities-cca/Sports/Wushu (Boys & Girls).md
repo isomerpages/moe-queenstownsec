@@ -58,8 +58,7 @@ challenges. &nbsp;&nbsp;
 <p><strong>Highlights of the Year&nbsp;</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>School performances: Chinese New Year celebrations, Speech and Prize Giving
 Day&nbsp;</p>
@@ -80,7 +79,8 @@ Day&nbsp;</p>
 <ul>
 <li>
 <p>National School Games – Participation &nbsp;
-<br>&nbsp;</p>
+<br>
+</p>
 </li>
 </ul>
 </td>
