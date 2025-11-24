@@ -9,20 +9,110 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/volleyball.jpg">
 </div>
 <h1>Volleyball (Boys &amp; Girls)</h1>
-<h2><strong>Highlights of the Year</strong></h2>
-<p>This year the volleyball team were rewarded with the opportunity to visit
-schools in Thailand for cultural immersion, shared lessons as well as trained
-together in volleyball games.</p>
-<h2><strong>Key Achievements</strong></h2>
-<p>Our boys and girls teams continue to grow from strength to strength this
-year with good achievements in the National Schools Games (NSG).</p>
-<p>For B division, both our boys and girls team did well in zonal competitions;
-they attained 3rd and 4th placing respectively. Proceeding on to the Nationals
-competition, both teams managed to reach top 16 in the country.</p>
-<p>Our C division teams have their fair share of success as well. While the
-girls team attained the silver medallist in League 4 in the games, the
-boys team was just short of a medal placing but have grown in their fortitude
-through the games.</p>
 <p></p>
-<p>Click <a href="https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-information on CCA teachers, schedule and venues.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Categories</u>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Information in each category</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>The Quest to… </strong>
+<br>&nbsp;
+<br>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Develop every Queenstownian into resilient players in face of adversity,
+demonstrating strong teamwork and camaraderie. &nbsp; &nbsp;
+<br>&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Highlights of the Year&nbsp;</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>National Schools Games (NSG)&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Queen’s Cup&nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Mintonette U16 Volleyball Tournament&nbsp;</p>
+</li>
+</ul>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Key Achievements&nbsp;</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>NSG B Division Girls – South Zone Champions&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>NSG B Division Boys – South Zone Third Runner Up&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>NSG C Division Girls – League 4 Champions&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Queen’s Cup B &amp; C Division (Girls and Boys) – Silver &nbsp;</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Click <a href="https://www.queenstownsec.moe.edu.sg/cca-scheduled-venues/" class="Hyperlink SCXW219978706 BCX8" rel="noreferrer noopener" target="_blank"><u>here</u></a> for
+information on CCA teachers, schedule and venues.&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
