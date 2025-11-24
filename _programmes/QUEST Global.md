@@ -27,7 +27,7 @@ local peers through friendly games. These interactions offered powerful
 lessons in empathy, diversity and global citizenship.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture3s.jpg">
 </div>
 <p><strong><em>Students preparing banana trunks for the Loy Krathong festival in Thailand</em></strong>
 </p>
@@ -42,14 +42,14 @@ curiosity while grounding them in a clear sense of identity and responsibility
 as future contributors to Singapore’s continued success.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4gg.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture4gg.jpg">
 </div>
 <p></p>
 <p><strong><em>Students immersing in a science experiment at a school in Indonesia</em></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1sc.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture1sc.jpg">
 </div>
 <p><strong><em>Students harvesting sweet potatoes at the Asuka Village Farm in Nara, Japan, with elderly farmers</em></strong>
 </p>
@@ -58,7 +58,7 @@ as future contributors to Singapore’s continued success.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sc11.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/sc11.png">
 </div>
 <p></p>
 <p></p>
