@@ -123,7 +123,7 @@ the plants are well-maintained and thrive.
 <br><u>Green Space @ Quest: After Renovation</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Green_Wall_After.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Green_Wall_After.jpg">
 </div>
 <p>
 <br><strong>Prototype Classroom</strong>
@@ -141,10 +141,10 @@ to be established in 2026.</p>
 tables, enabling seamless transitions between individual work and group
 collaboration. This adaptability encourages students to engage more actively
 in their learning whilst developing crucial teamwork and communication
-skills. The introduction of short-throw whiteboards has revolutionised
-classroom presentations, replacing corner-mounted projection screens with
-technology that provides clearer visibility for all students and allows
-teachers to annotate content effortlessly during lessons.</p>
+skills. The introduction of short-throw whiteboards has enhanced classroom
+presentations, replacing corner-mounted projection screens with technology
+that provides clearer visibility for all students and allows teachers to
+annotate content effortlessly during lessons.</p>
 <p>A key innovation is the mobile teacher table equipped with wireless projection
 capabilities. This feature liberates educators from being confined to the
 front of the classroom, enabling them to move freely amongst students to
@@ -193,7 +193,7 @@ leaders, and partnerships with our various partners.
 <li>
 <p>The Heritage Gallery will be revamped to showcase our rich school heritage
 and our Alumni. This project is made possible by the support of the National
-Heritage Board (NHB) and our Alumni Association.
+Heritage Board and our Alumni Association.
 <br>
 </p>
 </li>
@@ -207,7 +207,7 @@ the school has increased the number of food stalls to 7 stalls in 2025.&nbsp;
 </p>
 </li>
 <li>
-<p>The Chemistry Labs will be redesigned for support the deep learning of
+<p>The Chemistry Labs will be redesigned to support the deep learning of
 Science and Chemistry concepts in an more engaging manner.
 <br>
 </p>
