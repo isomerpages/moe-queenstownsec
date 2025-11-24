@@ -42,7 +42,7 @@ variant: tiptap
 <ul>
 <li>
 <p>Develop every Queenstownian into an inclusive and disciplined individual
-who pursues their passion for drama with integrity and teamwork. &nbsp;&nbsp;</p>
+who pursues their passion for drama with integrity and teamwork.</p>
 </li>
 </ul>
 </td>
