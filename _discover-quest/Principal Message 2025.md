@@ -51,7 +51,7 @@ and flourish in an increasingly complex and interconnected world.</p>
 <p>We believe every student is a unique individual with strengths and potential
 waiting to be discovered. To nurture these talents, we offer targeted programmes
 such as <strong><a href="https://www.queenstownsec.moe.edu.sg/talent-development/" rel="noopener nofollow" target="_blank">subject-based talent development</a></strong> plans
-and the <strong>QUEST Global programme</strong>.</p>
+and the <strong><a href="https://www.queenstownsec.moe.edu.sg/quest-global/" rel="noopener nofollow" target="_blank">QUEST Global programme</a></strong>.</p>
 <p>In 2024, we expanded our students’ horizons with enriching trips to Vietnam
 and Thailand, underscoring our dedication to providing Queenstownians with
 international exposure. Looking ahead to 2025 and beyond, we plan to extend
@@ -100,6 +100,11 @@ celebrate our achievements, our focus remains firmly on the road ahead.
 With your continued partnership, I am confident that we, as a <strong>thriving QTSS Community</strong>,
 will continue to nurture our Queenstownians to be<strong> flourishing learners </strong>and<strong> future-oriented leaders </strong>(Find
 out more about our 2024 journey <a href="/files/Principal_Message_2024.pdf" rel="noopener nofollow" target="_blank">here</a>)<strong>!</strong>
+<br>
+<br>For more videos and pictures of our QTSS journey, please refer to our
+social media accounts on <a href="https://www.instagram.com/qtssinstaquest/" rel="noopener nofollow" target="_blank">instagram</a> and
+<a href="https://www.facebook.com/QueenstownSecondarySchool/" rel="noopener nofollow" target="_blank">facebook</a>.
+<br>
 </p>
 <p>Berani Berkhidmat,
 <br>Mr Sim How Chong
