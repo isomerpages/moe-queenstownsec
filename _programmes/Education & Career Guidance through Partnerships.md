@@ -181,7 +181,6 @@ part in moulding a more socially sustainable world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/s32.png">
 </div>
-<p></p>
 <p>
 <br>
 <br><u>2. Quest for an Inclusive World – </u><strong><u>NUS Residential College 4 (NUS RC4)</u></strong>
@@ -205,5 +204,4 @@ All these were accomplished amidst lots of fun and laughter.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm_Partnership_B.png">
 </div>
-<p></p>
 <p></p>
