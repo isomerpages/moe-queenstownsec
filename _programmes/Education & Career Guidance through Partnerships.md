@@ -177,9 +177,11 @@ and realisation of people with high special educational needs, appreciating
 that they also have their strengths and ways to contribute to the community.
 Together, Queenstownians and students from MINDS LGS strive to play our
 part in moulding a more socially sustainable world.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm_Partnership_A.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s32.png">
 </div>
+<p></p>
 <p>
 <br>
 <br><u>2. Quest for an Inclusive World – </u><strong><u>NUS Residential College 4 (NUS RC4)</u></strong>
