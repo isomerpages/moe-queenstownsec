@@ -134,16 +134,21 @@ ranging from age to affordability and lifestyle preferences.</p>
 <p>
 <br><strong>Key Learning Experiences: Career Mentoring</strong>
 <br>
-<br>On 16 November 2024, we kicked off our first Career Mentoring @ QUEST
-session at the newly-renovated library. It was inspiring to see senior
-alumni spanning from the 1970s to 2000s return to share their stories and
-career advice with the junior alumni.
+<br>We kicked off our first Career Mentoring @ QUEST session at the newly-renovated
+library! It was inspiring to see senior alumni spanning from the 1970s
+to 2000s return to share their stories and career advice with the junior
+alumni.
 <br>&nbsp;
 <br>The panel and group mentoring sessions sparked meaningful discussions
 about navigating the evolving career landscape and cultivating timeless
 competencies. But the session wasn’t just about learning — it was also
 about building connections and bridging generations to strengthen our QUEST
-community.</p>
+community.
+<br>&nbsp;
+<br>We’re excited to build on this foundation and look forward to more sessions
+in the future!
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/career_mentoring_final.png">
 </div>
