@@ -29,10 +29,8 @@ third_nav_title: Performing Arts
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>The Digital Media Club is committed to serving the school by taking photographs
-at school events. Students in the Digital Media Club acquire the necessary
-photography skills to grow their sense and capability as leaders. Our students
-aspire to capture moments that tell a story.&nbsp;</p>
+<p>Develop every Queenstownian into a respectful individual, a team contributor,
+and a storyteller through their eyes.</p>
 </li>
 </ul>
 </td>
@@ -45,12 +43,19 @@ aspire to capture moments that tell a story.&nbsp;</p>
 <p><strong>Highlights of the Year&nbsp;</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>NUS Museum</p>
+<p>Learning Journey to Jewel Changi Airport&nbsp;</p>
 </li>
+</ul>
+<ul>
 <li>
-<p>Enabling Village</p>
+<p>School-based productions: Clips on ‘O’ and ‘N’ Level Result Release&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>School-based workshop to guide other CCAs with video making</p>
 </li>
 </ul>
 </td>
@@ -65,10 +70,7 @@ aspire to capture moments that tell a story.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Our School, Our Stories 2024</p>
-</li>
-<li>
-<p>ClickArt S2 Cluster Photography Showcase 2024</p>
+<p>"Our School, Our Stories" Photo and Video Contest – Participation</p>
 </li>
 </ul>
 </td>
