@@ -22,7 +22,7 @@ therefore be able to connect, collaborate and create, flourishing as a
 learner and leading with a future-oriented mindset within a thriving community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Picture6dc.png">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Picture6dc.png">
 </div>
 <p>
 <br>
