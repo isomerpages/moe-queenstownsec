@@ -112,10 +112,10 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Boo Kim Mong</p>
+<p>Ms Haryante Bte Othman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:boo_kim_mong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">boo_kim_mong@moe.edu.sg</a>
+<p><a href="mailto:haryante_othman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">haryante_othman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -287,7 +287,7 @@ variant: tiptap
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Haryante Bte Othman</p>
+<p>Ms Qurratuain Binte Rosle</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

@@ -1,6 +1,6 @@
 ---
-title: Educational Career Guidance through Partnerships
-permalink: /partnerships/
+title: Education & Career Guidance through Partnerships
+permalink: /educationandcareerguidancethroughpartnerships/
 variant: tiptap
 description: ""
 ---
@@ -134,16 +134,21 @@ ranging from age to affordability and lifestyle preferences.</p>
 <p>
 <br><strong>Key Learning Experiences: Career Mentoring</strong>
 <br>
-<br>On 16 November 2024, we kicked off our first Career Mentoring @ QUEST
-session at the newly-renovated library. It was inspiring to see senior
-alumni spanning from the 1970s to 2000s return to share their stories and
-career advice with the junior alumni.
+<br>We kicked off our first Career Mentoring @ QUEST session at the newly-renovated
+library! It was inspiring to see senior alumni spanning from the 1970s
+to 2000s return to share their stories and career advice with the junior
+alumni.
 <br>&nbsp;
 <br>The panel and group mentoring sessions sparked meaningful discussions
 about navigating the evolving career landscape and cultivating timeless
 competencies. But the session wasn’t just about learning — it was also
 about building connections and bridging generations to strengthen our QUEST
-community.</p>
+community.
+<br>&nbsp;
+<br>We’re excited to build on this foundation and look forward to more sessions
+in the future!
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/career_mentoring_final.png">
 </div>
@@ -172,8 +177,9 @@ and realisation of people with high special educational needs, appreciating
 that they also have their strengths and ways to contribute to the community.
 Together, Queenstownians and students from MINDS LGS strive to play our
 part in moulding a more socially sustainable world.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm_Partnership_A.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s32.png">
 </div>
 <p>
 <br>
@@ -198,5 +204,4 @@ All these were accomplished amidst lots of fun and laughter.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm_Partnership_B.png">
 </div>
-<p></p>
 <p></p>
