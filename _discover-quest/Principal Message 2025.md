@@ -34,10 +34,10 @@ invite you to visit our school website for the detailed updates.</p>
 of providing a holistic education that orients our Queenstownians for the
 future. As such, we have been steadily evolving our curriculum as well
 as our teaching and learning practices to engage our students in their
-learning. Our <strong>Total Curriculum </strong>integrates academic excellence
-with character and citizenship<strong> </strong>education, placing<strong> </strong>a
-deliberate emphasis on developing 21<sup>st</sup> Century Competencies (21CC)
-such as adaptive thinking and effective communication.</p>
+learning. Our <strong><a href="https://www.queenstownsec.moe.edu.sg/total-curriculum/" rel="noopener nofollow" target="_blank">Total Curriculum</a> </strong>integrates
+academic excellence with character and citizenship<strong> </strong>education,
+placing<strong> </strong>a deliberate emphasis on developing 21<sup>st</sup> Century
+Competencies (21CC) such as adaptive thinking and effective communication.</p>
 <p>Since 2022, the school has embarked on a journey to reimagine learning
 spaces so as to support engaged learning for our Queenstownians. Some of
 the <strong><a href="https://www.queenstownsec.moe.edu.sg/learning-spaces-qtss/" rel="noopener nofollow" target="_blank">reimagined physical spaces</a></strong> include

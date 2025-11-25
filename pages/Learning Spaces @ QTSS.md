@@ -99,7 +99,8 @@ for parents, and Chinese Dance CCA sessions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_Commons_After.png">
 </div>
 <p></p>
-<p><strong>Green Space @ Quest (Vertical Green Wall)</strong>
+<p>
+<br><strong>Green Space @ Quest (Vertical Green Wall)</strong>
 </p>
 <p>As part of our school’s sustainability efforts, the vertical green wall
 was designed in collaboration with NUS Department of Architecture. Nature
@@ -175,10 +176,30 @@ for future success.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prototype_Classroom_2.jpg">
 </div>
 <p>
-<br>Currently, the school is also building a study area that is co-designed
-with IKEA after getting inputs from students. This is in response to students’
-request for more study areas in the school. The study area will be set
-up with students from our school’s TRYbe programme.
+<br><strong>Voices @ Quest</strong>
+<br>
+<br>Our Student Well-Being wall, the Voice of Quest Wall is managed by classes
+– each class takes charge of the wall for about a week. This is integrated
+into CCE lessons, where students brainstorm their creative direction for
+the wall and TV content, as well as craft gratitude notes and suggestions
+for improvement. This gives students an opportunity to show their appreciation
+for others in the school community and voice out their thoughts, instilling
+a greater sense of belonging and agency.
+<br>
+<br>Other key features of the wall include a self-care mirror adorned with
+stickers featuring positive affirmations and growth mindset quotes, an
+uplifting and 'Instagrammable' space providing attractive backdrops where
+students can pose and take photographs with friends. This space celebrates
+our vibrant QTSS Community.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Voice_of_Quest.png">
+</div>
+<p><strong><br></strong>Currently, the school is also building a study area
+that is co-designed with IKEA after obtaining suggestions from students.
+This is in response to students’ request for more study areas in the school.
+The study area will be set up with students from our school’s TRYbe programme.
 <br>
 <br>Mirroring the success of the Voice of Quest, where classes take turns
 to refresh the wall with messages as well as share their class experiences
