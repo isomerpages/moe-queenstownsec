@@ -2,8 +2,8 @@ collections:
   programmes:
     output: true
     order:
-      - Total Curriculum.md
       - FutureLearn Curriculum (integration of ALP & LLP).md
+      - Total Curriculum.md
       - Talent Development.md
       - Education & Career Guidance through Partnerships.md
       - QUEST Global.md
