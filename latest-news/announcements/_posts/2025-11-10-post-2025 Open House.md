@@ -15,6 +15,8 @@ variant: tiptap
 </div>
 <p><a href="/files/QTSS_Final_InfoBook_2025_6_LR.pdf" rel="noopener nofollow" target="_blank">2025 QTSS Open House e-Brochure</a>
 </p>
+<p>2025 QTSS Open House Principal's Talk (<a href="/files/Open_House_2025_Principal_s_Talk_Part_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Part 1</a>) (
+<a href="/files/Open_House_2025_Principal_s_Talk_Part_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Part 2</a>) (<a href="/files/Open_House_2025_Principal_s_Talk_Part_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Part 3</a>)</p>
 <p>
 <br><strong>Are you ready for a day of discovery and inspiration?</strong>
 </p>
