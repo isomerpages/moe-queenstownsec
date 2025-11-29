@@ -39,21 +39,7 @@ QTSS has to offer!</p>
 <br>🕣<strong>8.30am – 12.30pm</strong>
 </p>
 <p></p>
-<h4>2024 Open House Resources</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/2024_open_house_principal_talk_part1.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the 2024 QTSS Open House Principal's Talk (Part 1)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024_open_house_principal_talk_part2.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the 2024 QTSS Open House Principal's Talk (Part 2)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024_QTSS_Open_House_e_brochure.pdf" rel="noopener nofollow" target="_blank">Download the 2024 QTSS Open House e Brochure</a>
-</p>
-</li>
-</ul>
+<h4></h4>
 <p>
 <br>
 <br>
