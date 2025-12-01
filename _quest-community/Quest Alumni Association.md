@@ -29,12 +29,31 @@ more than 20,000, many are corporate highflyers, community champions, ambassador
 for social causes, selflessly giving back to the School and the Alumni
 to uplift the students’ lives and give a hand to the less fortunate amongst
 us.</p>
-<p>The Alumni has worked hand in hand with the School to support and improve
-the lives and journey of the students, helping to nurture talents of the
-future.</p>
+<p>The Quest Alumni supports the school through the comprehensive Quest-Vantage
+programme, contributing across three key areas: student recognition, career
+guidance, and curriculum enhancement.</p>
+<p>Through the Quest Alumni Association Awards, they directly recognise deserving
+students for achievements and progress in academic, character and leadership
+development, providing immediate support for students' strive for excellence.</p>
+<p>The alumni network plays a vital role in the school's educational career
+guidance programme (ECG) by conducting ECG chats, facilitating external
+learning journeys, and arranging work attachments that connect students
+with real-world opportunities and professional insights.</p>
+<p>Alumni actively support the school curriculum in both CCA and academic
+programmes, bringing their professional expertise directly into the classroom
+to enrich student learning experiences.</p>
+<p>Since 2025, a particularly meaningful initiative has seen selected alumni
+being interviewed by Secondary 2 students as part of their ongoing history
+investigation projects. These conversations help students understand Singapore
+and the school's rich history whilst inspiring them to respond positively
+to life challenges and embody the school motto - Dare to Serve. The interviews
+will be featured in the reimagined heritage gallery launching in 2026.
+You can watch an excerpt of the students' interview with alumnus Mr Desmond
+Tan, Senior Minister of State, Prime Minister's Office through this <a href="https://www.facebook.com/desmondtkm/videos/coming-back-to-my-alma-mater-queenstown-secondary-school-always-feels-like-comin/628825393316122/" rel="noopener nofollow" target="_blank">Link</a>.</p>
 <p>Last but not least, a Queenstown Alumni never refuses the opportunity
 to come back and support our Alma Mater School, continuing the legacy left
 by our pioneers - Dare to Serve - for School, for Members, for Community.</p>
+<p></p>
 <blockquote>
 <p>Please visit the <strong><a href="https://www.quest-alumni.org" rel="noopener nofollow" target="_blank">Alumni Association Portal</a></strong> for
 more information and join our Quest Alumni Association as a member!</p>
