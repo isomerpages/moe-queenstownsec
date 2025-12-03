@@ -7,9 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>The Secondary One Registration process will be conducted online this year.
-As such, Secondary One students are not required to report to school in
-person on Registration Day.</p>
-<p>Online registration and preparation for school will be available following
-the release of posting results. Please refer to the school website for
-detailed instructions on the registration process.</p>
+<p>The Secondary One Registration process will be conducted <strong>fully online</strong> this
+year. Students <strong>do not need to report to school in person</strong> on
+Registration Day.</p>
+<p>Online registration and preparation steps will be made available shortly <strong>after the release of the posting results</strong>,
+tentatively on <strong>Thursday, 18 December 2025</strong> or <strong>Friday, 19 December 2025</strong>.</p>
+<p>Please check our <strong>school website</strong> for detailed instructions
+on the registration process once the posting results are released.</p>
