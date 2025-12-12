@@ -12,7 +12,9 @@ School Booklist
 
 #### Secondary 1
 
-* Sec 1 to be confirm
+* [Sec 1 G1](/files/QTSS_2026_S1_G1_rev__2_.pdf)
+* [Sec 1 G2](/files/QTSS_2026_S1_G2_rev.pdf)
+* [Sec 1 G3](/files/QTSS_2026_S1_G3_rev.pdf)
 
 
 #### Secondary 2
@@ -35,7 +37,7 @@ School Booklist
 
 #### Secondary 5
 
-- Sec 5 to be confirm
+- [Sec 5NA](/files/QTSS_2026_S5_NA_rev.pdf)
 
 
 -------------------
@@ -46,4 +48,4 @@ If you have any other queries, please email to qtss@moe.edu.sg.
 
 -------------------
 
-Last updated on 23 Oct 2025
+Last updated on 12 Dec 2025
