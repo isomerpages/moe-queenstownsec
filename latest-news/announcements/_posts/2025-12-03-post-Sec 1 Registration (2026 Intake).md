@@ -26,7 +26,7 @@ to working closely with you in your child's/ward's educational journey.</p>
 office hours, or email Mdm Nur Haryani, Assistant Year Head (Lower Secondary),
 at <a rel="noopener noreferrer nofollow" target="_blank">nur_haryani_mohamed_hatta@moe.edu.sg</a>.</p>
 <p>Click&nbsp;here <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/qtsssec1registration2026intake</a><u> </u>for
-e-Registration and <a href="/files/QTSS_Important_Information_for_2026_Sec_1_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">QTSS Important Information for 2026 Sec 1 Students.</a>
+e-Registration and <a href="/files/Updated_QTSS_Important_Information_for_2026_Sec_1_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">QTSS Important Information for 2026 Sec 1 Students.</a>
 </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
