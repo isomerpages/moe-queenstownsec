@@ -19,7 +19,7 @@ your child to our school community.</p>
 Students are <strong>not required to report to school in person on Registration Day</strong>.</p>
 <p>Please complete the <strong>e-Registration</strong> using the link below.
 Parents will be informed of their child’s form class via <strong>Parents Gateway (PG) by Monday, 29 December 2025</strong>.</p>
-<p>Click&nbsp;here <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/qtsssec1registration2026intake</a><u> </u>for
+<p>Click&nbsp;here <a href="https://go.gov.sg/qtsssec1registration2026intake" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/qtsssec1registration2026intake</a><u> </u>for
 e-Registration and <a href="/files/Updated_QTSS_Important_Information_for_2026_Sec_1_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">QTSS Important Information for 2026 Sec 1 Students.</a>
 </p>
 <p>For further enquiries, please call the General Office at 6474 1055 during
