@@ -334,54 +334,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Acting SH Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Li Cheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: lim_li_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_li_cheng@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Acting SH SS/21CC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Shermine Chan Pei Wen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: shermine_chan_pei_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>shermine_chan_pei_wen@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Acting SH Bio/ALP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Ng Kai Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: ng_kai_jun_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_kai_jun_a@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Acting SH English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Cherlyn Tan Jin Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cherlyn_tan_jin_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cherlyn_tan_jin_ping@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -497,6 +449,54 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:june_tan_teck_yoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">june_tan_teck_yoong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Acting SH Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Li Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: lim_li_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_li_cheng@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Acting SH SS/21CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Shermine Chan Pei Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: shermine_chan_pei_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>shermine_chan_pei_wen@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Acting SH Bio/ALP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Ng Kai Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: ng_kai_jun_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_kai_jun_a@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Acting SH English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cherlyn Tan Jin Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cherlyn_tan_jin_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cherlyn_tan_jin_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
