@@ -49,7 +49,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Manager</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ramesh S/O K Samikanoo</p>
@@ -61,7 +61,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Manager</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Wee Lieh Max</p>
