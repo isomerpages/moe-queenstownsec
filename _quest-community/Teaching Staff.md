@@ -342,22 +342,23 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong><u>3 Resilience (3 RL)</u></strong> 
-<br>Mdm Pang Yuming Amy <a href="mailto: pang_yu_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(pang_yu_ming@moe.edu.sg)</a>
-<br>Mr Sean David <a href="mailto: sean_david@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(sean_david@moe.edu.sg)</a>
-</p>
-<p></p>
-<p><strong><u>3 Integrity (3 IN)</u></strong> 
 <br>Mr Yuen Cheng Mun Jansen <a href="mailto: yuen_cheng_mun_jansen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(yuen_cheng_mun_jansen@moe.edu.sg)</u></a>
 <br>Mdm Vijayarani d/o Govindasamy <a href="mailto: vijayarani_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(vijayarani_govindasamy@moe.edu.sg)</u></a>
 </p>
 <p></p>
+<p><strong><u>3 Integrity (3 IN)</u></strong> 
+<br>Miss Ng Kai Jun <a href="mailto: ng_kai_jun_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(ng_kai_jun_a@moe.edu.sg)</u></a>
+<br>Mr Goh Yan Cong Benjamin <a href="mailto: vijayarani_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(goh_yan_cong_benjamin@moe.edu.sg)</u></a>
+</p>
+<p></p>
 <p><strong><u>3 Care (3 CA)</u></strong> 
-<br>
+<br>Miss Charis Cho <a href="mailto: charis_cho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(charis_cho@moe.edu.sg)</u></a>
+<br>Mdm Jayasolai <a href="mailto:%20jayasolai_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(jayasolai_a@moe.edu.sg)</u></a>
 </p>
 <p></p>
 <p><strong><u>3 Excellence (3 EX)</u></strong> 
-<br>Miss Bhavana Rajaram (<a href="mailto:bhavana_rajaram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bhavana_rajaram_a@moe.edu.sg</a>)
-<br>Mdm Liang Xingfen Michelle <a href="mailto: liang_xingfen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(liang_xingfen@moe.edu.sg)</a>
+<br>Mdm Phoo Wey Wey <a href="mailto: phoo_wey_wey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(phoo_wey_wey@moe.edu.sg)</u></a>
+<br>Ms Beh Su En, Priscilla <a href="mailto:%20jayasolai_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(beh_su_en_priscilla@moe.edu.sg)</u></a>
 </p>
 <p></p>
 <h4>Secondary Four <br></h4>
