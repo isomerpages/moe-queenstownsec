@@ -234,7 +234,7 @@ variant: tiptap
 <p></p>
 <p><strong><u>2 Service (2 SE)</u></strong>
 <br>Mr Ernest Tan Jing Heng <a href="mailto:%20ernest_tan_jing_heng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(ernest_tan_jing_heng_a@moe.edu.sg)</u></a>
-<br>Ms Huldah Anna Lee Qian Ai <a href="mailto:%20ernest_tan_jing_heng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(huldah_anna_lee_qian@moe.edu.sg</u></a>
+<br>Ms Huldah Anna Lee Qian Ai <a href="mailto:%20ernest_tan_jing_heng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(huldah_anna_lee_qian@moe.edu.sg)</u></a>
 </p>
 <p></p>
 <p>
@@ -327,18 +327,18 @@ variant: tiptap
 </table>
 <h4>Secondary Three<br></h4>
 <p><strong><u>3 Gratitude (3 GR)</u></strong> 
-<br>Mr Chan Wei Lek Alvin <a href="mailto: chan_wei_lek_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(chan_wei_lek_alvin@moe.edu.sg)</a>
-<br>Miss Doong Siew Gee Ellie <a href="mailto: doong_siew_gee_ellie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(doong_siew_gee_ellie@moe.edu.sg)</a>
+<br>Miss Charmaine Ng <a href="mailto: charmaine_ng_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(charmaine_ng_hui_min@moe.edu.sg)</u></a>
+<br>Mr Johnson Ong <a href="mailto: johnson_ong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(johnson_ong@moe.edu.sg)</u></a>
+<br>
 </p>
-<p></p>
 <p><strong><u>3 Aspire (3 AS)</u></strong> 
-<br>Miss Ow Hui Keng <a href="mailto: ow_hui_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(ow_hui_keng@moe.edu.sg)</a>
-<br>Mr Tay Yee Kai <a href="mailto: tay_yee_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(tay_yee_kai@moe.edu.sg)</a>
+<br>Mdm Amanda Liu <a href="mailto: liu_yuanxin_amanda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(liu_yuanxin_amanda@moe.edu.sg)</u></a>
+<br>Miss Pravenisa D/O B Viswambharan <a href="mailto: johnson_ong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(pravenisa_b_viswambharan@moe.edu.sg</u></a>
 </p>
 <p></p>
 <p><strong><u>3 Respect (3 RP)</u></strong> 
-<br>Mr Lim Li Cheng <a href="mailto: lim_li_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(lim_li_cheng@moe.edu.sg)</a>
-<br>Mr Peng Boon Yen <a href="mailto: boon_yen_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(boon_yen_peng@moe.edu.sg)</a>
+<br>Mdm Chang Yee Ping Cynthia <a href="mailto: chang_yee_ping_cynthia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(chang_yee_ping_cynthia@moe.edu.sg)</u></a>
+<br>Miss Noryanti Binti Md Aris <a href="mailto:%20noryanti_md_aris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(noryanti_md_aris@moe.edu.sg)</u></a>
 </p>
 <p></p>
 <p><strong><u>3 Resilience (3 RL)</u></strong> 
@@ -347,13 +347,12 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong><u>3 Integrity (3 IN)</u></strong> 
-<br>Mdm Nur Shiqah Binte Hashim <a href="mailto: nur_shiqah_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(nur_shiqah_hashim@moe.edu.sg)</a>
-<br>Mdm Sakunthalai d/o Surian <a href="mailto:%20sakunthalai_surian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(sakunthalai_surian@moe.edu.sg)</u></a>
+<br>Mr Yuen Cheng Mun Jansen <a href="mailto: yuen_cheng_mun_jansen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(yuen_cheng_mun_jansen@moe.edu.sg)</u></a>
+<br>Mdm Vijayarani d/o Govindasamy <a href="mailto: vijayarani_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(vijayarani_govindasamy@moe.edu.sg)</u></a>
 </p>
 <p></p>
 <p><strong><u>3 Care (3 CA)</u></strong> 
-<br>Mr Chandragus Rinah <a href="mailto: chandragus_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(chandragus_a@moe.edu.sg)</a>
-<br>Mdm Xu Su <a href="mailto: xu_su@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(xu_su@moe.edu.sg)</a>
+<br>
 </p>
 <p></p>
 <p><strong><u>3 Excellence (3 EX)</u></strong> 
