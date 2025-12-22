@@ -363,8 +363,8 @@ variant: tiptap
 <p></p>
 <h4>Secondary Four <br></h4>
 <p><strong><u>4 Gratitude (4 GR)</u></strong> 
-<br>Mr Leong Jun Yi Ian <a href="mailto: ian_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(ian_leong@moe.edu.sg)</a>
-<br>Miss Shermine Chan Pei Wen <a href="mailto: shermine_chan_pei_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(shermine_chan_pei_wen@moe.edu.sg)</a>
+<br>Miss Doong Siew Gee Ellie <a href="mailto: doong_siew_gee_ellie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(doong_siew_gee_ellie@moe.edu.sg)</u></a>
+<br>Mr Chan Wei Lek Alvin <a href="mailto: chan_wei_lek_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(chan_wei_lek_alvin@moe.edu.sg)</u></a>
 </p>
 <p></p>
 <p><strong><u>4 Aspire (4 AS)</u></strong> 
