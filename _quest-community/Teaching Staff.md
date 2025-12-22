@@ -165,11 +165,12 @@ variant: tiptap
 <p></p>
 <p><strong><u>1 Aspire (1 AS)</u></strong> 
 <br>Ms Tan Teck Yoong, June <a href="mailto:june_tan_teck_yoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(june_tan_teck_yoong@moe.edu.sg)</u></a>
-<br>Mr Lim Jit Hiang (<a href="mailto:lim_jit_hiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jit_hiang@moe.edu.sg</a>)</p>
+<br>Miss Yeo Su Shan <a href="mailto: yeo_su_shan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(yeo_su_shan_a@moe.edu.sg)</u></a>
+</p>
 <p></p>
 <p><strong><u>1 Respect (1 RP)</u></strong> 
-<br>Mdm Minna Koh <a href="mailto:%20koh_minna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(koh_minna@moe.edu.sg)</u></a>
-<br>Mr Daniel Lee Jia Xin (<a href="mailto:daniel_lee_jia_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_lee_jia_xin@moe.edu.sg</a>)</p>
+<br>Mdm Siti Suminah <a href="mailto: siti_suminah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(siti_suminah@moe.edu.sg)</u></a>
+</p>
 <p></p>
 <p><strong><u>1 Resilience (1 RL)</u></strong> 
 <br>Mdm Tang Siow Leng <a href="mailto:%20tang_siow_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(tang_siow_leng@moe.edu.sg)</u></a>
