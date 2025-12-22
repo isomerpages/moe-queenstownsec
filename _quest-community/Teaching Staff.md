@@ -228,10 +228,16 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong><u>2 Excellence (2 EX)</u></strong> 
-<br>Mdm Phoo Wey Wey <a href="mailto: phoo_wey_wey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(phoo_wey_wey@moe.edu.sg)</a>
-<br>Ms Beh Su En, Priscilla <a href="mailto:%20jayasolai_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(</u></a><a href="mailto:beh_su_en_priscilla@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">beh_su_en_priscilla@moe.edu.sg</a>
-<a href="mailto:%20jayasolai_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>)</u>
-</a>
+<br>Miss Azlina Binte Ali <a href="mailto:%20azlina_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(azlina_ali@moe.edu.sg)</u></a>
+<br>Mdm Koh Gek Khim <a href="mailto:koh_gek_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(koh_gek_khim@moe.edu.sg)</a>
+</p>
+<p></p>
+<p><strong><u>2 Service (2 SE)</u></strong>
+<br>Mr Ernest Tan Jing Heng <a href="mailto:%20ernest_tan_jing_heng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(ernest_tan_jing_heng_a@moe.edu.sg)</u></a>
+<br>Ms Huldah Anna Lee Qian Ai <a href="mailto:%20ernest_tan_jing_heng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(huldah_anna_lee_qian@moe.edu.sg</u></a>
+</p>
+<p></p>
+<p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
