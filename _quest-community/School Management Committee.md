@@ -323,18 +323,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Acting SH English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Cherlyn Tan Jin Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cherlyn_tan_jin_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cherlyn_tan_jin_ping@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -378,6 +366,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: ng_kai_jun_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_kai_jun_a@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Acting SH English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cherlyn Tan Jin Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cherlyn_tan_jin_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cherlyn_tan_jin_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
