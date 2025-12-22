@@ -124,18 +124,6 @@ variant: tiptap
 <p>STEM Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Ah Beng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: ong_ah_beng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_ah_beng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>STEM Instructor</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Mohamed Rasid Bin Asbu</p>
 </td>
 <td rowspan="1" colspan="1">
