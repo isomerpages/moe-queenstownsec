@@ -152,7 +152,7 @@ variant: tiptap
 <p>Mr Melvin Tan Wee Yau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: tan_wee_yau_melvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(tan_wee_yau_melvin@moe.edu.sg)</u></a>
+<p><a href="mailto: tan_wee_yau_melvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_wee_yau_melvin@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
