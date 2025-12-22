@@ -204,8 +204,8 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong><u>2 Respect (2 RP)</u></strong> 
-<br>Mdm Chang Yee Ping Cynthia <a href="mailto: chang_yee_ping_cynthia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(chang_yee_ping_cynthia@moe.edu.sg</a>)
-<br>Miss Noryanti Binti Md Aris <a href="mailto:%20noryanti_md_aris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(noryanti_md_aris@moe.edu.sg)</u></a>
+<br>Mdm Minna Koh <a href="mailto:%20koh_minna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(koh_minna@moe.edu.sg)</u></a>
+<br>Mr Daniel Lee Jia Xin (<a href="mailto:daniel_lee_jia_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>daniel_lee_jia_xin@moe.edu.sg</u></a>
 </p>
 <p></p>
 <p><strong><u>2 Resilience (2 RL)</u></strong> 
