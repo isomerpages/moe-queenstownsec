@@ -173,8 +173,7 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong><u>1 Resilience (1 RL)</u></strong> 
-<br>Mdm Tang Siow Leng <a href="mailto:%20tang_siow_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(tang_siow_leng@moe.edu.sg)</u></a>
-<br>Mr Tan Zheng Han, Hans <u>(</u><a href="mailto:Tan_Zheng_Han_Hans_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_zheng_han_hans_a@moe.edu.sg</u></a><u>)</u>
+<br>Miss Siti Nur Aisyah Binte Shawall <a href="mailto: siti_nur_aisyah_shawall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(siti_nur_aisyah_shawall@moe.edu.sg)</u></a>
 </p>
 <p></p>
 <p><strong><u>1 Integrity (1 IN)</u></strong> 
