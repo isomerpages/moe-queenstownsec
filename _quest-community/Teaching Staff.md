@@ -177,12 +177,13 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong><u>1 Integrity (1 IN)</u></strong> 
-<br>Mdm Stella Ng Kiat Ee <a href="mailto:%20ng_kiat_ee_stella@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(ng_kiat_ee_stella@moe.edu.sg)</u></a>
-<br>Miss Yeo Siew Yun Elssa (<a href="mailto:elssa_yeo_siew_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">elssa_yeo_siew_yun@moe.edu.sg</a>)</p>
+<br>Mr Ng Wern Chin Sean <a href="mailto: ng_wern_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(ng_wern_chin@moe.edu.sg)</u></a>
+</p>
 <p></p>
 <p><strong><u>1 Care (1 CA)</u></strong> 
-<br>Mr Perdana Putra <a href="mailto:%20pan_ping_rui_perdana@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(pan_ping_rui_perdana@moe.edu.sg)</u></a>
-<br>Mdm Li Min (<a href="mailto:li_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_min@moe.edu.sg</a>)</p>
+<br>Mr Fu Ruiqi <a href="mailto: fu_ruiqi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(fu_ruiqi@moe.edu.sg)</u></a>
+<br>Mdm Yahida Yahya <a href="mailto: yahida_yahya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(yahida_yahya@moe.edu.sg)</u></a>
+</p>
 <p></p>
 <p><strong><u>1 Excellence (1 EX)</u></strong> 
 <br>Miss Azlina Binte Ali <a href="mailto:%20azlina_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(azlina_ali@moe.edu.sg)</u></a>
