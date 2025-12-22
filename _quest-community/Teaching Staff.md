@@ -122,7 +122,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Sec)</p>
+<p>Assistant Year Head (Sec 1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Haryani Bte Mohamed Hatta</p>
@@ -137,10 +137,10 @@ variant: tiptap
 <p>Sec 1 Level Mentor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chan Chu Yin</p>
+<p>Mr Saratkumar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_chu_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_chu_yin@moe.edu.sg</a>
+<p><a href="mailto: saratkumar_ganasekaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>saratkumar_ganasekaran@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
