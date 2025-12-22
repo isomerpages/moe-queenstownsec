@@ -233,3 +233,5 @@ National Design Centre</p>
 </li>
 </ul>
 <p></p>
+<p><a href="https://sites.google.com/moe.edu.sg/quest-aesthetics" rel="noopener nofollow" target="_blank">Art and Music Microsite</a>
+</p>
