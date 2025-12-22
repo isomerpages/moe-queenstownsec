@@ -49,7 +49,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Manager</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ramesh S/O K Samikanoo</p>
@@ -61,7 +61,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Manager</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Wee Lieh Max</p>
@@ -116,18 +116,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:haryante_othman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">haryante_othman@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>STEM Instructor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Ah Beng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: ong_ah_beng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_ah_beng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
