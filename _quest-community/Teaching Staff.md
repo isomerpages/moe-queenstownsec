@@ -216,15 +216,15 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong><u>2 Integrity (2 IN)</u></strong> 
-<br>Miss Ng Kai Jun <a href="mailto: ng_kai_jun_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(ng_kai_jun_a@moe.edu.sg)</a> 
-<br>Mr Goh Yan Cong Benjamin <a href="mailto: vijayarani_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(</a><a href="mailto:goh_yan_cong_benjamin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_yan_cong_benjamin@moe.edu.sg</a>
-<a href="mailto: vijayarani_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">)</a>
+<br>Mdm Stella Ng Kiat Ee <a href="mailto:%20ng_kiat_ee_stella@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(ng_kiat_ee_stella@moe.edu.sg)</u></a>
+<br>Miss Yeo Siew Yun Elssa <a href="mailto:elssa_yeo_siew_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(elssa_yeo_siew_yun@moe.edu.sg</u></a>
+<br>Mr Leong Jun Yi Ian <a href="mailto: ian_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(ian_leong@moe.edu.sg)</u></a>
 </p>
 <p></p>
 <p></p>
 <p><strong><u>2 Care (2 CA)</u></strong> 
-<br>Miss Charis Cho <a href="mailto: charis_cho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(charis_cho@moe.edu.sg)</a>
-<br>Mdm Jayasolai <a href="mailto:%20jayasolai_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(jayasolai_a@moe.edu.sg)</u></a>
+<br>Mdm Li Min <a href="mailto:li_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(li_min@moe.edu.sg)</u></a>
+<br>Mdm Chan Chu Yin <a href="mailto:chan_chu_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(chan_chu_yin@moe.edu.sg)</u></a>
 </p>
 <p></p>
 <p><strong><u>2 Excellence (2 EX)</u></strong> 
