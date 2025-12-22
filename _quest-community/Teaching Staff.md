@@ -368,39 +368,40 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong><u>4 Aspire (4 AS)</u></strong> 
-<br>Miss Sim Zhi Xin <a href="mailto: sim_zhi_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(sim_zhi_xin@moe.edu.sg)</a>
-<br>Miss Siti Nur Aisyah Binte Shawall <a href="mailto: siti_nur_aisyah_shawall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(siti_nur_aisyah_shawall@moe.edu.sg)</a>
+<br>Miss Ow Hui Keng <a href="mailto: ow_hui_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(ow_hui_keng@moe.edu.sg)</u></a>
+<br>Mr Tay Yee Kai <a href="mailto: tay_yee_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(tay_yee_kai@moe.edu.sg)</u></a>
 </p>
 <p></p>
 <p><strong><u>4 Respect (4 RP)</u></strong> 
-<br>Mdm Hor Kah Yan <a href="mailto: ng_li_khoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(hor_kah_yan@moe.edu.sg)</a>
-<br>Mr Ng Wern Chin Sean <a href="mailto: ng_wern_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(ng_wern_chin@moe.edu.sg)</a>
+<br>Mr Lim Li Cheng <a href="mailto: lim_li_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(lim_li_cheng@moe.edu.sg)</u></a>
+<br>Mr Peng Boon Yen <a href="mailto: boon_yen_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(boon_yen_peng@moe.edu.sg)</u></a>
 </p>
 <p></p>
 <p><strong><u>4 Resilience (4 RL)</u></strong> 
-<br>Mr Fu Ruiqi <a href="mailto: fu_ruiqi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(fu_ruiqi@moe.edu.sg)</a>
-<br>Mdm Siti Suminah <a href="mailto: siti_suminah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(siti_suminah@moe.edu.sg)</a>
+<br>Mdm Pang Yuming Amy <a href="mailto: pang_yu_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(pang_yu_ming@moe.edu.sg)</u></a>
+<br>Mr Sean David <a href="mailto: sean_david@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(sean_david@moe.edu.sg)</u></a>
+<br>Ms Li Jiajia, Michelle <a href="mailto: lee_mei_teng_finna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(li_jiajia_michelle@moe.edu.sg)</u></a>
 </p>
 <p></p>
 <p><strong><u>4 Integrity (4 IN)</u></strong> 
-<br>Mr Melvin Tan Wee Yau <a href="mailto: tan_wee_yau_melvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(tan_wee_yau_melvin@moe.edu.sg)</a>
-<br>Mr Thomas Tan Wei Boon <a href="mailto:%20tan_wei_boon_thomas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(tan_wei_boon_thomas@moe.edu.sg)</u></a>
+<br>Mdm Nur Shiqah Binte Hashim <a href="mailto: nur_shiqah_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(nur_shiqah_hashim@moe.edu.sg)</u></a>
+<br>Mdm Lee Mei Teng Finna <a href="mailto: lee_mei_teng_finna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(lee_mei_teng_finna@moe.edu.sg)</u></a>
 </p>
 <p></p>
 <p><strong><u>4 Care (4 CA)</u></strong> 
-<br>Miss Yeo Su Shan <a href="mailto: yeo_su_shan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(yeo_su_shan_a@moe.edu.sg)</a>
-<br>Mdm Lee Mei Teng Finna <a href="mailto: lee_mei_teng_finna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(lee_mei_teng_finna@moe.edu.sg)</a>
+<br>Mr Chandragus Rinah <a href="mailto: chandragus_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(chandragus_a@moe.edu.sg)</u></a>
+<br>Mdm Hor Kah Yan <a href="mailto: ng_li_khoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(hor_kah_yan@moe.edu.sg)</u></a>
 </p>
 <p></p>
 <p><strong><u>4 Excellence (4 EX)</u></strong> 
-<br>Mr Chia Wen Mien Adrian <a href="mailto: chia_wen_mien_adrian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(chia_wen_mien_adrian@moe.edu.sg)</a>
-<br>Mdm Yahida Bte Yahya <a href="mailto: yahida_yahya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(yahida_yahya@moe.edu.sg)</a>
+<br>Miss Bhavana Rajaram (<a href="mailto:bhavana_rajaram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>bhavana_rajaram_a@moe.edu.sg)</u></a>
+<br>Mdm Liang Xingfen Michelle <a href="mailto: liang_xingfen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(liang_xingfen@moe.edu.sg)</u></a>
 <br>
 </p>
 <h4>Secondary Five <br></h4>
 <p><strong><u>5 Aspire (5 AS)</u></strong> 
-<br>Mdm Cherlyn Tan <a href="mailto:%20cherlyn_tan_jin_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(cherlyn_tan_jin_ping@moe.edu.sg)</a>
-<br>Ms Li Jiajia, Michelle <a href="mailto: lee_mei_teng_finna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(li_jiajia_michelle@moe.edu.sg)</a>
+<br>Mr Thomas Tan Wei Boon <a href="mailto:%20tan_wei_boon_thomas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(tan_wei_boon_thomas@moe.edu.sg)</u></a>
+<br>Mr Loh Zhi Wei <a href="mailto:loh_wei_zhi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(loh_wei_zhi_a@moe.edu.sg)</a>
 </p>
 <p></p>
 <h4>Other Teaching Staff</h4>
