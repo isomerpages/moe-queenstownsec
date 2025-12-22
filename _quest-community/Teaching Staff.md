@@ -209,8 +209,10 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong><u>2 Resilience (2 RL)</u></strong> 
-<br>Mr Yuen Cheng Mun Jansen <a href="mailto: yuen_cheng_mun_jansen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(yuen_cheng_mun_jansen@moe.edu.sg)</a>
-<br>Mdm Vijayarani d/o Govindasamy <a href="mailto: vijayarani_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(vijayarani_govindasamy@moe.edu.sg)</a>
+<br>Mdm Tang Siow Leng <a href="mailto:%20tang_siow_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(tang_siow_leng@moe.edu.sg)</u></a>
+<br>Mr Tan Zheng Han, Hans <a href="mailto:Tan_Zheng_Han_Hans_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(tan_zheng_han_hans_a@moe.edu.sg)</u></a>
+<br>Mr Keanan Lim <a href="mailto:keanan_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(keanan_lim@moe.edu.sg)</a>
+<br>
 </p>
 <p></p>
 <p><strong><u>2 Integrity (2 IN)</u></strong> 
