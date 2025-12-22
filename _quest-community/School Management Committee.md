@@ -298,7 +298,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Sec)</p>
+<p>Acting Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Perdana Putra Pan</p>
