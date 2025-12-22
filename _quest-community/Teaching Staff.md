@@ -190,23 +190,17 @@ variant: tiptap
 <br>Mr Chia Wen Mien Adrian <a href="mailto: chia_wen_mien_adrian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(chia_wen_mien_adrian@moe.edu.sg)</u></a>
 </p>
 <p></p>
-<p><strong><u>1 Service (1 SE)</u></strong> 
-<br>Mr Ernest Tan Jing Heng <a href="mailto:%20ernest_tan_jing_heng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(ernest_tan_jing_heng_a@moe.edu.sg)</u></a>
-<br>Ms Huldah Anna Lee Qian Ai <a href="mailto:%20ernest_tan_jing_heng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(Huldah Lee </u></a>
-<a href="mailto:huldah_anna_lee_qian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>huldah_anna_lee_qian@moe.edu.sg</u>
-</a><a href="mailto:%20ernest_tan_jing_heng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>)</u></a>
-</p>
+<p></p>
 <p></p>
 <h4>Secondary Two<br></h4>
 <p><strong><u>2 Gratitude (2 GR)</u></strong> 
-<br>Miss Charmaine Ng <a href="mailto: charmaine_ng_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(charmaine_ng_hui_min@moe.edu.sg)</a>
-<br>Mr Johnson Ong <a href="mailto: johnson_ong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(johnson_ong@moe.edu.sg)</a>
+<br>Mdm Khoo Siew Hwee Grace <a href="mailto:%20khoo_siew_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(khoo_siew_hwee@moe.edu.sg)</u></a>
+<br>Miss Sim Zhi Xin <a href="mailto: sim_zhi_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(sim_zhi_xin@moe.edu.sg)</u></a>
 </p>
 <p></p>
 <p><strong><u>2 Aspire (2 AS)</u></strong> 
-<br>Mdm Amanda Liu <a href="mailto: liu_yuanxin_amanda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(liu_yuanxin_amanda@moe.edu.sg)</a>
-<br>Ms Pravenisa D/O B Viswambharan <a href="mailto: johnson_ong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(</a><a href="mailto:pravenisa_b_viswambharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pravenisa_b_viswambharan@moe.edu.sg</a>
-<a href="mailto: johnson_ong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">)</a>
+<br>Miss Shermine Chan Pei Wen <a href="mailto: shermine_chan_pei_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(shermine_chan_pei_wen@moe.edu.sg)</u></a>
+<br>Ms Bairavanathan Deepa <a href="mailto:bairavanathan_deepa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(bairavanathan_deepa@moe.edu.sg)</a>
 </p>
 <p></p>
 <p><strong><u>2 Respect (2 RP)</u></strong> 
