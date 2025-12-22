@@ -488,15 +488,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Oh Wen Xuan<a href="mailto:yeo_wanyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(oh_wen_xuan@moe.edu.sg)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Yeo Wanyi <a href="mailto:yeo_wanyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(yeo_wanyi@moe.edu.sg)</a>
 </p>
 </td>
@@ -520,24 +511,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Yan Rong <a href="mailto:tan_yan_rong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(tan_yan_rong_a@moe.edu.sg)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wu Men Yen <a href="mailto:wu_men_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(wu_men_yen@moe.edu.sg)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Humanities</p>
 </td>
 </tr>
 <tr>
