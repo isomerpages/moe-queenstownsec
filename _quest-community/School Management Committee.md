@@ -118,7 +118,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Manager</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ramesh S/O K Samikanoo</p>
@@ -130,7 +130,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Manager</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Wee Lieh Max</p>
@@ -184,8 +184,7 @@ variant: tiptap
 <p>Miss Seet Wenshan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="grace_choy_pui_man@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wenshan Seet &lt;</a>
-<a href="mailto:seet_wenshan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seet_wenshan@moe.edu.sg</a><a href="grace_choy_pui_man@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">&gt;</a>
+<p><a href="mailto:seet_wenshan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seet_wenshan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
