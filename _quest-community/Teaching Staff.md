@@ -25,30 +25,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MTT Physical Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Seck Heong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: tan_seck_heong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_seck_heong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LT English Language and Literature</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Sakunthalai d/o Surian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: sakunthalai_surian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sakunthalai_surian@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ST Physics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,13 +61,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ST / Maths</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Jayasolai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:%20jayasolai_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jayasolai_a@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST / Nutrition and Food Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Swee Lian Amy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_swee_lian_amy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_swee_lian_amy@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
