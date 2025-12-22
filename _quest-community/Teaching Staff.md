@@ -276,13 +276,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Upper Sec)</p>
+<p>Assistant Year Head (Sec 3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Haryani Bte Mohamed Hatta</p>
+<p>Mr Muhd Fazari Bin Othman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: nur_haryani_mohamed_hatta@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_haryani_mohamed_hatta@moe.edu.sg</a>
+<p><a href="mailto: fazari_othman_muhammad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>fazari_othman_muhammad@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -291,10 +291,12 @@ variant: tiptap
 <p>Sec 3 Level Mentor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Germaine Jacolyn Peter - Huang</p>
+<p>Mdm Noorheriza B Mohd Aris
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: germaine_jacolyn_peter@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">germaine_jacolyn_peter@moe.edu.sg</a>
+<p><a href="mailto: noorheriza_mohammed_aris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>noorheriza_mohammed_aris@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -303,10 +305,10 @@ variant: tiptap
 <p>Sec 4 and Sec 5 Level Mentor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Saratkumar</p>
+<p>Mdm Germaine Jacolyn Peter - Huang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: saratkumar_ganasekaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saratkumar_ganasekaran@moe.edu.sg</a>
+<p><a href="mailto: germaine_jacolyn_peter@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">germaine_jacolyn_peter@moe.edu.sg</a>
 </p>
 </td>
 </tr>
