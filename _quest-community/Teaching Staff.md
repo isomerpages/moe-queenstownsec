@@ -211,7 +211,6 @@ variant: tiptap
 <p><strong><u>2 Resilience (2 RL)</u></strong> 
 <br>Mdm Tang Siow Leng <a href="mailto:%20tang_siow_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(tang_siow_leng@moe.edu.sg)</u></a>
 <br>Mr Tan Zheng Han, Hans <a href="mailto:Tan_Zheng_Han_Hans_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(tan_zheng_han_hans_a@moe.edu.sg)</u></a>
-<br>Mr Keanan Lim <a href="mailto:keanan_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(keanan_lim@moe.edu.sg)</a>
 <br>
 </p>
 <p></p>
@@ -401,7 +400,7 @@ variant: tiptap
 <h4>Secondary Five <br></h4>
 <p><strong><u>5 Aspire (5 AS)</u></strong> 
 <br>Mr Thomas Tan Wei Boon <a href="mailto:%20tan_wei_boon_thomas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(tan_wei_boon_thomas@moe.edu.sg)</u></a>
-<br>Mr Loh Zhi Wei <a href="mailto:loh_wei_zhi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(loh_wei_zhi_a@moe.edu.sg)</a>
+<br>Mr Loh Wei Zhi <a href="mailto:loh_wei_zhi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(loh_wei_zhi_a@moe.edu.sg)</a>
 </p>
 <p></p>
 <h4>Other Teaching Staff</h4>
