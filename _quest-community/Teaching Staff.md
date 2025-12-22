@@ -149,22 +149,11 @@ variant: tiptap
 <p>Sec 2 Level Mentor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noorheriza B Mohd Aris</p>
+<p>Mr Melvin Tan Wee Yau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: noorheriza_mohammed_aris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noorheriza_mohammed_aris@moe.edu.sg</a>
+<p><a href="mailto: tan_wee_yau_melvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(tan_wee_yau_melvin@moe.edu.sg)</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
