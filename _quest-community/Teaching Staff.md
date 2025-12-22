@@ -110,13 +110,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Sec)</p>
+<p>Acting Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kang Poh Geok</p>
+<p>Mr Perdana Putra Pan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: kang_poh_geok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kang_poh_geok@moe.edu.sg</a>
+<p><a href="mailto:%20pan_ping_rui_perdana@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pan_ping_rui_perdana@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -125,10 +125,10 @@ variant: tiptap
 <p>Assistant Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Fazari Bin Othman</p>
+<p>Mdm Nur Haryani Bte Mohamed Hatta</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: fazari_othman_muhammad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fazari_othman_muhammad@moe.edu.sg</a>
+<p><a href="mailto: nur_haryani_mohamed_hatta@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_haryani_mohamed_hatta@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
