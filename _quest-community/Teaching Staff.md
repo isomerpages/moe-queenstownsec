@@ -88,7 +88,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/conceptphotos_top_ST1_1849.jpg">
 </div>
-<h3><strong>CLASS MENTOR LIST (SEM 1 2025)</strong></h3>
+<h3><strong>CLASS MENTOR LIST (SEM 1 2026)</strong></h3>
 <h3>LOWER SECONDARY <br></h3>
 <table style="minWidth: 75px">
 <colgroup>
