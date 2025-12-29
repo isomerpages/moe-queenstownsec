@@ -8,15 +8,13 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/P-SHC.jpg">
 </div>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>Principal’s Message 2026</u></a></strong>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[PPPP(1]</a>&nbsp;</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<h2><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>Principal’s Message 2026</u></a></strong>&nbsp;</h2>
+<p></p>
 <p><strong>Celebrating Our Milestone</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p>Dear QTSS Community,</p>
-<p>&nbsp;</p>
+<p></p>
 <p>As we approach our 70th anniversary, we stand at a meaningful moment in
 Queenstown Secondary School’s rich story. This milestone invites us to
 honour our <a href="https://www.queenstownsec.moe.edu.sg/about-us/discover-quest/history" rel="noopener noreferrer nofollow" target="_blank">shared heritage</a>,
