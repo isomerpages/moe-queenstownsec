@@ -21,7 +21,7 @@ celebrate our progress, and recommit ourselves to our school motto, Berani
 Berkhidmat, Dare to Serve. As I begin my fifth year with the school, I
 am proud to highlight how we, with the support and partnership of our parents,
 are nurturing our <strong>Thriving QTSS Community, Flourishing Learners and Future-Oriented Leaders</strong>:</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Thriving QTSS Community: A Place to Belong</strong>
 </p>
 <p>Our commitment to a Thriving QTSS Community is anchored in our <a href="https://www.queenstownsec.moe.edu.sg/learning-spaces-qtss/" rel="noopener noreferrer nofollow" target="_blank">re-imagined learning spaces</a>,
@@ -40,7 +40,7 @@ partners, especially our <a href="https://www.queenstownsec.moe.edu.sg/about-us/
 Together, we foster a community where every Queenstownian feels known,
 supported, and safe to grow while building positive relationships grounded
 in care and gratitude.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Flourishing Learners: Purposeful Learning and Growth</strong>
 </p>
 <p>To optimise these redesigned spaces, we continue to strengthen teaching
@@ -67,7 +67,7 @@ these partnership-enabled ECG experiences, we support each Queenstownian
 in exploring their interests, developing their strengths, and charting
 a learning journey suited to their talents and aspirations while embracing
 a growth mindset.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Future-Oriented Leaders: Serving Others and Our Community</strong>
 </p>
 <p>Indeed, across these experiences, Queenstownians are encouraged to look
