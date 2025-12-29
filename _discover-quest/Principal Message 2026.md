@@ -4,7 +4,7 @@ permalink: /about-us/discover-quest/principal-message-2026/
 variant: tiptap
 description: ""
 ---
-<h1>Principal’s Message</h1>
+<h1><strong>Principal’s Message</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/P-SHC.jpg">
 </div>
@@ -124,6 +124,4 @@ social media accounts on&nbsp;<a href="https://www.instagram.com/qtssinstaquest/
 <p>Mr Sim How Chong</p>
 <p>Principal</p>
 <hr>
-<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[PPPP(1]</a>Pls reuse the same photo from 2025</p>
-<p>&nbsp;<a href="#_msoanchor_2" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[PPPP(2]</a>Pls embed the link to the 2025 P’s address
-PDF after it’s uploaded</p>
+<p></p>
