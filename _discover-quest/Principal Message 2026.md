@@ -8,10 +8,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/P-SHC.jpg">
 </div>
-<h2><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>Principal’s Message 2026</u></a></strong>&nbsp;</h2>
 <p></p>
-<p><strong>Celebrating Our Milestone</strong>
-</p>
+<h3><strong>Principal's Message 2026</strong></h3>
+<h4><strong>Celebrating Our Milestone</strong></h4>
 <p></p>
 <p>Dear QTSS Community,</p>
 <p></p>
