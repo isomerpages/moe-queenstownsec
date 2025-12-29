@@ -88,7 +88,7 @@ so, as future-oriented leaders, our Queenstownians are encouraged not only
 to dream for themselves, but to contribute meaningfully to society through
 serving others, caring for the environment, and shaping a better future
 for all.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Join Us in the 70th Anniversary Journey</strong>
 </p>
 <p>As we prepare to celebrate seven decades of history, heritage and progress,
@@ -99,7 +99,7 @@ first local secondary school Alumni Associations (see <a href="https://www.queen
 the article published in Zaobao, alongside its English translation), and
 their continued commitment to giving back exemplifies the enduring spirit
 of service and pursuit of excellence that defines our school.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>To mark this significant milestone, we are supporting our Alumni Association
 to host a Gala Night on 23 May, which will be honoured by the presence
 of our distinguished alumnus, Mr Desmond Tan (Class of 1986), Senior Minister
@@ -108,7 +108,7 @@ Henderson-Dawson People's Association to organise a National Day Fiesta
 on 15 August (tentative) at our school premises, celebrating seven decades
 of our role within the Queenstown Community and our contributions to nation-building.
 We warmly invite you to participate in these celebrations!</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Your continued support, partnership and belief in our mission will anchor
 our journey forward. Let us continue building a Thriving Community, nurturing
 Flourishing Learners, and shaping Future-Oriented Leaders who are Leaders
@@ -119,7 +119,7 @@ out more about our 2024 and 2025 journey <a href="/files/Principal_Message_2024.
 <br>For more videos and pictures of our QTSS journey, please refer to our
 social media accounts on&nbsp;<a href="https://www.instagram.com/qtssinstaquest/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>&nbsp;and&nbsp;
 <a href="https://www.facebook.com/QueenstownSecondarySchool/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Berani Berkhidmat,</p>
 <p>Mr Sim How Chong</p>
 <p>Principal</p>
