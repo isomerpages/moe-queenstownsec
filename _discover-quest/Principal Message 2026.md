@@ -8,104 +8,125 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/P-SHC.jpg">
 </div>
-<p><strong><u>Principal’s Message 2025</u></strong>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>Principal’s Message 2026</u></a></strong>
+<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[PPPP(1]</a>&nbsp;</p>
+<p><strong><u>&nbsp;</u></strong>
 </p>
-<p><strong>Fostering a Thriving QTSS Community to Nurture Flourishing Learners and Future-Oriented Leaders</strong>
+<p><strong>Celebrating Our Milestone</strong>
 </p>
-<p></p>
+<p>&nbsp;</p>
 <p>Dear QTSS Community,</p>
-<p>It gives me immense pride and joy to share our school’s progress and aspirations
-as we foster a nurturing environment where Queenstownians can learn, grow
-and thrive. At the heart of our work is a shared vision of cultivating <strong>Leaders for Tomorrow, </strong>who
-are<strong> Anchored in Values </strong>and<strong> Committed to Serve.</strong> Every
-initiative that we embark on is guided by this purpose, as we equip Queenstownians
-for success academically, socially and emotionally. My colleagues’ efforts
-in implementing our strategic initiatives have led to stellar progress
-in our academic and co-curricular outcomes, which I have shared regularly
-in my termly letters to parents.</p>
-<p>This is the start of my 4<sup>th</sup> year in Queenstown Secondary School
-and I would like to highlight the school’s key efforts in building a Thriving
-QTSS Community, Flourishing Learners and Future-Oriented Leaders and I
-invite you to visit our school website for the detailed updates.</p>
-<p></p>
-<p><strong>Our Commitment to Engaged Learning</strong>
+<p>&nbsp;</p>
+<p>As we approach our 70th anniversary, we stand at a meaningful moment in
+Queenstown Secondary School’s rich story. This milestone invites us to
+honour our <a href="https://www.queenstownsec.moe.edu.sg/about-us/discover-quest/history" rel="noopener noreferrer nofollow" target="_blank">shared heritage</a>,
+celebrate our progress, and recommit ourselves to our school motto, Berani
+Berkhidmat, Dare to Serve. As I begin my fifth year with the school, I
+am proud to highlight how we, with the support and partnership of our parents,
+are nurturing our <strong>Thriving QTSS Community, Flourishing Learners and Future-Oriented Leaders</strong>:</p>
+<p>&nbsp;</p>
+<p><strong>Thriving QTSS Community: A Place to Belong</strong>
 </p>
-<p>In a fast-moving world of learning and working, we recognise the importance
-of providing a holistic education that orients our Queenstownians for the
-future. As such, we have been steadily evolving our curriculum as well
-as our teaching and learning practices to engage our students in their
-learning. Our <strong><a href="https://www.queenstownsec.moe.edu.sg/total-curriculum/" rel="noopener nofollow" target="_blank">Total Curriculum</a> </strong>integrates
-academic excellence with character and citizenship<strong> </strong>education,
-placing<strong> </strong>a deliberate emphasis on developing 21<sup>st</sup> Century
-Competencies (21CC) such as adaptive thinking and effective communication.</p>
-<p>Since 2022, the school has embarked on a journey to reimagine learning
-spaces so as to support engaged learning for our Queenstownians. Some of
-the <strong><a href="https://www.queenstownsec.moe.edu.sg/learning-spaces-qtss/" rel="noopener nofollow" target="_blank">reimagined physical spaces</a></strong> include
-the upgraded school foyer, library, indoor sports hall as well as the introduction
-of prototype classrooms. Coupled with the enhanced use of educational technology,
-and the forward-looking <strong><a href="https://www.queenstownsec.moe.edu.sg/futurelearn-curriculum/" rel="noopener nofollow" target="_blank">FutureLearn Curriculum</a></strong>,
-we are creating authentic opportunities for Queenstownians to learn, explore,
-and flourish in an increasingly complex and interconnected world.</p>
-<p><strong>Stretching Potential through Talent Development</strong>
+<p>Our commitment to a Thriving QTSS Community is anchored in our <a href="https://www.queenstownsec.moe.edu.sg/learning-spaces-qtss/" rel="noopener noreferrer nofollow" target="_blank">re-imagined learning spaces</a>,
+which intentionally shape environments to foster belonging, connection,
+and engagement: The refreshed school foyer welcomes every Queenstownian
+with greenery and visual reminders of our shared story, while the new Learning
+Commons offers flexible zones for study, collaboration and presentations,
+encouraging meaningful interactions and peer learning. This year, the Prototype
+Classroom will expand to include seven additional classrooms, further transforming
+traditional spaces into dynamic environments that support collaborative
+learning and the development of essential 21st Century Competencies. These
+efforts are strengthened by our <a href="https://www.queenstownsec.moe.edu.sg/student-development/student-well-being/" rel="noopener noreferrer nofollow" target="_blank">Student Well-Being Framework</a>,
+and by the strong partnerships we share with staff, parents, alumni and
+partners, especially our <a href="https://www.queenstownsec.moe.edu.sg/about-us/quest-community/parent-support-group/" rel="noopener noreferrer nofollow" target="_blank">Parent Support Group</a>,
+<a href="https://www.queenstownsec.moe.edu.sg/about-us/quest-community/quest-alumni-association/" rel="noopener noreferrer nofollow" target="_blank">Alumni Association</a>, and <a href="https://www.queenstownsec.moe.edu.sg/about-us/quest-community/school-advisory-committee/" rel="noopener noreferrer nofollow" target="_blank">School Advisory Committee</a>.
+Together, we foster a community where every Queenstownian feels known,
+supported, and safe to grow while building positive relationships grounded
+in care and gratitude.</p>
+<p>&nbsp;</p>
+<p><strong>Flourishing Learners: Purposeful Learning and Growth</strong>
 </p>
-<p>We believe every student is a unique individual with strengths and potential
-waiting to be discovered. To nurture these talents, we offer targeted programmes
-such as <strong><a href="https://www.queenstownsec.moe.edu.sg/talent-development/" rel="noopener nofollow" target="_blank">subject-based talent development</a></strong> plans
-and the <strong><a href="https://www.queenstownsec.moe.edu.sg/quest-global/" rel="noopener nofollow" target="_blank">QUEST Global programme</a></strong>.</p>
-<p>In 2024, we expanded our students’ horizons with enriching trips to Vietnam
-and Thailand, underscoring our dedication to providing Queenstownians with
-international exposure. Looking ahead to 2025 and beyond, we plan to extend
-these opportunities to countries such as Japan, Indonesia, and China.</p>
-<p>These experiences not only cultivate 21CC but also allow our students
-to build friendships across borders, appreciate the unique strengths and
-opportunities of other countries, and gain a global perspective. Upon returning
-to Singapore, our Queenstownians carry with them a renewed appreciation
-for Singapore’s role as a global hub and a strengthened resolve to contribute
-to the nation’s continued growth.</p>
-<p></p>
-<p><strong>Nurturing Growth through Student Well-being</strong>
+<p>To optimise these redesigned spaces, we continue to strengthen teaching
+and learning approaches, leveraging on Educational Technology tools, that
+stretch students while providing timely support and space for students
+to Learn – Do – Reflect. At the heart of our work to nurture Flourishing
+Learners is our <a href="https://www.queenstownsec.moe.edu.sg/total-curriculum/" rel="noopener noreferrer nofollow" target="_blank">Total Curriculum</a>,
+which integrates academic learning, character development and future-ready
+competencies, so that our students become self-directed, joyful in learning
+and committed with a positive self-concept based on their unique worth.
+We continue to embed 21st-Century Competencies and future literacies so
+that our students are well prepared for an ever-changing world of learning
+and work. Key to this is our long-established <a href="https://www.queenstownsec.moe.edu.sg/quick-links/school-links/applied-learning-programme/" rel="noopener noreferrer nofollow" target="_blank">Applied Learning Programme (ALP)</a> in
+Environmental Sustainability, where students engage with real-world issues
+and build environmental responsibility. Complementing the ALP is our Learning
+for Life Programme in <a href="https://www.queenstownsec.moe.edu.sg/quick-links/school-links/learning-for-life-programme/" rel="noopener noreferrer nofollow" target="_blank">Community Youth Leadership (CYL)</a>,
+which intentionally cultivates service, care, and social awareness. Additionally,
+through our <a href="https://www.queenstownsec.moe.edu.sg/student-development/ecg/" rel="noopener noreferrer nofollow" target="_blank">Educational and Career Guidance (ECG) programme</a>,
+strengthened by strategic partnerships, Queenstownians gain authentic exposure
+to industry, post-secondary pathways and real-world contexts that help
+them make informed aspirations and choices. Together with <a href="https://www.queenstownsec.moe.edu.sg/full-subject-based-banding-full-sbb/" rel="noopener noreferrer nofollow" target="_blank">Full Subject‑Based Banding</a>,
+our <a href="https://www.queenstownsec.moe.edu.sg/talent-development/" rel="noopener noreferrer nofollow" target="_blank">Talent Development Programme</a> and
+these partnership-enabled ECG experiences, we support each Queenstownian
+in exploring their interests, developing their strengths, and charting
+a learning journey suited to their talents and aspirations while embracing
+a growth mindset.</p>
+<p>&nbsp;</p>
+<p><strong>Future-Oriented Leaders: Serving Others and Our Community</strong>
 </p>
-<p>Student well-being remains as the cornerstone of meaningful and effective
-learning. Our <strong><a href="https://www.queenstownsec.moe.edu.sg/student-development/student-well-being/" rel="noopener noreferrer nofollow" target="_blank">Student Well-being Framework</a></strong> is
-dedicated to fostering a culture of care and connection by nurturing supportive
-relationships among students, teachers, and the wider community.</p>
-<p>Through our Community Youth Leadership initiatives, Queenstownians engage
-in meaningful projects that extend beyond the classroom, making positive
-contributions to the society. I am proud of their achievements, as <a href="https://www.straitstimes.com/singapore/scrunchies-pouches-keychains-students-make-items-to-raise-funds-for-st-school-pocket-money-fund" rel="noopener nofollow" target="_blank">highlighted in The Straits Times</a>.
-By prioritising emotional resilience, mental health and helping students
-find meaning in their lives, we empower our Queenstownians to face challenges
-with confidence and courage.<strong>&nbsp;</strong>
+<p>Indeed, across these experiences, Queenstownians are encouraged to look
+beyond themselves, beyond school, and beyond now. CYL projects, environmental
+efforts and service-learning initiatives help them put our <a href="https://www.queenstownsec.moe.edu.sg/about-us/discover-quest/school-vision/" rel="noopener noreferrer nofollow" target="_blank">core values</a> of
+Resilience, Respect, Integrity, Care and Excellence into action. Through
+the <a href="https://www.queenstownsec.moe.edu.sg/quest-global/" rel="noopener noreferrer nofollow" target="_blank">QUEST Global</a> programme,
+students extend their learning beyond our local context, engaging with
+international perspectives, collaborating with peers across borders, and
+applying their learning in authentic global and community settings. These
+global experiences, combined with our purposeful school-based initiatives,
+help students deepen empathy, expand cultural awareness and strengthen
+their ability to navigate complexity. Our <strong><a href="https://www.queenstownsec.moe.edu.sg/futurelearn-curriculum/" rel="noopener noreferrer nofollow" target="_blank">FutureLearn Curriculum</a></strong> further
+develops their 21st Century Competencies and future literacies, preparing
+them to be empathetic, forward-thinking, and adaptable leaders who can
+take effective action in an uncertain world<strong>.</strong> &nbsp;In doing
+so, as future-oriented leaders, our Queenstownians are encouraged not only
+to dream for themselves, but to contribute meaningfully to society through
+serving others, caring for the environment, and shaping a better future
+for all.</p>
+<p>&nbsp;</p>
+<p><strong>Join Us in the 70th Anniversary Journey</strong>
 </p>
-<p><strong>Harnessing the Power of Partnership</strong>
-</p>
-<p>Our shared success is made possible by the strong partnerships between
-our school, parents, alumni, industry leaders such as IKEA, Singapore Hilton
-Hotels, Rockwell Automation, Abbott Manufacturing, City Development Limited,
-Elsie’s Kitchen, The Polyolefin Company, ASTAR Singapore, Elmich Ptd Ltd,
-as well as Educational Partners such as NUS, NP and the wider community.
-Our Alumni Association<strong> </strong>has also stepped forward to provide <strong>Career Mentoring</strong> for
-Queenstownians, offering timeless and timely advice on career guidance.</p>
-<p>Many of these partnerships have been fostered through our <strong><a href="https://www.queenstownsec.moe.edu.sg/about-us/quest-community/parent-support-group/" rel="noopener nofollow" target="_blank">Parent Support Group</a></strong>, <strong><a href="https://www.queenstownsec.moe.edu.sg/about-us/quest-community/quest-alumni-association/" rel="noopener nofollow" target="_blank">Alumni Association</a></strong>,
-and <strong><a href="https://www.queenstownsec.moe.edu.sg/about-us/quest-community/school-advisory-committee/" rel="noopener nofollow" target="_blank">School Advisory Committee</a></strong>,
-enabling the school to offer a meaningful and impactful <strong><a href="https://www.queenstownsec.moe.edu.sg/student-development/ecg/" rel="noopener nofollow" target="_blank">Educational Career Guidance Programme</a></strong> for
-our Queenstownians. Your unwavering support has been instrumental in creating
-an ecosystem where every Queenstownian can thrive, realise their fullest
-potential and graduate with the confidence that they can contribute to
-the betterment of others, embodying our school’s motto of Berani Berkhidmat.&nbsp;</p>
-<p></p>
-<p><strong>Looking Ahead</strong>
-</p>
-<p>We have embarked on a remarkable journey of transformation and while we
-celebrate our achievements, our focus remains firmly on the road ahead.
-With your continued partnership, I am confident that we, as a <strong>thriving QTSS Community</strong>,
-will continue to nurture our Queenstownians to be<strong> flourishing learners </strong>and<strong> future-oriented leaders </strong>(Find
-out more about our 2024 journey <a href="/files/Principal_Message_2024.pdf" rel="noopener nofollow" target="_blank">here</a>)<strong>!</strong>
+<p>As we prepare to celebrate seven decades of history, heritage and progress,
+I invite every member of our QTSS community—past, present and future—to
+renew our shared commitment: to belong, to grow, and to serve. Our alumni
+from the founding year of 1956 pioneered the establishment of one of the
+first local secondary school Alumni Associations (see <a href="https://www.queenstownsec.moe.edu.sg/media-highlights/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+the article published in Zaobao, alongside its English translation), and
+their continued commitment to giving back exemplifies the enduring spirit
+of service and pursuit of excellence that defines our school.</p>
+<p>&nbsp;</p>
+<p>To mark this significant milestone, we are supporting our Alumni Association
+to host a Gala Night on 23 May, which will be honoured by the presence
+of our distinguished alumnus, Mr Desmond Tan (Class of 1986), Senior Minister
+of State at the Prime Minister's Office. Additionally, we are working alongside
+Henderson-Dawson People's Association to organise a National Day Fiesta
+on 15 August (tentative) at our school premises, celebrating seven decades
+of our role within the Queenstown Community and our contributions to nation-building.
+We warmly invite you to participate in these celebrations!</p>
+<p>&nbsp;</p>
+<p>Your continued support, partnership and belief in our mission will anchor
+our journey forward. Let us continue building a Thriving Community, nurturing
+Flourishing Learners, and shaping Future-Oriented Leaders who are Leaders
+for Tomorrow, Anchored in Values, and Committed to Serve. Thank you for
+your journey with us as we continue to write our school’s story! (Find
+out more about our 2024 and 2025 journey <a href="/files/Principal_Message_2024.pdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;and <a href="/files/Principal_Message_2025.pdf" rel="noopener nofollow" target="_blank">here</a> respectively)<strong>.</strong>
 <br>
 <br>For more videos and pictures of our QTSS journey, please refer to our
-social media accounts on <a href="https://www.instagram.com/qtssinstaquest/" rel="noopener nofollow" target="_blank">instagram</a> and
-<a href="https://www.facebook.com/QueenstownSecondarySchool/" rel="noopener nofollow" target="_blank">facebook</a>.
-<br>
-</p>
-<p>Berani Berkhidmat,
-<br>Mr Sim How Chong
-<br>Principal</p>
+social media accounts on&nbsp;<a href="https://www.instagram.com/qtssinstaquest/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>&nbsp;and&nbsp;
+<a href="https://www.facebook.com/QueenstownSecondarySchool/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>.</p>
+<p>&nbsp;</p>
+<p>Berani Berkhidmat,</p>
+<p>Mr Sim How Chong</p>
+<p>Principal</p>
+<hr>
+<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[PPPP(1]</a>Pls reuse the same photo from 2025</p>
+<p>&nbsp;<a href="#_msoanchor_2" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[PPPP(2]</a>Pls embed the link to the 2025 P’s address
+PDF after it’s uploaded</p>
