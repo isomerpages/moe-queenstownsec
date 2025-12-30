@@ -482,7 +482,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mother Tongue</p>
+<p>Mathematics</p>
 </td>
 </tr>
 <tr>
