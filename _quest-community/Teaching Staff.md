@@ -496,7 +496,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lau Chor Keng <a href="mailto:lau_chor_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(lau_chor_keng@moe.edu.sg)</a>
+<p>Mr Lau Chor Keng <a href="mailto:lau_chor_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(lau_chor_keng_1@moe.edu.sg)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
