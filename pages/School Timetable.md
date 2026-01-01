@@ -7,7 +7,7 @@ variant: markdown
 School Timetable
 ================
 
-Academic Year 2025 (Semester 2)
+Academic Year 2026 (Semester 1)
 -------------------------------
 
 Click the links below to view the timetable:
