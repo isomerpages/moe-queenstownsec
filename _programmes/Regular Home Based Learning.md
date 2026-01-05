@@ -15,5 +15,5 @@ HBL often enough to develop the skills and mindsets to become more independent
 and self-directed learners, without unduly compromising the in-person learning
 experience in schools.</p>
 <p>For more information regarding the school's regular HBL and Self-Initiated
-Learning (SIL), please click <a href="/files/02_QTSS_HBL_SIL_Briefing_to_parents_Sem1_2025_updated.pdf" rel="noopener nofollow" target="_blank">Here</a>
+Learning (SIL), please click <a href="/files/02_QTSS_HBL_SIL_Briefing_to_parents_Sem1_2026.pdf" rel="noopener nofollow" target="_blank">Here</a>
 </p>
