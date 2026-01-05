@@ -14,12 +14,11 @@ Device (PLD). The aims are to enhance teaching and learning, support development
 of self-directedness, collaborative skills and digital literacies.&nbsp;
 Details of the PLD Initiative can found in the deck of slides below:</p>
 <hr>
-<h1><strong>2025</strong></h1>
+<h1><strong>2026</strong></h1>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parent_Engagement_Deck_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">PowerPoint on 2025 QTSS PLD Initiative Parent Briefing</a>
+<p><a href="/files/2026_Sec_1_PLD_Briefing_Deck.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 PLD Initiative Sec 1 Parent Briefing</a>
 </p>
-<p></p>
 <p></p>
 </li>
 </ol>

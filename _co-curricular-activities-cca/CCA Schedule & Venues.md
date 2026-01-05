@@ -7,7 +7,7 @@ variant: markdown
 CCA Schedule & Venues
 ====================
 
-Click [Here](/files/CCA_Schedule__2025_SEM_2.pdf) for 2025 Sem 2 CCA Schedule
+Click [Here](/files/CCA_Schedule__2026_SEM_1_2ndJan26.pdf) for 2026 Sem 1 CCA Schedule
 
 ------------------
-Updated on 26 June 2025
+Updated on 5 Jan 2026
