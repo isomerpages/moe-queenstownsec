@@ -6,4 +6,4 @@ variant: markdown
 ---
 # Student Handbook
 
-[Student Handbook 2026](/files/QTSS_Student_Handbook_2026__Final_.pdf)
+[Student Handbook 2026](/files/QTSS_Student_Handbook_2026__Final_12_JAN_2026_.pdf)
