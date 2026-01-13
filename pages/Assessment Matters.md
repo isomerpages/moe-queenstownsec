@@ -5,21 +5,25 @@ description: ""
 variant: tiptap
 ---
 <h1>Assessment Matters</h1>
-<h4>2025 Term 4 Assessment Information<br></h4>
+<h4>2026 Term 1 Assessment Information<br></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/EOY_2025_Timetable_Sec1_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 End of Year 2025 Exam Timetable</a>
+<p><a href="/files/2026_T1_Assessment_Info_for_students_S1_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Assessment Info for Students</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EOY_2025_Timetable_finalSec2_1.pdf" rel="noopener nofollow" target="_blank">Sec 2 End of Year 2025 Exam Timetable</a>
+<p><a href="/files/2026_T1_Assessment_Info_for_students_Sec2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Assessment Info for Students</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_3_EOY_2025_Timetable_final.pdf" rel="noopener nofollow" target="_blank">Sec 3 End of Year 2025 Exam Timetable</a>
+<p><a href="/files/2026_T1_Assessment_Info_for_students_Sec3.pdf" rel="noopener nofollow" target="_blank">Sec 3 Assessment Info for Students</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026_T1_Assessment_Info_for_students_Sec4_5.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; Sec 5 Assessment Info for Students</a>
 </p>
 </li>
 </ol>
-<p>Updated on 17 September 2025</p>
+<p>Updated on 13 Jan 2026</p>
 <p></p>
 <p></p>
