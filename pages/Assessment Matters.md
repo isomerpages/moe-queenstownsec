@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2026_T1_Assessment_Info_for_students_Sec2_6.pdf" rel="noopener nofollow" target="_blank">Sec 2 Assessment Info for Students</a>
+<p><a href="/files/Assessment Matters/Updated__2026_T1_Assessment_Info_for_students_Sec2_8.pdf" rel="noopener nofollow" target="_blank">Sec 2 Assessment Info for Students</a>
 </p>
 </li>
 <li>
