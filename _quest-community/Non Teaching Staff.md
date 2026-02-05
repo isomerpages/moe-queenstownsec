@@ -139,7 +139,7 @@ variant: tiptap
 <p>Mr Rashid Bin Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Rashid_Ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rashid_Ismail@moe.edu.sg</a>
+<p><a href="mailto:rashid_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rashid_ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -164,18 +164,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: luqmannulhakim_norman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">luqmannulhakim_norman@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>STEM Instructor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Rashid Bin Ismail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:rashid_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rashid_ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>

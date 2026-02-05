@@ -52,10 +52,23 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Christy Chen Siaw Chin</p>
+<p>Ms Goh Li Yen Lynette</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: chen_siaw_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_siaw_chin@moe.edu.sg</a>
+<p><a href="mailto:goh_li_yen_lynette_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_li_yen_lynette_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cynthia Kong Mun Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kong_mun_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_mun_yee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -68,21 +81,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: leong_kok_wah_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_kok_wah_andrew@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Quek Cheng Hwee Stanley</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:quek_cheng_hwee_stanley@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_cheng_hwee_stanley@moe.edu.sg</a>
-</p>
-<p>
-<br>
 </p>
 </td>
 </tr>
