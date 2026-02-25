@@ -8,7 +8,10 @@ variant: tiptap
 <h5><strong>The Quest to...</strong></h5>
 <p>Develop every Queenstownian into a Passionate youth who is an Innovative,
 Independent and Resilient Learner.</p>
-<h5><strong>Key Approaches</strong>&nbsp;</h5>
+<h5><strong>Key Approaches</strong></h5>
+<p><a href="www.questhetics.com" rel="noopener nofollow" target="_blank">QUESTHETICS</a> -
+The ART and MUSIC Microsite of Queenstown Secondary School&nbsp;</p>
+<p></p>
 <p><strong>LOWER SECONDARY</strong>
 </p>
 <p><u>Art</u>
@@ -225,7 +228,7 @@ National Design Centre</p>
 <li>
 <p>The Youth Station Project 2023: Top 10 and Honourable Mentions Songs</p>
 <div class="iframe-wrapper">
-<iframe height="385" width="684" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cpcm6d3-p18?list=PLRGFo1hZVPDkepY2BDgMP4GCZUCR5_t1G"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="385" width="684" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cpcm6d3-p18?list=PLRGFo1hZVPDkepY2BDgMP4GCZUCR5_t1G"></iframe>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width:150%" height="auto" width="100%" src="/images/Departments/a&amp;t207.png">
