@@ -9,7 +9,7 @@ variant: tiptap
 <p>Develop every Queenstownian into a Passionate youth who is an Innovative,
 Independent and Resilient Learner.</p>
 <h5><strong>Key Approaches</strong></h5>
-<p><a href="www.questhetics.com" rel="noopener nofollow" target="_blank">QUESTHETICS</a> -
+<p><a href="https://www.questhetics.com/" rel="noopener nofollow" target="_blank">QUESTHETICS</a> -
 The ART and MUSIC Microsite of Queenstown Secondary School&nbsp;</p>
 <p></p>
 <p><strong>LOWER SECONDARY</strong>
