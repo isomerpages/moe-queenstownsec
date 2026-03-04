@@ -10,4 +10,4 @@ CCA Schedule & Venues
 Click [Here](/files/CCA_Schedule__2026_SEM_1_3rdMar26.pdf) for 2026 Sem 1 CCA Schedule
 
 ------------------
-Updated on 5 Jan 2026
+Updated on 4 March 2026
