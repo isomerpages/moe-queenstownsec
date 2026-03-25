@@ -91,13 +91,11 @@ generations.
 </p>
 <p><em>Information from:</em>
 </p>
-<p>- <em><a rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/business/companies-markets/singapore-based-start-up-rwdc-industries-aims-to-eliminate-single-use</a></em>
+<p>- <a href="https://www.straitstimes.com/business/companies-markets/singapore-based-start-up-rwdc-industries-aims-to-eliminate-single-use" rel="noopener nofollow" target="_blank">https://www.straitstimes.com/business/companies-markets/singapore-based-start-up-rwdc-industries-aims-to-eliminate-single-use</a>
 </p>
-<p><em>- <a href="https://www.fintechfestival.sg/speakers/spkr9402-roland-wee" rel="noopener noreferrer nofollow" target="_blank">https://www.fintechfestival.sg/speakers/spkr9402-roland-wee</a></em>
+<p><em>- </em><a href="https://www.youtube.com/watch?v=c3P1Cp6zcww" rel="noopener nofollow" target="_blank">https://www.youtube.com/watch?v=c3P1Cp6zcww</a>
 </p>
-<p><em>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=c3P1Cp6zcww</a></em>
-</p>
-<p><em>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/wuluclub/posts/goh-loo-member-mr-roland-wee-in-the-business-times-on-6-may-2020roland-wee-co-fo/1096660774042788/</a></em>
+<p><em>- </em><a href="https://www.facebook.com/wuluclub/posts/goh-loo-member-mr-roland-wee-in-the-business-times-on-6-may-2020roland-wee-co-fo/1096660774042788/" rel="noopener nofollow" target="_blank">https://www.facebook.com/wuluclub/posts/goh-loo-member-mr-roland-wee-in-the-business-times-on-6-may-2020roland-wee-co-fo/1096660774042788/</a>
 </p>
 <p></p>
 <p></p>
@@ -146,9 +144,9 @@ the Deputy CEO Development, Mandai Wildlife Group.</p>
 for the inaugural Career Mentoring @ QUEST in 2024, for alumni to learn
 relevant career tips and expand their professional network.</p>
 <p><em>Information from:</em>
-<br><em>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/in/lawrence-leong-73461b3b/?originalSubdomain=sg</a></em>
+<br><em>- </em><a href="https://www.linkedin.com/in/lawrence-leong-73461b3b/" rel="noopener nofollow" target="_blank">https://www.linkedin.com/in/lawrence-leong-73461b3b/</a>
 </p>
-<p><em>- <a rel="noopener noreferrer nofollow" target="_blank">https://nexleaders.com/our-experts-old2024/lawrence-leong/</a><br></em>
+<p><em>- </em><a href="https://nexleaders.com/our-experts/lawrence-leong/" rel="noopener nofollow" target="_blank">https://nexleaders.com/our-experts/lawrence-leong/</a><em><br></em>
 </p>
 <p></p>
 <h3>Mr Lim Song Joo</h3>
@@ -327,10 +325,6 @@ career insights and helping them expand their professional networks.</p>
 <p><em>Information from: <a href="https://www.linkedin.com/in/joyce-hiew-8638b178/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/in/joyce-hiew-8638b178/?originalSubdomain=sg</a></em>
 </p>
 <p></p>
-<p></p>
-<p>
-<br>
+<p><a href="https://staging.d33coz43hxnqna.amplifyapp.com/archive/" rel="noopener nofollow" target="_blank">Our Archive</a>
 </p>
 <p></p>
-<p><em><a href="https://staging.d33coz43hxnqna.amplifyapp.com/archive/" rel="noopener noreferrer nofollow" target="_blank">Our Archive</a></em>
-</p>

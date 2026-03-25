@@ -19,9 +19,18 @@ technology; to design learning experiences where every Queenstownian plays
 an active role in acquiring the school values (R2ICE), 21<sup>st</sup> Century
 Competencies and Sustainability Literacy through a Learn, Do, and Reflect
 cycle.</p>
-<p>Every Queenstownian will therefore be able to connect, collaborate and
-create, flourishing as a learner and leading with a future-oriented mindset
-within a thriving community.</p>
+<p>Our school continues to deepen our commitment to engaged learning as a
+cornerstone of the Total Curriculum Framework. This educational approach
+ensures that every Queenstownian actively participates in meaningful, interactive
+experiences with real-world applications of knowledge and skills. Through
+our emphasis on collaborative learning, critical thinking, and experiential
+activities that align with E21CC competencies—particularly Adaptive Thinking
+and Communication—we maintain our student-centric focus whilst enhancing
+our teachers' skillsets in spatial awareness and e-pedagogy. The implementation
+of prototype classrooms that foster enhanced collaboration and communication
+further supports our vision of creating learning environments where Queenstownians
+can truly connect, collaborate, and create as they flourish as learners
+and leaders with future-oriented mindsets within our thriving community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Picture6dc.png">

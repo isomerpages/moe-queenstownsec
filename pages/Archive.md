@@ -2,6 +2,7 @@
 title: Archive
 permalink: /archive/
 description: ""
+variant: tiptap
 ---
 Alumni
 ======
@@ -10,14 +11,14 @@ Alumni
 
 
 
-<img src="/images/Our%20Pride/Archive%201.png" style="width:200px;height:110px;margin-right:15px;" align = "left">
+<img src="/images/Our%20Pride/Archive%201.png" style="width:200px;height:110px;margin-right:15px;" align="left">
 
 **It Changed My Life: I always hire people who are better than me, says Changi Airport Group chairman Liew Mun Leong**
 
 
 Queenstown alumnus Mr Liew Mun Leong, Chairman of Changi Airport Group, shared with The Straits Times recently about overcoming the fear of failure and the secrets behind his success in the corporate world.
 
-Check out his pearls of wisdom here! [https://www.straitstimes.com/singapore/i-always-hire-people-who-are-better-than-me](https://www.straitstimes.com/singapore/i-always-hire-people-who-are-better-than-me)
+Check out his pearls of wisdom here!&nbsp;[https://www.straitstimes.com/singapore/i-always-hire-people-who-are-better-than-me](https://www.straitstimes.com/singapore/i-always-hire-people-who-are-better-than-me)
 
-_\*photo was taken from The Straits Times: 
+_\*photo was taken from The Straits Times:&nbsp;
 [https://www.straitstimes.com/singapore/i-always-hire-people-who-are-better-than-me](https://www.straitstimes.com/singapore/i-always-hire-people-who-are-better-than-me)_
