@@ -47,7 +47,7 @@ in care and gratitude.</p>
 and learning approaches, leveraging on Educational Technology tools, that
 stretch students while providing timely support and space for students
 to Learn – Do – Reflect. At the heart of our work to nurture Flourishing
-Learners is our <a href="https://www.queenstownsec.moe.edu.sg/total-curriculum/" rel="noopener noreferrer nofollow" target="_blank">Total Curriculum</a>,
+Learners is our commitment to engaged learning through the <a href="https://www.queenstownsec.moe.edu.sg/total-curriculum/" rel="noopener noreferrer nofollow" target="_blank">Total Curriculum</a>,
 which integrates academic learning, character development and future-ready
 competencies, so that our students become self-directed, joyful in learning
 and committed with a positive self-concept based on their unique worth.
