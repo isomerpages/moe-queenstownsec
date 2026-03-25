@@ -144,9 +144,9 @@ the Deputy CEO Development, Mandai Wildlife Group.</p>
 for the inaugural Career Mentoring @ QUEST in 2024, for alumni to learn
 relevant career tips and expand their professional network.</p>
 <p><em>Information from:</em>
-<br><em>- <a rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/in/lawrence-leong-73461b3b/?originalSubdomain=sg</a></em>
+<br><em>- </em><a href="https://www.linkedin.com/in/lawrence-leong-73461b3b/" rel="noopener nofollow" target="_blank">https://www.linkedin.com/in/lawrence-leong-73461b3b/</a>
 </p>
-<p><em>- <a rel="noopener noreferrer nofollow" target="_blank">https://nexleaders.com/our-experts-old2024/lawrence-leong/</a><br></em>
+<p><em>- </em><a href="https://nexleaders.com/our-experts/lawrence-leong/" rel="noopener nofollow" target="_blank">https://nexleaders.com/our-experts/lawrence-leong/</a><em><br></em>
 </p>
 <p></p>
 <h3>Mr Lim Song Joo</h3>
