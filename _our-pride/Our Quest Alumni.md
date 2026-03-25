@@ -325,6 +325,6 @@ career insights and helping them expand their professional networks.</p>
 <p><em>Information from: <a href="https://www.linkedin.com/in/joyce-hiew-8638b178/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/in/joyce-hiew-8638b178/?originalSubdomain=sg</a></em>
 </p>
 <p></p>
-<p><a href="https://www.queenstownsec/archive/" rel="noopener nofollow" target="_blank">Our Archive</a>
+<p><a href="https://staging.d33coz43hxnqna.amplifyapp.com/archive/" rel="noopener nofollow" target="_blank">Our Archive</a>
 </p>
 <p></p>
