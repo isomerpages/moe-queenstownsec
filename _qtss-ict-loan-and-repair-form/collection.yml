@@ -1,4 +1,5 @@
 collections:
   qtss-ict-loan-and-repair-form:
     output: true
-    order: []
+    order:
+      - QTSS ICT Loan & Repair Form.md
