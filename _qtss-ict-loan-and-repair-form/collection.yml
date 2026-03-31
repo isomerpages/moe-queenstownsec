@@ -2,4 +2,4 @@ collections:
   qtss-ict-loan-and-repair-form:
     output: true
     order:
-      - QTSS ICT Loan & Repair Form.md
+      - QTSS ICT Loan & PLD Repair Form.md
