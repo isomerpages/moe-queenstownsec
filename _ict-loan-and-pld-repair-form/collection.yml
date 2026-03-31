@@ -1,0 +1,5 @@
+collections:
+  ict-loan-and-pld-repair-form:
+    output: true
+    order:
+      - QTSS ICT Loan & PLD Repair Form.md

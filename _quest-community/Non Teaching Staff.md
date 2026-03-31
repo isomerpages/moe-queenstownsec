@@ -73,7 +73,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Associate</p>
+<p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chua Zhen An</p>
@@ -92,6 +92,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: choo_siew_phin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_siew_phin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Admin Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sarmin Bin Basir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sarmin_basir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sarmin_basir@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -116,18 +128,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:haryante_othman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">haryante_othman@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>STEM Instructor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohamed Rasid Bin Asbu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: mohamed_rasid_asbu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_rasid_asbu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -242,6 +242,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Noormah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Neo Beng Hweh&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
