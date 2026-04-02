@@ -5,25 +5,25 @@ description: ""
 variant: tiptap
 ---
 <h1>Assessment Matters</h1>
-<h4>2026 Term 1 Assessment Information<br></h4>
+<h4>2026 Term 2 Assessment Information<br></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Assessment Matters/2026_T1_Assessment_Info_for_students_Sec1_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Assessment Info for Students</a>
+<p><a href="/files/Assessment Matters/2026_sec 1_t2_assessment_info_for_students.pdf" rel="noopener nofollow" target="_blank">Sec 1 Assessment Info for Students</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Assessment Matters/Updated__2026_T1_Assessment_Info_for_students_Sec2_8.pdf" rel="noopener nofollow" target="_blank">Sec 2 Assessment Info for Students</a>
+<p><a href="/files/Assessment Matters/2026_sec 2_t2_assessment_info_for_students.pdf" rel="noopener nofollow" target="_blank">Sec 2 Assessment Info for Students</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Assessment Matters/2026_T1_Assessment_Info_for_students_Sec3_5.pdf" rel="noopener nofollow" target="_blank">Sec 3 Assessment Info for Students</a>
+<p><a href="/files/Assessment Matters/2026_sec 3_t2_assessment_info_for_students.pdf" rel="noopener nofollow" target="_blank">Sec 3 Assessment Info for Students</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Assessment Matters/2026_T1_Assessment_Info_for_studentsSec4_5_1.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; Sec 5 Assessment Info for Students</a>
+<p><a href="/files/Assessment Matters/2026_sec 4_5_t2_assessment_info_for_students.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; Sec 5 Assessment Info for Students</a>
 </p>
 </li>
 </ol>
-<p>Updated on 28 Jan 2026</p>
+<p>Updated on 2 Apr 2026</p>
 <p></p>
 <p></p>
