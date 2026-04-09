@@ -51,7 +51,7 @@ variant: tiptap
 <p>Download and complete the Application Form (click on the link below).
 You may also request for a hardcopy of the Application Form from the School’s
 General Office.</p>
-<p>• <a href="/files/Application_for_Canteen_Stall.pdf" rel="noopener nofollow" target="_blank">Application Form for individual stallholder </a>
+<p>• <a href="/files/Application_for_Canteen_Stall.pdf" rel="noopener nofollow" target="_blank">Application Form for individual stallholder</a>
 </p>
 <p></p>
 </li>
