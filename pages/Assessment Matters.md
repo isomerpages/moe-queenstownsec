@@ -8,7 +8,7 @@ variant: tiptap
 <h4>2026 Term 2 Assessment Information<br></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/2026_T2_Assessment_Info_for_students_Sec__1_.pdf" rel="noopener nofollow" target="_blank">Sec 1 Assessment Info for Students</a>
+<p><a href="/files/Assessment Matters/2026_Sec_1_V3_T2_Assessment_Info_for_students_Sec__1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Assessment Info for Students</a>
 </p>
 </li>
 <li>
