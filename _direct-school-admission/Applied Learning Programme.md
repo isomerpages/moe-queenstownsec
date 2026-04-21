@@ -80,7 +80,10 @@ School</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cs2.png">
 </div>
-<p></p>
+<p>(d)&nbsp; Cultural Immersion Programme</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsa.png">
+</div>
 <p></p>
 <p><strong><u>Join Us</u></strong>
 <br>
@@ -92,12 +95,9 @@ school’s DSA Talent Development Programme which will include progressive
 exposure to issues related to the environment and sustainability. They
 will take on the role of <strong>Sustainability Champions</strong>, undertaking
 projects that advocate for environmental sustainability at the Upper Secondary
-level. In 2024 and 2025, the Sustainability Champions also had the opportunity
-to learn from <a href="https://cde.nus.edu.sg/arch/staffs/terrence-tan-chun-liang-dr/" rel="noopener nofollow" target="_blank">Dr Terence Tan</a> and
-his NUS students on the positive impact of greenery before they, in turn,
-teach their school mates. In the process, students will also acquire effective
-communication and presentation skills as they build their confidence to
-advocate for a good cause in their area of passion.</p>
+level. In the process, students will also acquire effective communication
+and presentation skills as they build their confidence to advocate for
+a good cause in their area of passion.</p>
 <p>Click <a href="https://www.queenstownsec.moe.edu.sg/futurelearn-curriculum/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 information on how our Applied Learning Programmes and Learning for Life
 Programmes (ALP &amp; LLP) are integrated into FutureLearn Curriculum.</p>
