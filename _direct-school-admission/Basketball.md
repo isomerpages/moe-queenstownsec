@@ -8,8 +8,7 @@ variant: tiptap
 </p>
 <p><strong>At QUEST Basketball, we don’t just train athletes — we shape resilient, values-driven individuals.</strong>
 <br>Our programme is more than just about scoring baskets; it’s a journey
-of growth, character, and excellence — both on and off the court.</p>
-<p>
+of growth, character, and excellence — both on and off the court.
 <br>We believe in nurturing the whole person. Beyond drills and match strategies,
 our players develop through structured strength and conditioning, leadership
 opportunities, team-bonding camps, and competitive exposure. Every training
@@ -164,7 +163,6 @@ as individuals.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture103.jpg">
 </div>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
