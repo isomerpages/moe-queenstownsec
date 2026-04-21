@@ -171,7 +171,7 @@ Theatre</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture16dv.jpg">
 </div>
 <p></p>
 <p><strong><u>Join Us</u></strong>
