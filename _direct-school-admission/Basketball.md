@@ -8,8 +8,8 @@ variant: tiptap
 </p>
 <p><strong>At QUEST Basketball, we don’t just train athletes — we shape resilient, values-driven individuals.</strong>
 <br>Our programme is more than just about scoring baskets; it’s a journey
-of growth, character, and excellence — both on and off the court.
-<br>
+of growth, character, and excellence — both on and off the court.</p>
+<p>
 <br>We believe in nurturing the whole person. Beyond drills and match strategies,
 our players develop through structured strength and conditioning, leadership
 opportunities, team-bonding camps, and competitive exposure. Every training
