@@ -92,8 +92,7 @@ related to the talent they are selected for from year 1 – 4.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Our activities</strong>
-</p>
+<h3><strong>Our activities</strong></h3>
 <p><strong>2023</strong>
 </p>
 <p><strong><u>School Performance</u></strong>
