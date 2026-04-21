@@ -4,17 +4,17 @@ permalink: /chinese-dance/
 variant: tiptap
 description: ""
 ---
-<p><strong>Direct School Admission 2025 (CHINESE DANCE)</strong>
+<p><strong>Direct School Admission 2026 (CHINESE DANCE)</strong>
 </p>
 <p><strong>Our Story</strong>
 </p>
-<p>For our Quest Chinese dancers, dance has always been their passion, and
-this co-curricular activity offers our dancers the opportunity to embark
-on an enriching and fantastic journey, exploring the wide array of different
-Chinese dance genres. This includes exploring both contemporary Chinese
+<p>For our Chinese dancers, dance has always been their passion, and the
+co-curricular activity offers our dancers the opportunity to embark on
+an enriching and fantastic journey, exploring the wide array of different
+Chinese dance genres. These include exploring both contemporary Chinese
 dance and traditional Chinese dance steps. Each dance form depicts the
-many aspects our Chinese culture and traditions.</p>
-<p>
+many aspects of the Chinese culture and traditions.
+<br>
 <br>Our dedicated coach choreographs delicate, enchanting and energetic dance
 movements to create a traditional dance form that allows our dancers to
 move gracefully on stage. Our dances also incorporate the creative use
@@ -23,12 +23,24 @@ and other Chinese mainstays as dance props, adding to the beauty and enchantment
 of our dance form.</p>
 <p>Our dancers demonstrate resilience and excellence through their dedication
 to perfect their dance movements. Our dancers have built a strong sense
-of belonging, teamwork and respect for each other. They always performed
-to their best ability and as part of our character development, we serve
+of belonging, teamwork and respect for each other. They always perform
+to their upmost best and as part of our character development, we serve
 the community and perform at communal events, enacting our school motto, <em>Berani Berkhidmat</em> (Dare
-to Serve).
-<br>
-</p>
+to Serve).</p>
+<p>Our dance group has shown outstanding performance during SYF. We have
+obtained <strong>Certificates of Distinction</strong> at the Singapore Youth
+Festival (SYF) Arts Presentation for two consecutive years - in 2017,2019
+and 2025. For SYF 2021 and 2023, we have obtained <strong>Certificates of Accomplishment</strong>.
+Our Chinese dancers remain resilience and keep on improving in their performances.</p>
+<p>We welcome students who are passionate and have the experience and flair
+in any dance form to join through the Direct School Admission (DSA) Exercise.</p>
+<p>Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the schools’ academic
+and non-academic requirements, and the programmes available to develop
+the area of talent.</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school, and participate in the activities
+related to the talent they are selected for from year 1 – 4.</p>
 <p><strong><u>Key Achievements</u></strong>
 </p>
 <table style="minWidth: 50px">
@@ -80,39 +92,58 @@ to Serve).
 </tr>
 </tbody>
 </table>
-<p><strong><u>CCA Highlights</u></strong>
+<p><strong>Our activities</strong>
 </p>
-<p><strong><u>2023</u></strong>
+<p><strong>2023</strong>
+</p>
+<p><strong><u>School Performance</u></strong>
 </p>
 <p>CNY concert 2023</p>
 <p>Speech Day Concert</p>
 <p></p>
-<p><strong><u>2024</u></strong>
+<p><strong>2024</strong>
+</p>
+<p><strong><u>School Performance</u></strong>
 </p>
 <p>CNY concert 2024</p>
 <p>Quest Art Festival 2024 (QAF)</p>
 <p>QTSS Speech Day Celebration 2024</p>
 <p></p>
-<p>In 2026, the Quest Chinese Dance CCA is slated to participate in Quest
-Global @ China Cultural Immersion.</p>
-<p></p>
-<p><strong>Warm up &amp; Stretching</strong>
+<p><strong>2025</strong>
 </p>
+<p><u>School Performance</u>
+</p>
+<p>CNY concert 2025</p>
+<p>SYF 2025</p>
+<p></p>
+<p><strong>2026</strong>
+</p>
+<p><strong><u>School Performance</u></strong>
+</p>
+<p>CNY concert 2026</p>
+<p>70<sup>th</sup> Anniversary Gala Night</p>
+<p></p>
+<p><strong><u>Our Achievements</u></strong>
+</p>
+<p><u>Singapore Youth Festival Competition</u>
+</p>
+<p>2017 -&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">Certificate of Distinction</a>
+</p>
+<p>2019 - Certificate of Distinction</p>
+<p>2021 - Certificate of Accomplishment</p>
+<p>2023 – Certificate of Accomplishment</p>
+<p>2025 – Certificate of Distinction</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1181f.jpg">
 </div>
 <p></p>
-<p><strong>School Speech Day</strong>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1181ff.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture183.jpg">
 </div>
 <p></p>
-<p><strong>QUEST Arts Festival (for families &amp; Friends)</strong>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1181ffv.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture19f.jpg">
 </div>
 <p>&nbsp;</p>
 <p><strong><u>Join Us</u></strong>
