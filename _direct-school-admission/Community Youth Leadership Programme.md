@@ -55,18 +55,18 @@ is for you.</p>
 information on how our Applied Learning Programmes and Learning for Life
 Programmes (ALP &amp; LLP) are integrated into FutureLearn Curriculum.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/345.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fssd.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/346.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsf.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/merge7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fd.png">
 </div>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
