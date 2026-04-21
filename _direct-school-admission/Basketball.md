@@ -164,18 +164,7 @@ as individuals.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture103.jpg">
 </div>
-<p>In 2026, the Quest Basketball CCA is slated to participate in Quest Global
-@ China Cultural Immersion Trip.</p>
-<p><strong><u>Join Us</u></strong>
-</p>
-<p>Whether you're a confident player or just starting out, <em>there’s a place for you in the QUEST Basketball family</em>.
-We are committed to helping every student find their passion, grow in confidence,
-and rise through challenges — as athletes and as people.</p>
-<p>If you're passionate about basketball and keen to grow through sport,
-we welcome you to consider joining us through the Direct School Admission
-(DSA) Exercise. Students and parents are encouraged to choose a school
-that values holistic development and provides the right support to develop
-talent meaningfully.</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
