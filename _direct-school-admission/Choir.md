@@ -4,25 +4,25 @@ permalink: /choir/
 variant: tiptap
 description: ""
 ---
-<p><strong>Choir </strong>
-<br>
-<br>We believe in nurturing every Queenstownian into a confident performer
-through the joy of singing. At Quest Choir, <em>We Sing As One</em> and grow
-as a united community of expressive and passionate musicians.</p>
-<p>&nbsp;</p>
+<p><strong>Our Story</strong>
+</p>
+<p>We believe in nurturing every Queenstownian into a confident and expressive
+performer through the joy of singing. At Quest Choir, we embody the spirit
+of <em>“We Sing As One”</em>, growing together as a united community of
+passionate and dedicated musicians.</p>
 <p><strong>Our Framework: Express, Explore, Excel</strong>
 </p>
-<p><strong>1.&nbsp;&nbsp;Express - </strong>communicate musical meaning confidently
-and emotionally, developing performance presence and vocal technique.</p>
-<p><strong>2. Explore - </strong>experimentation with vocal music, students
-discover creative ways of making music and broaden their appreciation of
-diverse styles and cultures.</p>
-<p><strong>3. Excel - </strong>grow as reflective learners and performers
-— striving for excellence through feedback, teamwork, and continuous improvement.
-<br>
+<p><strong>Express</strong> – Students develop confidence in communicating
+musical meaning with clarity and emotion, while strengthening their vocal
+technique and stage presence.</p>
+<p><strong>Explore</strong> – Through experimentation and exposure to diverse
+vocal genres, students discover creative approaches to music-making and
+deepen their appreciation of different cultures and styles.</p>
+<p><strong>Excel</strong> – Students grow as reflective learners and performers,
+striving for excellence through feedback, collaboration, and continuous
+improvement.
 <br>
 <br><strong><u>Key Achievements</u></strong>
-<br>
 <br>
 </p>
 <table style="minWidth: 75px">
@@ -127,20 +127,72 @@ diverse styles and cultures.</p>
 <p>&nbsp;</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indonesia Bandung Trip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choir Exchange</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joint Event with Danish Embassy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>By invitation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quest 70<sup>th</sup> Anniversary Gala Night</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival SYF 2026 Celebrations Festival Concert <em>Shall We Sing?</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>By invitation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quest Choir Concert</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For Family and Friends</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
 <p><strong><u>CCA Highlights</u></strong>
 <br>We performed at:
-<br>- Major school events such as Speech Day
-<br>- National platforms such as Singapore Youth Festivals and Singapore International
-Choral Festival (SICF)
+<br>- Major school events such as Speech Day and Festive Celebrations
+<br>- National platforms such as Singapore Youth Festivals , Voices of Singapore,
+and Singapore International Choral Festival (SICF)
 <br>- Public showcases such as The Esplanade</p>
-<p>Quest Choir has grown tremendously over the years, and we are proud to
-be invited by MOE to perform for SYF 2025 Celebrations Festival Concert
-at various venues this year. There may be upcoming activities like overseas
-learning trips or cultural exchange. This year, Quest Choir will be embarking
-on a Quest Global @ Indonesia Cultural Immersion Trip.</p>
+<p>There may be upcoming activities like overseas learning trips or cultural
+exchange.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture609.png">
@@ -162,6 +214,9 @@ on a Quest Global @ Indonesia Cultural Immersion Trip.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture10lk.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture17ef.png">
+</div>
 <p><strong><u>Join Us</u></strong>
 </p>
 <p>We welcome students who are passionate and committed to Quest Choir to

@@ -4,10 +4,11 @@ permalink: /direct-school-admission/permalink/
 description: ""
 variant: tiptap
 ---
-<p><strong>Direct School Admission 2025 (Concert Band)</strong>
+<p><strong>Direct School Admission 2026 (Concert Band)</strong>
 </p>
 <p><strong>QUEST Concert Band</strong>
 </p>
+<p></p>
 <p><strong>“With Passion, We Can Succeed”</strong> is our QTSS band motto.
 Quest Band believes in the joy of playing together as a band, persevering
 and working together to achieve our goals and spread the joy of music.</p>
@@ -21,18 +22,22 @@ resilience, teamwork and discipline in every member while guiding them
 to understand and apply the basic foundation of making music. We aim to
 enrich our students’ experience through various internal and external performances
 such as band exchanges with other secondary school bands.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>Key Achievements</u></strong>
 </p>
+<p></p>
+<p>The school’s Concert Band has consistently demonstrated musical excellence,
+attaining the <strong>Certificate of Distinction at the Singapore Youth Festival (SYF) Arts Presentations since 2015</strong>,
+including the most recent presentation.</p>
+<p>Beyond SYF, the band has played an active role in enriching the school’s
+arts culture and community efforts. In <strong>2024</strong>, Questband
+performed at the school’s <strong>inaugural Quest Arts Festival concert</strong>.
+Building on this momentum, <strong>2026</strong> marked a milestone year:
+the band organised its <strong>first-ever standalone concert, <em>Appasionate I</em></strong>,
+and was honoured to perform at the school’s <strong>70th Anniversary Gala Dinner</strong>.</p>
+<p>As part of our continued commitment to community engagement, Questband
+will also be performing at the <strong>Quest Fiesta NDP Carnival in August 2026</strong>.</p>
 <p>&nbsp;</p>
-<p>The QTSS Band has achieved the Certificate of Distinction for Singapore
-Youth Festival (SYF) Arts Presentations since 2015.
-<br>
-<br>We were also invited to the National Day Carnival Performance at Henderson-Dawson</p>
-<p>2022 and Singapore Youth Festival SYF 2023 Celebrations Festival Concert
-at Esplanade Theatre.
-<br>
-<br>In 2024, we performed at our school’s inaugural Quest Arts Festival concert.</p>
 <p><strong><u>Our Achievements (2013-2024)</u></strong>
 </p>
 <table style="minWidth: 75px">
@@ -142,28 +147,7 @@ Theatre</p>
 </tr>
 </tbody>
 </table>
-<p><strong>2022 National Day Performance at Redhill</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture130.png">
-</div>
-<p><strong>Pre-SYF Showcase to Parents 2023</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture140.jpg">
-</div>
-<p><strong>SYF 2023 - Distinction</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture150.jpg">
-</div>
 <p></p>
-<p><strong>SYF Celebrates 2023</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF1.jpg">
-</div>
 <p><strong>Quest Arts Festival 2024</strong>
 </p>
 <p></p>
@@ -171,10 +155,23 @@ Theatre</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF2.jpg">
 </div>
 <p></p>
+<p><strong>Pre-SYF Showcase to Parents 2025</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture143.jpg">
+</div>
 <p><strong>SYF 2025 - Distinction</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1181e.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture15f.jpg">
+</div>
+<p></p>
+<p><strong>2026 New Year Celebration</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture16dv.jpg">
 </div>
 <p></p>
 <p><strong><u>Join Us</u></strong>
