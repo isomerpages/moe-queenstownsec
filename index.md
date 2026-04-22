@@ -14,8 +14,8 @@ sections:
         - title: 2026 PLD Initiative
           description: ""
           url: https://www.queenstownsec.moe.edu.sg/parent-links/pld-initiatives/
-      background: /images/with_border.gif
-      variant: center
+      background: /images/without_border.gif
+      variant: image
   - resources:
       title: Announcements
       subtitle: Our Latest News
