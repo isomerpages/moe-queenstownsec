@@ -59,7 +59,7 @@ between Queenstownians.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/p40.png">
 </div>
 <p></p>
-<p><strong>Learning Commons @ Quest (previously known as the School Library)</strong>
+<p><a href="https://www.schoolbag.edu.sg/story/from-silence-to-synergy-new-school-library-spells-new-ways-to-learn/" rel="noopener nofollow" target="_blank">Learning Commons @ Quest</a><strong> (previously known as the School Library)</strong>
 </p>
 <p>The library has been transformed into an inviting and versatile space
 that students are eager to visit for a range of purposes, including reading,
