@@ -27,10 +27,10 @@ are nurturing our <strong>Thriving QTSS Community, Flourishing Learners and Futu
 <p>Our commitment to a Thriving QTSS Community is anchored in our <a href="https://www.queenstownsec.moe.edu.sg/learning-spaces-qtss/" rel="noopener noreferrer nofollow" target="_blank">re-imagined learning spaces</a>,
 which intentionally shape environments to foster belonging, connection,
 and engagement: The refreshed school foyer welcomes every Queenstownian
-with greenery and visual reminders of our shared story, while the new Learning
-Commons offers flexible zones for study, collaboration and presentations,
-encouraging meaningful interactions and peer learning. This year, the Prototype
-Classroom will expand to include seven additional classrooms, further transforming
+with greenery and visual reminders of our shared story, while the <a href="https://www.schoolbag.edu.sg/story/from-silence-to-synergy-new-school-library-spells-new-ways-to-learn/" rel="noopener nofollow" target="_blank">new Learning Commons</a> offers
+flexible zones for study, collaboration and presentations, encouraging
+meaningful interactions and peer learning. This year, the Prototype Classroom
+will expand to include seven additional classrooms, further transforming
 traditional spaces into dynamic environments that support collaborative
 learning and the development of essential 21st Century Competencies. These
 efforts are strengthened by our <a href="https://www.queenstownsec.moe.edu.sg/student-development/student-well-being/" rel="noopener noreferrer nofollow" target="_blank">Student Well-Being Framework</a>,
