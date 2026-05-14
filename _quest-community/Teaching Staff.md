@@ -432,16 +432,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kua Cheow Khoon, Ken <a href="mailto:zhao_fang_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(</a><a href="mailto:kua_cheow_khoon_ken@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kua_cheow_khoon_ken@moe.edu.sg</a>
-<a href="mailto:zhao_fang_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A&amp;T</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Hannah Yeo Phaik Choo <a href="mailto:hannah_yeo_phaik_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(hannah_yeo_phaik_choo@moe.edu.sg)</a>
 </p>
 </td>
@@ -510,15 +500,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Guek Hong Peggy <a href="mailto:tan_guek_hong_peggy_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(tan_guek_hong_peggy_a@moe.edu.sg)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physical Education</p>
 </td>
 </tr>
 <tr>
