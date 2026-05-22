@@ -62,7 +62,7 @@ another milestone in our QUEST for learning and excellence.</p>
 </p>
 <p>1971 saw the admission of girls into our school, making Queenstown Secondary
 Technical School a co-education school from then onwards. In the GCE ‘O’
-Level in 1974, all 5 top students were from this batch of female pioneers.
+Level in 1972, all 5 top students were from this batch of female pioneers.
 Two joined the National Junior College (NJC) while the other three opted
 to remain in Queenstown over placements in NJC.</p>
 <p>The first Student’s Council was formed with 12 members in 1976. New facilities
