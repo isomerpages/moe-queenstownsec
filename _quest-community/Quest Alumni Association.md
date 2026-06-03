@@ -4,216 +4,448 @@ permalink: /about-us/quest-community/quest-alumni-association/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Inception / History</strong></h4>
-<p>The QUEST Alumni was founded by the pioneer batch of 1959 and it has held
-strong till this present day.</p>
-<p>The Alumni was officially registered in 1977, making it one of the earliest
-Alumni of any local secondary school, apart from the colonial era schools.
-Our pioneering Alumni are the pillars of the nation building days, helping
-to shape the nation’s success that we know today.</p>
-<h4><strong>Our Goals</strong></h4>
-<p>To build an inclusive network of Alumni based on the spirit of Dare to
-Serve to support the students, co-create opportunities for our members
-and to improve lives in the community.</p>
-<h4><strong>Our Alumni</strong></h4>
-<p>The Alumni offers a broad network and global reach for career, social
-or advisory to peers and students. Many of our Alumni are shining luminaries
-in our society. They hold leadership positions in the corporate, government,
-social sectors. Several Ministers and Civil Service Leaders have emerged
-from this humble school, reflecting the good foundation and grounded values
-that has shaped their pathway to success.</p>
-<p>There are also those who built their own business legacy through hard
-work, diligence and sheer perseverance, and eked out their own success
-stories from humble beginnings. Within our ever-growing Alumni base of
-more than 20,000, many are corporate highflyers, community champions, ambassadors
-for social causes, selflessly giving back to the School and the Alumni
-to uplift the students’ lives and give a hand to the less fortunate amongst
-us.</p>
-<p>The Quest Alumni supports the school through the comprehensive Quest-Vantage
-programme, contributing across three key areas: student recognition, career
-guidance, and curriculum enhancement.</p>
-<p>Through the Quest Alumni Association Awards, they directly recognise deserving
-students for achievements and progress in academic, character and leadership
-development, providing immediate support for students' strive for excellence.</p>
-<p>The alumni network plays a vital role in the school's educational career
-guidance programme (ECG) by conducting ECG chats, facilitating external
-learning journeys, and arranging work attachments that connect students
-with real-world opportunities and professional insights.</p>
-<p>Alumni actively support the school curriculum in both CCA and academic
-programmes, bringing their professional expertise directly into the classroom
-to enrich student learning experiences.</p>
-<p>Since 2025, a particularly meaningful initiative has seen selected alumni
-being interviewed by Secondary 2 students as part of their ongoing history
-investigation projects. These conversations help students understand Singapore
-and the school's rich history whilst inspiring them to respond positively
-to life challenges and embody the school motto - Dare to Serve. The interviews
-will be featured in the reimagined heritage gallery launching in 2026.
-You can watch an excerpt of the students' interview with alumnus Mr Desmond
-Tan, Senior Minister of State, Prime Minister's Office through this <a href="https://www.facebook.com/desmondtkm/videos/coming-back-to-my-alma-mater-queenstown-secondary-school-always-feels-like-comin/628825393316122/" rel="noopener nofollow" target="_blank">Link</a>.</p>
-<p>Last but not least, a Queenstown Alumni never refuses the opportunity
-to come back and support our Alma Mater School, continuing the legacy left
-by our pioneers - Dare to Serve - for School, for Members, for Community.</p>
+<h4><strong>About Quest Alumni Association (QAA)</strong></h4>
+<p>The Queenstown Secondary School Alumni Association (QAA), also known as
+the Quest Alumni Association, brings together generations of Queenstownians
+connected by a shared sense of identity, heritage and service.</p>
+<p>The Quest Alumni Association was founded by the pioneer batch of 1959
+and officially registered in 1977. Since its formation, QAA has served
+as a bridge between alumni, the school, students and the wider Quest community.
+Guided by the school motto, "<strong>Dare to Serve</strong>", the association
+seeks to foster meaningful connections across generations while supporting
+the continued growth and development of the school.</p>
+<p>QAA exists for every Queenstownian — whether you graduated decades ago
+or just recently. It is our home to reconnect, a network to grow, and a
+platform to give back to the school and community that shaped you.</p>
+<p><strong><em>Reconnect. Grow. Give Back</em></strong>. These are the values
+that define us and the promise we make to one another as a community.</p>
+<p>As QAA continues to grow, we remain committed to building an inclusive,
+active and forward-looking alumni community — one that honours the legacy
+of those who came before us, and inspires those who will come after.</p>
 <p></p>
-<blockquote>
-<p>Please visit the <strong><a href="https://www.quest-alumni.org" rel="noopener nofollow" target="_blank">Alumni Association Portal</a></strong> for
-more information and join our Quest Alumni Association as a member!</p>
-</blockquote>
-<h4><strong>The Alumnus Pledge</strong><br><strong>DARE TO SERVE</strong></h4>
-<p>I strive to be the best that I can be, to serve the Alumni, the School,
-the Quest Community and our Society.</p>
-<h3><strong>QUEST Alumni – Alumni Committee Members Profile</strong></h3>
-<h4><strong>Mr. WEE Beng Sing, Roland (Class of 1961) </strong><br><strong>President</strong></h4>
-<p>Mr Wee is the Chairman of MEI Engineering Group, serving multi-national
-clients across Asia Pacific.</p>
-<p>He is sought after for his expertise in engineering and facilities constructions,
-and he consults for numerous complicated projects throughout his career.
-He sits on several boards such as Singapore PowerGas, subsidiaries of DBS
-Land and SembCorp.</p>
-<p>He also co-founded an eco-friendly bio-tech startup RWDC specializing
-in bio-degradable plastics to solve the microplastics that are harmful
-to our human population. He actively sought out and invested in innovative
-projects in ageing and healthcare sectors.</p>
-<p>Queenstown Secondary remains a special place for him, and he is committed
-to help Queenstownians (today’s students) be better equipped to face the
-challenges of tomorrow.</p>
-<p>As president of the Alumni, he hopes to provide his wealth of experience
-and connections to help all alumni succeed in their endeavours.</p>
-<h4><strong>Mr. GOH, Ronald (Class of 1962) </strong><br><strong>Vice</strong> <strong>President</strong></h4>
-<p>Mr. Goh’s secondary educational path began at QSTS, where he laid the
-foundation for a technical journey that would eventually take him to great
-heights.</p>
-<p>As Chairman of the E&amp;E Group of Companies, he has completed numerous
-prestigious projects and is a respected name in the industry.</p>
-<p>Mr. Goh’s involvement with the QSTS Alumni Association (QUEST) reflects
-his deep commitment to education and community, and he generously donated
-to the school cause in retrofitting the sound system in the school hall.</p>
-<p>Mr. Goh’s life is a testament to the power of education, innovation, and
-generosity. As he continues to make a difference in the lives of others,
-both professionally and personally; his legacy continues to inspire and
-leave a lasting impact.</p>
-<p>Despite his successes, he remained low-profile and he steps up to help
-others in a heartbeat.</p>
-<h4><strong>Mr. LEE Wah, Steven (Class of 1971)</strong><br><strong>Hon Secretary</strong></h4>
-<p>Mr Lee is a long serving civil employee with the Land Survey Office (currently
-the Singapore Land Authority).</p>
-<p>Throughout his illustrious career at SLA, he was instrumental in bringing
-about real impact in his work as Singapore was modernising the real estate
-environment. As part of the regulatory team, the contribution he made to
-the policies is still being valued today.</p>
-<p>He shares his expertise currently as a consultant based on his rich knowledge
-of the Singapore real estate landscape.</p>
-<p>He has selflessly given his time to the Alumni as the Hon Secretary of
-the Alumni for more than 25 years. He enjoys giving back to his alma mater
-and will continue to do so. He is a shining example of the School motto
-- Dare to Serve.</p>
-<h4><strong>Mr. LIM Song Joo (Class of 1981)</strong><br><strong>Asst Hon Secretary</strong></h4>
-<p>Mr Song Joo (SJ Lim) has 30 years of experience in the Technology and
-Financing sector. He held many functional and management roles across NMCs
-like GE Capital, Macquarie Bank, Hitachi, amongst others before running
-his own group of companies from 2012.</p>
-<p>As a serial entrepreneur, he led 3 investments to successful exits, and
-is currently invested in AI, Medtech, IT Services and Edutech start-ups.</p>
-<p>Since 2016, he has designed and run Entrepreneurship programs and collaboratively
-conducts these programs with Singapore Universities and Polytechnics. He
-works with government agencies to nurture promising start-ups for grants
-and fundings.</p>
-<p>Recalling his days at Queenstown, he would remember outings such as Pulau
-Ubin overnight geography trips, and explorations at St John Island.</p>
-<p>He hopes to guide and mentor juniors to avoid the pitfalls he experienced
-while he was a youth.</p>
-<h4><strong>Dr. HUI Chee Wah (Class of 1980)</strong><br><strong>Hon Treasurer</strong></h4>
-<p>Dr Hui ran his private clinic for close to 20 years before joining the
-Nuffield Dental Group in 2019.</p>
-<p>He recalls fondly his days at QSTS, where dedicated teachers made a huge
-impact on his formative years. He felt that the teachers are the most impactful
-influence on his Queenstownian days. He not only improved his grades from
-“cellar dwellers” to high scoring A’s but he also gradually understands
-the nurturing environment QSTS has provided for him to succeed in life.</p>
-<p>Annually, he sets aside personal time to join mission trips to underdeveloped
-countries to provide pro bono dental care.</p>
-<p>As an Alumni, he hopes to be able to give back and help others succeed.</p>
-<p></p>
-<h4><strong>Mr. TAN Wee Tin (Class of 1959)</strong><br><strong>Hon Auditor</strong></h4>
-<p>Dr Tan Wee Tin is the Inaugural batch of students in Queenstown in 1956
-graduating in 1959. He also co-founded the QUEST Alumni in 1977.</p>
-<p>He remembered vividly having to switch to 3 other schools while the actual
-school was being built.</p>
-<p>Despite financial hardship, he doubled down on his studies and was duly
-rewarded with a job at Price Waterhouse Coopers who later seconded him
-to Australia in 1962 under a work study arrangement, a godsend opportunity
-that only the rich could afford in those days.</p>
-<p>Constantly upgrading himself with professional courses, he set up his
-own Accountancy Practice in 1970 that’s still in operation today.</p>
-<p>An active alumnus, he has been serving on the School Advisory Board for
-over a decade, donated generously to the school and is a supportive force
-behind the Alumni through its ups and downs.</p>
-<h4><strong>Mr. TAN Chiew Koon (Class of 1962)</strong><br><strong>Hon Auditor</strong></h4>
-<p>Mr Tan enjoyed an illustrious career in his various positions with Shell.
-He led and headed up some of the most important and groundbreaking projects
-during his time for Shell when Asia was booming (&amp; Singapore was heavily
-invested in the Petroleum and Petrochemical Sectors).</p>
-<p>As a Student Leader at Queenstown, he championed for social causes without
-hesitation. The school provided him with the foundation values to advocate
-for those who have less.</p>
-<p>Mr Tan has actively served in the Alumni since 1995, and he felt the Alumni,
-with its vast connections, will be a great platform for all Queenstownians
-to help one another in career opportunities, mentoring or business collaborations.</p>
-<h4><strong>Mr. LIM Hong Tan (Class of 1968)</strong><br><strong>Committee Member</strong></h4>
-<p>Mr Lim is undoubtedly the 1st generation of Geek. He completed his A Levels
-in QSTS in 1968. He graduated with a 1st Class Honours in Mechanical Engineer
-and (a latter) MBA from the National University of Singapore.</p>
-<p>He has served on numerous Technical Boards and Advisory Councils in the
-early days of IT and Technology Strategy.</p>
-<p>He managed technology deployment in both government and private organisations.
-He helps organisations migrate from a manual process to a technology enabled
-architecture.</p>
-<p>Having retired from active employment in the Infocomm sector, he now consults
-and provide support for corporations.</p>
-<p>He hopes to contribute to the Alumni to help the school and students become
-meaningful members of the society.</p>
-<h4><strong>Mr. TAN Kia Chai, Allan (Class of 1962)</strong><br><strong>Committee Member</strong></h4>
-<p>Mr Tan is a humble and respectful student in his time at Queenstown Sec,
-especially in the eyes of his favourite teacher, Mr Peter Siddle.</p>
-<p>After graduating from school, he eked out a career in the publishing and
-distribution industry. In the fast-paced transformation of the media and
-print industry, he led the team at Fuji Photo Film as a Division Manager
-before retiring.</p>
-<p>When asked to share an forgettable moment during his years at Queenstown
-Sec, he candidly recalled moments of near claustrophobic disaster (near
-drowning if not for his bestie saving him) as the highlight of his time
-at Queenstown.</p>
-<p>He now volunteers actively with HPB, IMDA, Team Nila as a way of contributing
-back to society.</p>
-<h4><strong>Mr. WOO Kam Mun (Class of 1975)</strong><br><strong>Committee Member</strong></h4>
-<p>Mr Woo is a career officer with MINDEF until he left the service in 2005.
-As an outstanding Military Officer, he was selected to attend a prestigious
-Overseas Graduate Scholarship and was interviewed by the legendary LG Winston
-Choo. He had to decline the offer as he prioritises his family duties.
-He’s a filial son who wished to be with his ailing dad rather than pursue
-his career advancement.</p>
-<p>He remembers his time at Queenstown Secondary where he excelled at representing
-the school in various sports like badminton and won various awards at the
-Combined Schools and National levels.</p>
-<p>With his organizational skills, he worked to galvanize the ex-teachers’
-group. Many are in their final twilight years and the gathering brought
-joy and camaraderie.</p>
-<p>He brings a kind and caring heart to the Alumni.</p>
-<h4><strong>Mr. LEE, Aloysius (Class of 1978)</strong><br><strong>Committee Member</strong></h4>
-<p>Mr Lee went to SAJC, did his BEng at NUS and MSc at NTU. Queenstown scouting,
-his CCA, guides his journey in life to always be prepared, persevere, and
-take pride in all endeavours.</p>
-<p>Throughout his 35-year career, including 16 years tenure in China, Aloysius
-has led and helped transformed many multi-national companies in the electronics
-and high-tech precision manufacturing sector, such as semiconductors, precision
-engineering, amongst others.</p>
-<p>He has held leadership roles in factory and engineering management, business
-intelligence and IT systems.</p>
-<p>He enjoys meeting people and finds alumni a meaningful avenue to contribute
-back to the school. He enjoys interacting with the younger generation to
-pass on the life experiences he accumulated throughout his career.</p>
-<p>
-<br>
-<br>
+<p><strong>Message from the President</strong>
 </p>
-<h4></h4>
+<p>Quest has always been more than just a school — it is a community that
+shapes us, challenges us, and calls us to be our best selves.</p>
+<p>Founded by our pioneer batch of 1959, the Quest Alumni Association carries
+a legacy built on one enduring spirit — <strong>Dare to Serve</strong>.
+Across generations, Queenstownians have gone on to lead in business, government
+and the community. That foundation, built in the corridors and classrooms
+of Queenstown Secondary, is something we all share — and it is what continues
+to bind us long after we have left its gates.</p>
+<p>The QAA exists for every alumnus — to reconnect with long-lost schoolmates
+and relive the memories that shaped who we are today. To grow alongside
+a network of fellow Queenstownians who support and uplift one another professionally
+and personally. And to give back — contributing our time, experience and
+expertise to guide the next generation of students as they chart their
+own journeys.</p>
+<p><strong><em>Reconnect. Grow. Give Back.</em></strong> These are not just
+words — they are the promise we make to one another as a community.</p>
+<p>As we journey towards Quest100, I invite every alumnus to step forward
+— not because you have to, but because you belong here, and because together,
+we are stronger. Whether you are returning after many years or have never
+stopped giving, there is a place for you in this community.</p>
+<p>Dare to Serve.</p>
+<p>Ms Lorraine Teo (Class of 1992)
+<br>President
+<br>Quest Alumni Association
+<br>Term 2026 – 2028</p>
 <p></p>
+<p><strong>Our Purpose &amp; Mission</strong>
+</p>
+<p>Guided by the school motto "Dare to Serve", the Quest Alumni Association
+(QAA) exists to build a strong, connected and inclusive alumni community
+that supports Queenstown Secondary School, its students and generations
+of Queenstownians.</p>
+<p>As one of the earliest registered secondary school alumni associations
+in Singapore, QAA carries a proud legacy that began with our pioneer batch
+of 1959. Building on that foundation, we remain committed to creating meaningful
+opportunities for every alumnus to belong, contribute and grow.</p>
+<p><strong>Reconnect</strong>
+</p>
+<p>At the heart of QAA is a community bound by shared memories, friendships
+and a common identity. We create spaces and opportunities for alumni across
+all generations to come together, rekindle old friendships and celebrate
+the experiences that made us Queenstownians.</p>
+<p><strong>Grow</strong>
+</p>
+<p>QAA is a platform where alumni support and uplift one another. Whether
+you are navigating a career transition, exploring new opportunities or
+seeking a trusted network, the collective wisdom and experience of our
+alumni community is here for you. Together, we learn, collaborate and grow.</p>
+<p><strong>Give Back</strong>
+</p>
+<p>We believe in paying it forward. Through mentorship, career guidance,
+internships and school partnerships, QAA alumni contribute their time and
+expertise to support our students and younger Queenstownians as they chart
+their own journeys. In giving, we honour the spirit of Dare to Serve and
+the legacy of those who came before us.</p>
+<p>As we journey together towards Quest100, QAA remains committed to being
+a vibrant, forward-looking community — one that lives the values of Dare
+to Serve in everything we do.</p>
+<p></p>
+<p><strong>Our Work &amp; Contributions</strong>
+</p>
+<p>The Quest Alumni Association (QAA) has a long and proud tradition of giving
+back to Queenstown Secondary School, its students and the wider Quest community.
+Guided by our three pillars — Reconnect, Grow and Give Back — our work
+spans alumni engagement, career development, student support and heritage
+preservation.</p>
+<p><strong>Reconnect</strong>
+</p>
+<p>QAA creates meaningful opportunities for alumni to come together, celebrate
+shared memories and strengthen the bonds that unite us as Queenstownians.</p>
+<p>In 2026, Queenstown Secondary School marked its 70th Anniversary with
+Quest70 — a commemorative gala dinner organised in collaboration between
+QAA and the school. The celebration brought together alumni across generations,
+former educators, students, partners and members of the wider Quest community
+in a joyful tribute to the school's heritage, achievements and enduring
+spirit.</p>
+<p><strong>Grow</strong>
+</p>
+<p>QAA plays an active role in helping students and alumni navigate their
+personal and professional journeys.</p>
+<p>Through the school's Education and Career Guidance (ECG) programme, alumni
+connect with students through sharing sessions, ECG chats, external learning
+journeys and work attachment opportunities. These initiatives give students
+real-world exposure, broaden their perspectives and open doors to possibilities
+beyond the classroom.</p>
+<p>For alumni, QAA serves as a platform to network, collaborate and support
+one another — drawing on the collective wisdom, experience and generosity
+of a community that spans generations and industries.</p>
+<p><strong>Give Back</strong>
+</p>
+<p>At the core of QAA's work is a deep commitment to supporting our students
+and school.</p>
+<p>Through the Quest-Vantage initiative, alumni contribute across three key
+areas — student recognition, education and career guidance, and curriculum
+enrichment. The Quest Alumni Association Awards recognise deserving students
+for their achievements and growth in academic, character and leadership
+development, providing direct encouragement and support for students who
+strive for excellence.</p>
+<p>Alumni have also enriched the school's curriculum and co-curricular programmes
+by bringing their professional expertise and life experiences into the
+classroom, giving students a richer and more connected learning experience.</p>
+<p>In a particularly meaningful initiative, selected alumni have been interviewed
+by Secondary 2 students since 2025 as part of their history investigation
+projects. These conversations bring Singapore's history and the school's
+legacy to life, inspiring students to embrace the spirit of Dare to Serve.
+Their stories will be featured in the reimagined heritage gallery launching
+in 2026.</p>
+<p>As we look ahead towards Quest100, QAA remains committed to deepening
+alumni engagement, preserving our shared heritage and building a community
+as proud of its roots as it is excited about what lies ahead.</p>
+<p>&nbsp;</p>
+<p><strong>Our Management Committee</strong>
+</p>
+<p>The Quest Alumni Association (QAA) is guided by a volunteer Management
+Committee of fellow Queenstownians who are passionate about strengthening
+the alumni community and giving back to the school.</p>
+<p>The current Management Committee serves a two-year term from 1 April 2026
+to 31 March 2028.</p>
+<h3>Quest Alumni Association Management Committee</h3>
+<p><strong>Term: 1 April 2026 – 31 March 2028</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Appointment</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Ms <a href="https://www.linkedin.com/in/lorraine-teo-hl/" rel="noopener noreferrer nofollow" target="_blank">Lorraine TEO</a> (Class
+of 1992)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Business Leader / Design Thinker/ Climate Tech Innovator</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr <a href="https://www.linkedin.com/in/roger-tay-ban-leong/" rel="noopener noreferrer nofollow" target="_blank">Roger TAY</a> (Class
+of 1996)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Institutional Business Leader | Mentor | Community Builder</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honorary Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr LIM Song Joo (Class of 1981)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Serial Entrepreneur | Technology &amp; Finance Leader | Alumni Champion</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honorary Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Theresa LEE (Class of 1980)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Finance Professional | Connector | Generational Bridge Builder</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr WOO Kam Mun Class of (Class of 1975)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>SAF Veteran | Community Builder | Lifelong Queenstownian</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr TAN Tiong Peng (Class of 1977)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Retail Entrepreneur | Business Leader | Alumni Advocate</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Joyce HIEW Pow Yoke (Class of 1983)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Entrepreneur | Hospitality &amp; F&amp;B Leader | Career Mentor</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr&nbsp; <a href="https://www.linkedin.com/in/joeyttk" rel="noopener noreferrer nofollow" target="_blank">Joey TAN</a> (Class
+of 1991)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Global Technology Executive | AI &amp; Cloud Leader | Community Builder</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Cedric CHOO (Class of 1992)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Government Technology Veteran | AI Transformation Leader | Youth Mentor</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms <a href="http://linkedin.com/in/steph-low-0b6b8aa5" rel="noopener noreferrer nofollow" target="_blank">Stephanie LOW</a>(Class
+of 1992)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Customer Experience Champion | Recruitment Consultant | Community Connector</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr <a href="http://www.linkedin.com/in/manikandanshivaji" rel="noopener noreferrer nofollow" target="_blank">Manikandan</a> S/O
+SHIVAJI (Class of 2016)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Aspiring Hospitality Leader | Service Professional | Youth Advocate</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>Connect with our Management Committee members via hyperlinked names directly to LinkedIn profiles</em>
+</p>
+<p>Together, we are committed to building a vibrant, inclusive and forward-looking
+alumni community as we journey towards Quest100.</p>
+<p></p>
+<p><strong>Our Patron Circle</strong>
+</p>
+<p>The Quest Alumni Association is honoured to be guided and supported by
+distinguished Queenstownians who have walked these same corridors and gone
+on to make their mark in Singapore and beyond. Our Patron Circle recognises
+alumni who have demonstrated exceptional leadership, achievement and a
+deep commitment to giving back to the school and community that shaped
+them.</p>
+<p>Their support, counsel and generosity continue to inspire the QAA and
+the wider Quest community as we journey from Quest70 towards Quest100.</p>
+<h3>&nbsp;</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Appointment</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Founding Patron</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Arthur Tay (Class of 1975)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairman &amp; CEO, SUTL Group</p>
+<p>Public Service Medal (PBM) Recipient 2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Patron to the School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ronald Goh (Class of 1962)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairman, Electronics &amp; Engineering Pte Ltd</p>
+<p>Asia Pacific Entrepreneurship Award Recipient</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>7. Join the Quest Alumni</strong>
+</p>
+<p>Once a Queenstownian, always a Queenstownian.</p>
+<p>The Quest Alumni Association warmly welcomes all former students of Queenstown
+Secondary School to come home — to reconnect with old friends, grow alongside
+a community of fellow alumni, and give back to the school and students
+who walk the same path you once did.</p>
+<p>Whether through alumni gatherings, mentorship, volunteering, networking
+or supporting school initiatives, there are many opportunities for alumni
+across generations to Reconnect, Grow and Give Back and continue the spirit
+of “Dare to Serve”.</p>
+<p>As the Quest community journeys from Quest70 towards Quest100, we invite
+all Queenstownians to be part of the next chapter of the school’s legacy
+and future.</p>
+<p>Reconnect. Grow.&nbsp; Give Back.</p>
+<p>Stay connected and be part of the community:</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quest Alumni Member Portal: <a href="http://www.quest-alumni.org" rel="noopener noreferrer nofollow" target="_blank">www.quest-alumni.org</a>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facebook: <a href="http://facebook.com/quest.alumni.sg" rel="noopener noreferrer nofollow" target="_blank">facebook.com/quest.alumni.sg</a>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instagram: <a href="http://instagram.com/quest.alumni.sg" rel="noopener noreferrer nofollow" target="_blank">instagram.com/quest.alumni.sg</a>
+</p>
+<p>Dare to Serve.</p>
