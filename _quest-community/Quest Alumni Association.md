@@ -22,9 +22,7 @@ that define us and the promise we make to one another as a community.</p>
 <p>As QAA continues to grow, we remain committed to building an inclusive,
 active and forward-looking alumni community — one that honours the legacy
 of those who came before us, and inspires those who will come after.</p>
-<p></p>
-<p><strong>Message from the President</strong>
-</p>
+<h4><strong>Message from the President</strong></h4>
 <p>Quest has always been more than just a school — it is a community that
 shapes us, challenges us, and calls us to be our best selves.</p>
 <p>Founded by our pioneer batch of 1959, the Quest Alumni Association carries
@@ -51,8 +49,7 @@ stopped giving, there is a place for you in this community.</p>
 <br>Quest Alumni Association
 <br>Term 2026 – 2028</p>
 <p></p>
-<p><strong>Our Purpose &amp; Mission</strong>
-</p>
+<h4><strong>Our Purpose &amp; Mission</strong></h4>
 <p>Guided by the school motto "Dare to Serve", the Quest Alumni Association
 (QAA) exists to build a strong, connected and inclusive alumni community
 that supports Queenstown Secondary School, its students and generations
@@ -84,8 +81,7 @@ the legacy of those who came before us.</p>
 a vibrant, forward-looking community — one that lives the values of Dare
 to Serve in everything we do.</p>
 <p></p>
-<p><strong>Our Work &amp; Contributions</strong>
-</p>
+<h4><strong>Our Work &amp; Contributions</strong></h4>
 <p>The Quest Alumni Association (QAA) has a long and proud tradition of giving
 back to Queenstown Secondary School, its students and the wider Quest community.
 Guided by our three pillars — Reconnect, Grow and Give Back — our work
@@ -135,14 +131,13 @@ in 2026.</p>
 <p>As we look ahead towards Quest100, QAA remains committed to deepening
 alumni engagement, preserving our shared heritage and building a community
 as proud of its roots as it is excited about what lies ahead.</p>
-<p><strong>Our Management Committee</strong>
-</p>
+<h4><strong>Our Management Committee</strong></h4>
 <p>The Quest Alumni Association (QAA) is guided by a volunteer Management
 Committee of fellow Queenstownians who are passionate about strengthening
 the alumni community and giving back to the school.</p>
 <p>The current Management Committee serves a two-year term from 1 April 2026
 to 31 March 2028.</p>
-<h3>Quest Alumni Association Management Committee</h3>
+<h4><strong>Quest Alumni Association Management Committee</strong></h4>
 <p><strong>Term: 1 April 2026 – 31 March 2028</strong>
 </p>
 <table style="minWidth: 50px">
@@ -361,8 +356,7 @@ SHIVAJI (Class of 2016)</p>
 <p>Together, we are committed to building a vibrant, inclusive and forward-looking
 alumni community as we journey towards Quest100.</p>
 <p></p>
-<p><strong>Our Patron Circle</strong>
-</p>
+<h4><strong>Our Patron Circle</strong></h4>
 <p>The Quest Alumni Association is honoured to be guided and supported by
 distinguished Queenstownians who have walked these same corridors and gone
 on to make their mark in Singapore and beyond. Our Patron Circle recognises
@@ -425,8 +419,7 @@ the wider Quest community as we journey from Quest70 towards Quest100.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>7. Join the Quest Alumni</strong>
-</p>
+<h4><strong>Join the Quest Alumni</strong></h4>
 <p>Once a Queenstownian, always a Queenstownian.</p>
 <p>The Quest Alumni Association warmly welcomes all former students of Queenstown
 Secondary School to come home — to reconnect with old friends, grow alongside
