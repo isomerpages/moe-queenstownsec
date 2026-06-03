@@ -135,7 +135,6 @@ in 2026.</p>
 <p>As we look ahead towards Quest100, QAA remains committed to deepening
 alumni engagement, preserving our shared heritage and building a community
 as proud of its roots as it is excited about what lies ahead.</p>
-<p>&nbsp;</p>
 <p><strong>Our Management Committee</strong>
 </p>
 <p>The Quest Alumni Association (QAA) is guided by a volunteer Management
@@ -421,11 +420,11 @@ the wider Quest community as we journey from Quest70 towards Quest100.</p>
 <td rowspan="1" colspan="1">
 <p>Chairman, Electronics &amp; Engineering Pte Ltd</p>
 <p>Asia Pacific Entrepreneurship Award Recipient</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p><strong>7. Join the Quest Alumni</strong>
 </p>
 <p>Once a Queenstownian, always a Queenstownian.</p>
