@@ -41,6 +41,14 @@ Connections Across Generations through Alumni Engagement:</p>
 Spirit of “Dare to Serve” Across Generations of Queenstownians:</p>
 <p><a href="/files/Queenstown_Secondary_School_Celebrates_Its_70th_Anniversary_TM_280526__English_Translation_.pdf" rel="noopener nofollow" target="_blank">70th Anniversary – The Enduring Spirit of “Dare to Serve” Across Generations of Queenstownians</a>
 </p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE Schoolbag Feature on Our Renovated&nbsp;School
+Library to Support 21st-Century Learning:
+<br><a href="https://www.schoolbag.edu.sg/story/from-silence-to-synergy-new-school-library-spells-new-ways-to-learn/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/from-silence-to-synergy-new-school-library-spells-new-ways-to-learn/</a>
+</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supporting Teachers with Flexible Work
+Arrangements:&nbsp;
+<br><a href="https://www.channelnewsasia.com/watch/moe-continue-supporting-teachers-flexible-work-arrangements-ai-tools-5811346" rel="noopener noreferrer nofollow" target="_blank">https://www.channelnewsasia.com/watch/moe-continue-supporting-teachers-flexible-work-arrangements-ai-tools-5811346</a>
+</p>
 <hr>
 <p><strong>Queenstown Secondary School: Passing the Technical Torch Through Seven Decades - Published by Zaobao in 2025</strong>
 </p>
