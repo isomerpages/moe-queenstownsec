@@ -33,6 +33,14 @@ with NUS:
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025 Alumni Homecoming Event:
 <br><a href="https://www.zaobao.com.sg/lifestyle/history-heritage/story20251207-7897086" rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/lifestyle/history-heritage/story20251207-7897086</a>
 </p>
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 70<sup>th</sup> Anniversary – Strengthening
+Connections Across Generations through Alumni Engagement:</p>
+<p><a href="/files/Queenstown_Secondary_School_Celebrates_70_Years___Teacher_Honoured_with_Lifetime_Achievement_Award_After_Five_Decades_of_Service_ZB_230526__English_Translation_.pdf" rel="noopener nofollow" target="_blank">70th Anniversary Strengthening Connections Across Generations through Alumni Engagement</a>
+</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 70<sup>th</sup> Anniversary – The Enduring
+Spirit of “Dare to Serve” Across Generations of Queenstownians:</p>
+<p><a href="/files/Queenstown_Secondary_School_Celebrates_Its_70th_Anniversary_TM_280526__English_Translation_.pdf" rel="noopener nofollow" target="_blank">70th Anniversary – The Enduring Spirit of “Dare to Serve” Across Generations of Queenstownians</a>
+</p>
 <hr>
 <p><strong>Queenstown Secondary School: Passing the Technical Torch Through Seven Decades - Published by Zaobao in 2025</strong>
 </p>
