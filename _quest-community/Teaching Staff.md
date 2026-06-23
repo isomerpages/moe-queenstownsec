@@ -88,7 +88,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/conceptphotos_top_ST1_1849.jpg">
 </div>
-<h3><strong>CLASS MENTOR LIST (2026 Sem 1)</strong></h3>
+<h3><strong>CLASS MENTOR LIST (2026 Sem 2)</strong></h3>
 <h3>LOWER SECONDARY <br></h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -110,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Acting Year Head (Lower Sec)</p>
+<p>Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Perdana Putra Pan</p>
@@ -477,8 +477,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Xu Su
-<br>(<a href="mailto:xu_su@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_su@moe.edu.sg</a>)</p>
+<p>Mdm Xu Su (<a href="mailto:xu_su@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_su@moe.edu.sg</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mother Tongue</p>
