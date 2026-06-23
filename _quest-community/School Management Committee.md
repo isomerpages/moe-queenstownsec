@@ -238,7 +238,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Character and Citizenship Education</p>
+<p>HOD Student Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Chee Tiong</p>
@@ -274,13 +274,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Acting HOD Character and Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ian Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ian_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ian_leong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year Head (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Han Chin Woon Janice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;<a href="han_chin_woon_janice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_chin_woon_janice@moe.edu.sg</a>
+<p><a href="han_chin_woon_janice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_chin_woon_janice@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -298,7 +310,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Acting Year Head (Lower Sec)</p>
+<p>Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Perdana Putra Pan</p>
@@ -382,13 +394,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Character and Citizenship Education</p>
+<p>SH English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Leong Jun Yi Ian</p>
+<p>Ms Cherlyn Tan Jin Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ian_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ian_leong@moe.edu.sg</a>
+<p><a href="mailto:cherlyn_tan_jin_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cherlyn_tan_jin_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -454,7 +466,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Acting SH Mathematics</p>
+<p>SH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Li Cheng</p>
@@ -466,7 +478,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Acting SH SS/21CC</p>
+<p>SH SS/21CC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Shermine Chan Pei Wen</p>
@@ -490,14 +502,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Acting SH English Language</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cherlyn Tan Jin Ping</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cherlyn_tan_jin_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cherlyn_tan_jin_ping@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>

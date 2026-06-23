@@ -88,7 +88,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/conceptphotos_top_ST1_1849.jpg">
 </div>
-<h3><strong>CLASS MENTOR LIST (2026 Sem 1)</strong></h3>
+<h3><strong>CLASS MENTOR LIST (2026 Sem 2)</strong></h3>
 <h3>LOWER SECONDARY <br></h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -110,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Acting Year Head (Lower Sec)</p>
+<p>Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Perdana Putra Pan</p>
@@ -161,7 +161,7 @@ variant: tiptap
 <h4>Secondary One <br></h4>
 <p><strong><u>1 Gratitude (1 GR)</u></strong> 
 <br>Mdm Cherlyn Tan <a href="mailto:%20cherlyn_tan_jin_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(cherlyn_tan_jin_ping@moe.edu.sg)</u></a>
-</p>
+<br>Miss Lim Gem (<a href="mailto:lim_gem@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_gem@moe.edu.sg</a>)</p>
 <p></p>
 <p><strong><u>1 Aspire (1 AS)</u></strong> 
 <br>Ms Tan Teck Yoong, June <a href="mailto:june_tan_teck_yoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(june_tan_teck_yoong@moe.edu.sg)</u></a>
@@ -170,15 +170,15 @@ variant: tiptap
 <p></p>
 <p><strong><u>1 Respect (1 RP)</u></strong> 
 <br>Mdm Siti Suminah <a href="mailto: siti_suminah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(siti_suminah@moe.edu.sg)</u></a>
-</p>
+<br>Ms Teo Rong Jia (<a href="mailto:teo_rong_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_rong_jia@moe.edu.sg</a>)</p>
 <p></p>
 <p><strong><u>1 Resilience (1 RL)</u></strong> 
 <br>Miss Siti Nur Aisyah Binte Shawall <a href="mailto: siti_nur_aisyah_shawall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(siti_nur_aisyah_shawall@moe.edu.sg)</u></a>
-</p>
+<br>Miss Gillian Yeong (<a href="mailto:gillian_yeong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gillian_yeong@moe.edu.sg</a>)</p>
 <p></p>
 <p><strong><u>1 Integrity (1 IN)</u></strong> 
 <br>Mr Ng Wern Chin Sean <a href="mailto: ng_wern_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(ng_wern_chin@moe.edu.sg)</u></a>
-</p>
+<br>Miss Phang Jia Yee (<a href="mailto:phang_jia_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phang_jia_yee@moe.edu.sg</a>)</p>
 <p></p>
 <p><strong><u>1 Care (1 CA)</u></strong> 
 <br>Mr Fu Ruiqi <a href="mailto: fu_ruiqi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(fu_ruiqi@moe.edu.sg)</u></a>
@@ -201,8 +201,7 @@ variant: tiptap
 <p><strong><u>2 Aspire (2 AS)</u></strong> 
 <br>Miss Shermine Chan Pei Wen <a href="mailto: shermine_chan_pei_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(shermine_chan_pei_wen@moe.edu.sg)</u></a>
 <br>Ms Bairavanathan Deepa <a href="mailto:bairavanathan_deepa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(bairavanathan_deepa@moe.edu.sg)</a>
-</p>
-<p></p>
+<br>Ms Leng Su Yee (<a href="mailto:leng_su_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leng_su_yee@moe.edu.sg</a>)</p>
 <p><strong><u>2 Respect (2 RP)</u></strong> 
 <br>Mdm Minna Koh <a href="mailto:%20koh_minna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(koh_minna@moe.edu.sg)</u></a>
 <br>Mr Daniel Lee Jia Xin (<a href="mailto:daniel_lee_jia_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>daniel_lee_jia_xin@moe.edu.sg</u></a>
@@ -211,15 +210,13 @@ variant: tiptap
 <p><strong><u>2 Resilience (2 RL)</u></strong> 
 <br>Mdm Tang Siow Leng <a href="mailto:%20tang_siow_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(tang_siow_leng@moe.edu.sg)</u></a>
 <br>Mr Tan Zheng Han, Hans <a href="mailto:Tan_Zheng_Han_Hans_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(tan_zheng_han_hans_a@moe.edu.sg)</u></a>
-<br>
-</p>
+<br>Mr Keanan Lim (<a href="mailto:keanan_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">keanan_lim@moe.edu.sg</a>)</p>
 <p></p>
 <p><strong><u>2 Integrity (2 IN)</u></strong> 
 <br>Mdm Stella Ng Kiat Ee <a href="mailto:%20ng_kiat_ee_stella@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(ng_kiat_ee_stella@moe.edu.sg)</u></a>
 <br>Miss Yeo Siew Yun Elssa <a href="mailto:elssa_yeo_siew_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(elssa_yeo_siew_yun@moe.edu.sg</u></a>
-<br>Mr Leong Jun Yi Ian <a href="mailto: ian_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(ian_leong@moe.edu.sg)</u></a>
+<br>
 </p>
-<p></p>
 <p></p>
 <p><strong><u>2 Care (2 CA)</u></strong> 
 <br>Mdm Li Min <a href="mailto:li_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(li_min@moe.edu.sg)</u></a>
@@ -229,7 +226,7 @@ variant: tiptap
 <p><strong><u>2 Excellence (2 EX)</u></strong> 
 <br>Miss Azlina Binte Ali <a href="mailto:%20azlina_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(azlina_ali@moe.edu.sg)</u></a>
 <br>Mdm Koh Gek Khim <a href="mailto:koh_gek_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(koh_gek_khim@moe.edu.sg)</a>
-</p>
+<br>Miss Dawn Yeo Wenlin (<a href="mailto:dawn_yeo_wenlin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dawn_yeo_wenlin@moe.edu.sg</a>)</p>
 <p></p>
 <p><strong><u>2 Service (2 SE)</u></strong>
 <br>Mr Ernest Tan Jing Heng <a href="mailto:%20ernest_tan_jing_heng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(ernest_tan_jing_heng_a@moe.edu.sg)</u></a>
@@ -301,6 +298,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Sec 3 Level Mentor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yong Kai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_yong_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yong_kai@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Sec 4 and Sec 5 Level Mentor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -348,12 +357,12 @@ variant: tiptap
 <p><strong><u>3 Integrity (3 IN)</u></strong> 
 <br>Miss Ng Kai Jun <a href="mailto: ng_kai_jun_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(ng_kai_jun_a@moe.edu.sg)</u></a>
 <br>Mr Goh Yan Cong Benjamin <a href="mailto: vijayarani_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(goh_yan_cong_benjamin@moe.edu.sg)</u></a>
-</p>
+<br>Mdm Ng Lek Hwee (<a href="mailto:ng_chantal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chantal@moe.edu.sg</a>)</p>
 <p></p>
 <p><strong><u>3 Care (3 CA)</u></strong> 
 <br>Miss Charis Cho <a href="mailto: charis_cho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(charis_cho@moe.edu.sg)</u></a>
 <br>Mdm Jayasolai <a href="mailto:%20jayasolai_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(jayasolai_a@moe.edu.sg)</u></a>
-</p>
+<br>Ms Liu Xudan (<a href="mailto:liu_xudan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_xudan@moe.edu.sg</a>)</p>
 <p></p>
 <p><strong><u>3 Excellence (3 EX)</u></strong> 
 <br>Mdm Phoo Wey Wey <a href="mailto: phoo_wey_wey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(phoo_wey_wey@moe.edu.sg)</u></a>
@@ -379,8 +388,7 @@ variant: tiptap
 <p><strong><u>4 Resilience (4 RL)</u></strong> 
 <br>Mdm Pang Yuming Amy <a href="mailto: pang_yu_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(pang_yu_ming@moe.edu.sg)</u></a>
 <br>Mr Sean David <a href="mailto: sean_david@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(sean_david@moe.edu.sg)</u></a>
-<br>Ms Li Jiajia, Michelle <a href="mailto: lee_mei_teng_finna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(li_jiajia_michelle@moe.edu.sg)</u></a>
-</p>
+<br>Miss Vikki Lim Rui Qi (<a href="mailto:vikki_lim_rui_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vikki_lim_rui_qi@moe.edu.sg</a>)</p>
 <p></p>
 <p><strong><u>4 Integrity (4 IN)</u></strong> 
 <br>Mdm Nur Shiqah Binte Hashim <a href="mailto: nur_shiqah_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(nur_shiqah_hashim@moe.edu.sg)</u></a>
@@ -390,11 +398,12 @@ variant: tiptap
 <p><strong><u>4 Care (4 CA)</u></strong> 
 <br>Mr Chandragus Rinah <a href="mailto: chandragus_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(chandragus_a@moe.edu.sg)</u></a>
 <br>Mdm Hor Kah Yan <a href="mailto: ng_li_khoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(hor_kah_yan@moe.edu.sg)</u></a>
-</p>
+<br>Ms Li Jiajia, Michelle (<a href="mailto:li_jiajia_michelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_jiajia_michelle@moe.edu.sg</a>)</p>
 <p></p>
 <p><strong><u>4 Excellence (4 EX)</u></strong> 
 <br>Miss Bhavana Rajaram (<a href="mailto:bhavana_rajaram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>bhavana_rajaram_a@moe.edu.sg)</u></a>
 <br>Mdm Liang Xingfen Michelle <a href="mailto: liang_xingfen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>(liang_xingfen@moe.edu.sg)</u></a>
+<br>Mr Low Kai Syang Jeffrey (<a href="mailto:low_kai_syang_jeffrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_kai_syang_jeffrey@moe.edu.sg</a>)
 <br>
 </p>
 <h4>Secondary Five <br></h4>
@@ -461,6 +470,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Qu Cai Yan <a href="mailto:qu_caiyan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(qu_caiyan@moe.edu.sg)</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Xu Su (<a href="mailto:xu_su@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_su@moe.edu.sg</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mother Tongue</p>
