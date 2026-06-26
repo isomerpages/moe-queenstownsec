@@ -12,10 +12,10 @@ Academic Year 2026 (Semester 1)
 
 Click the links below to view the timetable:
 
-[2026 Semester 1 Timetable](/files/2026_SEM_1_Timetable_wef_19_01_26__by_Classes__updated_16_Jan__venues_updated_.pdf)
+[2026 Semester 2 Timetable](/files/2026_SEM_2_TTT__by_Classes_26_06_2026.pdf)
 
 
 
 * * *
 
-Last updated on 21 Jan 2026
+Last updated on 26 Jun 2026
