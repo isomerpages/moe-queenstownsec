@@ -154,7 +154,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD English Language and Literature</p>
+<p><strong>HOD English Language and Literature</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Park Han Na</p>
@@ -166,7 +167,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Mother Tongue Languages</p>
+<p>SH English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cherlyn Tan Jin Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cherlyn_tan_jin_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cherlyn_tan_jin_ping@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD Mother Tongue Languages</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Kah Geok</p>
@@ -178,7 +192,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Mathematics</p>
+<p>SH Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm June Tan Teck Yoong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:june_tan_teck_yoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">june_tan_teck_yoong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Shiqah Binte Hashim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="nur_shiqah_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shiqah_hashim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD Mathematics</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Seet Wenshan</p>
@@ -190,7 +229,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Science</p>
+<p>SH Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Li Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: lim_li_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_li_cheng@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD Science</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chee Danjie Jacqueline</p>
@@ -202,7 +254,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Humanities</p>
+<p>SH Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Liang Xingfen Michelle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="liang_xingfen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liang_xingfen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Acting SH Biology and Applied Learning Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Ng Kai Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: ng_kai_jun_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_kai_jun_a@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD Humanities</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chua Siew Hui</p>
@@ -214,7 +291,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Aesthetics &amp; Technology</p>
+<p>SH History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Azlina Bte Ali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="azlina_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azlina_ali@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Social Studies and 21CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Shermine Chan Pei Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: shermine_chan_pei_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>shermine_chan_pei_wen@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD Aesthetics &amp; Technology</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Khoo Gay Min</p>
@@ -226,7 +328,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Physical Education &amp; CCA</p>
+<p>SH Design &amp; Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Suminah Bte Hj Abd Moin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="siti_suminah_moin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_suminah_moin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Johnson Ong Tsung Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="johnson_ong_tsung_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">johnson_ong_tsung_seng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD Physical Education &amp; CCA</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Koa Chee Meng</p>
@@ -238,31 +365,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Student Development</p>
+<p>SH Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Chee Tiong</p>
+<p>Mdm Koh Minna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_chee_tiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chee_tiong@moe.edu.sg</a>
+<p><a href="koh_minna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_minna@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Information &amp; Communication Technology and Knowledge Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ang Huan Ting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="ang_huan_ting@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_huan_ting@moe.edu.sg</a>
+<p><strong>HOD Student Management</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Zuhri B Wahab</p>
@@ -274,7 +390,70 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Acting HOD Character and Citizenship Education</p>
+<p>SH Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Noorheriza B Mohd Aris</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="noorheriza_mohammed_aris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noorheriza_mohammed_aris@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD Student Development</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Chee Tiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tan_chee_tiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chee_tiong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Student Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Arwinder Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:arwinder_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">arwinder_kaur@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD Information &amp; Communication Technology and Knowledge Management</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ang Huan Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ang_huan_ting@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_huan_ting@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Information &amp; Communication Technology and Knowledge Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Phoo Wey Wey Michelle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="phoo_wey_wey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phoo_wey_wey@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Acting HOD Character and Citizenship Education</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ian Leong</p>
@@ -286,7 +465,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Sec)</p>
+<p>SH Student Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ow Hui Keng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ow_hui_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ow_hui_keng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year Head (Upper Sec)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Han Chin Woon Janice</p>
@@ -310,7 +502,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Sec)</p>
+<p><strong>Year Head (Lower Sec)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Perdana Putra Pan</p>
@@ -330,185 +523,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="nur_haryani_mohamed_hatta@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_haryani_mohamed_hatta@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Malay Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nur Shiqah Binte Hashim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="nur_shiqah_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shiqah_hashim@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Liang Xingfen Michelle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="liang_xingfen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liang_xingfen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH History</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Azlina Bte Ali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="azlina_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azlina_ali@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Physical Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Koh Minna</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="koh_minna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_minna@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Design &amp; Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Suminah Bte Hj Abd Moin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="siti_suminah_moin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_suminah_moin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Cherlyn Tan Jin Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cherlyn_tan_jin_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cherlyn_tan_jin_ping@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Student Well-Being</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ow Hui Keng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="ow_hui_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ow_hui_keng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Information &amp; Communication Technology and Knowledge Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Phoo Wey Wey Michelle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="phoo_wey_wey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phoo_wey_wey@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Noorheriza B Mohd Aris</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="noorheriza_mohammed_aris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noorheriza_mohammed_aris@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Aesthetics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Johnson Ong Tsung Seng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="johnson_ong_tsung_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">johnson_ong_tsung_seng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm June Tan Teck Yoong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:june_tan_teck_yoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">june_tan_teck_yoong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Li Cheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: lim_li_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_li_cheng@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH SS/21CC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Shermine Chan Pei Wen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: shermine_chan_pei_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>shermine_chan_pei_wen@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Acting SH Bio/ALP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Ng Kai Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: ng_kai_jun_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_kai_jun_a@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
