@@ -6,51 +6,70 @@ variant: tiptap
 ---
 <h1>Media Highlights</h1>
 <p>&nbsp;</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FSBB Pilot Schools:
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Straits Times feature on FSBB Pilot Schools: </strong>
 <br><a href="https://www.straitstimes.com/singapore/education/28-pilot-schools-to-push-ahead-with-full-subject-based-banding-and-new-form" rel="noopener nofollow" target="_blank">https://www.straitstimes.com/singapore/education/28-pilot-schools-to-push-ahead-with-full-subject-based-banding-and-new-form</a>
 <br>
 </p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sustainability Projects:
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Straits Times feature on Queenstown Secondary School's ALP - Environment Sustainability: </strong>
 <br><a href="https://www.straitstimes.com/singapore/education/students-work-in-teams-to-solve-problems-in-water-energy-and-food-sustainability" rel="noopener nofollow" target="_blank">https://www.straitstimes.com/singapore/education/students-work-in-teams-to-solve-problems-in-water-energy-and-food-sustainability</a>
 </p>
-<p></p>
 <p><a href="https://www.swedcham.sg/initiatives/green-innovation-centre" rel="noopener noreferrer nofollow" target="_blank">The Green Innovation Centre | Swedish Chamber of Commerce Singapore</a>
 <br>
 </p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A Caring and Nurturing School Culture:
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE Schoolbag feature on Queenstown Secondary School's Caring and Nurturing Culture: </strong>
 <br><a href="https://www.schoolbag.edu.sg/story/helping-kids-feel-good-about-themselves/" rel="noopener nofollow" target="_blank">https://www.schoolbag.edu.sg/story/helping-kids-feel-good-about-themselves/</a>
 </p>
 <p></p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Intergenerational Project in collaboration
-with NUS:
+<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Straits Times feature on Queenstown Secondary School's LLP, Community Youth Leadership - Intergenerational Project in collaboration with NUS: </strong>
 <br><a href="https://www.straitstimes.com/singapore/playing-mahjong-and-kahoot-nus-students-tackle-ageism-creatively-to-promote-bonding-with-seniors" rel="noopener nofollow" target="_blank">https://www.straitstimes.com/singapore/playing-mahjong-and-kahoot-nus-students-tackle-ageism-creatively-to-promote-bonding-with-seniors</a>
 </p>
 <p></p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Community Youth Leadership Project:
+<p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Straits Times feature on Queenstown Secondary School's LLP, Community Youth Leadership Project: </strong>
 <br><a href="https://www.straitstimes.com/singapore/scrunchies-pouches-keychains-students-make-items-to-raise-funds-for-st-school-pocket-money-fund" rel="noopener noreferrer nofollow" target="_blank">Students make scrunchies, keychains to raise funds for ST School Pocket Money Fund | The Straits Times</a>
 </p>
 <p></p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025 Alumni Homecoming Event:
+<p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zaobao feature on Queenstown Secondary School Alumni Association - Passing the Technical Torch Through Seven Decades (translation appended in the page below): </strong>
 <br><a href="https://www.zaobao.com.sg/lifestyle/history-heritage/story20251207-7897086" rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/lifestyle/history-heritage/story20251207-7897086</a>
 </p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 70<sup>th</sup> Anniversary – Strengthening
-Connections Across Generations through Alumni Engagement:</p>
+<p></p>
+<p><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zaobao feature on Queenstown Secondary School's 70<sup>th</sup> Anniversary – Strengthening Connections Across Generations through Alumni Engagement:</strong>
+</p>
+<p><a href="https://www.zaobao.com.sg/news/singapore/story20260523-9096447" rel="noopener noreferrer nofollow" target="_blank">女皇镇中学庆建校70年 执教50载教师获终身成就奖 | 联合早报</a>
+</p>
+<p>Read the student translation of feature by Zaobao article here:</p>
 <p><a href="/files/Queenstown_Secondary_School_Celebrates_70_Years___Teacher_Honoured_with_Lifetime_Achievement_Award_After_Five_Decades_of_Service_ZB_230526__English_Translation_.pdf" rel="noopener nofollow" target="_blank">70th Anniversary Strengthening Connections Across Generations through Alumni Engagement</a>
 </p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 70<sup>th</sup> Anniversary – The Enduring
-Spirit of “Dare to Serve” Across Generations of Queenstownians:</p>
+<p></p>
+<p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tamil Murasu feature on Queenstown Secondary School's 70<sup>th</sup> Anniversary – The Enduring Spirit of “Dare to Serve” Across Generations of Queenstownians:</strong>
+</p>
+<p><a href="https://www.tamilmurasu.com.sg/community/queenstown-secondary-school-celebrates-70-years" rel="noopener noreferrer nofollow" target="_blank">குயின்ஸ்டவுன் உயர்நிலைப்பள்ளி: 70 ஆண்டுகால கல்விப் பயணம்</a>
+</p>
+<p>Read the student translation of feature by Tamil Murasu here:</p>
 <p><a href="/files/Queenstown_Secondary_School_Celebrates_Its_70th_Anniversary_TM_280526__English_Translation_.pdf" rel="noopener nofollow" target="_blank">70th Anniversary – The Enduring Spirit of “Dare to Serve” Across Generations of Queenstownians</a>
 </p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE Schoolbag Feature on Our Renovated&nbsp;School
-Library to Support 21st-Century Learning:
+<p>Watch the video by Tamil Murasu here:</p>
+<p><a href="https://www.youtube.com/watch?v=5yvW23auuaY&amp;t=1s" rel="noopener noreferrer nofollow" target="_blank">Queenstown Secondary School celebrates its 70th anniversary</a>
+</p>
+<p></p>
+<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Berita Herian feature on Queenstown Secondary School's 70th Anniversary - 50 years of teaching in Queenstown Secondary School:</strong>
+</p>
+<p><a href="https://www.beritaharian.sg/singapura/pendidikan/guru-pejuang-pendidikan-seni-lebih-5-dekad" rel="noopener noreferrer nofollow" target="_blank">https://www.beritaharian.sg/singapura/pendidikan/guru-pejuang-pendidikan-seni-lebih-5-dekad</a>
+</p>
+<p>The student translation will be made available soon.</p>
+<p></p>
+<p><strong>10.       MOE Schoolbag Feature on Queenstown Secondary School's pioneering efforts to reimagine learning and drive future looking education - Renovated&nbsp;School Library: </strong>
 <br><a href="https://www.schoolbag.edu.sg/story/from-silence-to-synergy-new-school-library-spells-new-ways-to-learn/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/from-silence-to-synergy-new-school-library-spells-new-ways-to-learn/</a>
 </p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supporting Teachers with Flexible Work
-Arrangements:&nbsp;
+<p></p>
+<p><strong>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Media features on Queenstown Secondary School's efforts to support staff Well-being:&nbsp; </strong>
 <br><a href="https://www.channelnewsasia.com/watch/moe-continue-supporting-teachers-flexible-work-arrangements-ai-tools-5811346" rel="noopener noreferrer nofollow" target="_blank">https://www.channelnewsasia.com/watch/moe-continue-supporting-teachers-flexible-work-arrangements-ai-tools-5811346</a>
 </p>
+<p><a href="https://www.straitstimes.com/singapore/parenting-education/moe-makes-headway-in-rethinking-teachers-duties-continues-efforts-to-ease-workload-desmond-lee" rel="noopener noreferrer nofollow" target="_blank">MOE makes headway in rethinking teachers’ duties, continues efforts to ease workload: Desmond Lee | The Straits Times</a>
+</p>
+<p><a href="https://www.zaobao.com.sg/news/singapore/story20260105-8055829" rel="noopener noreferrer nofollow" target="_blank">教师：工作内容多且繁琐 确保能专注教学是保障质量和身心健康关键 | 联合早报</a>
+</p>
 <hr>
-<p><strong>Queenstown Secondary School: Passing the Technical Torch Through Seven Decades - Published by Zaobao in 2025</strong>
+<p><strong>Queenstown Secondary School's Alumni Association: Passing the Technical Torch Through Seven Decades - Published by Zaobao in 2025</strong>
 </p>
 <p>Queenstown Secondary School, originally Queenstown Secondary Technical
 School, was among Singapore's earliest technical institutions. Through
@@ -159,11 +178,9 @@ life stories inspire students to carry forward this spirit."</p>
 our glory, our unique identity, and our sense of pride."
 <br>
 <br>
-<br>
 </p>
-<p></p>
 <p>
-<br><strong>Emdhyas article - Published by Tamil Murasu in 2022</strong>
+<br><strong>12.           Tamil Murasu feature on Queenstown Secondary School's N Level Top Performer, Emdhyas on how he overcame challenges (feature in 2022, the link has since been removed by TM)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Emdhyas_.jpg">
