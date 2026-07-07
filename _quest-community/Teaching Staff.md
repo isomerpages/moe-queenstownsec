@@ -561,10 +561,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chong Teck Seng Nigel (<a href="mailto:chong_teck_seng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_teck_seng_a@moe.edu.sg</a>)</p>
+<p>Mr Chong Teck Seng Nigel (<a href="mailto:chong_teck_seng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_teck_seng_a@moe.edu.sg</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SM/CPA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Quah Ai Ling, Gracia (<a href="mailto:quah_ai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quah_ai_ling@moe.edu.sg</a>)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SC</p>
 </td>
 </tr>
 </tbody>
