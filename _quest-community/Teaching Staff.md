@@ -441,6 +441,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Tang Meng Choo (<a href="mailto:tang_meng_choo_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_meng_choo_c@moe.edu.sg</a>)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A&amp;T</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Jit Hiang (<a href="mailto:lim_jit_hiang_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jit_hiang_a@moe.edu.sg</a>)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A&amp;T</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Ah Beng (<a href="mailto:ong_ah_beng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_ah_beng_a@moe.edu.sg</a>)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A&amp;T</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Hannah Yeo Phaik Choo <a href="mailto:hannah_yeo_phaik_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(hannah_yeo_phaik_choo@moe.edu.sg)</a>
 </p>
 </td>
@@ -450,7 +474,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zhao Feng <a href="mailto:zhao_fang_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(zhao_fang_c@moe.edu.sg)</a>
+<p>Ms Zhao Fang <a href="mailto:zhao_fang_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(zhao_fang_c@moe.edu.sg)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -459,8 +483,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kok Chooi Peng, Claire <a href="mailto:kok_chooi_peng_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(kok_chooi_peng_b@moe.edu.sg)</a>
-</p>
+<p>Mdm Nurhayati Binte Ahwan (<a href="mailto:nurhayati_ahwan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhayati_ahwan@moe.edu.sg</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mother Tongue</p>
@@ -521,11 +544,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Ng Swee Keow (<a href="mailto:ng_swee_keow_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_swee_keow_a@moe.edu.sg</a>)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science/SM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Koh Swee Thiam Dan <a href="mailto:dan_kst@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(dan_kst@moe.edu.sg)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Physical Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chong Teck Seng Nigel (<a href="mailto:chong_teck_seng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_teck_seng_a@moe.edu.sg</a>)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SM/CPA</p>
 </td>
 </tr>
 </tbody>
