@@ -441,6 +441,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Tang Meng Choo (<a href="mailto:tang_meng_choo_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_meng_choo_c@moe.edu.sg</a>)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A&amp;T</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Jit Hiang (<a href="mailto:lim_jit_hiang_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jit_hiang_a@moe.edu.sg</a>)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A&amp;T</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Ah Beng (<a href="mailto:ong_ah_beng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_ah_beng_a@moe.edu.sg</a>)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A&amp;T</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Hannah Yeo Phaik Choo <a href="mailto:hannah_yeo_phaik_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(hannah_yeo_phaik_choo@moe.edu.sg)</a>
 </p>
 </td>
@@ -516,6 +540,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Swee Keow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
