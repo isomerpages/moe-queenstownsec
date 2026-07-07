@@ -459,8 +459,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kok Chooi Peng, Claire <a href="mailto:kok_chooi_peng_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(kok_chooi_peng_b@moe.edu.sg)</a>
-</p>
+<p>Mdm Nurhayati Binte Ahwan (<a href="mailto:nurhayati_ahwan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhayati_ahwan@moe.edu.sg</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mother Tongue</p>
