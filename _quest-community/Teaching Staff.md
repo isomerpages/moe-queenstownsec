@@ -474,7 +474,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zhao Feng <a href="mailto:zhao_fang_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(zhao_fang_c@moe.edu.sg)</a>
+<p>Ms Zhao Fang <a href="mailto:zhao_fang_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(zhao_fang_c@moe.edu.sg)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -547,7 +547,7 @@ variant: tiptap
 <p>Ms Ng Swee Keow (<a href="mailto:ng_swee_keow_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_swee_keow_a@moe.edu.sg</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>Science/SM</p>
 </td>
 </tr>
 <tr>
@@ -557,6 +557,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Physical Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chong Teck Seng Nigel (<a href="mailto:chong_teck_seng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_teck_seng_a@moe.edu.sg</a>)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SM/CPA</p>
 </td>
 </tr>
 </tbody>
