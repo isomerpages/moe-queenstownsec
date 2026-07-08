@@ -21,6 +21,6 @@ variant: tiptap
 <p></p>
 </li>
 </ol>
-<p>Updated on 7 July 2026</p>
+<p>Updated on 8 July 2026</p>
 <p></p>
 <p></p>
