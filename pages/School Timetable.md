@@ -12,7 +12,7 @@ Academic Year 2026 (Semester 2)
 
 Click the links below to view the timetable:
 
-[2026 Semester 2 Timetable](/files/2026_SEM_2_TTT__by_Classes_26_06_2026.pdf)
+[2026 Semester 2 Timetable](/files/2026_SEM_2_TTT__by_Classes_9_07_2026.pdf)
 
 
 
