@@ -20,7 +20,20 @@ variant: tiptap
 </p>
 <p></p>
 </li>
+<li>
+<p><a href="/files/Assessment Matters/2026_Sec_3_T3_Assessment_Info_for_students_1.pdf" rel="noopener nofollow" target="_blank">Sec 3 Term 3 Weighted Assessments</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Assessment Matters/2026_Sec_2_T3_Assessment_Info_for_students_1.pdf" rel="noopener nofollow" target="_blank">Sec 2 Term 3 Weighted Assessments</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Assessment Matters/2026_Sec_1_T3_Assessment_Info_for_students_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Term 3 Weighted Assessments</a>
+</p>
+<p></p>
+</li>
 </ol>
-<p>Updated on 8 July 2026</p>
+<p>Updated on 15 July 2026</p>
 <p></p>
 <p></p>
