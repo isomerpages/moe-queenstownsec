@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Assessment Matters/2026_O_Prelims_schedule.pdf" rel="noopener nofollow" target="_blank">Sec 4 Express / Sec 5 Normal (Academic) Preliminary Examination</a>
+<p><a href="/files/Assessment Matters/2026_O_Prelims_v2_schedule.pdf" rel="noopener nofollow" target="_blank">Sec 4 Express / Sec 5 Normal (Academic) Preliminary Examination</a>
 </p>
 <p></p>
 </li>
@@ -34,6 +34,6 @@ variant: tiptap
 <p></p>
 </li>
 </ol>
-<p>Updated on 15 July 2026</p>
+<p>Updated on 22 July 2026</p>
 <p></p>
 <p></p>
