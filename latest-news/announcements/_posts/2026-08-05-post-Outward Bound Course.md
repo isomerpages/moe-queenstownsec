@@ -14,14 +14,15 @@ variant: tiptap
 <p></p>
 </li>
 <li>
-<p>Parents briefing slides  <a href="https://youtu.be/5sRPoYHSlNo" class="Hyperlink SCXW4805768 BCX8" rel="noreferrer noopener" target="_blank"><u>video</u></a> <a href="https://drive.google.com/file/d/1A-NS_EC4I9dfetL-FIICqXaUZzWHM-0e/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>https://drive.google.com/file/d/1A-NS_EC4I9dfetL-FIICqXaUZzWHM-0e/view?usp=sharing</u></a>&nbsp;</p>
-</li>
-<li>
-<p>&nbsp;<a href="/files/MOC2027_eRegistration_Guide_for_Parents.pdf" rel="noopener nofollow" target="_blank">eRegistration guide for Parents</a>
+<p><a href="https://drive.google.com/file/d/1A-NS_EC4I9dfetL-FIICqXaUZzWHM-0e/view?usp=sharing" rel="noopener nofollow" target="_blank">Parent briefing video</a>
 </p>
 </li>
 <li>
-<p>eRegistration link - <a href="https://go.gov.sg/2027moeobs-queenstownss" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/2027moeobs-queenstownss</u></a>&nbsp;</p>
+<p><a href="/files/MOC2027_eRegistration_Guide_for_Parents.pdf" rel="noopener nofollow" target="_blank">eRegistration guide for Parents</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/2027moeobs-queenstownss" rel="noopener nofollow" target="_blank">eRegistration Link</a>&nbsp;</p>
 <p>
 <br><strong><u>Briefing notes (for students):</u></strong>&nbsp;</p>
 <ol>
