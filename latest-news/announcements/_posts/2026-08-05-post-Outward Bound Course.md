@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1yQ845HxC3iBIbA1FFZ_fieh0tfqTJw-N/view?usp=sharing" rel="noopener nofollow" target="_blank">eRegistration video guide for Parent </a>
+<p><a href="https://drive.google.com/file/d/1yQ845HxC3iBIbA1FFZ_fieh0tfqTJw-N/view?usp=sharing" rel="noopener nofollow" target="_blank">eRegistration video guide for Parent</a>
 </p>
 </li>
 <li>
@@ -31,6 +31,10 @@ variant: tiptap
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/MOC2027_Pre_eRegistration_Student_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">Pre-eRegistration student briefing slides</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1mFvXu7U18hvjXL9KKtKZ54cb0CbdieBi/view?usp=sharing" rel="noopener nofollow" target="_blank">Pre-eResgistration student briefing video</a>
 </p>
 </li>
 </ol>
