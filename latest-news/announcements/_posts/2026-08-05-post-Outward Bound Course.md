@@ -27,8 +27,8 @@ variant: tiptap
 <br><strong><u>Briefing notes (for students):</u></strong>&nbsp;</p>
 <ol>
 <li>
-<p><a href="https://www.queenstownsec.moe.edu.sg/files/Pre_eReg_Student_Briefing_Slides__2025_MOC_.pdf" class="Hyperlink SCXW47426463 BCX8" rel="noreferrer noopener" target="_blank"><u>Pre-eRegistration student briefing slides</u></a> (in
-folder)&nbsp;</p>
+<p><a href="https://www.queenstownsec.moe.edu.sg/files/Pre_eReg_Student_Briefing_Slides__2025_MOC_.pdf" class="Hyperlink SCXW47426463 BCX8" rel="noreferrer noopener" target="_blank"><u>Pre-eRegistration student briefing slides</u></a> 
+</p>
 <p></p>
 <p></p>
 </li>
