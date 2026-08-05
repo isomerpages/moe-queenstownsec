@@ -17,8 +17,8 @@ variant: tiptap
 <p>Parents briefing slides  <a href="https://youtu.be/5sRPoYHSlNo" class="Hyperlink SCXW4805768 BCX8" rel="noreferrer noopener" target="_blank"><u>video</u></a> <a href="https://drive.google.com/file/d/1A-NS_EC4I9dfetL-FIICqXaUZzWHM-0e/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>https://drive.google.com/file/d/1A-NS_EC4I9dfetL-FIICqXaUZzWHM-0e/view?usp=sharing</u></a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://www.queenstownsec.moe.edu.sg/files/eReg_Guide_for_Parents__2025_MOC_.pdf" class="Hyperlink SCXW138747126 BCX8" rel="noreferrer noopener" target="_blank"><u>eRegistration guide</u></a> (in
-folder)&nbsp;</p>
+<p>&nbsp;<a href="/files/MOC2027_eRegistration_Guide_for_Parents.pdf" rel="noopener nofollow" target="_blank">eRegistration guide for Parents</a>
+</p>
 </li>
 <li>
 <p>eRegistration link - <a href="https://go.gov.sg/2027moeobs-queenstownss" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/2027moeobs-queenstownss</u></a>&nbsp;</p>
