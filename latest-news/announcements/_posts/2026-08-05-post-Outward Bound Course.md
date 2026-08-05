@@ -15,11 +15,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1A-NS_EC4I9dfetL-FIICqXaUZzWHM-0e/view?usp=sharing" rel="noopener nofollow" target="_blank">Parent briefing video</a>
+<p><a href="https://drive.google.com/file/d/1yQ845HxC3iBIbA1FFZ_fieh0tfqTJw-N/view?usp=sharing" rel="noopener nofollow" target="_blank">eRegistration video guide for Parent </a>
 </p>
 </li>
 <li>
-<p><a href="/files/MOC2027_eRegistration_Guide_for_Parents.pdf" rel="noopener nofollow" target="_blank">eRegistration guide for Parents</a>
+<p><a href="/files/MOC2027_eRegistration_Guide_for_Parents.pdf" rel="noopener nofollow" target="_blank">eRegistration slides guide for Parents</a>
 </p>
 </li>
 <li>
