@@ -11,7 +11,8 @@ variant: tiptap
 <p><strong><u>Letters / Briefing notes (for parents):</u></strong>&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="/files/MOC2027_Letter_to_Parents_2.pdf" rel="noopener nofollow" target="_blank">Letter to Parents for MOE-OBS Challenge Programme 2027</a>
+</p>
 </li>
 <li>
 <p><a href="https://drive.google.com/file/d/1A-NS_EC4I9dfetL-FIICqXaUZzWHM-0e/view?usp=sharing" rel="noopener nofollow" target="_blank">Parent briefing video</a>
