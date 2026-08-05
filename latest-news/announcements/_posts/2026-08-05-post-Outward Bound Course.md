@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <h3>MOE-OBS CHALLENGE PROGRAMME</h3>
-<p></p>
+<p><strong><u>Letters / Briefing notes (for parents):</u></strong>&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
 <p></p>
@@ -22,20 +22,18 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/2027moeobs-queenstownss" rel="noopener nofollow" target="_blank">eRegistration Link</a>&nbsp;</p>
-<p>
-<br><strong><u>Briefing notes (for students):</u></strong>&nbsp;</p>
-<ol>
-<li>
-<p><a href="https://www.queenstownsec.moe.edu.sg/files/Pre_eReg_Student_Briefing_Slides__2025_MOC_.pdf" class="Hyperlink SCXW47426463 BCX8" rel="noreferrer noopener" target="_blank"><u>Pre-eRegistration student briefing slides</u></a> 
+<p><a href="https://go.gov.sg/2027moeobs-queenstownss" rel="noopener nofollow" target="_blank">eRegistration Link</a>
 </p>
-<p></p>
-<p></p>
 </li>
 </ol>
+<p><strong><u>Briefing notes (for students):</u></strong>&nbsp;</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/MOC2027_Pre_eRegistration_Student_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">Pre-eRegistration student briefing slides</a>
+</p>
 </li>
 </ol>
-<h4><strong><u>Additional information on MOC 2025: </u></strong>&nbsp;</h4>
+<h4><strong><u>Additional information on MOC 2027: </u></strong>&nbsp;</h4>
 <ol>
 <li>
 <p>MOC website <a href="https://www.nyc.gov.sg/moc/" class="Hyperlink SCXW3401722 BCX8" rel="noreferrer noopener" target="_blank"><u>MOE-OBS Challenge Programme</u></a>&nbsp;&nbsp;</p>
