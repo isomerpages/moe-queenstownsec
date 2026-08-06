@@ -74,5 +74,8 @@ open on <strong>17 Aug 2026</strong> and closes on <strong>4 Sept 2026)</strong>
 <li>
 <p><strong>Preparing for MOC: </strong><a href="https://go.gov.sg/preparingformoc" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/preparingformoc</u></a>&nbsp;</p>
 </li>
+<li>
+<p></p>
+</li>
 </ol>
 <p></p>
