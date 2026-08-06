@@ -23,6 +23,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://drive.google.com/file/d/1A-NS_EC4I9dfetL-FIICqXaUZzWHM-0e/view?usp=sharing" rel="noopener nofollow" target="_blank">Parents Briefing Video</a>
+</p>
+</li>
+<li>
 <p><a href="https://go.gov.sg/2027moeobs-queenstownss" rel="noopener nofollow" target="_blank">eRegistration Link</a> (Registration
 open on <strong>17 Aug 2026</strong> and closes on <strong>4 Sept 2026)</strong>
 </p>
