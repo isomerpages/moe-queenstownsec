@@ -24,7 +24,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/MOC2027_Letter_to_Parents_2.pdf" rel="noopener nofollow" target="_blank">Letter to Parents for MOE-OBS Challenge Programme 2027</a>
+<p><a href="/files/MOC2027_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">MOC2027 Letter to Parents</a>
 </p>
 </li>
 <li>
