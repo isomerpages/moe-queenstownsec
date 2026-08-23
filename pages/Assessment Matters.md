@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h1>Assessment Matters</h1>
+<h4>2026 O-level Preliminary Examination</h4>
+<p><a href="/files/Assessment Matters/2026_O_Prelims_v2_schedule.pdf" rel="noopener nofollow" target="_blank">O-level Preliminary Examination Schedule</a>
+</p>
 <h4>2026 End-of-Year Examination Information<br></h4>
 <p></p>
 <p></p>
@@ -57,7 +60,7 @@ variant: tiptap
 <p>Sec 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/S3_EOY_2026_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Schedule</a>
+<p><a href="/files/S3_EOY_2026_Timetable___1_.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Schedule</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
