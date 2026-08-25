@@ -47,11 +47,11 @@ variant: tiptap
 <p>Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/S2_EOY_2026_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY Schedule</a>
+<p><a href="/files/2026_QTSS_EOY_timetable_Sec_2.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY Schedule</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_2_SOA_EOY_2026_QTSS.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY SOA</a>
+<p><a href="/files/2026_QTSS_EOY_SOA__Sec2_Combined.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY SOA</a>
 </p>
 </td>
 </tr>
@@ -60,7 +60,7 @@ variant: tiptap
 <p>Sec 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/S3_EOY_2026_Timetable___1_.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Schedule</a>
+<p><a href="/files/2026_QTSS_EOY_timetable_Sec_3_.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Schedule</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
