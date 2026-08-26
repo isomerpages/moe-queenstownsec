@@ -28,7 +28,7 @@ variant: tiptap
 <p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cynthia Kong Mun Yee</p>
+<p>Ms Cynthia Kong Mun Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kong_mun_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_mun_yee@moe.edu.sg</a>
