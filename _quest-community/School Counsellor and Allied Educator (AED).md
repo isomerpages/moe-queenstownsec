@@ -25,6 +25,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Senior School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cynthia Kong Mun Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kong_mun_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_mun_yee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -49,31 +61,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Goh Li Yen Lynette</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_li_yen_lynette_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_li_yen_lynette_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cynthia Kong Mun Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kong_mun_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_mun_yee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>School Educational Career Guidance Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,13 +73,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Education Needs Officer</p>
+<p>Senior Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Toh Zi Qian Joyce</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: toh_zi_qian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_zi_qian@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Koh Chuan Hwee Edwin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_chuan_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_chuan_hwee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -106,17 +105,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto: shamsaath_beevi_syed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shamsaath_beevi_syed@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
