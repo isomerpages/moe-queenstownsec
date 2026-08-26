@@ -51,22 +51,26 @@ variant: tiptap
 <p><a href="https://www.youtube.com/watch?v=5yvW23auuaY&amp;t=1s" rel="noopener noreferrer nofollow" target="_blank">Queenstown Secondary School celebrates its 70th anniversary</a>
 </p>
 <p></p>
-<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Berita Herian feature on Queenstown Secondary School's 70th Anniversary - 50 years of teaching in Queenstown Secondary School:</strong>
+<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Berita Herian feature on Queenstown Secondary School's 70th Anniversary - 50 years of teaching in Queenstown Secondary School:</strong>
 </p>
 <p><a href="https://www.beritaharian.sg/singapura/pendidikan/guru-pejuang-pendidikan-seni-lebih-5-dekad" rel="noopener noreferrer nofollow" target="_blank">https://www.beritaharian.sg/singapura/pendidikan/guru-pejuang-pendidikan-seni-lebih-5-dekad</a>
 </p>
 <p>The student translation will be made available soon.</p>
 <p></p>
-<p><strong>10.       MOE Schoolbag Feature on Queenstown Secondary School's pioneering efforts to reimagine learning and drive future looking education - Renovated&nbsp;School Library: </strong>
+<p><strong>10. MOE Schoolbag Feature on Queenstown Secondary School's pioneering efforts to reimagine learning and drive future looking education - Renovated&nbsp;School Library: </strong>
 <br><a href="https://www.schoolbag.edu.sg/story/from-silence-to-synergy-new-school-library-spells-new-ways-to-learn/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/from-silence-to-synergy-new-school-library-spells-new-ways-to-learn/</a>
 </p>
 <p></p>
-<p><strong>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Media features on Queenstown Secondary School's efforts to support staff Well-being:&nbsp; </strong>
+<p><strong>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Media features on Queenstown Secondary School's efforts to support staff Well-being:&nbsp; </strong>
 <br><a href="https://www.channelnewsasia.com/watch/moe-continue-supporting-teachers-flexible-work-arrangements-ai-tools-5811346" rel="noopener noreferrer nofollow" target="_blank">https://www.channelnewsasia.com/watch/moe-continue-supporting-teachers-flexible-work-arrangements-ai-tools-5811346</a>
 </p>
 <p><a href="https://www.straitstimes.com/singapore/parenting-education/moe-makes-headway-in-rethinking-teachers-duties-continues-efforts-to-ease-workload-desmond-lee" rel="noopener noreferrer nofollow" target="_blank">MOE makes headway in rethinking teachers’ duties, continues efforts to ease workload: Desmond Lee | The Straits Times</a>
 </p>
 <p><a href="https://www.zaobao.com.sg/news/singapore/story20260105-8055829" rel="noopener noreferrer nofollow" target="_blank">教师：工作内容多且繁琐 确保能专注教学是保障质量和身心健康关键 | 联合早报</a>
+</p>
+<p><strong>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zaobao article on Chinese Language and the 29<sup>th</sup> Distinguished Chinese Language Teachers Awards 2026:</strong>
+</p>
+<p><a href="https://www.zaobao.com.sg/news/singapore/story20260824-9566652?ref=today-news-section-card-12" rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/news/singapore/story20260824-9566652?ref=today-news-section-card-12</a>
 </p>
 <hr>
 <p><strong>Queenstown Secondary School's Alumni Association: Passing the Technical Torch Through Seven Decades - Published by Zaobao in 2025</strong>
@@ -180,7 +184,7 @@ our glory, our unique identity, and our sense of pride."
 <br>
 </p>
 <p>
-<br><strong>12.           Tamil Murasu feature on Queenstown Secondary School's N Level Top Performer, Emdhyas on how he overcame challenges (feature in 2022, the link has since been removed by TM)</strong>
+<br><strong>12. Tamil Murasu feature on Queenstown Secondary School's N Level Top Performer, Emdhyas on how he overcame challenges (feature in 2022, the link has since been removed by TM)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Emdhyas_.jpg">
