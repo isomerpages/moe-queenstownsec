@@ -4,6 +4,16 @@ permalink: /our-quest-inspiring-educators/
 variant: tiptap
 description: ""
 ---
+<h4><strong>2026 Distinguished Chinese Language Teachers Award – Mdm Tan Kah Geok</strong></h4>
+<p>We are proud that Mdm Tan Kah Geok, Head of Mother Tongue Languages Department,
+was recognised with the <a href="https://www.zaobao.com.sg/news/singapore/story20260824-9566652?ref=today-news-section-card-12" rel="noopener noreferrer nofollow" target="_blank">2026 Distinguished Chinese Language Teachers Award</a> for
+her dedication to Chinese Language education. Through her passion, creativity
+and commitment to her students, she inspires our Queenstownians to appreciate
+the richness of the Chinese language and culture, while making learning
+meaningful and relevant to their lives. Her work reflects our belief that
+inspiring educators do more than teach a language: they nurture curiosity,
+confidence, and a lifelong connection to learning.</p>
+<p></p>
 <h4><strong>2025 Most Inspiring Tamil Teachers (MITT) Award and the Lifetime Achievement Award – Mr Saratkumar Ganasekaran and Dr Vijayarani d/o Govindasamy</strong></h4>
 <p>In recognition of their outstanding contributions in the teaching and
 learning of the Tamil Language, we are incredibly proud that in 2025, <strong>Mr Saratkumar Ganasekaran </strong>received
