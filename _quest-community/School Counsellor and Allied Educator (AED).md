@@ -61,7 +61,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Educational Career Guidance Counsellor</p>
+<p>Education Career and Guidance Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Leong Kok Wah, Andrew</p>
@@ -73,7 +73,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Special Education Needs Officer</p>
+<p>Senior Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Toh Zi Qian Joyce</p>
