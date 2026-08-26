@@ -13,7 +13,11 @@ the richness of the Chinese language and culture, while making learning
 meaningful and relevant to their lives. Her work reflects our belief that
 inspiring educators do more than teach a language: they nurture curiosity,
 confidence, and a lifelong connection to learning.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Middle: Mdm Tan Kah Geok" src="/images/image__3_.jpg">
+</div>
+<p><strong>Middle: Mdm Tan Kah Geok</strong>
+</p>
 <h4><strong>2025 Most Inspiring Tamil Teachers (MITT) Award and the Lifetime Achievement Award – Mr Saratkumar Ganasekaran and Dr Vijayarani d/o Govindasamy</strong></h4>
 <p>In recognition of their outstanding contributions in the teaching and
 learning of the Tamil Language, we are incredibly proud that in 2025, <strong>Mr Saratkumar Ganasekaran </strong>received
