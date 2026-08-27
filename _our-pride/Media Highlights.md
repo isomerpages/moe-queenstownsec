@@ -33,7 +33,7 @@ variant: tiptap
 <p><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zaobao feature on Queenstown Secondary School Alumni Association - Passing the Technical Torch Through Seven Decades (translation appended in the page below): </strong>
 <br><a href="https://www.zaobao.com.sg/lifestyle/history-heritage/story20251207-7897086" rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/lifestyle/history-heritage/story20251207-7897086</a>
 </p>
-<p><strong>8.  Straits Times article on 2025 Inspiring Teacher of English Award:</strong>
+<p><strong>8. Straits Times article on 2025 Inspiring Teacher of English Award:</strong>
 </p>
 <p><a href="https://www.straitstimes.com/singapore/making-english-accessible-and-relatable-key-to-teachers-winning-inspiring-teacher-of-english-award" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/making-english-accessible-and-relatable-key-to-teachers-winning-inspiring-teacher-of-english-award</a>
 </p>
