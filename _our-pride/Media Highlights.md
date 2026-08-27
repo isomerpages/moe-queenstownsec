@@ -27,20 +27,24 @@ variant: tiptap
 <p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Straits Times feature on Queenstown Secondary School's LLP, Community Youth Leadership Project: </strong>
 <br><a href="https://www.straitstimes.com/singapore/scrunchies-pouches-keychains-students-make-items-to-raise-funds-for-st-school-pocket-money-fund" rel="noopener noreferrer nofollow" target="_blank">Students make scrunchies, keychains to raise funds for ST School Pocket Money Fund | The Straits Times</a>
 </p>
-<p></p>
-<p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zaobao feature on Queenstown Secondary School Alumni Association - Passing the Technical Torch Through Seven Decades (translation appended in the page below): </strong>
+<p><strong>6. Tamil Murasu feature on 2025 Most Inspiring Tamil Teachers (MITT) Award and the Lifetime Achievement Award:</strong>
+<br><a href="https://www.tamilmurasu.com.sg/singapore/awards-honoring-teachers-who-work-promote-language-excellence" rel="noopener noreferrer nofollow" target="_blank">https://www.tamilmurasu.com.sg/singapore/awards-honoring-teachers-who-work-promote-language-excellence</a>
+</p>
+<p><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zaobao feature on Queenstown Secondary School Alumni Association - Passing the Technical Torch Through Seven Decades (translation appended in the page below): </strong>
 <br><a href="https://www.zaobao.com.sg/lifestyle/history-heritage/story20251207-7897086" rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/lifestyle/history-heritage/story20251207-7897086</a>
 </p>
-<p></p>
-<p><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zaobao feature on Queenstown Secondary School's 70<sup>th</sup> Anniversary – Strengthening Connections Across Generations through Alumni Engagement:</strong>
+<p><strong>8. Straits Times article on 2025 Inspiring Teacher of English Award:</strong>
+</p>
+<p><a href="https://www.straitstimes.com/singapore/making-english-accessible-and-relatable-key-to-teachers-winning-inspiring-teacher-of-english-award" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/making-english-accessible-and-relatable-key-to-teachers-winning-inspiring-teacher-of-english-award</a>
+</p>
+<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zaobao feature on Queenstown Secondary School's 70<sup>th</sup> Anniversary – Strengthening Connections Across Generations through Alumni Engagement:</strong>
 </p>
 <p><a href="https://www.zaobao.com.sg/news/singapore/story20260523-9096447" rel="noopener noreferrer nofollow" target="_blank">女皇镇中学庆建校70年 执教50载教师获终身成就奖 | 联合早报</a>
 </p>
 <p>Read the student translation of feature by Zaobao article here:</p>
 <p><a href="/files/Queenstown_Secondary_School_Celebrates_70_Years___Teacher_Honoured_with_Lifetime_Achievement_Award_After_Five_Decades_of_Service_ZB_230526__English_Translation_.pdf" rel="noopener nofollow" target="_blank">70th Anniversary Strengthening Connections Across Generations through Alumni Engagement</a>
 </p>
-<p></p>
-<p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tamil Murasu feature on Queenstown Secondary School's 70<sup>th</sup> Anniversary – The Enduring Spirit of “Dare to Serve” Across Generations of Queenstownians:</strong>
+<p><strong>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tamil Murasu feature on Queenstown Secondary School's 70<sup>th</sup> Anniversary – The Enduring Spirit of “Dare to Serve” Across Generations of Queenstownians:</strong>
 </p>
 <p><a href="https://www.tamilmurasu.com.sg/community/queenstown-secondary-school-celebrates-70-years" rel="noopener noreferrer nofollow" target="_blank">குயின்ஸ்டவுன் உயர்நிலைப்பள்ளி: 70 ஆண்டுகால கல்விப் பயணம்</a>
 </p>
@@ -50,27 +54,22 @@ variant: tiptap
 <p>Watch the video by Tamil Murasu here:</p>
 <p><a href="https://www.youtube.com/watch?v=5yvW23auuaY&amp;t=1s" rel="noopener noreferrer nofollow" target="_blank">Queenstown Secondary School celebrates its 70th anniversary</a>
 </p>
-<p></p>
-<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Berita Herian feature on Queenstown Secondary School's 70th Anniversary - 50 years of teaching in Queenstown Secondary School:</strong>
-</p>
-<p><a href="https://www.beritaharian.sg/singapura/pendidikan/guru-pejuang-pendidikan-seni-lebih-5-dekad" rel="noopener noreferrer nofollow" target="_blank">https://www.beritaharian.sg/singapura/pendidikan/guru-pejuang-pendidikan-seni-lebih-5-dekad</a>
+<p><strong>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Berita Herian feature on Queenstown Secondary School's 70th Anniversary - 50 years of teaching in Queenstown Secondary School:</strong>
+<br><a href="https://www.beritaharian.sg/singapura/pendidikan/guru-pejuang-pendidikan-seni-lebih-5-dekad" rel="noopener noreferrer nofollow" target="_blank">https://www.beritaharian.sg/singapura/pendidikan/guru-pejuang-pendidikan-seni-lebih-5-dekad</a>
 </p>
 <p>The student translation will be made available soon.</p>
-<p></p>
-<p><strong>10. MOE Schoolbag Feature on Queenstown Secondary School's pioneering efforts to reimagine learning and drive future looking education - Renovated&nbsp;School Library: </strong>
+<p><strong>12. MOE Schoolbag Feature on Queenstown Secondary School's pioneering efforts to reimagine learning and drive future looking education - Renovated&nbsp;School Library: </strong>
 <br><a href="https://www.schoolbag.edu.sg/story/from-silence-to-synergy-new-school-library-spells-new-ways-to-learn/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/from-silence-to-synergy-new-school-library-spells-new-ways-to-learn/</a>
 </p>
-<p></p>
-<p><strong>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Media features on Queenstown Secondary School's efforts to support staff Well-being:&nbsp; </strong>
+<p><strong>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Media features on Queenstown Secondary School's efforts to support staff Well-being:&nbsp; </strong>
 <br><a href="https://www.channelnewsasia.com/watch/moe-continue-supporting-teachers-flexible-work-arrangements-ai-tools-5811346" rel="noopener noreferrer nofollow" target="_blank">https://www.channelnewsasia.com/watch/moe-continue-supporting-teachers-flexible-work-arrangements-ai-tools-5811346</a>
-</p>
-<p><a href="https://www.straitstimes.com/singapore/parenting-education/moe-makes-headway-in-rethinking-teachers-duties-continues-efforts-to-ease-workload-desmond-lee" rel="noopener noreferrer nofollow" target="_blank">MOE makes headway in rethinking teachers’ duties, continues efforts to ease workload: Desmond Lee | The Straits Times</a>
+<br>
+<br><a href="https://www.straitstimes.com/singapore/parenting-education/moe-makes-headway-in-rethinking-teachers-duties-continues-efforts-to-ease-workload-desmond-lee" rel="noopener noreferrer nofollow" target="_blank">MOE makes headway in rethinking teachers’ duties, continues efforts to ease workload: Desmond Lee | The Straits Times</a>
 </p>
 <p><a href="https://www.zaobao.com.sg/news/singapore/story20260105-8055829" rel="noopener noreferrer nofollow" target="_blank">教师：工作内容多且繁琐 确保能专注教学是保障质量和身心健康关键 | 联合早报</a>
 </p>
-<p><strong>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zaobao article on Chinese Language and the 29<sup>th</sup> Distinguished Chinese Language Teachers Awards 2026:</strong>
-</p>
-<p><a href="https://www.zaobao.com.sg/news/singapore/story20260824-9566652?ref=today-news-section-card-12" rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/news/singapore/story20260824-9566652?ref=today-news-section-card-12</a>
+<p><strong>14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zaobao article on Chinese Language and the 29<sup>th</sup> Distinguished Chinese Language Teachers Awards 2026:</strong>
+<br><a href="https://www.zaobao.com.sg/news/singapore/story20260824-9566652?ref=today-news-section-card-12" rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/news/singapore/story20260824-9566652?ref=today-news-section-card-12</a>
 </p>
 <hr>
 <p><strong>Queenstown Secondary School's Alumni Association: Passing the Technical Torch Through Seven Decades - Published by Zaobao in 2025</strong>
