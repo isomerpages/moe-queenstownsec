@@ -60,7 +60,7 @@ variant: tiptap
 <p>Sec 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026_QTSS_EOY_timetable_Sec_3_.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Schedule</a>
+<p><a href="/files/Assessment Matters/S3_EOY_2026_Timetable_v3.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Schedule</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
