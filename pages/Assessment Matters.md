@@ -47,7 +47,7 @@ variant: tiptap
 <p>Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026_QTSS_EOY_timetable_Sec_2.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY Schedule</a>
+<p><a href="/files/Assessment Matters/S2_EOY_2026_Timetable_v3.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY Schedule</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,6 +70,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Updated on 21 August 2026</p>
+<p>Updated on 31 August 2026</p>
 <p></p>
 <p></p>
